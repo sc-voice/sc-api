@@ -37,6 +37,8 @@
                 storeName: 'asdf',
                 storePath: API_DIR,
                 readFile: opts.readFile,
+                writeFile: opts.writeFile,
+                writeMem: opts.writeMem,
                 logger: this,
             });
             this.apiStore = opts.apiStore || new GuidStore({

@@ -1,0 +1,165 @@
+{
+  "isPromise": true,
+  "volume": "sc.suttaplex",
+  "args": [
+    "http://suttacentral.net/api/suttaplex/thig5.12"
+  ],
+  "value": [
+    {
+      "acronym": "Thig 5.12",
+      "volpages": {
+        "vnp": "Thig 122"
+      },
+      "uid": "thig5.12",
+      "blurb": null,
+      "difficulty": null,
+      "original_title": "Candātherīgāthā",
+      "root_lang": "pli",
+      "root_lang_name": "Pāli",
+      "type": "text",
+      "translated_title": "Candā",
+      "translations": [
+        {
+          "lang": "pli",
+          "lang_name": "Pāli",
+          "is_root": true,
+          "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+          "author_short": "Mahāsaṅgīti",
+          "author_uid": "ms",
+          "publication_date": null,
+          "id": "pli_thig5.12_ms",
+          "segmented": true,
+          "title": "Candātherīgāthā",
+          "volpage": {
+            "vnp": "Thig 122"
+          }
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Ekkehard Saß",
+          "author_short": "Saß",
+          "author_uid": "sass",
+          "publication_date": "2000",
+          "id": "de_thig5.12_sass",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "en",
+          "lang_name": "English",
+          "is_root": false,
+          "author": "Bhikkhu Sujato",
+          "author_short": "Sujato",
+          "author_uid": "sujato",
+          "publication_date": "2019",
+          "id": "en_thig5.12_sujato",
+          "segmented": true,
+          "title": "Candā",
+          "volpage": null
+        },
+        {
+          "author": "Thanissaro Bhikkhu",
+          "author_short": "Thanissaro",
+          "author_uid": "thanissaro",
+          "id": "en_thig5.12_thanissaro",
+          "is_root": false,
+          "lang": "en",
+          "lang_name": "English",
+          "publication_date": "2005",
+          "segmented": false,
+          "volpage": null,
+          "title": "Canda: The Beggar"
+        },
+        {
+          "lang": "id",
+          "lang_name": "Indonesian",
+          "is_root": false,
+          "author": "Arya Karniawan",
+          "author_short": "Karniawan",
+          "author_uid": "karniawan",
+          "publication_date": "2019",
+          "id": "id_thig5.12_karniawan",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "it",
+          "lang_name": "Italiano",
+          "is_root": false,
+          "author": "Enzo Alfano",
+          "author_short": "Alfano",
+          "author_uid": "alfano",
+          "publication_date": null,
+          "id": "it_thig5.12_alfano",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Shoda Taikan",
+          "author_short": "Taikan",
+          "author_uid": "taikan",
+          "publication_date": "2009–11",
+          "id": "jpn_thig5.12_taikan",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "nl",
+          "lang_name": "Nederlands",
+          "is_root": false,
+          "author": "Peter van Loosbroek",
+          "author_short": "Loosbroek",
+          "author_uid": "loosbroek",
+          "publication_date": null,
+          "id": "nl_thig5.12_loosbroek",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "no",
+          "lang_name": "Norsk",
+          "is_root": false,
+          "author": "Kåre A. Lie, Tone Gleditsch Stabell",
+          "author_short": "Lie …",
+          "author_uid": "lie-stabell",
+          "publication_date": null,
+          "id": "no_thig5.12_lie-stabell",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "si",
+          "lang_name": "සිංහල",
+          "is_root": false,
+          "author": "A.P. de Zoysa",
+          "author_short": "Zoysa",
+          "author_uid": "zoysa",
+          "publication_date": null,
+          "id": "si_thig5.12_zoysa",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "vi",
+          "lang_name": "Tiếng Việt",
+          "is_root": false,
+          "author": "Bhikkhu Indacanda",
+          "author_short": "Indacanda",
+          "author_uid": "indacanda",
+          "publication_date": "2011",
+          "id": "vi_thig5.12_indacanda",
+          "segmented": false,
+          "volpage": null
+        }
+      ],
+      "parallel_count": 0,
+      "biblio": null,
+      "num": 12
+    }
+  ]
+}

@@ -313,21 +313,44 @@
             'segmented', 'segments', 'suttaplex', 
         ].sort());
     });
-    it("TESTTESTloadSuttaplexJson(...)=>suttaplex", async()=>{
+    it("loadSuttaplexJson(...)=>refreshes api folder", async()=>{
+        // Force writing of api cache
         var sca = await new ScApi({
             readMem: false,
             readFile: false,
         }).initialize();
-        sca.logLevel = 'info';
+
+        var ms0 = Date.now();
         var mn121 = await sca.loadSuttaplexJson("mn121");
         should(mn121.acronym).equal(`MN 121`);
         should(mn121.original_title).equal('Cūḷasuññata Sutta');
         should(mn121.translations.length).equal(21);
-
         var mn122 = await sca.loadSuttaplexJson("mn122");
         should(mn122.acronym).equal(`MN 122`);
         should(mn122.original_title).equal('Mahāsuññata Sutta');
         should(mn122.translations.length).equal(18);
+        var ms1 = Date.now();
+        should(ms1-ms0).above(200); //slow
+        
+    });
+    it("TESTTESTloadSuttaplexJson(...)=>suttaplex", async()=>{
+        // normal cache use
+        var sca = await new ScApi().initialize();
+        sca.logLevel = 'info';
+
+        var ms0 = Date.now();
+        var mn121 = await sca.loadSuttaplexJson("mn121");
+        should(mn121.acronym).equal(`MN 121`);
+        should(mn121.original_title).equal('Cūḷasuññata Sutta');
+        should(mn121.translations.length).equal(21);
+        var ms1 = Date.now();
+        var mn121 = await sca.loadSuttaplexJson("mn121");
+        should(mn121.acronym).equal(`MN 121`);
+        should(mn121.original_title).equal('Cūḷasuññata Sutta');
+        should(mn121.translations.length).equal(21);
+        var ms2 = Date.now();
+        should(ms1-ms0).below(60); // read file
+        should(ms2-ms1).below(30); // read memory
         
     });
     it("suttaFromHtml(html, opts) parses HTML", async()=>{

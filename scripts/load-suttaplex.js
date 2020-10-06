@@ -10,6 +10,9 @@ const {
 
 } = require('../index');
 
+const argv = process.argv;
+const prefix = argv[2];
+
 const STAGING = 'http://staging.suttacentral.net/api';
 const PRODUCTION = 'http://suttacentral.net/api';
 
@@ -21,8 +24,10 @@ const PRODUCTION = 'http://suttacentral.net/api';
     }).initialize();
     let i = 0;
     for (let f of SuttaCentralId.supportedSuttas) {
-        await new Promise(r=>setTimeout(()=>r(), 2*1000));
-        await sca.loadSuttaplexJson(f);
+        if (!prefix || f.startsWith(prefix)) {
+            await new Promise(r=>setTimeout(()=>r(), 2*1000));
+            await sca.loadSuttaplexJson(f);
+        }
     }
 } catch(e) {
     logger.error(e);

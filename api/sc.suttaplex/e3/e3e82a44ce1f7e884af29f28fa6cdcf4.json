@@ -1,0 +1,152 @@
+{
+  "isPromise": true,
+  "volume": "sc.suttaplex",
+  "args": [
+    "http://suttacentral.net/api/suttaplex/thag6.2"
+  ],
+  "value": [
+    {
+      "acronym": "Thag 6.2",
+      "volpages": {
+        "vnp": "Thag 381"
+      },
+      "uid": "thag6.2",
+      "blurb": null,
+      "difficulty": null,
+      "original_title": "Tekicchakārittheragāthā",
+      "root_lang": "pli",
+      "root_lang_name": "Pāli",
+      "type": "text",
+      "translated_title": "Tekicchakāri",
+      "translations": [
+        {
+          "lang": "pli",
+          "lang_name": "Pāli",
+          "is_root": true,
+          "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+          "author_short": "Mahāsaṅgīti",
+          "author_uid": "ms",
+          "publication_date": null,
+          "id": "pli_thag6.2_ms",
+          "segmented": true,
+          "title": "Tekicchakārittheragāthā",
+          "volpage": {
+            "vnp": "Thag 381"
+          }
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Ekkehard Saß",
+          "author_short": "Saß",
+          "author_uid": "sass",
+          "publication_date": "2000",
+          "id": "de_thag6.2_sass",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "en",
+          "lang_name": "English",
+          "is_root": false,
+          "author": "Bhikkhu Sujato",
+          "author_short": "Sujato",
+          "author_uid": "sujato",
+          "publication_date": "2019",
+          "id": "en_thag6.2_sujato",
+          "segmented": true,
+          "title": "Tekicchakāri",
+          "volpage": null
+        },
+        {
+          "lang": "id",
+          "lang_name": "Indonesian",
+          "is_root": false,
+          "author": "Indra Anggara",
+          "author_short": "Anggara",
+          "author_uid": "anggara",
+          "publication_date": null,
+          "id": "id_thag6.2_anggara",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "it",
+          "lang_name": "Italiano",
+          "is_root": false,
+          "author": "Enzo Alfano",
+          "author_short": "Alfano",
+          "author_uid": "alfano",
+          "publication_date": null,
+          "id": "it_thag6.2_alfano",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Shoda Taikan",
+          "author_short": "Taikan",
+          "author_uid": "taikan",
+          "publication_date": "2009–11",
+          "id": "jpn_thag6.2_taikan",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "no",
+          "lang_name": "Norsk",
+          "is_root": false,
+          "author": "Kåre A. Lie, Tone Gleditsch Stabell",
+          "author_short": "Lie …",
+          "author_uid": "lie-stabell",
+          "publication_date": null,
+          "id": "no_thag6.2_lie-stabell",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "ru",
+          "lang_name": "ру́сский язы́к",
+          "is_root": false,
+          "author": "SV",
+          "author_short": "SV",
+          "author_uid": "sv",
+          "publication_date": "2009",
+          "id": "ru_thag6.2_sv",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "si",
+          "lang_name": "සිංහල",
+          "is_root": false,
+          "author": "A.P. de Zoysa",
+          "author_short": "Zoysa",
+          "author_uid": "zoysa",
+          "publication_date": null,
+          "id": "si_thag6.2_zoysa",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "vi",
+          "lang_name": "Tiếng Việt",
+          "is_root": false,
+          "author": "Bhikkhu Indacanda",
+          "author_short": "Indacanda",
+          "author_uid": "indacanda",
+          "publication_date": "2011",
+          "id": "vi_thag6.2_indacanda",
+          "segmented": false,
+          "volpage": null
+        }
+      ],
+      "parallel_count": 0,
+      "biblio": null,
+      "num": 2
+    }
+  ]
+}

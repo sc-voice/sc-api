@@ -1,0 +1,140 @@
+{
+  "isPromise": true,
+  "volume": "sc.suttaplex",
+  "args": [
+    "http://suttacentral.net/api/suttaplex/sn49.45-54"
+  ],
+  "value": [
+    {
+      "acronym": null,
+      "volpages": {
+        "pts-vp-pli1ed": "SN v 248"
+      },
+      "uid": "sn49.45-54",
+      "blurb": null,
+      "difficulty": null,
+      "original_title": "Ogha Vagga",
+      "root_lang": "pli",
+      "root_lang_name": "Pāli",
+      "type": "text",
+      "translated_title": "Floods, Etc. ",
+      "translations": [
+        {
+          "lang": "pli",
+          "lang_name": "Pāli",
+          "is_root": true,
+          "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+          "author_short": "Mahāsaṅgīti",
+          "author_uid": "ms",
+          "publication_date": null,
+          "id": "pli_sn49.45-54_ms",
+          "segmented": true,
+          "title": "Oghādisutta ",
+          "volpage": {
+            "pts-vp-pli1ed": "SN v 248"
+          }
+        },
+        {
+          "lang": "en",
+          "lang_name": "English",
+          "is_root": false,
+          "author": "Bhikkhu Sujato",
+          "author_short": "Sujato",
+          "author_uid": "sujato",
+          "publication_date": null,
+          "id": "en_sn49.45-54_sujato",
+          "segmented": true,
+          "title": "Floods, Etc. ",
+          "volpage": null
+        },
+        {
+          "lang": "id",
+          "lang_name": "Indonesian",
+          "is_root": false,
+          "author": "Indra Anggara",
+          "author_short": "Anggara",
+          "author_uid": "anggara",
+          "publication_date": null,
+          "id": "id_sn49.45-54_anggara",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "my",
+          "lang_name": "မြန်မာဘာသာ",
+          "is_root": false,
+          "author": "Pitaka Myanmar Translation",
+          "author_short": "PMT",
+          "author_uid": "pmt",
+          "publication_date": null,
+          "id": "my_sn49.45-54_pmt",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "pt",
+          "lang_name": "Português",
+          "is_root": false,
+          "author": "Michael Beisert",
+          "author_short": "Beisert",
+          "author_uid": "beisert",
+          "publication_date": "2004",
+          "id": "pt_sn49.45-54_beisert",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "ru",
+          "lang_name": "ру́сский язы́к",
+          "is_root": false,
+          "author": "SV",
+          "author_short": "SV",
+          "author_uid": "sv",
+          "publication_date": "2012",
+          "id": "ru_sn49.45-54_sv",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "si",
+          "lang_name": "සිංහල",
+          "is_root": false,
+          "author": "A.P. de Zoysa",
+          "author_short": "Zoysa",
+          "author_uid": "zoysa",
+          "publication_date": null,
+          "id": "si_sn49.45-54_zoysa",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "vi",
+          "lang_name": "Tiếng Việt",
+          "is_root": false,
+          "author": "Thích Minh Châu",
+          "author_short": "Minh Châu",
+          "author_uid": "minh_chau",
+          "publication_date": null,
+          "id": "vi_sn49.45-54_minh_chau",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "zh",
+          "lang_name": "汉语",
+          "is_root": false,
+          "author": "莊春江",
+          "author_short": "莊春江",
+          "author_uid": "zhuang",
+          "publication_date": null,
+          "id": "zh_sn49.45-54_zhuang",
+          "segmented": false,
+          "volpage": null
+        }
+      ],
+      "parallel_count": 0,
+      "biblio": null,
+      "num": 1
+    }
+  ]
+}
