@@ -1,0 +1,211 @@
+{
+  "isPromise": true,
+  "volume": "sc.suttaplex",
+  "args": [
+    "http://suttacentral.net/api/suttaplex/an4.123"
+  ],
+  "value": [
+    {
+      "acronym": "AN 4.123",
+      "volpages": "AN ii 126",
+      "uid": "an4.123",
+      "blurb": "Length of rebirth in various exalted realms.",
+      "difficulty": null,
+      "original_title": "Paṭhamanānākaraṇa Sutta",
+      "root_lang": "pli",
+      "root_lang_name": "Pāli",
+      "type": "text",
+      "translated_title": "Difference (1st) ",
+      "translations": [
+        {
+          "lang": "pli",
+          "lang_name": "Pāli",
+          "is_root": true,
+          "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+          "author_short": "Mahāsaṅgīti",
+          "author_uid": "ms",
+          "publication_date": null,
+          "id": "pli_an4.123_ms",
+          "segmented": true,
+          "title": "Paṭhamanānākaraṇasutta ",
+          "volpage": {
+            "pts-vp-pli1ed": "AN ii 127"
+          }
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Nyānatiloka Thera",
+          "author_short": "Nyanatiloka",
+          "author_uid": "nyanatiloka",
+          "publication_date": "1907",
+          "id": "de_an4.123_nyanatiloka",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "en",
+          "lang_name": "English",
+          "is_root": false,
+          "author": "Bhikkhu Sujato",
+          "author_short": "Sujato",
+          "author_uid": "sujato",
+          "publication_date": null,
+          "id": "en_an4.123_sujato",
+          "segmented": true,
+          "title": "Difference (1st) ",
+          "volpage": null
+        },
+        {
+          "author": "Thanissaro Bhikkhu",
+          "author_short": "Thanissaro",
+          "author_uid": "thanissaro",
+          "id": "en_an4.123_thanissaro",
+          "is_root": false,
+          "lang": "en",
+          "lang_name": "English",
+          "publication_date": "1998",
+          "segmented": false,
+          "volpage": null,
+          "title": "Mental Absorption (1)"
+        },
+        {
+          "lang": "es",
+          "lang_name": "Español",
+          "is_root": false,
+          "author": "Manuel Pérez de León Toscano",
+          "author_short": "Pérez",
+          "author_uid": "perez",
+          "publication_date": "2009",
+          "id": "es_an4.123_perez",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "buddha-vacana.org",
+          "author_short": "BVO",
+          "author_uid": "buddhavacanaorg",
+          "publication_date": null,
+          "id": "fr_an4.123_buddhavacanaorg",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "hu",
+          "lang_name": "Magyar",
+          "is_root": false,
+          "author": "Fenyvesi Róbert",
+          "author_short": "Fenyvesi",
+          "author_uid": "fenyvesi",
+          "publication_date": "2009",
+          "id": "hu_an4.123_fenyvesi",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "id",
+          "lang_name": "Indonesian",
+          "is_root": false,
+          "author": "Indra Anggara",
+          "author_short": "Anggara",
+          "author_uid": "anggara",
+          "publication_date": null,
+          "id": "id_an4.123_anggara",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "my",
+          "lang_name": "မြန်မာဘာသာ",
+          "is_root": false,
+          "author": "Pitaka Myanmar Translation",
+          "author_short": "PMT",
+          "author_uid": "pmt",
+          "publication_date": null,
+          "id": "my_an4.123_pmt",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "pt",
+          "lang_name": "Português",
+          "is_root": false,
+          "author": "Michael Beisert",
+          "author_short": "Beisert",
+          "author_uid": "beisert",
+          "publication_date": "2006",
+          "id": "pt_an4.123_beisert",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "ru",
+          "lang_name": "ру́сский язы́к",
+          "is_root": false,
+          "author": "SV",
+          "author_short": "SV",
+          "author_uid": "sv",
+          "publication_date": "2014",
+          "id": "ru_an4.123_sv",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "si",
+          "lang_name": "සිංහල",
+          "is_root": false,
+          "author": "A.P. de Zoysa",
+          "author_short": "Zoysa",
+          "author_uid": "zoysa",
+          "publication_date": null,
+          "id": "si_an4.123_zoysa",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "th",
+          "lang_name": "ไทย",
+          "is_root": false,
+          "author": "Siam Rath",
+          "author_short": "Siam Rath",
+          "author_uid": "siam_rath",
+          "publication_date": null,
+          "id": "th_an4.123_siam_rath",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "vi",
+          "lang_name": "Tiếng Việt",
+          "is_root": false,
+          "author": "Thích Minh Châu",
+          "author_short": "Minh Châu",
+          "author_uid": "minh_chau",
+          "publication_date": null,
+          "id": "vi_an4.123_minh_chau",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "zh",
+          "lang_name": "汉语",
+          "is_root": false,
+          "author": "莊春江",
+          "author_short": "莊春江",
+          "author_uid": "zhuang",
+          "publication_date": null,
+          "id": "zh_an4.123_zhuang",
+          "segmented": false,
+          "volpage": null
+        }
+      ],
+      "parallel_count": 3,
+      "biblio": null,
+      "num": 3
+    }
+  ]
+}

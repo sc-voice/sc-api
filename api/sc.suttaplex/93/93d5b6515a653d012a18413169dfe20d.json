@@ -1,0 +1,190 @@
+{
+  "isPromise": true,
+  "volume": "sc.suttaplex",
+  "args": [
+    "http://suttacentral.net/api/suttaplex/sn3.15"
+  ],
+  "value": [
+    {
+      "acronym": "SN 3.15//SN 126",
+      "volpages": {
+        "pts-vp-pli1ed": "SN i 83",
+        "pts-vp-pli2ed": "SN i 190"
+      },
+      "uid": "sn3.15",
+      "blurb": "In a battle subsequent to SN 3.14, Pasenadi defeats Ajātasattu and takes him prisoner. Acting compassionately, he confiscates Ajātasattu’s military assets but releases him alive.",
+      "difficulty": null,
+      "original_title": "Dutiyasaṅgāma Sutta",
+      "root_lang": "pli",
+      "root_lang_name": "Pāli",
+      "type": "text",
+      "translated_title": "Battle (2nd) ",
+      "translations": [
+        {
+          "lang": "pli",
+          "lang_name": "Pāli",
+          "is_root": true,
+          "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+          "author_short": "Mahāsaṅgīti",
+          "author_uid": "ms",
+          "publication_date": null,
+          "id": "pli_sn3.15_ms",
+          "segmented": true,
+          "title": "Dutiyasaṅgāmasutta ",
+          "volpage": {
+            "pts-vp-pli1ed": "SN i 84",
+            "pts-vp-pli2ed": "SN i 190"
+          }
+        },
+        {
+          "lang": "ca",
+          "lang_name": "Català",
+          "is_root": false,
+          "author": "Albert Biayna Gea",
+          "author_short": "Gea",
+          "author_uid": "gea",
+          "publication_date": null,
+          "id": "ca_sn3.15_gea",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Wilhelm Geiger",
+          "author_short": "Geiger",
+          "author_uid": "geiger",
+          "publication_date": "1925",
+          "id": "de_sn3.15_geiger",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "en",
+          "lang_name": "English",
+          "is_root": false,
+          "author": "Bhikkhu Sujato",
+          "author_short": "Sujato",
+          "author_uid": "sujato",
+          "publication_date": null,
+          "id": "en_sn3.15_sujato",
+          "segmented": true,
+          "title": "Battle (2nd) ",
+          "volpage": null
+        },
+        {
+          "lang": "es",
+          "lang_name": "Español",
+          "is_root": false,
+          "author": "Anton P. Baron",
+          "author_short": "Baron",
+          "author_uid": "baron",
+          "publication_date": "2015",
+          "id": "es_sn3.15_baron",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "id",
+          "lang_name": "Indonesian",
+          "is_root": false,
+          "author": "Indra Anggara",
+          "author_short": "Anggara",
+          "author_uid": "anggara",
+          "publication_date": null,
+          "id": "id_sn3.15_anggara",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "it",
+          "lang_name": "Italiano",
+          "is_root": false,
+          "author": "Enzo Alfano",
+          "author_short": "Alfano",
+          "author_uid": "alfano",
+          "publication_date": "1999",
+          "id": "it_sn3.15_alfano",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "my",
+          "lang_name": "မြန်မာဘာသာ",
+          "is_root": false,
+          "author": "Pitaka Myanmar Translation",
+          "author_short": "PMT",
+          "author_uid": "pmt",
+          "publication_date": null,
+          "id": "my_sn3.15_pmt",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "no",
+          "lang_name": "Norsk",
+          "is_root": false,
+          "author": "Kåre A. Lie",
+          "author_short": "Lie",
+          "author_uid": "lie",
+          "publication_date": null,
+          "id": "no_sn3.15_lie",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "ru",
+          "lang_name": "ру́сский язы́к",
+          "is_root": false,
+          "author": "SV",
+          "author_short": "SV",
+          "author_uid": "sv",
+          "publication_date": "2013",
+          "id": "ru_sn3.15_sv",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "si",
+          "lang_name": "සිංහල",
+          "is_root": false,
+          "author": "A.P. de Zoysa",
+          "author_short": "Zoysa",
+          "author_uid": "zoysa",
+          "publication_date": null,
+          "id": "si_sn3.15_zoysa",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "th",
+          "lang_name": "ไทย",
+          "is_root": false,
+          "author": "Siam Rath",
+          "author_short": "Siam Rath",
+          "author_uid": "siam_rath",
+          "publication_date": null,
+          "id": "th_sn3.15_siam_rath",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "zh",
+          "lang_name": "汉语",
+          "is_root": false,
+          "author": "莊春江",
+          "author_short": "莊春江",
+          "author_uid": "zhuang",
+          "publication_date": null,
+          "id": "zh_sn3.15_zhuang",
+          "segmented": false,
+          "volpage": null
+        }
+      ],
+      "parallel_count": 11,
+      "biblio": null,
+      "num": 5
+    }
+  ]
+}

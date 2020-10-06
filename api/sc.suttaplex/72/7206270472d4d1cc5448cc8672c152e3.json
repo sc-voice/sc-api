@@ -1,0 +1,211 @@
+{
+  "isPromise": true,
+  "volume": "sc.suttaplex",
+  "args": [
+    "http://suttacentral.net/api/suttaplex/sn22.11"
+  ],
+  "value": [
+    {
+      "acronym": "SN 22.11",
+      "volpages": "SN iii 20",
+      "uid": "sn22.11",
+      "blurb": "The aggregates are not-self in the past and future as in the present.",
+      "difficulty": null,
+      "original_title": "Kālattayaanatta Sutta",
+      "root_lang": "pli",
+      "root_lang_name": "Pāli",
+      "type": "text",
+      "translated_title": "Not-Self in the Three Times ",
+      "translations": [
+        {
+          "lang": "pli",
+          "lang_name": "Pāli",
+          "is_root": true,
+          "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+          "author_short": "Mahāsaṅgīti",
+          "author_uid": "ms",
+          "publication_date": null,
+          "id": "pli_sn22.11_ms",
+          "segmented": true,
+          "title": "Kālattayaanattasutta ",
+          "volpage": {
+            "pts-vp-pli1ed": "SN iii 21"
+          }
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Nyanaponika Thera",
+          "author_short": "Nyanaponika",
+          "author_uid": "nyanaponika",
+          "publication_date": "1967",
+          "id": "de_sn22.11_nyanaponika",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "en",
+          "lang_name": "English",
+          "is_root": false,
+          "author": "Bhikkhu Sujato",
+          "author_short": "Sujato",
+          "author_uid": "sujato",
+          "publication_date": null,
+          "id": "en_sn22.11_sujato",
+          "segmented": true,
+          "title": "Not-Self in the Three Times ",
+          "volpage": null
+        },
+        {
+          "author": "Bhikkhu Bodhi",
+          "author_short": "Bodhi",
+          "author_uid": "bodhi",
+          "id": "en_sn22.11_bodhi",
+          "is_root": false,
+          "lang": "en",
+          "lang_name": "English",
+          "publication_date": "2000",
+          "segmented": false,
+          "volpage": null,
+          "title": "Nonself in the Three Times"
+        },
+        {
+          "lang": "es",
+          "lang_name": "Español",
+          "is_root": false,
+          "author": "Anton P. Baron",
+          "author_short": "Baron",
+          "author_uid": "baron",
+          "publication_date": "2010",
+          "id": "es_sn22.11_baron",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "hu",
+          "lang_name": "Magyar",
+          "is_root": false,
+          "author": "Hadházi Zsolt",
+          "author_short": "Hadházi",
+          "author_uid": "hadhazi",
+          "publication_date": "2009",
+          "id": "hu_sn22.11_hadhazi",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "id",
+          "lang_name": "Indonesian",
+          "is_root": false,
+          "author": "Indra Anggara",
+          "author_short": "Anggara",
+          "author_uid": "anggara",
+          "publication_date": null,
+          "id": "id_sn22.11_anggara",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "my",
+          "lang_name": "မြန်မာဘာသာ",
+          "is_root": false,
+          "author": "Pitaka Myanmar Translation",
+          "author_short": "PMT",
+          "author_uid": "pmt",
+          "publication_date": null,
+          "id": "my_sn22.11_pmt",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "no",
+          "lang_name": "Norsk",
+          "is_root": false,
+          "author": "Kåre A. Lie",
+          "author_short": "Lie",
+          "author_uid": "lie",
+          "publication_date": null,
+          "id": "no_sn22.11_lie",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "pt",
+          "lang_name": "Português",
+          "is_root": false,
+          "author": "Michael Beisert",
+          "author_short": "Beisert",
+          "author_uid": "beisert",
+          "publication_date": "2009",
+          "id": "pt_sn22.11_beisert",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "ru",
+          "lang_name": "ру́сский язы́к",
+          "is_root": false,
+          "author": "SV",
+          "author_short": "SV",
+          "author_uid": "sv",
+          "publication_date": "2012",
+          "id": "ru_sn22.11_sv",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "si",
+          "lang_name": "සිංහල",
+          "is_root": false,
+          "author": "A.P. de Zoysa",
+          "author_short": "Zoysa",
+          "author_uid": "zoysa",
+          "publication_date": null,
+          "id": "si_sn22.11_zoysa",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "th",
+          "lang_name": "ไทย",
+          "is_root": false,
+          "author": "Siam Rath",
+          "author_short": "Siam Rath",
+          "author_uid": "siam_rath",
+          "publication_date": null,
+          "id": "th_sn22.11_siam_rath",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "vi",
+          "lang_name": "Tiếng Việt",
+          "is_root": false,
+          "author": "Thích Minh Châu",
+          "author_short": "Minh Châu",
+          "author_uid": "minh_chau",
+          "publication_date": null,
+          "id": "vi_sn22.11_minh_chau",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "zh",
+          "lang_name": "汉语",
+          "is_root": false,
+          "author": "莊春江",
+          "author_short": "莊春江",
+          "author_uid": "zhuang",
+          "publication_date": null,
+          "id": "zh_sn22.11_zhuang",
+          "segmented": false,
+          "volpage": null
+        }
+      ],
+      "parallel_count": 3,
+      "biblio": null,
+      "num": 11
+    }
+  ]
+}

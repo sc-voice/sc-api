@@ -1,0 +1,226 @@
+{
+  "isPromise": true,
+  "volume": "sc.suttaplex",
+  "args": [
+    "http://suttacentral.net/api/suttaplex/dn24"
+  ],
+  "value": [
+    {
+      "acronym": "DN 24",
+      "volpages": "DN iii 1",
+      "uid": "dn24",
+      "blurb": "When Sunakkhatta threatens to disrobe, the Buddha is unimpressed. Rejecting showy displays of asceticism or wondrous powers, he demonstrates his pre-eminence.",
+      "difficulty": {
+        "name": "advanced",
+        "level": 3
+      },
+      "original_title": "Pāthika Sutta",
+      "root_lang": "pli",
+      "root_lang_name": "Pāli",
+      "type": "text",
+      "translated_title": "About Pāṭikaputta ",
+      "translations": [
+        {
+          "lang": "pli",
+          "lang_name": "Pāli",
+          "is_root": true,
+          "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+          "author_short": "Mahāsaṅgīti",
+          "author_uid": "ms",
+          "publication_date": null,
+          "id": "pli_dn24_ms",
+          "segmented": true,
+          "title": "Pāthikasutta ",
+          "volpage": {
+            "pts-vp-pli1ed": "DN iii 1"
+          }
+        },
+        {
+          "lang": "bn",
+          "lang_name": "Bengali",
+          "is_root": false,
+          "author": "Bhikkhu Shilabhadra",
+          "author_short": "Shilabhadra",
+          "author_uid": "shilabhadra",
+          "publication_date": null,
+          "id": "bn_dn24_shilabhadra",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Thalpawila Kusalagnana, Dr. Mudagamuwe Maithrimurthi, Thomas Trätow",
+          "author_short": "Kusalagnana…",
+          "author_uid": "kusalagnana-maitrimurti-traetow",
+          "publication_date": null,
+          "id": "de_dn24_kusalagnana-maitrimurti-traetow",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "en",
+          "lang_name": "English",
+          "is_root": false,
+          "author": "Bhikkhu Sujato",
+          "author_short": "Sujato",
+          "author_uid": "sujato",
+          "publication_date": null,
+          "id": "en_dn24_sujato",
+          "segmented": true,
+          "title": "About Pāṭikaputta ",
+          "volpage": null
+        },
+        {
+          "author": "T.W. Rhys Davids",
+          "author_short": "T.W. Rhys Davids",
+          "author_uid": "tw_rhysdavids",
+          "id": "en_dn24_tw_rhysdavids",
+          "is_root": false,
+          "lang": "en",
+          "lang_name": "English",
+          "publication_date": "1910",
+          "segmented": false,
+          "volpage": null,
+          "title": "Mystic Wonders and the Origin of Things"
+        },
+        {
+          "lang": "he",
+          "lang_name": "Hebrew",
+          "is_root": false,
+          "author": "Shai Schwartz",
+          "author_short": "Schwartz",
+          "author_uid": "schwartz",
+          "publication_date": "2014",
+          "id": "he_dn24_schwartz",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "hi",
+          "lang_name": "हिन्दी",
+          "is_root": false,
+          "author": "Rahul Sankrityayan",
+          "author_short": "Sankrityayan",
+          "author_uid": "sankrityayan",
+          "publication_date": "1936",
+          "id": "hi_dn24_sankrityayan",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "id",
+          "lang_name": "Indonesian",
+          "is_root": false,
+          "author": "Indra Anggara",
+          "author_short": "Anggara",
+          "author_uid": "anggara",
+          "publication_date": null,
+          "id": "id_dn24_anggara",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "it",
+          "lang_name": "Italiano",
+          "is_root": false,
+          "author": "Enzo Alfano",
+          "author_short": "Alfano",
+          "author_uid": "alfano",
+          "publication_date": null,
+          "id": "it_dn24_alfano",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "my",
+          "lang_name": "မြန်မာဘာသာ",
+          "is_root": false,
+          "author": "Pitaka Myanmar Translation",
+          "author_short": "PMT",
+          "author_uid": "pmt",
+          "publication_date": null,
+          "id": "my_dn24_pmt",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "no",
+          "lang_name": "Norsk",
+          "is_root": false,
+          "author": "Kåre A. Lie",
+          "author_short": "Lie",
+          "author_uid": "lie",
+          "publication_date": null,
+          "id": "no_dn24_lie",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "pt",
+          "lang_name": "Português",
+          "is_root": false,
+          "author": "Michael Beisert",
+          "author_short": "Beisert",
+          "author_uid": "beisert",
+          "publication_date": "2006",
+          "id": "pt_dn24_beisert",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "si",
+          "lang_name": "සිංහල",
+          "is_root": false,
+          "author": "A.P. de Zoysa",
+          "author_short": "Zoysa",
+          "author_uid": "zoysa",
+          "publication_date": null,
+          "id": "si_dn24_zoysa",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "th",
+          "lang_name": "ไทย",
+          "is_root": false,
+          "author": "Siam Rath",
+          "author_short": "Siam Rath",
+          "author_uid": "siam_rath",
+          "publication_date": null,
+          "id": "th_dn24_siam_rath",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "vi",
+          "lang_name": "Tiếng Việt",
+          "is_root": false,
+          "author": "Thích Minh Châu",
+          "author_short": "Minh Châu",
+          "author_uid": "minh_chau",
+          "publication_date": null,
+          "id": "vi_dn24_minh_chau",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "zh",
+          "lang_name": "汉语",
+          "is_root": false,
+          "author": "莊春江",
+          "author_short": "莊春江",
+          "author_uid": "zhuang",
+          "publication_date": null,
+          "id": "zh_dn24_zhuang",
+          "segmented": false,
+          "volpage": null
+        }
+      ],
+      "parallel_count": 5,
+      "biblio": null,
+      "num": 1
+    }
+  ]
+}

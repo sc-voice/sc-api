@@ -1,0 +1,297 @@
+{
+  "isPromise": true,
+  "volume": "sc.suttaplex",
+  "args": [
+    "http://suttacentral.net/api/suttaplex/mn131"
+  ],
+  "value": [
+    {
+      "acronym": "MN 131",
+      "volpages": "MN iii 187",
+      "uid": "mn131",
+      "blurb": "This discourse opens with a short but powerful set of verses extolling the benefits of insight into the here and now, followed by an explanation.",
+      "difficulty": {
+        "name": "intermediate",
+        "level": 2
+      },
+      "original_title": "Bhaddekaratta Sutta",
+      "root_lang": "pli",
+      "root_lang_name": "Pāli",
+      "type": "text",
+      "translated_title": "One Fine Night ",
+      "translations": [
+        {
+          "lang": "pli",
+          "lang_name": "Pāli",
+          "is_root": true,
+          "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+          "author_short": "Mahāsaṅgīti",
+          "author_uid": "ms",
+          "publication_date": null,
+          "id": "pli_mn131_ms",
+          "segmented": true,
+          "title": "Bhaddekarattasutta ",
+          "volpage": {
+            "pts-vp-pli1ed": "MN iii 188"
+          }
+        },
+        {
+          "lang": "bn",
+          "lang_name": "Bengali",
+          "is_root": false,
+          "author": "বিনয়েন্দ্রনাথ চৌধুরী",
+          "author_short": "চৌধুরী",
+          "author_uid": "chowdhury",
+          "publication_date": null,
+          "id": "bn_mn131_chowdhury",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "ca",
+          "lang_name": "Català",
+          "is_root": false,
+          "author": "Jambudipa",
+          "author_short": "Jambudipa",
+          "author_uid": "jambudipa",
+          "publication_date": "2012",
+          "id": "ca_mn131_jambudipa",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Mettiko Bhikkhu",
+          "author_short": "Mettiko",
+          "author_uid": "mettiko",
+          "publication_date": "2001",
+          "id": "de_mn131_mettiko",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "en",
+          "lang_name": "English",
+          "is_root": false,
+          "author": "Bhikkhu Sujato",
+          "author_short": "Sujato",
+          "author_uid": "sujato",
+          "publication_date": null,
+          "id": "en_mn131_sujato",
+          "segmented": true,
+          "title": "One Fine Night ",
+          "volpage": null
+        },
+        {
+          "lang": "es",
+          "lang_name": "Español",
+          "is_root": false,
+          "author": "Anton P. Baron",
+          "author_short": "Baron",
+          "author_uid": "baron",
+          "publication_date": null,
+          "id": "es_mn131_baron",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "hi",
+          "lang_name": "हिन्दी",
+          "is_root": false,
+          "author": "Rahul Sankrityayan",
+          "author_short": "Sankrityayan",
+          "author_uid": "sankrityayan",
+          "publication_date": null,
+          "id": "hi_mn131_sankrityayan",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "hu",
+          "lang_name": "Magyar",
+          "is_root": false,
+          "author": "Nyitrai Gábor",
+          "author_short": "Nyitrai",
+          "author_uid": "nyitrai",
+          "publication_date": "2008",
+          "id": "hu_mn131_nyitrai",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "id",
+          "lang_name": "Indonesian",
+          "is_root": false,
+          "author": "Indra Anggara",
+          "author_short": "Anggara",
+          "author_uid": "anggara",
+          "publication_date": null,
+          "id": "id_mn131_anggara",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "it",
+          "lang_name": "Italiano",
+          "is_root": false,
+          "author": "De Lorenzo, Pier Antonio Morniroli, Enrico Federici",
+          "author_short": "Lorenzo …",
+          "author_uid": "lorenzo-morniroli-federici",
+          "publication_date": "2007",
+          "id": "it_mn131_lorenzo-morniroli-federici",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "my",
+          "lang_name": "မြန်မာဘာသာ",
+          "is_root": false,
+          "author": "Pitaka Myanmar Translation",
+          "author_short": "PMT",
+          "author_uid": "pmt",
+          "publication_date": null,
+          "id": "my_mn131_pmt",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "no",
+          "lang_name": "Norsk",
+          "is_root": false,
+          "author": "Kåre A. Lie",
+          "author_short": "Lie",
+          "author_uid": "lie",
+          "publication_date": null,
+          "id": "no_mn131_lie",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "pt",
+          "lang_name": "Português",
+          "is_root": false,
+          "author": "Michael Beisert",
+          "author_short": "Beisert",
+          "author_uid": "beisert",
+          "publication_date": "2014",
+          "id": "pt_mn131_beisert",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "ru",
+          "lang_name": "ру́сский язы́к",
+          "is_root": false,
+          "author": "баян купи-ка",
+          "author_short": "купи-ка",
+          "author_uid": "kupi-ka",
+          "publication_date": null,
+          "id": "ru_mn131_kupi-ka",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "ru",
+          "lang_name": "ру́сский язы́к",
+          "is_root": false,
+          "author": "SV",
+          "author_short": "SV",
+          "author_uid": "sv",
+          "publication_date": "2016",
+          "id": "ru_mn131_sv",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "si",
+          "lang_name": "සිංහල",
+          "is_root": false,
+          "author": "A.P. de Zoysa",
+          "author_short": "Zoysa",
+          "author_uid": "zoysa",
+          "publication_date": null,
+          "id": "si_mn131_zoysa",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "sr",
+          "lang_name": "Srpski",
+          "is_root": false,
+          "author": "Branislav Kovačević",
+          "author_short": "Kovačević",
+          "author_uid": "kovacevic",
+          "publication_date": "2014",
+          "id": "sr_mn131_kovacevic",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "sv",
+          "lang_name": "Svenska",
+          "is_root": false,
+          "author": "Kerstin Jönhagen",
+          "author_short": "Jönhagen",
+          "author_uid": "jonhagen",
+          "publication_date": null,
+          "id": "sv_mn131_jonhagen",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "ta",
+          "lang_name": "தமிழ்",
+          "is_root": false,
+          "author": "Ben Arasu",
+          "author_short": "Arasu",
+          "author_uid": "arasu",
+          "publication_date": null,
+          "id": "ta_mn131_arasu",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "th",
+          "lang_name": "ไทย",
+          "is_root": false,
+          "author": "Siam Rath",
+          "author_short": "Siam Rath",
+          "author_uid": "siam_rath",
+          "publication_date": null,
+          "id": "th_mn131_siam_rath",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "vi",
+          "lang_name": "Tiếng Việt",
+          "is_root": false,
+          "author": "Thích Minh Châu",
+          "author_short": "Minh Châu",
+          "author_uid": "minh_chau",
+          "publication_date": null,
+          "id": "vi_mn131_minh_chau",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "zh",
+          "lang_name": "汉语",
+          "is_root": false,
+          "author": "莊春江",
+          "author_short": "莊春江",
+          "author_uid": "zhuang",
+          "publication_date": null,
+          "id": "zh_mn131_zhuang",
+          "segmented": false,
+          "volpage": null
+        }
+      ],
+      "parallel_count": 15,
+      "biblio": null,
+      "num": 1
+    }
+  ]
+}
