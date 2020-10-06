@@ -1,0 +1,65 @@
+{
+  "name": "sc-api",
+  "version": "1.0.0",
+  "description": "SuttaCentral API cached proxy",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "log-instance": "^0.2.5",
+    "memo-again": "^0.3.9",
+    "merkle-json": "^1.1.4",
+    "promise-queue": "^2.2.5"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1",
+    "should": "^11.2.0"
+  },
+  "scripts": {
+    "test": "npm run test:verbose",
+    "test:test": "mocha -w --watch-ignore node_modules,.git,local -R min --inline-diffs -g TEST",
+    "test:verbose": "mocha --inline-diffs",
+    "test:watch": "mocha -w --inline-diffs"
+  },
+  "repository": {
+    "tag": "git"
+  },
+  "bin": {},
+  "keywords": [
+    "SuttaCentral",
+    "translation",
+    "Javascript",
+    "Voice"
+  ],
+  "author": "Karl Lew",
+  "homepage": "https://github.com/sc-voice/sc-api",
+  "license": "MIT",
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {
+      "no-console": "off"
+    },
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
