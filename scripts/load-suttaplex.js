@@ -21,10 +21,8 @@ const PRODUCTION = 'http://suttacentral.net/api';
     }).initialize();
     let i = 0;
     for (let f of SuttaCentralId.supportedSuttas) {
-        if (f.startsWith("mn12")) {
-            await new Promise(r=>setTimeout(()=>r(), 2*1000));
-            await sca.loadSuttaplexJson(f);
-        }
+        await new Promise(r=>setTimeout(()=>r(), 2*1000));
+        await sca.loadSuttaplexJson(f);
     }
 } catch(e) {
     logger.error(e);
