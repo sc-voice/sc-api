@@ -6,7 +6,7 @@
     const Queue = require('promise-queue');
     const Definitions = require('./definitions');
     const SuttaCentralId = require('./sutta-central-id');
-    const { GuidStore, Files } = require('memo-again');
+    const { Memoizer, GuidStore, Files } = require('memo-again');
     const { MerkleJson } = require('merkle-json');
     const LOCAL = Files.LOCAL_DIR;
     const EXPANSION_PATH = path.join(LOCAL, 'expansion.json');
@@ -19,6 +19,8 @@
     const ANY_TRANSLATOR = '*';
     const PO_SUFFIX_LENGTH = '.po'.length;
     const { logger } = require('log-instance');
+    const APP_DIR = path.join(__dirname, '..');
+    const API_DIR = path.join(APP_DIR, 'api');
 
     var singleton;
 
@@ -31,6 +33,12 @@
             this.language = opts.language || DEFAULT_LANGUAGE;
             this.translator = opts.translator;
             this.expansion = opts.expansion || [{}];
+            this.memoizer = opts.memoizer || new Memoizer({
+                storeName: 'asdf',
+                storePath: API_DIR,
+                readFile: opts.readFile,
+                logger: this,
+            });
             this.apiStore = opts.apiStore || new GuidStore({
                 type: 'ApiStore',
                 suffix: '.json',
@@ -76,12 +84,13 @@
         loadJsonRest(url) {
             var that = this;
             var pbody = (resolve, reject) => { try {
-                var httpx = url.startsWith('https') ? https : http;
+                let result;
+                let httpx = url.startsWith('https') ? https : http;
                 if (++httpMonitor > 2) {
                     // We are overwhelming SuttaCentralApi
                     // implement throttling using Queue 
                     // (see abstract-tts.js)
-                    logger.warn(`SuttaCentralApi.loadJsonRest() `+
+                    that.warn(`ScApi.loadJsonRest() `+
                         `httpMonitor:${httpMonitor} ${url}`);
                 }
                 var req = httpx.get(url, res => {
@@ -91,7 +100,7 @@
 
                     let error;
                     if (statusCode !== 200) {
-                        logger.warn(`Request Failed:`,
+                        that.warn(`Request Failed:`,
                             `statusCode:${statusCode}`,
                             url);
                         error = new Error(`Request Failed.\n` +
@@ -108,7 +117,7 @@
                     if (error) {
                         // consume response data to free up memory
                         res.resume(); 
-                        logger.error(error.stack);
+                        that.error(error.stack);
                         reject(error);
                         return;
                     }
@@ -118,9 +127,8 @@
                     res.on('data', (chunk) => { rawData += chunk; });
                     res.on('end', () => {
                         try {
-                            var result = JSON.parse(rawData);
-                            that.log(`loadJsonRest() `+
-                                `${url} => ${rawData.length}C`);
+                            result = JSON.parse(rawData);
+                            that.info(`loadJsonRest() ${url} => ${rawData.length}C`);
                             resolve(result);
                         } catch (e) {
                             logger.error(e.stack);
@@ -129,10 +137,10 @@
                     });
                 }).on('error', (e) => {
                     httpMonitor--;
-                    logger.error(e.stack);
+                    that.error(e.stack);
                     reject(e);
                 }).on('timeout', (e) => {
-                    logger.error(e.stack);
+                    that.error(e.stack);
                     req.abort();
                 });
             } catch(e) {reject(e);} };
@@ -165,7 +173,6 @@
                 return res;
             }
         } catch(e) {
-        console.log('dbg help');
             logger.error(`${url}`, e);
             throw e;
         }}
@@ -385,32 +392,40 @@
         }}
 
         async loadSuttaplexJson(scid, lang, author_uid) { try {
-            var sutta_uid = SuttaCentralId.normalizeSuttaId(scid);
-            var request = `${this.apiUrl}/suttaplex/${sutta_uid}`;
-            this.debug(`loadSuttaPlexJson(${scid}) ${request}`);
-
-            var result = await ScApi.loadJson(request);
-            var suttaplex = result[0];
-            var translations = suttaplex && suttaplex.translations;
+            let that = this;
+            let sutta_uid = SuttaCentralId.normalizeSuttaId(scid);
+            let suttaplex = async url=>{
+                return await that.loadJsonRest(url);
+            }
+            if (!this.memo_suttaplex) {
+                this.memo_suttaplex = this.memoizer.memoize(suttaplex, 'sc');
+            }
+            let request = `${this.apiUrl}/suttaplex/${sutta_uid}`;
+            var result = await this.memo_suttaplex(request);
+            
+            var splx = result[0];
+            var translations = splx && splx.translations;
             if (translations == null || translations.length === 0) {
                 throw new Error(`loadSuttaplexJson() sutta not found:${sutta_uid}`);
             }
-            suttaplex.translations = 
-                translations.filter(t => 
-                    (!lang || lang === ANY_LANGUAGE || t.lang === lang)
-                    &&
-                    (!author_uid || t.author_uid === author_uid)
-                );
-            translations.sort((a,b) => {
-                if (a.segmented === b.segmented) {
-                    return (a.author_uid||'').localeCompare(b.author_uid||'');
-                }
-                return a.segmented ? 1 : -1;
-            });
-            this.debug(`ScApi.loadSuttaplexJson`+
-                `(${scid}, ${lang}, ${author_uid}) `+
-                `${JSON.stringify(suttaplex,null,2)}`);
-            return suttaplex;
+            if (lang || author_uid) {
+                splx.translations = 
+                    translations.filter(t => 
+                        (!lang || lang === ANY_LANGUAGE || t.lang === lang)
+                        &&
+                        (!author_uid || t.author_uid === author_uid)
+                    );
+                translations.sort((a,b) => {
+                    if (a.segmented === b.segmented) {
+                        return (a.author_uid||'').localeCompare(b.author_uid||'');
+                    }
+                    return a.segmented ? 1 : -1;
+                });
+                this.debug(`ScApi.loadSuttaplexJson`+
+                    `(${scid}, ${lang}, ${author_uid}) `+
+                    `${JSON.stringify(splx,null,2)}`);
+            }
+            return splx;
         } catch(e) {
             this.error(e);
             throw e;

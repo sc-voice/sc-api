@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "^0.20.0",
     "log-instance": "^0.2.5",
-    "memo-again": "^0.3.9",
+    "memo-again": "^0.3.11",
     "merkle-json": "^1.1.4",
     "promise-queue": "^2.2.5"
   },

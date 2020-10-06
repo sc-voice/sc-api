@@ -1,0 +1,261 @@
+{
+  "isPromise": true,
+  "volume": "sc.suttaplex",
+  "args": [
+    "http://suttacentral.net/api/suttaplex/mn128"
+  ],
+  "value": [
+    {
+      "acronym": "MN 128",
+      "volpages": "MN iii 152",
+      "uid": "mn128",
+      "blurb": "A second discourse set at the quarrel of Kosambi, this depicts the Buddha, having failed to achieve reconciliation between the disputing mendicants, leaving the monastery. He spends time in the wilderness before encountering an inspiring community of practicing monks. There he discusses in detail obstacles to meditation that he encountered before awakening.",
+      "difficulty": {
+        "name": "intermediate",
+        "level": 2
+      },
+      "original_title": "Upakkilesa Sutta",
+      "root_lang": "pli",
+      "root_lang_name": "Pāli",
+      "type": "text",
+      "translated_title": "Corruptions ",
+      "translations": [
+        {
+          "lang": "pli",
+          "lang_name": "Pāli",
+          "is_root": true,
+          "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+          "author_short": "Mahāsaṅgīti",
+          "author_uid": "ms",
+          "publication_date": null,
+          "id": "pli_mn128_ms",
+          "segmented": true,
+          "title": "Upakkilesasutta ",
+          "volpage": {
+            "pts-vp-pli1ed": "MN iii 153"
+          }
+        },
+        {
+          "lang": "bn",
+          "lang_name": "Bengali",
+          "is_root": false,
+          "author": "বিনয়েন্দ্রনাথ চৌধুরী",
+          "author_short": "চৌধুরী",
+          "author_uid": "chowdhury",
+          "publication_date": null,
+          "id": "bn_mn128_chowdhury",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "ca",
+          "lang_name": "Català",
+          "is_root": false,
+          "author": "Jambudipa",
+          "author_short": "Jambudipa",
+          "author_uid": "jambudipa",
+          "publication_date": "2012",
+          "id": "ca_mn128_jambudipa",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Mettiko Bhikkhu",
+          "author_short": "Mettiko",
+          "author_uid": "mettiko",
+          "publication_date": "2001",
+          "id": "de_mn128_mettiko",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "en",
+          "lang_name": "English",
+          "is_root": false,
+          "author": "Bhikkhu Sujato",
+          "author_short": "Sujato",
+          "author_uid": "sujato",
+          "publication_date": null,
+          "id": "en_mn128_sujato",
+          "segmented": true,
+          "title": "Corruptions ",
+          "volpage": null
+        },
+        {
+          "lang": "es",
+          "lang_name": "Español",
+          "is_root": false,
+          "author": "Anton P. Baron",
+          "author_short": "Baron",
+          "author_uid": "baron",
+          "publication_date": "2004",
+          "id": "es_mn128_baron",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Christian Maës",
+          "author_short": "Maës",
+          "author_uid": "maes",
+          "publication_date": null,
+          "id": "fr_mn128_maes",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "hi",
+          "lang_name": "हिन्दी",
+          "is_root": false,
+          "author": "Rahul Sankrityayan",
+          "author_short": "Sankrityayan",
+          "author_uid": "sankrityayan",
+          "publication_date": null,
+          "id": "hi_mn128_sankrityayan",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "id",
+          "lang_name": "Indonesian",
+          "is_root": false,
+          "author": "Indra Anggara",
+          "author_short": "Anggara",
+          "author_uid": "anggara",
+          "publication_date": null,
+          "id": "id_mn128_anggara",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "it",
+          "lang_name": "Italiano",
+          "is_root": false,
+          "author": "De Lorenzo, Pier Antonio Morniroli, Enrico Federici",
+          "author_short": "Lorenzo …",
+          "author_uid": "lorenzo-morniroli-federici",
+          "publication_date": "2007",
+          "id": "it_mn128_lorenzo-morniroli-federici",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "my",
+          "lang_name": "မြန်မာဘာသာ",
+          "is_root": false,
+          "author": "Pitaka Myanmar Translation",
+          "author_short": "PMT",
+          "author_uid": "pmt",
+          "publication_date": null,
+          "id": "my_mn128_pmt",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "no",
+          "lang_name": "Norsk",
+          "is_root": false,
+          "author": "Kåre A. Lie",
+          "author_short": "Lie",
+          "author_uid": "lie",
+          "publication_date": null,
+          "id": "no_mn128_lie",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "pt",
+          "lang_name": "Português",
+          "is_root": false,
+          "author": "Michael Beisert",
+          "author_short": "Beisert",
+          "author_uid": "beisert",
+          "publication_date": "2012",
+          "id": "pt_mn128_beisert",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "ru",
+          "lang_name": "ру́сский язы́к",
+          "is_root": false,
+          "author": "SV",
+          "author_short": "SV",
+          "author_uid": "sv",
+          "publication_date": "2014",
+          "id": "ru_mn128_sv",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "si",
+          "lang_name": "සිංහල",
+          "is_root": false,
+          "author": "A.P. de Zoysa",
+          "author_short": "Zoysa",
+          "author_uid": "zoysa",
+          "publication_date": null,
+          "id": "si_mn128_zoysa",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "sr",
+          "lang_name": "Srpski",
+          "is_root": false,
+          "author": "Branislav Kovačević",
+          "author_short": "Kovačević",
+          "author_uid": "kovacevic",
+          "publication_date": "2014",
+          "id": "sr_mn128_kovacevic",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "th",
+          "lang_name": "ไทย",
+          "is_root": false,
+          "author": "Siam Rath",
+          "author_short": "Siam Rath",
+          "author_uid": "siam_rath",
+          "publication_date": null,
+          "id": "th_mn128_siam_rath",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "vi",
+          "lang_name": "Tiếng Việt",
+          "is_root": false,
+          "author": "Thích Minh Châu",
+          "author_short": "Minh Châu",
+          "author_uid": "minh_chau",
+          "publication_date": null,
+          "id": "vi_mn128_minh_chau",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "zh",
+          "lang_name": "汉语",
+          "is_root": false,
+          "author": "莊春江",
+          "author_short": "莊春江",
+          "author_uid": "zhuang",
+          "publication_date": null,
+          "id": "zh_mn128_zhuang",
+          "segmented": false,
+          "volpage": null
+        }
+      ],
+      "parallel_count": 107,
+      "biblio": null,
+      "num": 8
+    }
+  ]
+}

@@ -124,7 +124,7 @@
     };
     this.timeout(10*1000);
 
-    it("TESTTESTloadSutta(...) => list of Snp1.8 en translations", async()=>{
+    it("loadSutta(...) => list of Snp1.8 en translations", async()=>{
         var scr = await new ScApi(PRODUCTION).initialize();
         var scid = 'snp1.8';
         var language = 'en';
@@ -136,7 +136,7 @@
         should(translations).instanceOf(Array);
         should.deepEqual(translations, TRANSLATIONS_SNP1_8_2019); 
     });
-    it("TESTTESTloadSutta(...) => en translations for Snp1.8", async()=>{
+    it("loadSutta(...) => en translations for Snp1.8", async()=>{
         var scr = await new ScApi(PRODUCTION).initialize();
         var language = 'en';
         var sutta = await scr.loadSutta({
@@ -182,7 +182,7 @@
         should(sutta.metaarea).match(/<p>This translation[^]*No rights reserved.[^]*/um);
         should(segments.length).equal(15);
     });
-    it("TESTTESTloadSutta(...) => en translations for ea12.1", async()=>{
+    it("loadSutta(...) => en translations for ea12.1", async()=>{
         var scr = await new ScApi(PRODUCTION).initialize();
         var language = 'en';
         var sutta = await scr.loadSutta({
@@ -225,7 +225,7 @@
         should(sutta.metaarea).match(/Translated from Sanskrit[^]*Bhikkhu Sujato[^]*/um);
         should(segments.length).equal(54);
     });
-    it("TESTTESTloadSutta(opts) returns Error if sutta not found", async()=>{
+    it("loadSutta(opts) returns Error if sutta not found", async()=>{
         var scr = await new ScApi(PRODUCTION).initialize();
 
         // implausible sutta
@@ -264,7 +264,7 @@
         should(err).instanceOf(Error);
         logger.error("EXPECTED ERROR (END)");
     });
-    it("TESTTESTloadSutta(...) => an2.12 as part of an2.11-20", async()=>{
+    it("loadSutta(...) => an2.12 as part of an2.11-20", async()=>{
         var scr = await new ScApi(PRODUCTION).initialize();
         var language = 'en';
         var sutta = await scr.loadSutta('an2.12');
@@ -285,14 +285,14 @@
             .match(/Reflecting like this[^]*themselves pure./um);
         should(sutta.metaarea).equal(undefined);
     });
-    it("TESTTESTexpandAbbreviation(abbr) expands abbreviation", async()=>{
+    it("expandAbbreviation(abbr) expands abbreviation", async()=>{
         var scr = await new ScApi(PRODUCTION).initialize();
         should.deepEqual(scr.expandAbbreviation('sk'), [
           "Sk",
           "Sekhiya"
         ]);
     });
-    it("TESTTESTloadSutta(opts) loads MN79", async()=>{
+    it("loadSutta(opts) loads MN79", async()=>{
         logger.level = 'info';
         var scr = await new ScApi(PRODUCTION).initialize();
         var sutta = await scr.loadSutta("mn79", "en", "sujato");
@@ -313,7 +313,24 @@
             'segmented', 'segments', 'suttaplex', 
         ].sort());
     });
-    it("TESTTESTsuttaFromHtml(html, opts) parses HTML", async()=>{
+    it("TESTTESTloadSuttaplexJson(...)=>suttaplex", async()=>{
+        var sca = await new ScApi({
+            readMem: false,
+            readFile: false,
+        }).initialize();
+        sca.logLevel = 'info';
+        var mn121 = await sca.loadSuttaplexJson("mn121");
+        should(mn121.acronym).equal(`MN 121`);
+        should(mn121.original_title).equal('Cūḷasuññata Sutta');
+        should(mn121.translations.length).equal(21);
+
+        var mn122 = await sca.loadSuttaplexJson("mn122");
+        should(mn122.acronym).equal(`MN 122`);
+        should(mn122.original_title).equal('Mahāsuññata Sutta');
+        should(mn122.translations.length).equal(18);
+        
+    });
+    it("suttaFromHtml(html, opts) parses HTML", async()=>{
         var scr = await new ScApi(PRODUCTION).initialize();
         var text = [
             'hello',
