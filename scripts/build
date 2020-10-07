@@ -1,0 +1,8 @@
+#!/bin/bash
+DIR=`dirname $0`
+
+$DIR/load-suttaplex.js an
+$DIR/load-suttaplex.js dn
+$DIR/load-suttaplex.js mn
+$DIR/load-suttaplex.js sn
+$DIR/load-suttaplex.js th
