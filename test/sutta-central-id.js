@@ -1,5 +1,7 @@
 (typeof describe === 'function') && describe("sutta-central-id", function() {
     const should = require("should");
+    const { logger, } = require('log-instance');
+    logger.logLevel = 'error';
     const {
         SuttaCentralId,
     } = require("../index");

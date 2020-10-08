@@ -79,7 +79,7 @@
             }
             return result;
         } catch (e) {
-            this.error(e);
+            this.warn(`loadJson(${url})`,e);
             throw e;
         }}
 
@@ -193,7 +193,7 @@
             this.initialized = true;
             return this;
         } catch(e) {
-            this.error(e);
+            this.warn(e);
             throw e;
         }}
 
@@ -389,7 +389,7 @@
             }
             return result;
         } catch(e) {
-            this.error(e.stack);
+            this.warn(`loadSuttaJson()`, {id,language,translator}, e);
             throw e;
         }}
 
@@ -429,7 +429,7 @@
             }
             return splx;
         } catch(e) {
-            this.error(e);
+            this.warn(`loadSuttaplexJson()`, {scid, lang, author_uid}, e);
             throw e;
         }}
 
@@ -455,8 +455,8 @@
             }
 
             author_uid = translations[0].author_uid;
-                var result = await this.loadSuttaJson(sutta_uid, language, author_uid);
-                if (result.translation == null && translations.length>0) {
+            var result = await this.loadSuttaJson(sutta_uid, language, author_uid);
+            if (result.translation == null && translations.length>0) {
                 var trans = translations.filter(t=>t.segmented)[0];
                 if (trans == null) {
                     console.log('debug3 no segmented');
@@ -508,7 +508,7 @@
                 return result;
             }
         } catch(e) {
-            this.error(e);
+            this.warn(`loadSutta() args:`, JSON.stringify(args), e);
             throw e;
         }}
         

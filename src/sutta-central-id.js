@@ -1,4 +1,3 @@
-
 (function(exports) {
     const fs = require('fs');
     const path = require('path');
@@ -21,7 +20,8 @@
             }
             if (fs.existsSync(SUTTAIDS_PATH)) {
                 logger.info(`SuttaCentralId.initialize() loading:${SUTTAIDS_PATH}`);
-                suttaIds = JSON.parse(fs.readFileSync(SUTTAIDS_PATH));
+                suttaIds = JSON.parse(fs.readFileSync(SUTTAIDS_PATH))
+                    .sort(SuttaCentralId.compareLow);
             }
             if (fs.existsSync(UID_EXPANSION_PATH)) {
                 logger.info(`SuttaCentralId.initialize() loading:${UID_EXPANSION_PATH}`);
