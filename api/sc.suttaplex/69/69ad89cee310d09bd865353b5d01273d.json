@@ -2,7 +2,7 @@
   "isPromise": true,
   "volume": "sc.suttaplex",
   "args": [
-    "http://suttacentral.net/api/suttaplex/snp1.8"
+    "https://suttacentral.net/api/suttaplex/snp1.8"
   ],
   "value": [
     {

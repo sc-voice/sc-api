@@ -12,7 +12,8 @@
     const EXPANSION_PATH = path.join(LOCAL, 'expansion.json');
     const UID_EXPANSION_PATH = path.join(LOCAL, 'uid_expansion.json');
     const DEFAULT_LANGUAGE = 'en';
-    const DEFAULT_API_URL = 'http://suttacentral.net/api';
+    const DEFAULT_API_URL = 'https://suttacentral.net/api';
+    const DEFAULT_API2_URL = 'https://staging.suttacentral.net/api';
     const UID_EXPANSION_URL = 'https://raw.githubusercontent.com/'+
         'suttacentral/sc-data/master/misc/uid_expansion.json';
     const ANY_LANGUAGE = '*';
@@ -26,15 +27,18 @@
 
     var httpMonitor = 0;
     var DAY_SECONDS = 24*60*60;
+    var scapi_instances = 0;
 
     class ScApi {
         constructor(opts={}) {
             (opts.logger || logger).logInstance(this, opts);
+            scapi_instances++;
+            this.name = opts.name || `ScApi@${scapi_instances}`;
             this.language = opts.language || DEFAULT_LANGUAGE;
             this.translator = opts.translator;
             this.expansion = opts.expansion || [{}];
             this.memoizer = opts.memoizer || new Memoizer({
-                storeName: 'asdf',
+                storeName: 'scapi_memo',
                 storePath: API_DIR,
                 readFile: opts.readFile,
                 writeFile: opts.writeFile,
@@ -53,10 +57,11 @@
                 hashTag: 'guid',
             });
             this.apiUrl = opts.apiUrl || DEFAULT_API_URL;
+            this.apiUrl2 = opts.apiUrl2 || DEFAULT_API2_URL;
         }
 
         static loadJson(url) {
-            singleton = singleton || new ScApi();
+            singleton = singleton || new ScApi({name:'ScApi@singleton'});
             return singleton.loadJson(url);
         }
 
@@ -83,7 +88,48 @@
             throw e;
         }}
 
-        loadJsonRest(url) {
+        async loadJsonRest(url) { 
+            let {
+                name,
+                apiUrl,
+                apiUrl2,
+                memoizer,
+            } = this;
+            try {
+                if (/suttaplex/.test(url)) {
+                    let that = this;
+                    let suttaplex = async u=>{
+                        return await that.loadJsonRestMaybe(u);
+                    }
+                    if (!this.memo_suttaplex) {
+                        this.memo_suttaplex = memoizer.memoize(suttaplex, 'sc');
+                    }
+                    return await this.memo_suttaplex(url);
+                } else {
+                    return await this.loadJsonRestMaybe(url);
+                }
+            } catch(e) {
+                if (apiUrl2) {
+                    let writeFile = memoizer.writeFile;
+                    let url2 = url.replace(apiUrl, apiUrl2);
+                    this.warn(`loadJsonRest(RETRY) ${url2}`, e.message);
+                    try {
+                        memoizer.writeFile = false; // don't cache apiUrl2 data
+                        return await this.loadJsonRestMaybe(url2);
+                    } catch(e) {
+                        this.warn(`loadJsonRest(URL2-FAILED) ${url2}`, e.message);
+                        throw(e);
+                    } finally {
+                        memoizer.writeFile = writeFile;
+                    }
+                } else {
+                    this.warn(`loadJsonRest(FAILED) ${url}`, e.message);
+                }
+                throw e;
+            }
+        } 
+
+        loadJsonRestMaybe(url) {
             var that = this;
             var pbody = (resolve, reject) => { try {
                 let result;
@@ -92,9 +138,10 @@
                     // We are overwhelming SuttaCentralApi
                     // implement throttling using Queue 
                     // (see abstract-tts.js)
-                    that.warn(`ScApi.loadJsonRest() `+
+                    that.warn(`ScApi.loadJsonRestMaybe() `+
                         `httpMonitor:${httpMonitor} ${url}`);
                 }
+                that.info(`loadJsonRestMaybe() ${url}`);
                 var req = httpx.get(url, res => {
                     httpMonitor--;
                     const { statusCode } = res;
@@ -102,9 +149,6 @@
 
                     let error;
                     if (statusCode !== 200) {
-                        that.warn(`Request Failed:`,
-                            `statusCode:${statusCode}`,
-                            url);
                         error = new Error(`Request Failed.\n` +
                                           `Status Code: ${statusCode}`);
                     } else if (/^application\/json/.test(contentType)) {
@@ -119,7 +163,6 @@
                     if (error) {
                         // consume response data to free up memory
                         res.resume(); 
-                        that.error(error.stack);
                         reject(error);
                         return;
                     }
@@ -130,22 +173,25 @@
                     res.on('end', () => {
                         try {
                             result = JSON.parse(rawData);
-                            that.info(`loadJsonRest() ${url} => ${rawData.length}C`);
+                            that.info(`loadJsonRestMaybe()`,
+                                `${url} => ${rawData.length}C`);
                             resolve(result);
                         } catch (e) {
-                            logger.error(e.stack);
                             reject(e);
                         }
                     });
                 }).on('error', (e) => {
+                    that.warn(`loadJsonRestMaybe(ERROR)`, e.message);
                     httpMonitor--;
-                    that.error(e.stack);
                     reject(e);
                 }).on('timeout', (e) => {
-                    that.error(e.stack);
+                    that.warn(`loadJsonRestMaybe(TIMEOUT)`, e.message);
                     req.abort();
+                    reject(e);
                 });
-            } catch(e) {reject(e);} };
+            } catch(e) {
+                reject(e);
+            }};
             return new Promise(pbody);
         }
 
@@ -376,7 +422,7 @@
             }
             this.debug(`loadSuttaJson() ${request}`);
 
-            var result = await ScApi.loadJson(request);
+            var result = await this.loadJson(request);
             result.support = support;
             var suttaplex = result.suttaplex;
             var translations = suttaplex && suttaplex.translations;
@@ -396,15 +442,8 @@
         async loadSuttaplexJson(scid, lang, author_uid) { try {
             let that = this;
             let sutta_uid = SuttaCentralId.normalizeSuttaId(scid);
-            let suttaplex = async url=>{
-                return await that.loadJsonRest(url);
-            }
-            if (!this.memo_suttaplex) {
-                this.memo_suttaplex = this.memoizer.memoize(suttaplex, 'sc');
-            }
             let request = `${this.apiUrl}/suttaplex/${sutta_uid}`;
-            var result = await this.memo_suttaplex(request);
-            
+            let result = await that.loadJsonRest(request);
             var splx = result[0];
             var translations = splx && splx.translations;
             if (translations == null || translations.length === 0) {
