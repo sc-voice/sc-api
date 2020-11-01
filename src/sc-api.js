@@ -3,7 +3,6 @@
     const path = require('path');
     const http = require('http');
     const https = require('https');
-    const Queue = require('promise-queue');
     const Definitions = require('./definitions');
     const SuttaCentralId = require('./sutta-central-id');
     const { Memoizer, GuidStore, Files } = require('memo-again');
@@ -51,8 +50,6 @@
                 storeName: 'api',
             });
             this.apiCacheSeconds = opts.apiCacheSeconds || 7*DAY_SECONDS;
-            this.queue = new Queue(opts.maxConcurrentServiceCalls || 5, 
-                Infinity);
             this.mj = new MerkleJson({
                 hashTag: 'guid',
             });

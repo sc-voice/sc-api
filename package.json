@@ -1,6 +1,6 @@
 {
   "name": "suttacentral-api",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "SuttaCentral API cached proxy",
   "main": "index.js",
   "directories": {
@@ -10,8 +10,7 @@
     "axios": "^0.20.0",
     "log-instance": "^0.2.5",
     "memo-again": "^0.3.11",
-    "merkle-json": "^1.1.4",
-    "promise-queue": "^2.2.5"
+    "merkle-json": "^1.1.4"
   },
   "devDependencies": {
     "mocha": "^7.1.1",
