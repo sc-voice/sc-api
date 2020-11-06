@@ -1,0 +1,150 @@
+{
+  "isPromise": true,
+  "volume": "sc.suttaplex",
+  "args": [
+    "https://suttacentral.net/api/suttaplex/sn46.130"
+  ],
+  "value": [
+    {
+      "acronym": "SN 46.130",
+      "volpages": "SN v 136",
+      "uid": "sn46.130",
+      "blurb": null,
+      "difficulty": null,
+      "original_title": "Uddhambhāgiya Sutta",
+      "root_lang": "pli",
+      "root_lang_name": "Pāli",
+      "type": "text",
+      "translated_title": "Higher Fetters ",
+      "translations": [
+        {
+          "lang": "pli",
+          "lang_name": "Pāli",
+          "is_root": true,
+          "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+          "author_short": "Mahāsaṅgīti",
+          "author_uid": "ms",
+          "publication_date": null,
+          "id": "pli_sn46.130_ms",
+          "segmented": true,
+          "title": "Uddhambhāgiyasutta ",
+          "volpage": {
+            "pts-vp-pli1ed": "SN v 137"
+          }
+        },
+        {
+          "lang": "en",
+          "lang_name": "English",
+          "is_root": false,
+          "author": "Bhikkhu Sujato",
+          "author_short": "Sujato",
+          "author_uid": "sujato",
+          "publication_date": null,
+          "id": "en_sn46.130_sujato",
+          "segmented": true,
+          "title": "Higher Fetters ",
+          "volpage": null
+        },
+        {
+          "lang": "es",
+          "lang_name": "Español",
+          "is_root": false,
+          "author": "Anton P. Baron",
+          "author_short": "Baron",
+          "author_uid": "baron",
+          "publication_date": "2014",
+          "id": "es_sn46.130_baron",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "id",
+          "lang_name": "Indonesian",
+          "is_root": false,
+          "author": "Indra Anggara",
+          "author_short": "Anggara",
+          "author_uid": "anggara",
+          "publication_date": null,
+          "id": "id_sn46.130_anggara",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "my",
+          "lang_name": "မြန်မာဘာသာ",
+          "is_root": false,
+          "author": "Pitaka Myanmar Translation",
+          "author_short": "PMT",
+          "author_uid": "pmt",
+          "publication_date": null,
+          "id": "my_sn46.130_pmt",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "no",
+          "lang_name": "Norsk",
+          "is_root": false,
+          "author": "Kåre A. Lie",
+          "author_short": "Lie",
+          "author_uid": "lie",
+          "publication_date": "2019",
+          "id": "no_sn46.130_lie",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "pt",
+          "lang_name": "Português",
+          "is_root": false,
+          "author": "Michael Beisert",
+          "author_short": "Beisert",
+          "author_uid": "beisert",
+          "publication_date": "2005",
+          "id": "pt_sn46.130_beisert",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "ru",
+          "lang_name": "ру́сский язы́к",
+          "is_root": false,
+          "author": "SV",
+          "author_short": "SV",
+          "author_uid": "sv",
+          "publication_date": "2012",
+          "id": "ru_sn46.130_sv",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "si",
+          "lang_name": "සිංහල",
+          "is_root": false,
+          "author": "A.P. de Zoysa",
+          "author_short": "Zoysa",
+          "author_uid": "zoysa",
+          "publication_date": null,
+          "id": "si_sn46.130_zoysa",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "zh",
+          "lang_name": "汉语",
+          "is_root": false,
+          "author": "莊春江",
+          "author_short": "莊春江",
+          "author_uid": "zhuang",
+          "publication_date": null,
+          "id": "zh_sn46.130_zhuang",
+          "segmented": false,
+          "volpage": null
+        }
+      ],
+      "parallel_count": 0,
+      "biblio": null,
+      "num": 2
+    }
+  ]
+}

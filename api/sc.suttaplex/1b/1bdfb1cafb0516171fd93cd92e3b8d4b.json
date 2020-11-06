@@ -1,0 +1,215 @@
+{
+  "isPromise": true,
+  "volume": "sc.suttaplex",
+  "args": [
+    "https://suttacentral.net/api/suttaplex/sn1.72"
+  ],
+  "value": [
+    {
+      "acronym": "SN 1.72//SN 72",
+      "volpages": {
+        "pts-vp-pli1ed": "SN i 41",
+        "pts-vp-pli2ed": "SN i 93"
+      },
+      "uid": "sn1.72",
+      "blurb": "What is the sign or token of a chariot, a fire, a nation, and a woman?",
+      "difficulty": null,
+      "original_title": "Ratha Sutta",
+      "root_lang": "pli",
+      "root_lang_name": "Pāli",
+      "type": "text",
+      "translated_title": "A Chariot ",
+      "translations": [
+        {
+          "lang": "pli",
+          "lang_name": "Pāli",
+          "is_root": true,
+          "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+          "author_short": "Mahāsaṅgīti",
+          "author_uid": "ms",
+          "publication_date": null,
+          "id": "pli_sn1.72_ms",
+          "segmented": true,
+          "title": "Rathasutta ",
+          "volpage": {
+            "pts-vp-pli1ed": "SN i 42",
+            "pts-vp-pli2ed": "SN i 94"
+          }
+        },
+        {
+          "lang": "ca",
+          "lang_name": "Català",
+          "is_root": false,
+          "author": "Albert Biayna Gea",
+          "author_short": "Gea",
+          "author_uid": "gea",
+          "publication_date": null,
+          "id": "ca_sn1.72_gea",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Wilhelm Geiger",
+          "author_short": "Geiger",
+          "author_uid": "geiger",
+          "publication_date": "1925",
+          "id": "de_sn1.72_geiger",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "en",
+          "lang_name": "English",
+          "is_root": false,
+          "author": "Bhikkhu Sujato",
+          "author_short": "Sujato",
+          "author_uid": "sujato",
+          "publication_date": null,
+          "id": "en_sn1.72_sujato",
+          "segmented": true,
+          "title": "A Chariot ",
+          "volpage": null
+        },
+        {
+          "author": "Bhikkhu Bodhi",
+          "author_short": "Bodhi",
+          "author_uid": "bodhi",
+          "id": "en_sn1.72_bodhi",
+          "is_root": false,
+          "lang": "en",
+          "lang_name": "English",
+          "publication_date": "2000",
+          "segmented": false,
+          "volpage": null,
+          "title": "Chariot"
+        },
+        {
+          "lang": "es",
+          "lang_name": "Español",
+          "is_root": false,
+          "author": "Anton P. Baron",
+          "author_short": "Baron",
+          "author_uid": "baron",
+          "publication_date": "2015",
+          "id": "es_sn1.72_baron",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "id",
+          "lang_name": "Indonesian",
+          "is_root": false,
+          "author": "Indra Anggara",
+          "author_short": "Anggara",
+          "author_uid": "anggara",
+          "publication_date": null,
+          "id": "id_sn1.72_anggara",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "it",
+          "lang_name": "Italiano",
+          "is_root": false,
+          "author": "Enzo Alfano",
+          "author_short": "Alfano",
+          "author_uid": "alfano",
+          "publication_date": null,
+          "id": "it_sn1.72_alfano",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "my",
+          "lang_name": "မြန်မာဘာသာ",
+          "is_root": false,
+          "author": "Pitaka Myanmar Translation",
+          "author_short": "PMT",
+          "author_uid": "pmt",
+          "publication_date": null,
+          "id": "my_sn1.72_pmt",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "no",
+          "lang_name": "Norsk",
+          "is_root": false,
+          "author": "Kåre A. Lie",
+          "author_short": "Lie",
+          "author_uid": "lie",
+          "publication_date": null,
+          "id": "no_sn1.72_lie",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "ru",
+          "lang_name": "ру́сский язы́к",
+          "is_root": false,
+          "author": "SV",
+          "author_short": "SV",
+          "author_uid": "sv",
+          "publication_date": "2013",
+          "id": "ru_sn1.72_sv",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "si",
+          "lang_name": "සිංහල",
+          "is_root": false,
+          "author": "A.P. de Zoysa",
+          "author_short": "Zoysa",
+          "author_uid": "zoysa",
+          "publication_date": null,
+          "id": "si_sn1.72_zoysa",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "th",
+          "lang_name": "ไทย",
+          "is_root": false,
+          "author": "Siam Rath",
+          "author_short": "Siam Rath",
+          "author_uid": "siam_rath",
+          "publication_date": null,
+          "id": "th_sn1.72_siam_rath",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "vi",
+          "lang_name": "Tiếng Việt",
+          "is_root": false,
+          "author": "Thích Minh Châu",
+          "author_short": "Minh Châu",
+          "author_uid": "minh_chau",
+          "publication_date": null,
+          "id": "vi_sn1.72_minh_chau",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "zh",
+          "lang_name": "汉语",
+          "is_root": false,
+          "author": "莊春江",
+          "author_short": "莊春江",
+          "author_uid": "zhuang",
+          "publication_date": null,
+          "id": "zh_sn1.72_zhuang",
+          "segmented": false,
+          "volpage": null
+        }
+      ],
+      "parallel_count": 4,
+      "biblio": null,
+      "num": 2
+    }
+  ]
+}

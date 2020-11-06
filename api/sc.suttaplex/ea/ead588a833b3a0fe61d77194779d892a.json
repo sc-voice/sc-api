@@ -1,0 +1,128 @@
+{
+  "isPromise": true,
+  "volume": "sc.suttaplex",
+  "args": [
+    "https://suttacentral.net/api/suttaplex/thag10.7"
+  ],
+  "value": [
+    {
+      "acronym": "Thag 10.7",
+      "volpages": {
+        "vnp": "Thag 587"
+      },
+      "uid": "thag10.7",
+      "blurb": null,
+      "difficulty": null,
+      "original_title": "(Apara) Gotamattheragāthā",
+      "root_lang": "pli",
+      "root_lang_name": "Pāli",
+      "type": "text",
+      "translated_title": "Another Gotama",
+      "translations": [
+        {
+          "lang": "pli",
+          "lang_name": "Pāli",
+          "is_root": true,
+          "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+          "author_short": "Mahāsaṅgīti",
+          "author_uid": "ms",
+          "publication_date": null,
+          "id": "pli_thag10.7_ms",
+          "segmented": true,
+          "title": "(Apara) Gotamattheragāthā",
+          "volpage": {
+            "vnp": "Thag 587"
+          }
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Ekkehard Saß",
+          "author_short": "Saß",
+          "author_uid": "sass",
+          "publication_date": "2000",
+          "id": "de_thag10.7_sass",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "en",
+          "lang_name": "English",
+          "is_root": false,
+          "author": "Bhikkhu Sujato",
+          "author_short": "Sujato",
+          "author_uid": "sujato",
+          "publication_date": "2019",
+          "id": "en_thag10.7_sujato",
+          "segmented": true,
+          "title": "Another Gotama",
+          "volpage": null
+        },
+        {
+          "lang": "id",
+          "lang_name": "Indonesian",
+          "is_root": false,
+          "author": "Indra Anggara",
+          "author_short": "Anggara",
+          "author_uid": "anggara",
+          "publication_date": null,
+          "id": "id_thag10.7_anggara",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Shoda Taikan",
+          "author_short": "Taikan",
+          "author_uid": "taikan",
+          "publication_date": "2009–11",
+          "id": "jpn_thag10.7_taikan",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "no",
+          "lang_name": "Norsk",
+          "is_root": false,
+          "author": "Kåre A. Lie, Tone Gleditsch Stabell",
+          "author_short": "Lie …",
+          "author_uid": "lie-stabell",
+          "publication_date": null,
+          "id": "no_thag10.7_lie-stabell",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "si",
+          "lang_name": "සිංහල",
+          "is_root": false,
+          "author": "A.P. de Zoysa",
+          "author_short": "Zoysa",
+          "author_uid": "zoysa",
+          "publication_date": null,
+          "id": "si_thag10.7_zoysa",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "vi",
+          "lang_name": "Tiếng Việt",
+          "is_root": false,
+          "author": "Bhikkhu Indacanda",
+          "author_short": "Indacanda",
+          "author_uid": "indacanda",
+          "publication_date": "2011",
+          "id": "vi_thag10.7_indacanda",
+          "segmented": false,
+          "volpage": null
+        }
+      ],
+      "parallel_count": 0,
+      "biblio": null,
+      "num": 7
+    }
+  ]
+}

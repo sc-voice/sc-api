@@ -1,0 +1,189 @@
+{
+  "isPromise": true,
+  "volume": "sc.suttaplex",
+  "args": [
+    "https://suttacentral.net/api/suttaplex/thig4.1"
+  ],
+  "value": [
+    {
+      "acronym": "Thig 4.1",
+      "volpages": {
+        "vnp": "Thig 63"
+      },
+      "uid": "thig4.1",
+      "blurb": null,
+      "difficulty": null,
+      "original_title": "Bhaddākāpilānītherīgāthā",
+      "root_lang": "pli",
+      "root_lang_name": "Pāli",
+      "type": "text",
+      "translated_title": "Bhaddā Kāpilānī",
+      "translations": [
+        {
+          "lang": "pli",
+          "lang_name": "Pāli",
+          "is_root": true,
+          "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+          "author_short": "Mahāsaṅgīti",
+          "author_uid": "ms",
+          "publication_date": null,
+          "id": "pli_thig4.1_ms",
+          "segmented": true,
+          "title": "Bhaddākāpilānītherīgāthā",
+          "volpage": {
+            "vnp": "Thig 63"
+          }
+        },
+        {
+          "lang": "cs",
+          "lang_name": "Čeština",
+          "is_root": false,
+          "author": "Štěpán Chromovský",
+          "author_short": "Chromovský",
+          "author_uid": "chromovsky",
+          "publication_date": "1987",
+          "id": "cs_thig4.1_chromovsky",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Ekkehard Saß",
+          "author_short": "Saß",
+          "author_uid": "sass",
+          "publication_date": "2000",
+          "id": "de_thig4.1_sass",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "en",
+          "lang_name": "English",
+          "is_root": false,
+          "author": "Bhikkhu Sujato",
+          "author_short": "Sujato",
+          "author_uid": "sujato",
+          "publication_date": "2019",
+          "id": "en_thig4.1_sujato",
+          "segmented": true,
+          "title": "Bhaddā Kāpilānī",
+          "volpage": null
+        },
+        {
+          "author": "Dr. Hellmuth Hecker, Ayya Khema",
+          "author_short": "Hecker …",
+          "author_uid": "hecker-khema",
+          "id": "en_thig4.1_hecker-khema",
+          "is_root": false,
+          "lang": "en",
+          "lang_name": "English",
+          "publication_date": "1987",
+          "segmented": false,
+          "volpage": null,
+          "title": "Bhadda Kapilani"
+        },
+        {
+          "lang": "hu",
+          "lang_name": "Magyar",
+          "is_root": false,
+          "author": "Bálint Gyöngyi",
+          "author_short": "Bálint",
+          "author_uid": "balint",
+          "publication_date": "2008",
+          "id": "hu_thig4.1_balint",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "id",
+          "lang_name": "Indonesian",
+          "is_root": false,
+          "author": "Arya Karniawan",
+          "author_short": "Karniawan",
+          "author_uid": "karniawan",
+          "publication_date": "2019",
+          "id": "id_thig4.1_karniawan",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "it",
+          "lang_name": "Italiano",
+          "is_root": false,
+          "author": "Enzo Alfano",
+          "author_short": "Alfano",
+          "author_uid": "alfano",
+          "publication_date": "1987",
+          "id": "it_thig4.1_alfano",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Shoda Taikan",
+          "author_short": "Taikan",
+          "author_uid": "taikan",
+          "publication_date": "2009–11",
+          "id": "jpn_thig4.1_taikan",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "no",
+          "lang_name": "Norsk",
+          "is_root": false,
+          "author": "Kåre A. Lie, Tone Gleditsch Stabell",
+          "author_short": "Lie …",
+          "author_uid": "lie-stabell",
+          "publication_date": null,
+          "id": "no_thig4.1_lie-stabell",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "ru",
+          "lang_name": "ру́сский язы́к",
+          "is_root": false,
+          "author": "SV",
+          "author_short": "SV",
+          "author_uid": "sv",
+          "publication_date": "2011",
+          "id": "ru_thig4.1_sv",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "si",
+          "lang_name": "සිංහල",
+          "is_root": false,
+          "author": "A.P. de Zoysa",
+          "author_short": "Zoysa",
+          "author_uid": "zoysa",
+          "publication_date": null,
+          "id": "si_thig4.1_zoysa",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "vi",
+          "lang_name": "Tiếng Việt",
+          "is_root": false,
+          "author": "Bhikkhu Indacanda",
+          "author_short": "Indacanda",
+          "author_uid": "indacanda",
+          "publication_date": "2011",
+          "id": "vi_thig4.1_indacanda",
+          "segmented": false,
+          "volpage": null
+        }
+      ],
+      "parallel_count": 17,
+      "biblio": null,
+      "num": 1
+    }
+  ]
+}

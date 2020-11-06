@@ -1,0 +1,140 @@
+{
+  "isPromise": true,
+  "volume": "sc.suttaplex",
+  "args": [
+    "https://suttacentral.net/api/suttaplex/thig2.1"
+  ],
+  "value": [
+    {
+      "acronym": "Thig 2.1",
+      "volpages": {
+        "vnp": "Thig 19"
+      },
+      "uid": "thig2.1",
+      "blurb": null,
+      "difficulty": null,
+      "original_title": "Abhirūpanandātherīgāthā",
+      "root_lang": "pli",
+      "root_lang_name": "Pāli",
+      "type": "text",
+      "translated_title": "Abhirūpanandā",
+      "translations": [
+        {
+          "lang": "pli",
+          "lang_name": "Pāli",
+          "is_root": true,
+          "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+          "author_short": "Mahāsaṅgīti",
+          "author_uid": "ms",
+          "publication_date": null,
+          "id": "pli_thig2.1_ms",
+          "segmented": true,
+          "title": "Abhirūpanandātherīgāthā",
+          "volpage": {
+            "vnp": "Thig 19"
+          }
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Ekkehard Saß",
+          "author_short": "Saß",
+          "author_uid": "sass",
+          "publication_date": "2000",
+          "id": "de_thig2.1_sass",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "en",
+          "lang_name": "English",
+          "is_root": false,
+          "author": "Bhikkhu Sujato",
+          "author_short": "Sujato",
+          "author_uid": "sujato",
+          "publication_date": "2019",
+          "id": "en_thig2.1_sujato",
+          "segmented": true,
+          "title": "Abhirūpanandā",
+          "volpage": null
+        },
+        {
+          "lang": "hu",
+          "lang_name": "Magyar",
+          "is_root": false,
+          "author": "Bálint Gyöngyi",
+          "author_short": "Bálint",
+          "author_uid": "balint",
+          "publication_date": "2008",
+          "id": "hu_thig2.1_balint",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "id",
+          "lang_name": "Indonesian",
+          "is_root": false,
+          "author": "Arya Karniawan",
+          "author_short": "Karniawan",
+          "author_uid": "karniawan",
+          "publication_date": "2019",
+          "id": "id_thig2.1_karniawan",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Shoda Taikan",
+          "author_short": "Taikan",
+          "author_uid": "taikan",
+          "publication_date": "2009–11",
+          "id": "jpn_thig2.1_taikan",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "no",
+          "lang_name": "Norsk",
+          "is_root": false,
+          "author": "Kåre A. Lie, Tone Gleditsch Stabell",
+          "author_short": "Lie …",
+          "author_uid": "lie-stabell",
+          "publication_date": null,
+          "id": "no_thig2.1_lie-stabell",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "si",
+          "lang_name": "සිංහල",
+          "is_root": false,
+          "author": "A.P. de Zoysa",
+          "author_short": "Zoysa",
+          "author_uid": "zoysa",
+          "publication_date": null,
+          "id": "si_thig2.1_zoysa",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "vi",
+          "lang_name": "Tiếng Việt",
+          "is_root": false,
+          "author": "Bhikkhu Indacanda",
+          "author_short": "Indacanda",
+          "author_uid": "indacanda",
+          "publication_date": "2011",
+          "id": "vi_thig2.1_indacanda",
+          "segmented": false,
+          "volpage": null
+        }
+      ],
+      "parallel_count": 4,
+      "biblio": null,
+      "num": 1
+    }
+  ]
+}

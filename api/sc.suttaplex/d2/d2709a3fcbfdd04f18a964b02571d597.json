@@ -1,0 +1,298 @@
+{
+  "isPromise": true,
+  "volume": "sc.suttaplex",
+  "args": [
+    "https://suttacentral.net/api/suttaplex/mn74"
+  ],
+  "value": [
+    {
+      "acronym": "MN 74",
+      "volpages": "MN i 497",
+      "uid": "mn74",
+      "blurb": "Deftly outmaneuvering an extreme skeptic, the Buddha discusses the outcomes of belief and disbelief. Rather than getting stuck in abstractions, he encourages staying close to the feelings one experiences.",
+      "difficulty": {
+        "name": "intermediate",
+        "level": 2
+      },
+      "original_title": "Dīghanakha Sutta",
+      "root_lang": "pli",
+      "root_lang_name": "Pāli",
+      "type": "text",
+      "translated_title": "With Dīghanakha ",
+      "translations": [
+        {
+          "lang": "pli",
+          "lang_name": "Pāli",
+          "is_root": true,
+          "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+          "author_short": "Mahāsaṅgīti",
+          "author_uid": "ms",
+          "publication_date": null,
+          "id": "pli_mn74_ms",
+          "segmented": true,
+          "title": "Dīghanakhasutta ",
+          "volpage": {
+            "pts-vp-pli1ed": "MN i 498"
+          }
+        },
+        {
+          "lang": "bn",
+          "lang_name": "Bengali",
+          "is_root": false,
+          "author": "ধর্মাধার মহাস্থবির",
+          "author_short": "ধর্মাধার",
+          "author_uid": "mahasthavya",
+          "publication_date": null,
+          "id": "bn_mn74_mahasthavya",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "ca",
+          "lang_name": "Català",
+          "is_root": false,
+          "author": "Jambudipa",
+          "author_short": "Jambudipa",
+          "author_uid": "jambudipa",
+          "publication_date": "2012",
+          "id": "ca_mn74_jambudipa",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Mettiko Bhikkhu",
+          "author_short": "Mettiko",
+          "author_uid": "mettiko",
+          "publication_date": "2001",
+          "id": "de_mn74_mettiko",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "en",
+          "lang_name": "English",
+          "is_root": false,
+          "author": "Bhikkhu Sujato",
+          "author_short": "Sujato",
+          "author_uid": "sujato",
+          "publication_date": null,
+          "id": "en_mn74_sujato",
+          "segmented": true,
+          "title": "With Dīghanakha ",
+          "volpage": null
+        },
+        {
+          "author": "I.B. Horner",
+          "author_short": "Horner",
+          "author_uid": "horner",
+          "id": "en_mn74_horner",
+          "is_root": false,
+          "lang": "en",
+          "lang_name": "English",
+          "publication_date": "2017",
+          "segmented": false,
+          "volpage": null,
+          "title": "Discourse to Dīghanakha"
+        },
+        {
+          "lang": "es",
+          "lang_name": "Español",
+          "is_root": false,
+          "author": "Anton P. Baron",
+          "author_short": "Baron",
+          "author_uid": "baron",
+          "publication_date": null,
+          "id": "es_mn74_baron",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Christian Maës",
+          "author_short": "Maës",
+          "author_uid": "maes",
+          "publication_date": null,
+          "id": "fr_mn74_maes",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "he",
+          "lang_name": "Hebrew",
+          "is_root": false,
+          "author": "Shai Schwartz",
+          "author_short": "Schwartz",
+          "author_uid": "schwartz",
+          "publication_date": "2004",
+          "id": "he_mn74_schwartz",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "hi",
+          "lang_name": "हिन्दी",
+          "is_root": false,
+          "author": "Rahul Sankrityayan",
+          "author_short": "Sankrityayan",
+          "author_uid": "sankrityayan",
+          "publication_date": "1933",
+          "id": "hi_mn74_sankrityayan",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "id",
+          "lang_name": "Indonesian",
+          "is_root": false,
+          "author": "Indra Anggara",
+          "author_short": "Anggara",
+          "author_uid": "anggara",
+          "publication_date": null,
+          "id": "id_mn74_anggara",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "it",
+          "lang_name": "Italiano",
+          "is_root": false,
+          "author": "De Lorenzo, Pier Antonio Morniroli, Enrico Federici",
+          "author_short": "Lorenzo …",
+          "author_uid": "lorenzo-morniroli-federici",
+          "publication_date": "2007",
+          "id": "it_mn74_lorenzo-morniroli-federici",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "my",
+          "lang_name": "မြန်မာဘာသာ",
+          "is_root": false,
+          "author": "Pitaka Myanmar Translation",
+          "author_short": "PMT",
+          "author_uid": "pmt",
+          "publication_date": null,
+          "id": "my_mn74_pmt",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "no",
+          "lang_name": "Norsk",
+          "is_root": false,
+          "author": "Kåre A. Lie",
+          "author_short": "Lie",
+          "author_uid": "lie",
+          "publication_date": null,
+          "id": "no_mn74_lie",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "pt",
+          "lang_name": "Português",
+          "is_root": false,
+          "author": "Michael Beisert",
+          "author_short": "Beisert",
+          "author_uid": "beisert",
+          "publication_date": "2008",
+          "id": "pt_mn74_beisert",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "ru",
+          "lang_name": "ру́сский язы́к",
+          "is_root": false,
+          "author": "SV",
+          "author_short": "SV",
+          "author_uid": "sv",
+          "publication_date": "2015",
+          "id": "ru_mn74_sv",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "si",
+          "lang_name": "සිංහල",
+          "is_root": false,
+          "author": "A.P. de Zoysa",
+          "author_short": "Zoysa",
+          "author_uid": "zoysa",
+          "publication_date": null,
+          "id": "si_mn74_zoysa",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "sl",
+          "lang_name": "Slovenščina",
+          "is_root": false,
+          "author": "Božič",
+          "author_short": "Božič",
+          "author_uid": "bozic",
+          "publication_date": null,
+          "id": "sl_mn74_bozic",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "sr",
+          "lang_name": "Srpski",
+          "is_root": false,
+          "author": "Branislav Kovačević",
+          "author_short": "Kovačević",
+          "author_uid": "kovacevic",
+          "publication_date": "2014",
+          "id": "sr_mn74_kovacevic",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "th",
+          "lang_name": "ไทย",
+          "is_root": false,
+          "author": "Siam Rath",
+          "author_short": "Siam Rath",
+          "author_uid": "siam_rath",
+          "publication_date": null,
+          "id": "th_mn74_siam_rath",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "vi",
+          "lang_name": "Tiếng Việt",
+          "is_root": false,
+          "author": "Thích Minh Châu",
+          "author_short": "Minh Châu",
+          "author_uid": "minh_chau",
+          "publication_date": "1995",
+          "id": "vi_mn74_minh_chau",
+          "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "zh",
+          "lang_name": "汉语",
+          "is_root": false,
+          "author": "莊春江",
+          "author_short": "莊春江",
+          "author_uid": "zhuang",
+          "publication_date": null,
+          "id": "zh_mn74_zhuang",
+          "segmented": false,
+          "volpage": null
+        }
+      ],
+      "parallel_count": 11,
+      "biblio": null,
+      "num": 4
+    }
+  ]
+}
