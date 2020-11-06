@@ -1,0 +1,25 @@
+{
+  "isPromise": true,
+  "volume": "sc.suttaplex",
+  "args": [
+    "https://suttacentral.net/api/suttaplex/an2.911"
+  ],
+  "value": [
+    {
+      "acronym": null,
+      "volpages": null,
+      "uid": null,
+      "blurb": null,
+      "difficulty": null,
+      "original_title": null,
+      "root_lang": null,
+      "root_lang_name": null,
+      "type": "text",
+      "translated_title": null,
+      "translations": [],
+      "parallel_count": 0,
+      "biblio": null,
+      "num": null
+    }
+  ]
+}
