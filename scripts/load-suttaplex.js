@@ -13,8 +13,8 @@ const {
 const argv = process.argv;
 const prefix = argv[2];
 
-const STAGING = 'http://staging.suttacentral.net/api';
-const PRODUCTION = 'http://suttacentral.net/api';
+const STAGING = 'https://staging.suttacentral.net/api';
+const PRODUCTION = 'https://suttacentral.net/api';
 
 (async function() { try {
     var sca = await new ScApi({
@@ -25,7 +25,7 @@ const PRODUCTION = 'http://suttacentral.net/api';
     let i = 0;
     for (let f of SuttaCentralId.supportedSuttas) {
         if (!prefix || f.startsWith(prefix)) {
-            await new Promise(r=>setTimeout(()=>r(), 2*1000));
+            await new Promise(r=>setTimeout(()=>r(), 1*1000));
             await sca.loadSuttaplexJson(f);
         }
     }

@@ -12,8 +12,8 @@ const {
 
 const [arg0,arg1, suid, lang, author] = process.argv;
 
-const STAGING = 'http://staging.suttacentral.net/api';
-const PRODUCTION = 'http://suttacentral.net/api';
+const STAGING = 'https://staging.suttacentral.net/api';
+const PRODUCTION = 'https://suttacentral.net/api';
 
 (async function() { try {
     var sca = await new ScApi({

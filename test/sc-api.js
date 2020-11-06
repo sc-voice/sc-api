@@ -418,6 +418,13 @@
         should(ms2-ms1).below(30); // read memory
         
     });
+    it("TESTTESTloadSuttaplexJson(...)=>DN3 suttaplex", async()=>{
+        var sca = await new ScApi().initialize();
+        var dn3 = await sca.loadSuttaplexJson("dn3");
+        should(dn3.acronym).equal(`DN 3`);
+        should(dn3.original_title).equal('Ambaṭṭha Sutta');
+        should(dn3.translations.length).equal(19);
+    });
     it("suttaFromHtml(html, opts) parses HTML", async()=>{
         var sca = await new ScApi().initialize();
         var text = [
