@@ -151,7 +151,7 @@
         should(translations).instanceOf(Array);
         should(translations[0].author_uid).equal('beisert');
     });
-    it("TESTTESTloadSutta(...) => deadserver an10.2/pt/beisert", async()=>{
+    it("loadSutta(...) => deadserver an10.2/pt/beisert", async()=>{
         var sca = await new ScApi(DEADSERVER).initialize();
         sca.logLevel = 'warn';
         var opts = {
@@ -418,12 +418,33 @@
         should(ms2-ms1).below(30); // read memory
         
     });
-    it("TESTTESTloadSuttaplexJson(...)=>DN3 suttaplex", async()=>{
+    it("loadSuttaplexJson(...)=>DN3 suttaplex", async()=>{
         var sca = await new ScApi().initialize();
         var dn3 = await sca.loadSuttaplexJson("dn3");
         should(dn3.acronym).equal(`DN 3`);
         should(dn3.original_title).equal('Ambaṭṭha Sutta');
         should(dn3.translations.length).equal(19);
+    });
+    it("TESTTESTloadSuttaplexJson(...)=>sn46.55 suttaplex", async()=>{
+        var sca = await new ScApi().initialize();
+        var scid = 'sn46.55';
+        var acronym = `SN 46.55`;
+        var original_title = 'Saṅgārava Sutta';
+
+        var spx = await sca.loadSuttaplexJson(scid, 'de');
+        should(spx).properties({acronym, original_title});
+        should(spx.translations.length).equal(1); // German translations
+
+        // This should not affect subsequent query
+        var spx = await sca.loadSuttaplexJson(scid, 'cs');
+        should(spx).properties({acronym, original_title});
+        should(spx.translations.length).equal(0); // no Czech
+
+        // Should be identical to first query
+        var spx = await sca.loadSuttaplexJson(scid, 'de');
+        should(spx).properties({acronym, original_title});
+        should(spx.translations.length).equal(1); // German translations
+
     });
     it("suttaFromHtml(html, opts) parses HTML", async()=>{
         var sca = await new ScApi().initialize();

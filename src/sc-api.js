@@ -441,10 +441,13 @@
             let sutta_uid = SuttaCentralId.normalizeSuttaId(scid);
             let request = `${this.apiUrl}/suttaplex/${sutta_uid}`;
             let result = await that.loadJsonRest(request);
-            var splx = result[0];
+            var splx = JSON.parse(JSON.stringify(result[0])); // copy
+            if (!splx) {
+                throw new Error(`loadSuttaplexJson() no suttaplex`);
+            }
             var translations = splx && splx.translations;
             if (translations == null || translations.length === 0) {
-                throw new Error(`loadSuttaplexJson() sutta not found:${sutta_uid}`);
+                throw new Error(`loadSuttaplexJson() no translations`);
             }
             if (lang || author_uid) {
                 splx.translations = 
