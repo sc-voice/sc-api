@@ -517,14 +517,15 @@
                 if (translation.text) {
                     var sutta = this.suttaFromApiText(result);
                 } else {
-                    var rootStrings = result.root_text.strings;
+                    var rootStrings = result.root_text.strings || {};
                     var segObj = {};
+                    console.log(JSON.stringify(result.rootText, null,2));
                     Object.keys(rootStrings).forEach(scid => {
                         segObj[scid] = segObj[scid] || { scid };
                         segObj[scid].pli = rootStrings[scid];
                         segObj[scid].en = "";
                     });
-                    var transStrings = translation.strings;
+                    var transStrings = translation.strings || {};
                     Object.keys(transStrings).forEach(scid => {
                         segObj[scid] = segObj[scid] || { scid };
                         var text = transStrings[scid];
