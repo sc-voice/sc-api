@@ -23,9 +23,11 @@ const PRODUCTION = 'https://suttacentral.net/api';
         readFile: false,
     }).initialize();
     let i = 0;
+    sca.logLevel = 'warn';
     for (let f of SuttaCentralId.supportedSuttas) {
         if (!prefix || f.startsWith(prefix)) {
-            await new Promise(r=>setTimeout(()=>r(), 1*1000));
+            //await new Promise(r=>setTimeout(()=>r(), 1*100));
+            logger.info(`loadSuttaplexJson`, f);
             await sca.loadSuttaplexJson(f);
         }
     }

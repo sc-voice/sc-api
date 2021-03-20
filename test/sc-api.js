@@ -446,18 +446,18 @@
         var sca = await new ScApi().initialize();
         var dn3 = await sca.loadSuttaplexJson("dn3");
         should(dn3.acronym).equal(`DN 3`);
-        should(dn3.original_title).equal('Ambaṭṭha Sutta');
+        should(dn3.original_title).equal('Ambaṭṭhasutta');
         should(dn3.translations.length).equal(19);
     });
     it("loadSuttaplexJson(...)=>sn46.55 suttaplex", async()=>{
         var sca = await new ScApi().initialize();
         var scid = 'sn46.55';
         var acronym = `SN 46.55`;
-        var original_title = 'Saṅgārava Sutta';
+        var original_title = 'Saṅgāravasutta';
 
         var spx = await sca.loadSuttaplexJson(scid, 'de');
         should(spx).properties({acronym, original_title});
-        should(spx.translations.length).equal(1); // German translations
+        should(spx.translations.length).equal(2); // German translations
 
         // This should not affect subsequent query
         var spx = await sca.loadSuttaplexJson(scid, 'cs');
@@ -467,7 +467,7 @@
         // Should be identical to first query
         var spx = await sca.loadSuttaplexJson(scid, 'de');
         should(spx).properties({acronym, original_title});
-        should(spx.translations.length).equal(1); // German translations
+        should(spx.translations.length).equal(2); // German translations
 
     });
     it("suttaFromHtml(html, opts) parses HTML", async()=>{

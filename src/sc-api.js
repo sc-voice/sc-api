@@ -487,8 +487,7 @@
             var author_uid = opts.translator;
             var suttaplex = await this.loadSuttaplexJson(
                 sutta_uid, language, author_uid);
-            var translations = suttaplex.translations
-                .filter(t=>t.author_uid !== 'kusalagnana-maitrimurti-traetow');
+            var translations = suttaplex.translations;
             if (translations == null || translations.length == 0) {
                 this.log(`loadSutta(${sutta_uid},${language}) => no translations`);
                 return null;
@@ -497,8 +496,7 @@
             author_uid = translations[0].author_uid;
             var result = await this.loadSuttaJson(sutta_uid, language, author_uid);
             if (result.translation == null && translations.length>0) {
-                var trans = translations.filter(t=>t.segmented)[0]
-                    .filter(t=>t.author_uid !== 'kusalagnana-maitrimurti-traetow');
+                var trans = translations.filter(t=>t.segmented)[0];
                 if (trans == null) {
                     this.info([
                         `loadSutta() ${sutta_uid}/${language}/${author_uid}`,
