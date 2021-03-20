@@ -245,20 +245,20 @@
     });
     it("TESTTESTloadSutta(...) => legacy german sutta", async()=>{
         var sca = await new ScApi().initialize();
-        var scid = 'dn7';
+        var scid = 'dn1';
         var language = 'de';
         var sutta = await sca.loadSutta(scid,language);
         should.deepEqual(sutta.segmented, false);
         var suttaplex = sutta.suttaplex;
-        should(suttaplex.acronym).equal('DN 7');
+        should(suttaplex.acronym).equal('DN 1');
         var translations = suttaplex.translations;
         should(translations).instanceOf(Array);
-        should(translations[0].author_uid).equal('sabbamitta');
+        should(translations[0].author_uid).equal('franke');
 
         var sutta = await sca.loadSutta(scid, language, 'sujato');
         should(sutta).equal(null);
     });
-    it("TESTTESTloadSutta(...) => list of Snp1.8 en translations", async()=>{
+    it("loadSutta(...) => list of Snp1.8 en translations", async()=>{
         var sca = await new ScApi().initialize();
         var scid = 'snp1.8';
         var language = 'en';
@@ -270,7 +270,7 @@
         should(translations).instanceOf(Array);
         should.deepEqual(translations[0], TRANSLATIONS_SNP1_8_2021); 
     });
-    it("TESTTESTloadSutta(...) => en translations for Snp1.8", async()=>{
+    it("loadSutta(...) => en translations for Snp1.8", async()=>{
         var sca = await new ScApi().initialize();
         var language = 'en';
         var sutta = await sca.loadSutta({
@@ -300,7 +300,7 @@
         should(segments[i].pli).match(/Mettasutta/um);
         should(segments.length).equal(17);
     });
-    it("TESTTESTloadSutta(...) => en translations for ea12.1", async()=>{
+    it("loadSutta(...) => en translations for ea12.1", async()=>{
         var sca = await new ScApi().initialize();
         var language = 'en';
         var sutta = await sca.loadSutta({
@@ -371,7 +371,7 @@
         should(err).instanceOf(Error);
         logger.warn("EXPECTED WARN (END)");
     });
-    it("TESTTESTloadSutta(...) => an2.12 as part of an2.11-20", async()=>{
+    it("loadSutta(...) => an2.12 as part of an2.11-20", async()=>{
         var sca = await new ScApi().initialize();
         var language = 'en';
         var sutta = await sca.loadSutta('an2.12');
@@ -394,7 +394,7 @@
           "Sekhiya"
         ]);
     });
-    it("TESTTESTloadSutta(opts) loads MN79", async()=>{
+    it("loadSutta(opts) loads MN79", async()=>{
         var sca = await new ScApi().initialize();
         var sutta = await sca.loadSutta("mn79", "en", "sujato");
 
@@ -404,7 +404,7 @@
             'segmented', 'segments', 'suttaplex', 
         ].sort());
     });
-    it("TESTTESTloadSuttaplexJson(...)=>refreshes api folder", async()=>{
+    it("loadSuttaplexJson(...)=>refreshes api folder", async()=>{
         // Force writing of api cache
         var sca = await new ScApi({
             readMem: false,
@@ -423,7 +423,7 @@
         var ms1 = Date.now();
         should(ms1-ms0).above(150); //slow
     });
-    it("TESTTESTloadSuttaplexJson(...)=>suttaplex", async()=>{
+    it("loadSuttaplexJson(...)=>suttaplex", async()=>{
         // normal cache use
         var sca = await new ScApi().initialize();
 
@@ -449,7 +449,7 @@
         should(dn3.original_title).equal('Ambaṭṭha Sutta');
         should(dn3.translations.length).equal(19);
     });
-    it("TESTTESTloadSuttaplexJson(...)=>sn46.55 suttaplex", async()=>{
+    it("loadSuttaplexJson(...)=>sn46.55 suttaplex", async()=>{
         var sca = await new ScApi().initialize();
         var scid = 'sn46.55';
         var acronym = `SN 46.55`;
