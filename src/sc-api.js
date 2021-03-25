@@ -472,7 +472,12 @@
             throw e;
         }}
 
-        async loadSutta(...args) { try {
+        async loadSutta(...args) { 
+            console.trace(`deprecated`);
+            return this.loadLegacySutta(...args);
+        }
+
+        async loadLegacySutta(...args) { try {
             if (typeof args[0] === "string") {
                 var opts = {
                     scid: args[0],
@@ -522,7 +527,7 @@
                 } else {
                     var rootStrings = result.root_text.strings || {};
                     var segObj = {};
-                    console.log(JSON.stringify(result.rootText, null,2));
+                    //console.log(JSON.stringify(result.rootText, null,2));
                     Object.keys(rootStrings).forEach(scid => {
                         segObj[scid] = segObj[scid] || { scid };
                         segObj[scid].pli = rootStrings[scid];
@@ -546,6 +551,26 @@
                 }
                 sutta.author_uid = translation.author_uid;
                 sutta.suttaplex = result.suttaplex;
+                let LEGACY_PROPS = [
+                    'acronym',
+                    'original_title',
+                    'translations',
+                ];
+                for (let lp of LEGACY_PROPS) {
+                    if (!sutta.hasOwnProperty(lp)) {
+                        let value = sutta.suttaplex[lp];
+                        let dbgValue = value instanceof Array
+                            ? value.map(v=>v.id)
+                            : value;
+                        Object.defineProperty(sutta, lp, {
+                            get: ()=>{
+                                console.log(`DEPRECATED: loadLegacySutta.${lp}:`, dbgValue);
+                                return value;
+                            }
+                        });
+                    }
+                }
+                sutta.segments = sutta.segments || [];
                 return sutta;
             } else { // no unique translation 
                 return result;
