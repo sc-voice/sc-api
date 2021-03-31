@@ -139,6 +139,19 @@
           "volpage": null
         },
         {
+          "author": "Gabriel N. Laera",
+          "author_short": "Laera",
+          "author_uid": "laera",
+          "id": "sn2.4_translation-pt-laera-quaresma",
+          "is_root": false,
+          "lang": "pt",
+          "lang_name": "Português",
+          "publication_date": null,
+          "segmented": true,
+          "title": null,
+          "volpage": null
+        },
+        {
           "author": "Dhammadha.ro community",
           "author_short": "Dhammadha",
           "author_uid": "dhammadharo",
