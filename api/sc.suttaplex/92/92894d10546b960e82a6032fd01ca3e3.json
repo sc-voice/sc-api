@@ -116,6 +116,19 @@
           "volpage": null
         },
         {
+          "author": "Kaz Takehara",
+          "author_short": "Takehara",
+          "author_uid": "kaz",
+          "id": "an2.87-97_translation-jpn-kaz",
+          "is_root": false,
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "publication_date": null,
+          "segmented": true,
+          "title": null,
+          "volpage": null
+        },
+        {
           "author": "Pitaka Myanmar Translation",
           "author_short": "PMT",
           "author_uid": "pmt",
