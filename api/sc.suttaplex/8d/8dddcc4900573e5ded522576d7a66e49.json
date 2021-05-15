@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.54",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Consciousness is like a seed that is planted in the soil of the other four aggregates and watered with craving.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.54_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.54_translation-en-sujato",
           "is_root": false,
@@ -214,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.54",
-      "volpages": "SN iii 54"
+      "volpages": "PTS SN iii 54"
     }
   ]
 }

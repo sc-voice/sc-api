@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 13.2",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "For someone who has seen the truth, the suffering eliminated is like the water in a massive dam; what remains is like a few drops on a blade of grass.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn13.2_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn13.2_translation-en-sujato",
           "is_root": false,
@@ -201,7 +202,7 @@
       ],
       "type": "leaf",
       "uid": "sn13.2",
-      "volpages": "SN ii 133"
+      "volpages": "PTS SN ii 133"
     }
   ]
 }

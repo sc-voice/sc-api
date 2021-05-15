@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 10.219",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha asserts that one’s kamma must be exhausted before making an end of suffering. If one develops the heart’s release through love, no bad deeds can persist there.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an10.219_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an10.219_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an10.219",
-      "volpages": "AN v 299"
+      "volpages": "PTS AN v 299"
     }
   ]
 }

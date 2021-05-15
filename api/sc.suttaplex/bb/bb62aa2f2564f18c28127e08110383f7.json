@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 16.11",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "When several of Ānanda’s students disrobe, Kassapa admonishes him, calling him “boy”. The nun Thullanandā hears of this and criticizes Kassapa, claiming he formerly followed another teacher. But Kassapa refutes this, and gives an account of his going forth and first encounter with the Buddha.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn16.11_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn16.11_translation-en-sujato",
           "is_root": false,
@@ -178,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn16.11",
-      "volpages": "SN ii 217"
+      "volpages": "PTS SN ii 217"
     }
   ]
 }

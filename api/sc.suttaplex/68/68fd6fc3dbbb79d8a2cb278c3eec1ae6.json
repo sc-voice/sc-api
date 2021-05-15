@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 35.247",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The senses are like a snake, a crocodile, a bird, a dog, a jackal, and a monkey all tied up together, pulling this way and that. Mindfulness is like a post that keeps them grounded.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn35.247_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn35.247_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.247",
-      "volpages": "SN iv 198"
+      "volpages": "PTS SN iv 198"
     }
   ]
 }

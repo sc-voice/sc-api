@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.55",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha utters an enigmatic saying that non-identification leads to cutting off the fetters. A mendicant asks how to achieve this.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.55_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.55_translation-en-sujato",
           "is_root": false,
@@ -202,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.55",
-      "volpages": "SN iii 55"
+      "volpages": "PTS SN iii 55"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 12.23",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The ending of defilements comes only when the truth is seen. But seeing the truth comes about due to a vital condition. In this way, twelve factors leading to freedom are united with the twelve factors leading to suffering.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn12.23_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn12.23_translation-de-sabbamitta",
           "is_root": false,
@@ -80,7 +81,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn12.23_translation-en-sujato",
           "is_root": false,
@@ -263,7 +264,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.23",
-      "volpages": "SN ii 29"
+      "volpages": "PTS SN ii 29"
     }
   ]
 }

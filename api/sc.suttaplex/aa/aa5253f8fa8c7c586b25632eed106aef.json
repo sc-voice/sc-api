@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 40",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The labels of being a spiritual practitioner don’t just come from external trappings, but from sincere inner change.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn40_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn40_translation-en-sujato",
           "is_root": false,
@@ -289,7 +290,7 @@
       ],
       "type": "leaf",
       "uid": "mn40",
-      "volpages": "MN i 281"
+      "volpages": "PTS MN i 281"
     }
   ]
 }

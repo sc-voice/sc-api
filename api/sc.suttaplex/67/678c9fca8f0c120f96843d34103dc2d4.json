@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 7.67",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "When a king’s fortress is well supplied with seven things and has four kinds of food supplies it is impregnable. Similarly, a noble disciple with seven qualities and the four absorptions is impregnable.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an7.67_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an7.67_translation-en-sujato",
           "is_root": false,
@@ -202,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "an7.67",
-      "volpages": "AN iv 106"
+      "volpages": "PTS AN iv 106"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.24",
+      "alt_volpages": "PTS (2nd ed) SN i 29",
       "biblio": null,
       "blurb": "One should rein in the mind, but only from that which is evil.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn1.24_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn1.24_translation-en-sujato",
           "is_root": false,
@@ -152,8 +153,8 @@
           "volpage": null
         },
         {
-          "author": "Gabriel N. Laera",
-          "author_short": "Laera",
+          "author": null,
+          "author_short": null,
           "author_uid": "laera",
           "id": "sn1.24_translation-pt-laera-quaresma",
           "is_root": false,
@@ -227,7 +228,7 @@
       ],
       "type": "leaf",
       "uid": "sn1.24",
-      "volpages": "SN i 14"
+      "volpages": "PTS (1st ed) SN i 14"
     }
   ]
 }

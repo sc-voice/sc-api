@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 4",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha explains the difficulties of living in the wilderness, and how they are overcome by purity of conduct and meditation. He recounts some of the fears and obstacles he faced during his own practice.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn4_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn4_translation-en-sujato",
           "is_root": false,
@@ -327,7 +328,7 @@
       ],
       "type": "leaf",
       "uid": "mn4",
-      "volpages": "MN i 16"
+      "volpages": "PTS MN i 16"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 46.57",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A series of passages on the benefits of meditating on a skeleton. Some editions treat the sections as separate suttas.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn46.57_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn46.57_translation-en-sujato",
           "is_root": false,
@@ -178,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn46.57",
-      "volpages": "SN v 129"
+      "volpages": "PTS SN v 129"
     }
   ]
 }

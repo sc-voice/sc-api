@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 34",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Drawing parallels with a cowherd guiding his herd across a dangerous river, the Buddha presents the various kinds of enlightened disciples who cross the stream of transmigration.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn34_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn34_translation-en-sujato",
           "is_root": false,
@@ -289,7 +290,7 @@
       ],
       "type": "leaf",
       "uid": "mn34",
-      "volpages": "MN i 225"
+      "volpages": "PTS MN i 225"
     }
   ]
 }

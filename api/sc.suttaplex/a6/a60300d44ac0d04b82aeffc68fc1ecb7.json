@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 41.9",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Citta meets with the naked ascetic Kassapa, an old friend of his, and asks what gains he has realized from the spiritual life. Kassapa admits he has realized no higher attainments, whereupon Citta reveals he has realized many such attainments. Kassapa decides to ordain as a Buddhist mendicant.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn41.9_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn41.9_translation-en-sujato",
           "is_root": false,
@@ -177,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn41.9",
-      "volpages": "SN iv 300"
+      "volpages": "PTS SN iv 300"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 8.43",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha teaches the wealthy laywoman Visākhā that when the sabbath is observed by following the eight precepts, one lives for that day like the perfected ones.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an8.43_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an8.43_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an8.43",
-      "volpages": "AN iv 255"
+      "volpages": "PTS AN iv 255"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "DN 27",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "In contrast with the brahmin’s self-serving mythologies of the past, the Buddha presents an account of evolution that shows how human choices are an integral part of the ecological balance, and how excessive greed destroys the order of nature.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "dn27_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "dn27_translation-en-sujato",
           "is_root": false,
@@ -265,7 +266,7 @@
       ],
       "type": "leaf",
       "uid": "dn27",
-      "volpages": "DN iii 80"
+      "volpages": "PTS DN iii 80"
     }
   ]
 }

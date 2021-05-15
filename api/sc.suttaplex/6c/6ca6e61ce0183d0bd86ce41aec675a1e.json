@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 7.7",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Migāra of Rohaṇa is a wealthy man, but even his riches are vulnerable to the vicissitudes of life, unlike spiritual wealth.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an7.7_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an7.7_translation-en-sujato",
           "is_root": false,
@@ -214,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "an7.7",
-      "volpages": "AN iv 6"
+      "volpages": "PTS AN iv 6"
     }
   ]
 }

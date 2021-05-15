@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 104",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Hearing of the death of the Jain leader Nigaṇṭha Nātaputta, the Buddha encourages the Saṅgha to swiftly resolve any disputes. He lays down a series of seven methods for resolving disputes. These form the foundation for the monastic code.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn104_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn104_translation-en-sujato",
           "is_root": false,
@@ -241,7 +242,7 @@
       ],
       "type": "leaf",
       "uid": "mn104",
-      "volpages": "MN ii 243"
+      "volpages": "PTS MN ii 243"
     }
   ]
 }

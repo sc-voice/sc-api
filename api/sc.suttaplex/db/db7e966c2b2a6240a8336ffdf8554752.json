@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 9.38",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Two brahmin cosmologists ask the Buddha to decide between competing claims as to whether the cosmos is infinite. Rejecting metaphysical claims, the Buddha says that there is no end of the world that can be reached by traveling; but without reaching the end of the world you can’t be free of suffering.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an9.38_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an9.38_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an9.38",
-      "volpages": "AN iv 428"
+      "volpages": "PTS AN iv 428"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 26",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "This is one of the most important biographical discourses, telling the Buddha’s experiences from leaving home to realizing awakening. Throughout, he was driven by the imperative to fully escape from rebirth and suffering.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn26_root-pli-ms",
           "is_root": true,
@@ -82,7 +83,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn26_translation-en-sujato",
           "is_root": false,
@@ -350,7 +351,7 @@
       ],
       "type": "leaf",
       "uid": "mn26",
-      "volpages": "MN i 160"
+      "volpages": "PTS MN i 160"
     }
   ]
 }

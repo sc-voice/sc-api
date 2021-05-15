@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 55.3",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The lay follower Dīghāvu is ill and he asks for the Buddha to visit. Dīghāvu confirms that he possesses the four factors of stream-entry and in addition six contemplations leading to insight. Yet he is still worried that his close companion will miss him when he dies.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn55.3_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn55.3_translation-en-sujato",
           "is_root": false,
@@ -202,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn55.3",
-      "volpages": "SN v 344"
+      "volpages": "PTS SN v 344"
     }
   ]
 }

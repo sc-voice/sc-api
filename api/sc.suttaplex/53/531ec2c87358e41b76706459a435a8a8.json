@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 20",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "In a practical meditation teaching, the Buddha describes five different approaches to stopping thoughts.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn20_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn20_translation-en-sujato",
           "is_root": false,
@@ -351,7 +352,7 @@
       ],
       "type": "leaf",
       "uid": "mn20",
-      "volpages": "MN i 118"
+      "volpages": "PTS MN i 118"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 55.26",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "When the householder Anāthapiṇḍika was sick, Sāriputta reminds him of his considerable accomplishments in the Dhamma, analyzing stream-entry in ten factors, at which Anāthapiṇḍika recovers. Later he invited Sāriputta and Ānanda for a meal, and Sāriputta thanked him with verses.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn55.26_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn55.26_translation-en-sujato",
           "is_root": false,
@@ -165,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "sn55.26",
-      "volpages": "SN v 380"
+      "volpages": "PTS SN v 380"
     }
   ]
 }

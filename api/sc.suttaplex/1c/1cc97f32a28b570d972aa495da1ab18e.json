@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 42.8",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha asks the chief Asibandhakaputta, a Jain, how Mahāvīra the Jain leader teaches his followers. He replies that you go to a rebirth depending on what you usually do. But the Buddha points out that even a killer only spends a small amount of time actually killing. The Buddha’s approach is to point out that deeds have results, and to encourage the abandoing of bad deeds and the adoption of good deeds.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn42.8_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn42.8_translation-en-sujato",
           "is_root": false,
@@ -177,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn42.8",
-      "volpages": "SN iv 317"
+      "volpages": "PTS SN iv 317"
     }
   ]
 }

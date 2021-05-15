@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 149",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Explains how insight into the six senses is integrated with the eightfold path and leads to liberation.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn149_root-pli-ms",
           "is_root": true,
@@ -82,7 +83,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn149_translation-en-sujato",
           "is_root": false,
@@ -290,7 +291,7 @@
       ],
       "type": "leaf",
       "uid": "mn149",
-      "volpages": "MN iii 287"
+      "volpages": "PTS MN iii 287"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 15.20",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha recounts how peoples of the past had different names for the mountains of Rājagaha. Yet now they have all gone",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn15.20_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn15.20_translation-en-sujato",
           "is_root": false,
@@ -165,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "sn15.20",
-      "volpages": "SN ii 190"
+      "volpages": "PTS SN ii 190"
     }
   ]
 }

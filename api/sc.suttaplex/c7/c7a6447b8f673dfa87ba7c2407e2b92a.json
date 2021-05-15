@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 140",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "While staying overnight in a potter’s workshop, the Buddha has a chance encounter with a monk who does not recognize him. They have a long and profound discussion based on the four elements. This is one of the most insightful and moving discourses in the canon.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn140_root-pli-ms",
           "is_root": true,
@@ -45,6 +46,19 @@
           "volpage": null
         },
         {
+          "author": "Anagarika Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "id": "mn140_translation-de-sabbamitta",
+          "is_root": false,
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Die Aufgliederung der Elemente ",
+          "volpage": null
+        },
+        {
           "author": "Mettiko Bhikkhu",
           "author_short": "Mettiko",
           "author_uid": "mettiko",
@@ -58,7 +72,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn140_translation-en-sujato",
           "is_root": false,
@@ -278,7 +292,7 @@
       ],
       "type": "leaf",
       "uid": "mn140",
-      "volpages": "MN iii 237"
+      "volpages": "PTS MN iii 237"
     }
   ]
 }

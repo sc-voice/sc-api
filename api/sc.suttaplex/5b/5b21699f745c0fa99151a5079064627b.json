@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 8.45",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha teaches the laywoman Bojjhā that when the sabbath is observed by following the eight precepts, one lives for that day like the perfected ones. Bojjhā exclaims that such a practice would be widely beneficial.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an8.45_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an8.45_translation-en-sujato",
           "is_root": false,
@@ -178,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an8.45",
-      "volpages": "AN iv 259"
+      "volpages": "PTS AN iv 259"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 53",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha is invited by his family, the Sakyans of Kapilavatthu, to inaugurate a new community hall. He invites Venerable Ānanda to explain in detail the stages of spiritual practice for a lay trainee.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn53_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn53_translation-en-sujato",
           "is_root": false,
@@ -289,7 +290,7 @@
       ],
       "type": "leaf",
       "uid": "mn53",
-      "volpages": "MN i 353"
+      "volpages": "PTS MN i 353"
     }
   ]
 }

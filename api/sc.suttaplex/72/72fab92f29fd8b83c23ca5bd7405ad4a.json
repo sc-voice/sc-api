@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 24.36",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The view that the Realized One neither exists nor does not exist after death arises from grasping to the five aggregates, which are suffering. But by seeing the aggregates as impermanent, this views is given up",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn24.36_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn24.36_translation-en-sujato",
           "is_root": false,
@@ -153,7 +154,7 @@
       ],
       "type": "leaf",
       "uid": "sn24.36",
-      "volpages": "SN iii 218"
+      "volpages": "PTS SN iii 218"
     }
   ]
 }

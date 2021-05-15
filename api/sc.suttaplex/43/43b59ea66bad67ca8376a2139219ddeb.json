@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 60",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha teaches a group of uncommitted householders how to use a rational reflection to arrive at practices and principles that are guaranteed to have a good outcome, even if we don’t know all the variables.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn60_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn60_translation-en-sujato",
           "is_root": false,
@@ -302,7 +303,7 @@
       ],
       "type": "leaf",
       "uid": "mn60",
-      "volpages": "MN i 400"
+      "volpages": "PTS MN i 400"
     }
   ]
 }

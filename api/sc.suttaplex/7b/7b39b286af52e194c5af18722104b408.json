@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 8.26",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Questioned by Jīvaka Komārabhacca, the Buddha explains what makes someone a Buddhist lay follower, a virtuous lay follower, and a lay follower practicing for the welfare of all.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an8.26_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an8.26_translation-en-sujato",
           "is_root": false,
@@ -226,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "an8.26",
-      "volpages": "AN iv 222"
+      "volpages": "PTS AN iv 222"
     }
   ]
 }

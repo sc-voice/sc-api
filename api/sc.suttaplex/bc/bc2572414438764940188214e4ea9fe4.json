@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 7.13",
+      "alt_volpages": "PTS (2nd ed) SN i 375",
       "biblio": null,
       "blurb": "The Buddha is ill and sends his attendant monk Upavāṇa to fetch some hot water. A brahmin gives him not just water, but also molasses to ease his stomach. Later the brahmin visits the Buddha to discuss generosity.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn7.13_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn7.13_translation-en-sujato",
           "is_root": false,
@@ -189,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn7.13",
-      "volpages": "SN i 174"
+      "volpages": "PTS (1st ed) SN i 174"
     }
   ]
 }

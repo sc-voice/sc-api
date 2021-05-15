@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.89",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Venerable Khemaka is ill, and some senior mendicants ask Dāsaka to convey their concern to him. There follows a series of exchanges mediated by Dāsaka until eventually Khemaka, despite his illness, goes to see the other mendicants himself. The seniors are asking to determine Khemaka’s understanding of the Dhamma, and he says that although he has let go of the five lower fetters, he still has a residual attachment to the five aggregates.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.89_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.89_translation-en-sujato",
           "is_root": false,
@@ -214,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.89",
-      "volpages": "SN iii 126"
+      "volpages": "PTS SN iii 126"
     }
   ]
 }

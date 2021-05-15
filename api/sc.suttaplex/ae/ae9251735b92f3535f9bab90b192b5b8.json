@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "DN 33",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha encourages Venerable Sāriputta to teach the mendicants, and he offers an extended listing of Buddhist doctrines arranged in numerical sequence.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "dn33_root-pli-ms",
           "is_root": true,
@@ -46,7 +47,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "dn33_translation-de-sabbamitta",
           "is_root": false,
@@ -59,7 +60,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "dn33_translation-en-sujato",
           "is_root": false,
@@ -242,7 +243,7 @@
       ],
       "type": "leaf",
       "uid": "dn33",
-      "volpages": "DN iii 207"
+      "volpages": "PTS DN iii 207"
     }
   ]
 }

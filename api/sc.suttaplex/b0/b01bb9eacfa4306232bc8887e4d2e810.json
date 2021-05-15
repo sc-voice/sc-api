@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 10.72",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "When the Buddha receives noisy visitors, several monks withdraw to a nearby forest to meditate. The Buddha praises them, saying that noise is a thorn to absorption.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an10.72_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an10.72_translation-en-sujato",
           "is_root": false,
@@ -177,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "an10.72",
-      "volpages": "AN v 133"
+      "volpages": "PTS AN v 133"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 9.37",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Ānanda exclaims how amazing it is that the Buddha has found a way to freedom while still experiencing the world. Questioned by the monk Udāyī, Ānanda recounts a discussion on advanced meditation with the nun Jaṭilagāhiyā.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an9.37_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an9.37_translation-en-sujato",
           "is_root": false,
@@ -202,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "an9.37",
-      "volpages": "AN iv 426"
+      "volpages": "PTS AN iv 426"
     }
   ]
 }

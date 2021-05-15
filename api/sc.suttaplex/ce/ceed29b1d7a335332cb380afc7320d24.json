@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "DN 31",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha encounters a young man who honors his dead parents by performing rituals. The Buddha recasts the meaningless rites in terms of virtuous conduct. This is the most detailed discourse on ethics for lay people.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "dn31_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "dn31_translation-de-sabbamitta",
           "is_root": false,
@@ -71,7 +72,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "dn31_translation-en-sujato",
           "is_root": false,
@@ -326,7 +327,7 @@
       ],
       "type": "leaf",
       "uid": "dn31",
-      "volpages": "DN iii 180"
+      "volpages": "PTS DN iii 180"
     }
   ]
 }

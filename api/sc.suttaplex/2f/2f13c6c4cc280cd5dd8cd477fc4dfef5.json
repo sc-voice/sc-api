@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.80",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "While staying at Kapilavatthu the Buddha dismissed the the Sangha for misbehaving. Later he decided to support them for the sake of the young mendicants. He reminds them that their livelihood is considered a lowly one, and that one should let go of bad thoughts and wrong views, and see the aggregates as impermanent. ",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.80_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.80_translation-en-sujato",
           "is_root": false,
@@ -202,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.80",
-      "volpages": "SN iii 91"
+      "volpages": "PTS SN iii 91"
     }
   ]
 }

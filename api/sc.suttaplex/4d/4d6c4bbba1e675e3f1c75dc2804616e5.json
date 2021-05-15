@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 5",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha’s chief disciples, Sāriputta and Moggallāna, use a simile of a tarnished bowl to illustrate the blemishes of the mind and conduct. They emphasize how the crucial thing is not so much whether there are blemishes, but whether we are aware of them.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn5_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn5_translation-en-sujato",
           "is_root": false,
@@ -314,7 +315,7 @@
       ],
       "type": "leaf",
       "uid": "mn5",
-      "volpages": "MN i 24"
+      "volpages": "PTS MN i 24"
     }
   ]
 }

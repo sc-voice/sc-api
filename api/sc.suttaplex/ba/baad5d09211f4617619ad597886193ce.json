@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 69",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A monk comes down to the community from the wilderness, but doesn’t behave properly. Venerable Sāriputta explains how a mendicant should behave, whether in forest or town.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn69_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn69_translation-en-sujato",
           "is_root": false,
@@ -265,7 +266,7 @@
       ],
       "type": "leaf",
       "uid": "mn69",
-      "volpages": "MN i 469"
+      "volpages": "PTS MN i 469"
     }
   ]
 }

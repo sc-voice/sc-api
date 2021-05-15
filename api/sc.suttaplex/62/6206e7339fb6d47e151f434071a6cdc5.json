@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 95",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The reputed brahmin Caṅkī goes with a large group to visit the Buddha, despite the reservations of other brahmins. A precocious student challenges the Buddha, affirming the validity of the Vedic scriptures. The Buddha gives a detailed explanation of how true understanding gradually emerges through spiritual education.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn95_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn95_translation-en-sujato",
           "is_root": false,
@@ -302,7 +303,7 @@
       ],
       "type": "leaf",
       "uid": "mn95",
-      "volpages": "MN ii 164"
+      "volpages": "PTS MN ii 164"
     }
   ]
 }

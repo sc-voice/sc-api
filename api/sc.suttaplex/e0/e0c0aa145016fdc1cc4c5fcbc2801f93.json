@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 61",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Using the “object lesson” of a cup of water, the Buddha explains to his son, Rāhula, the importance of telling the truth and reflecting on one’s motives.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn61_root-pli-ms",
           "is_root": true,
@@ -82,7 +83,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn61_translation-en-sujato",
           "is_root": false,
@@ -337,7 +338,7 @@
       ],
       "type": "leaf",
       "uid": "mn61",
-      "volpages": "MN i 414"
+      "volpages": "PTS MN i 414"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 56.87",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": null,
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn56.87_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn56.87_translation-en-sujato",
           "is_root": false,
@@ -165,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "sn56.87",
-      "volpages": "SN v 472"
+      "volpages": "PTS SN v 472"
     }
   ]
 }

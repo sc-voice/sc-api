@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 93",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A precocious brahmin student is encouraged against his wishes to challenge the Buddha on the question of caste. His reluctance turns out to be justified.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn93_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn93_translation-en-sujato",
           "is_root": false,
@@ -277,7 +278,7 @@
       ],
       "type": "leaf",
       "uid": "mn93",
-      "volpages": "MN ii 147"
+      "volpages": "PTS MN ii 147"
     }
   ]
 }

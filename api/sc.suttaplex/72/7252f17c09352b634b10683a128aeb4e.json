@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 90",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "King Pasenadi questions the Buddha on miscellaneous matters: caste, omniscience, and the gods among them.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn90_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn90_translation-en-sujato",
           "is_root": false,
@@ -265,7 +266,7 @@
       ],
       "type": "leaf",
       "uid": "mn90",
-      "volpages": "MN ii 125"
+      "volpages": "PTS MN ii 125"
     }
   ]
 }

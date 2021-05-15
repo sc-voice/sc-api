@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 117",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A discourse on the prerequisites of right samādhi that emphasizes the interrelationship and mutual support of all the factors of the eightfold path.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn117_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn117_translation-en-sujato",
           "is_root": false,
@@ -277,7 +278,7 @@
       ],
       "type": "leaf",
       "uid": "mn117",
-      "volpages": "MN iii 71"
+      "volpages": "PTS MN iii 71"
     }
   ]
 }

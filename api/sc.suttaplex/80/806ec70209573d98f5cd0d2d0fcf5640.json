@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 10.177",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Jāṇussoṇī describes brahmanical memorial rites for the dead, and asks if sharing merit actually benefits dead relatives. The Buddha replies that it might do in some circumstances.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an10.177_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an10.177_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an10.177",
-      "volpages": "AN v 269"
+      "volpages": "PTS AN v 269"
     }
   ]
 }

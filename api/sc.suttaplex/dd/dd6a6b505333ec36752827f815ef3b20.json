@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 10.220",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha teaches a brahmin that bad conduct leads to hell, good conduct to heaven.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an10.220_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an10.220_translation-en-sujato",
           "is_root": false,
@@ -165,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "an10.220",
-      "volpages": "AN v 301"
+      "volpages": "PTS AN v 301"
     }
   ]
 }

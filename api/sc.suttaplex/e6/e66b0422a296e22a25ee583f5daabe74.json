@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 8.6",
+      "alt_volpages": "PTS (2nd ed) SN i 408",
       "biblio": null,
       "blurb": "Seeing Sāriputta speak on the Dhamma, and the rapt attention of the Saṅgha, Vaṅgīsa comes out with verses in his praise.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn8.6_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn8.6_translation-en-sujato",
           "is_root": false,
@@ -189,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn8.6",
-      "volpages": "SN i 189"
+      "volpages": "PTS (1st ed) SN i 189"
     }
   ]
 }

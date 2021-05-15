@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 6.10",
+      "alt_volpages": "PTS (2nd ed) SN i 325",
       "biblio": null,
       "blurb": "Kokālika goes to the Buddha and criticizes Sāriputta and Moggallāna. But having deliberately slandered such great monks, he dies and Brahmā Sahampati informs the Buddha he has been reborn in hell. The Buddha gives a memorable simile of the length of life in hell.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn6.10_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn6.10_translation-en-sujato",
           "is_root": false,
@@ -189,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn6.10",
-      "volpages": "SN i 149"
+      "volpages": "PTS (1st ed) SN i 149"
     }
   ]
 }

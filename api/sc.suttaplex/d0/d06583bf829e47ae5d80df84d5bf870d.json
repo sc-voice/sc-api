@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.19",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Since the causes of the aggregates are suffering, how can the aggregates be free of suffering?",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.19_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.19_translation-en-sujato",
           "is_root": false,
@@ -214,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.19",
-      "volpages": "SN iii 23"
+      "volpages": "PTS SN iii 23"
     }
   ]
 }

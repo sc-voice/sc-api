@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 5.4",
+      "alt_volpages": "PTS (2nd ed) SN i 286",
       "biblio": null,
       "blurb": "Māra comes to the nun Vijayā in the form of a handsome youth and tries to tempt her from her path. But she rejects sensual pleasures, as she delights in subtle meditation and has ended ignorance.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn5.4_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn5.4_translation-de-sabbamitta",
           "is_root": false,
@@ -80,7 +81,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn5.4_translation-en-sujato",
           "is_root": false,
@@ -251,7 +252,7 @@
       ],
       "type": "leaf",
       "uid": "sn5.4",
-      "volpages": "SN i 130"
+      "volpages": "PTS (1st ed) SN i 130"
     }
   ]
 }

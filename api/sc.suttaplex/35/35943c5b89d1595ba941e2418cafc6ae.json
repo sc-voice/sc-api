@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "DN 16",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The longest of all discourses, this extended narrative tells of the events surrounding the Buddha’s death. Full of vivid and moving details, it is an ideal entry point into knowing the Buddha as a person, and understanding how the Buddhist community coped with his passing.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "dn16_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "dn16_translation-en-sujato",
           "is_root": false,
@@ -361,7 +362,7 @@
       ],
       "type": "leaf",
       "uid": "dn16",
-      "volpages": "DN ii 72"
+      "volpages": "PTS DN ii 72"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.2",
+      "alt_volpages": "PTS (2nd ed) SN i 469",
       "biblio": null,
       "blurb": "When Sakka, the Lord of Gods, tries to organize a conterattack against the demons, he is frustrated by his lazy general Susīma. Sakka asks Suvīra how one might get what one wants without effort; but Suvīra apparently believes Sakka can grant any wish he wants. The Buddha emphasizes that if effort is valuable among the gods, how much more so for mendicants.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn11.2_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn11.2_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.2",
-      "volpages": "SN i 217"
+      "volpages": "PTS (1st ed) SN i 217"
     }
   ]
 }

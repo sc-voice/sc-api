@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 5.1",
+      "alt_volpages": "PTS (2nd ed) SN i 281",
       "biblio": null,
       "blurb": "The nun Āḷavikā has entered the Dark Wood seeking seclusion when Māra comes to threaten her, claiming there is no escape and no point in seclusion. She recognizes him instantly and dismisses his taunts, asserting that she is beyond his control.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn5.1_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn5.1_translation-de-sabbamitta",
           "is_root": false,
@@ -80,7 +81,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn5.1_translation-en-sujato",
           "is_root": false,
@@ -251,7 +252,7 @@
       ],
       "type": "leaf",
       "uid": "sn5.1",
-      "volpages": "SN i 128"
+      "volpages": "PTS (1st ed) SN i 128"
     }
   ]
 }

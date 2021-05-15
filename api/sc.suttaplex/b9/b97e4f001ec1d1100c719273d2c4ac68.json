@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 6.3",
+      "alt_volpages": "PTS (2nd ed) SN i 306",
       "biblio": null,
       "blurb": "Brahmā Sahampati appears before a woman who is a devotee of his, and tells her to offer food instead to her son, a Buddhist monk, as Brahmās don’t eat the food she offers.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn6.3_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn6.3_translation-en-sujato",
           "is_root": false,
@@ -201,7 +202,7 @@
       ],
       "type": "leaf",
       "uid": "sn6.3",
-      "volpages": "SN i 140"
+      "volpages": "PTS (1st ed) SN i 140"
     }
   ]
 }

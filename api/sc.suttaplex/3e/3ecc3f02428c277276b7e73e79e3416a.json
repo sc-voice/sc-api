@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": null,
+      "alt_volpages": null,
       "biblio": null,
       "blurb": null,
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn47.51-62_root-pli-ms",
           "is_root": true,
@@ -43,7 +44,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn47.51-62_translation-de-sabbamitta",
           "is_root": false,
@@ -56,7 +57,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn47.51-62_translation-en-sujato",
           "is_root": false,

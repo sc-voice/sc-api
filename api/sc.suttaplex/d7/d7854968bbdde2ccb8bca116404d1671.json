@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 3",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Some of the Buddha’s students inherit from him only material profits and fame. But his true inheritance is the spiritual path, the way of contentment. Venerable Sāriputta explains how by following the Buddha’s example we can experience the fruits of the path.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn3_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn3_translation-en-sujato",
           "is_root": false,
@@ -326,7 +327,7 @@
       ],
       "type": "leaf",
       "uid": "mn3",
-      "volpages": "MN i 12"
+      "volpages": "PTS MN i 12"
     }
   ]
 }

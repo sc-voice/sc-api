@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 28.10",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Sāriputta encountered a female wanderer named Sucimukhī, who asks him a series of enigmatic questions regarding what direction he faces when eating. Sāriputta denies all of them, explaining that they are various kinds of wrong livelihood.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn28.10_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn28.10_translation-en-sujato",
           "is_root": false,
@@ -177,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn28.10",
-      "volpages": "SN iii 238"
+      "volpages": "PTS SN iii 238"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 4.85",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The dark bound for darkness, the dark bound for light, the light bound for darkness, and the light bound for light.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an4.85_root-pli-ms",
           "is_root": true,
@@ -43,7 +44,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "an4.85_translation-de-sabbamitta",
           "is_root": false,
@@ -68,7 +69,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an4.85_translation-en-sujato",
           "is_root": false,
@@ -215,7 +216,7 @@
       ],
       "type": "leaf",
       "uid": "an4.85",
-      "volpages": "AN ii 85"
+      "volpages": "PTS AN ii 85"
     }
   ]
 }

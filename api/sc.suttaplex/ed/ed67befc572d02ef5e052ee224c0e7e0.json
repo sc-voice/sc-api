@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.62",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "All philosophers must accept that the five aggregates are described in language that refers to either the past, future, or present.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.62_root-pli-ms",
           "is_root": true,
@@ -42,6 +43,19 @@
           "volpage": null
         },
         {
+          "author": "Anagarika Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "id": "sn22.62_translation-de-sabbamitta",
+          "is_root": false,
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Der Geltungsbereich der Sprache ",
+          "volpage": null
+        },
+        {
           "author": "Nyanaponika Thera",
           "author_short": "Nyanaponika",
           "author_uid": "nyanaponika",
@@ -55,7 +69,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.62_translation-en-sujato",
           "is_root": false,
@@ -202,7 +216,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.62",
-      "volpages": "SN iii 71"
+      "volpages": "PTS SN iii 71"
     }
   ]
 }

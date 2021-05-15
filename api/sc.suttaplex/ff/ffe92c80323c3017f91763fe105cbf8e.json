@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 9.12",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Sāriputta visits some wanderers, who claim that only perfected ones are free from bad rebirth. Sāriputta has no opinion on this, but asks the Buddha, who replies that even stream-enterers are freed from lower rebirth.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an9.12_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an9.12_translation-en-sujato",
           "is_root": false,
@@ -165,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "an9.12",
-      "volpages": "AN iv 378"
+      "volpages": "PTS AN iv 378"
     }
   ]
 }

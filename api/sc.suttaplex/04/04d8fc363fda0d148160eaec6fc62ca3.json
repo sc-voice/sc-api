@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.24",
+      "alt_volpages": "PTS (2nd ed) SN i 513",
       "biblio": null,
       "blurb": "When two mendicants have a falling out, the Buddha recalls the wise words of Sakka on not letting anger ruin friendship.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn11.24_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn11.24_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.24",
-      "volpages": "SN i 239"
+      "volpages": "PTS (1st ed) SN i 239"
     }
   ]
 }

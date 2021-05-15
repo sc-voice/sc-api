@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 8.64",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "At Gayā, the Buddha describes his meditation before awakening. He was able to see lights and forms, converse with gods, and understand the deeds that made them gods.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an8.64_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an8.64_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an8.64",
-      "volpages": "AN iv 302"
+      "volpages": "PTS AN iv 302"
     }
   ]
 }

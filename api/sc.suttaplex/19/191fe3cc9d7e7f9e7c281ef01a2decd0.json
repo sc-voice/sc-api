@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 3.15",
+      "alt_volpages": "PTS (2nd ed) SN i 190",
       "biblio": null,
       "blurb": "In a battle subsequent to SN 3.14, Pasenadi defeats Ajātasattu and takes him prisoner. Acting compassionately, he confiscates Ajātasattu’s military assets but releases him alive.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn3.15_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn3.15_translation-en-sujato",
           "is_root": false,
@@ -189,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn3.15",
-      "volpages": "SN i 83"
+      "volpages": "PTS (1st ed) SN i 83"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 47.9",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha decides to spend his final rains retreat at Vesālī in Beluvagāmaka. During the retreat he becomes very ill, but later recovers. Ānanda wonders who will guide the Saṅgha when the Buddha dies, but the Buddha says they should be their own refuge, grounded on the four kinds of mindfulness meditation.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn47.9_root-pli-ms",
           "is_root": true,
@@ -43,7 +44,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn47.9_translation-de-sabbamitta",
           "is_root": false,
@@ -68,7 +69,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn47.9_translation-en-sujato",
           "is_root": false,
@@ -215,7 +216,7 @@
       ],
       "type": "leaf",
       "uid": "sn47.9",
-      "volpages": "SN v 152"
+      "volpages": "PTS SN v 152"
     }
   ]
 }

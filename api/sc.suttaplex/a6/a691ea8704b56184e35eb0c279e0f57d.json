@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 12.43",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The origin and ending of suffering are explained in terms of sense experience giving rise to craving.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn12.43_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn12.43_translation-en-sujato",
           "is_root": false,
@@ -214,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.43",
-      "volpages": "SN ii 71"
+      "volpages": "PTS SN ii 71"
     }
   ]
 }

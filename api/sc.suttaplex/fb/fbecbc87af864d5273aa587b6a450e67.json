@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 35.242",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha gives a parable of a large log floating downstream, which, if it steers clear of the many obstacles, will eventually reach the ocean. Venerable Kimbila asks for an explanation, and the Buddha clarifies each item.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn35.242_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn35.242_translation-en-sujato",
           "is_root": false,
@@ -178,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.242",
-      "volpages": "SN iv 181"
+      "volpages": "PTS SN iv 181"
     }
   ]
 }

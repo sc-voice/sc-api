@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 11.502–981",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": null,
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an11.502-981_root-pli-ms",
           "is_root": true,
@@ -43,7 +44,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an11.502-981_translation-en-sujato",
           "is_root": false,
@@ -117,7 +118,7 @@
       ],
       "type": "leaf",
       "uid": "an11.502-981",
-      "volpages": "AN v 360"
+      "volpages": "PTS AN v 360"
     }
   ]
 }

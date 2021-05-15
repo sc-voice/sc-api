@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 9",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Venerable Sāriputta gives a detailed explanation of right view, the first factor of the noble eightfold path. At the prompting of the other mendicants, he approaches the topic from a wide range of perspectives.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn9_root-pli-ms",
           "is_root": true,
@@ -82,7 +83,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn9_translation-en-sujato",
           "is_root": false,
@@ -351,7 +352,7 @@
       ],
       "type": "leaf",
       "uid": "mn9",
-      "volpages": "MN i 46"
+      "volpages": "PTS MN i 46"
     }
   ]
 }

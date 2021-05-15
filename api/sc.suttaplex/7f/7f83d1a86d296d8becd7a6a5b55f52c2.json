@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 10.29",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Starting with a comparison with the King of Kosala, the Buddha teaches a series of ten advanced teachings. He culminates by affirming that he teaches the full understanding of sensual pleasures, forms, and feelings.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an10.29_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an10.29_translation-en-sujato",
           "is_root": false,
@@ -178,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an10.29",
-      "volpages": "AN v 59"
+      "volpages": "PTS AN v 59"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "DN 5",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A brahmin wishes to undertake a great sacrifice, and asks for the Buddha’s advice. The Buddha tells a legend of the past, in which a king is persuaded to give up violent sacrifice, and instead to devote his resources to supporting the needy citizens of his realm. However, even such a beneficial and non-violent sacrifice pales in comparison to the spiritual sacrifice of giving up attachments.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "dn5_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "dn5_translation-en-sujato",
           "is_root": false,
@@ -253,7 +254,7 @@
       ],
       "type": "leaf",
       "uid": "dn5",
-      "volpages": "DN i 127"
+      "volpages": "PTS DN i 127"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 7.11",
+      "alt_volpages": "PTS (2nd ed) SN i 369",
       "biblio": null,
       "blurb": "A brahmin farmer criticizes the Buddha for failing to produce food, merely living off the work of others. But the Buddha shows that his true work is spiritual.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn7.11_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn7.11_translation-en-sujato",
           "is_root": false,
@@ -213,7 +214,7 @@
       ],
       "type": "leaf",
       "uid": "sn7.11",
-      "volpages": "SN i 172"
+      "volpages": "PTS (1st ed) SN i 172"
     }
   ]
 }

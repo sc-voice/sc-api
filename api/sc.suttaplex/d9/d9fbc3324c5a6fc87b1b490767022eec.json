@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 38",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "To counter the wrong view that a self-identical consciousness transmigrates from one life to the next, the Buddha teaches dependent origination, showing that consciousness invariably arises dependent on conditions.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn38_root-pli-ms",
           "is_root": true,
@@ -82,7 +83,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn38_translation-en-sujato",
           "is_root": false,
@@ -351,7 +352,7 @@
       ],
       "type": "leaf",
       "uid": "mn38",
-      "volpages": "MN i 256"
+      "volpages": "PTS MN i 256"
     }
   ]
 }

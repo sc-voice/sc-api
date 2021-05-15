@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 6.55",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "When Venerable Soṇa thinks of disrobing, the Buddha comes and encourages him with the famous simile of the lute that is tuned neither too loose nor too tight.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an6.55_root-pli-ms",
           "is_root": true,
@@ -43,7 +44,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "an6.55_translation-de-sabbamitta",
           "is_root": false,
@@ -68,7 +69,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an6.55_translation-en-sujato",
           "is_root": false,
@@ -251,7 +252,7 @@
       ],
       "type": "leaf",
       "uid": "an6.55",
-      "volpages": "AN iii 374"
+      "volpages": "PTS AN iii 374"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 35.95",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Venerable Māluṅkyaputta asks for a teaching to take on retreat. The Buddha wonders how to teach an old monk like him, then questions him on his desire for sense experience that has been or might be, and encourages him to simply let sense experience be. Māluṅkyaputta says he understands, and expands the Buddha’s teaching in a series of verses.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn35.95_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn35.95_translation-en-sujato",
           "is_root": false,
@@ -202,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.95",
-      "volpages": "SN iv 72"
+      "volpages": "PTS SN iv 72"
     }
   ]
 }

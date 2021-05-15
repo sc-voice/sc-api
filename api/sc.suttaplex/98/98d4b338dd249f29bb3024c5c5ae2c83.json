@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 14",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A lay person is puzzled at how, despite their long practice, they still have greedy or hateful thoughts. The Buddha explains the importance of absorption meditation for letting go such attachments. But he also criticizes self-mortification, and recounts a previous dialog with Jain ascetics.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn14_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn14_translation-en-sujato",
           "is_root": false,
@@ -314,7 +315,7 @@
       ],
       "type": "leaf",
       "uid": "mn14",
-      "volpages": "MN i 91"
+      "volpages": "PTS MN i 91"
     }
   ]
 }

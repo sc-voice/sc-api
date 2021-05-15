@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 124",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Venerable Bakkula, regarded as the healthiest of the mendicants, explains to an old friend his strict and austere practice. The unusual form of this discourse suggests it was added to the canon some time after the Buddha’s death.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn124_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn124_translation-en-sujato",
           "is_root": false,
@@ -228,7 +229,7 @@
       ],
       "type": "leaf",
       "uid": "mn124",
-      "volpages": "MN iii 124"
+      "volpages": "PTS MN iii 124"
     }
   ]
 }

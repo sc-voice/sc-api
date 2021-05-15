@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.4",
+      "alt_volpages": "PTS (2nd ed) SN i 475",
       "biblio": null,
       "blurb": "In a battle between the gods and the demons, and the demon lord Vepacitti is captured and brought in chains to Sakka’s hall. Vepacitti abuses Sakka, who endures his harsh words in patience. The charioteer Mātali asks whether he is silent out of weakness or fear, but Sakka says there is no point is wasting words arguing with a fool.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn11.4_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn11.4_translation-en-sujato",
           "is_root": false,
@@ -178,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.4",
-      "volpages": "SN i 220"
+      "volpages": "PTS (1st ed) SN i 220"
     }
   ]
 }

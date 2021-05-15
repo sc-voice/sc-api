@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 10.3",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha teaches how, like a tree that grows due to its leaves, liberation follows when ethics is present.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an10.3_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an10.3_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an10.3",
-      "volpages": "AN v 4"
+      "volpages": "PTS AN v 4"
     }
   ]
 }

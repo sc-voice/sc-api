@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 5.10",
+      "alt_volpages": "PTS (2nd ed) SN i 296",
       "biblio": null,
       "blurb": "Māra asks the nun Vajirā about who has created this being. Recognizing him, she points out that the word “being” is nothing more than a convention used to designate the aggregates, just as the word “cart” is used when the parts are assembled",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn5.10_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn5.10_translation-de-sabbamitta",
           "is_root": false,
@@ -80,7 +81,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn5.10_translation-en-sujato",
           "is_root": false,
@@ -263,7 +264,7 @@
       ],
       "type": "leaf",
       "uid": "sn5.10",
-      "volpages": "SN i 134"
+      "volpages": "PTS (1st ed) SN i 134"
     }
   ]
 }

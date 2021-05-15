@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 35.246",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "One should restrain the senses like a farmer watching over a field. The Buddha gives the parable of a man bewitched when he first hears a lute. He takes apart the instrument in search of the sound, but is disillusioned when no sound is found.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn35.246_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn35.246_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.246",
-      "volpages": "SN iv 195"
+      "volpages": "PTS SN iv 195"
     }
   ]
 }

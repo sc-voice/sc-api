@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.101",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Contemplating the aggregates leads to liberation, but this may not be immediately apparent. The Buddha illustrates this with similes of a chook sitting on eggs, the wearing away of an axe handle, and the rotting of a ship’s rigging.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.101_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.101_translation-en-sujato",
           "is_root": false,
@@ -202,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.101",
-      "volpages": "SN iii 152"
+      "volpages": "PTS SN iii 152"
     }
   ]
 }

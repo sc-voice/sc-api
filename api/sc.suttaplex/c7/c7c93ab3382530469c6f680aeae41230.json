@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.135",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Mahākoṭṭhita explains to Sāriputta that ignorance is not understanding the aggregates in terms of the four noble truths, while knowledge is understanding the aggregates.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.135_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.135_translation-en-sujato",
           "is_root": false,
@@ -189,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.135",
-      "volpages": "SN iii 176"
+      "volpages": "PTS SN iii 176"
     }
   ]
 }

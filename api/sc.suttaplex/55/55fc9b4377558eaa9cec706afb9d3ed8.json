@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.9",
+      "alt_volpages": "PTS (2nd ed) SN i 8",
       "biblio": null,
       "blurb": "Unless you give up conceit you’ll be trapped in the domain of Death.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn1.9_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn1.9_translation-en-sujato",
           "is_root": false,
@@ -250,7 +251,7 @@
       ],
       "type": "leaf",
       "uid": "sn1.9",
-      "volpages": "SN i 4"
+      "volpages": "PTS (1st ed) SN i 4"
     }
   ]
 }

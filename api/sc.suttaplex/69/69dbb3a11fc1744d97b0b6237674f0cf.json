@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.95",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha gives a series of similes for the aggregates: physical form is like foam, feeling is like a bubble, perception is like a mirage, choices are like a coreless tree, and consciousness is like an illusion. ",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.95_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.95_translation-en-sujato",
           "is_root": false,
@@ -263,7 +264,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.95",
-      "volpages": "SN iii 140"
+      "volpages": "PTS SN iii 140"
     }
   ]
 }

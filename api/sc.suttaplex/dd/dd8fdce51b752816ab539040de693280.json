@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 10",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Here the Buddha details the seventh factor of the noble eightfold path, mindfulness meditation. This collects many of the meditation teachings found throughout the canon, especially the foundational practices focusing on the body, and is regarded as one of the most important meditation discourses.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn10_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "mn10_translation-de-sabbamitta",
           "is_root": false,
@@ -95,7 +96,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn10_translation-en-sujato",
           "is_root": false,
@@ -387,7 +388,7 @@
       ],
       "type": "leaf",
       "uid": "mn10",
-      "volpages": "MN i 55"
+      "volpages": "PTS MN i 55"
     }
   ]
 }

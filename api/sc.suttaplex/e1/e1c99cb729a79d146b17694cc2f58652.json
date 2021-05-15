@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 79",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A wanderer teaches his doctrine of the “highest splendor” but is unable to give a satisfactory account of what that means. The Buddha memorably compares him to someone who is in love with an idealized women who he has never met.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn79_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn79_translation-en-sujato",
           "is_root": false,
@@ -253,7 +254,7 @@
       ],
       "type": "leaf",
       "uid": "mn79",
-      "volpages": "MN ii 29"
+      "volpages": "PTS MN ii 29"
     }
   ]
 }

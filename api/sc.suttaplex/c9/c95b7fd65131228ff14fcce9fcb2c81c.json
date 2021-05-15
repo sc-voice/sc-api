@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 23",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "In a curious discourse laden with evocative imagery, a deity presents a riddle to a mendicant, who seeks an answer from the Buddha.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn23_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "mn23_translation-de-sabbamitta",
           "is_root": false,
@@ -83,7 +84,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn23_translation-en-sujato",
           "is_root": false,
@@ -314,7 +315,7 @@
       ],
       "type": "leaf",
       "uid": "mn23",
-      "volpages": "MN i 142"
+      "volpages": "PTS MN i 142"
     }
   ]
 }

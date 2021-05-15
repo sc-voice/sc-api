@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 6.5",
+      "alt_volpages": "PTS (2nd ed) SN i 314",
       "biblio": null,
       "blurb": "An unnamed brahmā god thinks to himself that he is so powerful no asectic can approach him. The Buddha goes straight to his realm and appears wrapped in flame above his head. Mahāmoggallāna and several other disciples follow him. The brahmā and his retinue are sutiably impressed.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn6.5_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn6.5_translation-en-sujato",
           "is_root": false,
@@ -201,7 +202,7 @@
       ],
       "type": "leaf",
       "uid": "sn6.5",
-      "volpages": "SN i 144"
+      "volpages": "PTS (1st ed) SN i 144"
     }
   ]
 }

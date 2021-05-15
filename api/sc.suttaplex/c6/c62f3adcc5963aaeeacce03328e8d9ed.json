@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 12.8",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "In the far past, the Buddha Koṇāgamana reflected on how the world had fallen into suffering, and became awakened by understanding dependent origination.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn12.8_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn12.8_translation-de-sabbamitta",
           "is_root": false,
@@ -80,7 +81,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn12.8_translation-en-sujato",
           "is_root": false,
@@ -202,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.8",
-      "volpages": "SN ii 9"
+      "volpages": "PTS SN ii 9"
     }
   ]
 }

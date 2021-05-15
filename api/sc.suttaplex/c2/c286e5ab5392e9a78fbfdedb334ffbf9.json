@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 10.170",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The wrong path is the near shore where most people dwell; the right path is the far shore, where few have crossed over.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an10.170_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an10.170_translation-en-sujato",
           "is_root": false,
@@ -165,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "an10.170",
-      "volpages": "AN v 253"
+      "volpages": "PTS AN v 253"
     }
   ]
 }

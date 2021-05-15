@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 35.64",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Venerable Migajāla asks for a teaching to take on retreat. The Buddha teaches him that the senses are delightful, but if you hold to them you will suffer. Meditating on this while on retreat, Migajāla became awakened.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn35.64_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn35.64_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.64",
-      "volpages": "SN iv 37"
+      "volpages": "PTS SN iv 37"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 56.31",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "In a siṁsapā grove, the Buddha holds up a handful of leaves, and compares it to all the leaves in the forest. So too, he has taught the four noble truths, which is only a fraction of what he knows.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn56.31_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn56.31_translation-en-sujato",
           "is_root": false,
@@ -262,7 +263,7 @@
       ],
       "type": "leaf",
       "uid": "sn56.31",
-      "volpages": "SN v 437"
+      "volpages": "PTS SN v 437"
     }
   ]
 }

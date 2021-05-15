@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 19",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Recounting his own experiences in developing meditation, the Buddha explains how to understand harmful and harmless thoughts, and how to go beyond thought altogether.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn19_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn19_translation-en-sujato",
           "is_root": false,
@@ -375,7 +376,7 @@
       ],
       "type": "leaf",
       "uid": "mn19",
-      "volpages": "MN i 114"
+      "volpages": "PTS MN i 114"
     }
   ]
 }

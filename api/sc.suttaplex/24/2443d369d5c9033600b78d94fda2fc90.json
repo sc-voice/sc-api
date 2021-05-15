@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 28.9",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Sāriputta goes to Mirkwood for meditation, and afterwards Ānanda asks why his face is so radiant. Sāriputta replies that he was practicing the attainment of cessation without any thought of self.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn28.9_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn28.9_translation-en-sujato",
           "is_root": false,
@@ -177,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn28.9",
-      "volpages": "SN iii 238"
+      "volpages": "PTS SN iii 238"
     }
   ]
 }

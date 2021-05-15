@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 29",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Following the incident with Devadatta, the Buddha cautions the mendicants against becoming complacent with superficial benefits of spiritual life and points to liberation as the true heart of the teaching.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn29_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn29_translation-en-sujato",
           "is_root": false,
@@ -339,7 +340,7 @@
       ],
       "type": "leaf",
       "uid": "mn29",
-      "volpages": "MN i 192"
+      "volpages": "PTS MN i 192"
     }
   ]
 }

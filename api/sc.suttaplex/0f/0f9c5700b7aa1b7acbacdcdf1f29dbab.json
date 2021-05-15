@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "DN 18",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Beginning with an account of the fates of disciples who had recently passed away, the scene shifts to a discussion of Dhamma held by the gods.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "dn18_root-pli-ms",
           "is_root": true,
@@ -46,7 +47,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "dn18_translation-de-sabbamitta",
           "is_root": false,
@@ -59,7 +60,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "dn18_translation-en-sujato",
           "is_root": false,
@@ -230,7 +231,7 @@
       ],
       "type": "leaf",
       "uid": "dn18",
-      "volpages": "DN ii 200"
+      "volpages": "PTS DN ii 200"
     }
   ]
 }

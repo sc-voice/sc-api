@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 59",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha resolves a disagreement on the number of kinds of feelings that he taught, pointing out that different ways of teaching are appropriate in different contexts, and should not be a cause of disputes. He goes on to show the importance of pleasure in developing higher meditation.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn59_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn59_translation-en-sujato",
           "is_root": false,
@@ -277,7 +278,7 @@
       ],
       "type": "leaf",
       "uid": "mn59",
-      "volpages": "MN i 396"
+      "volpages": "PTS MN i 396"
     }
   ]
 }

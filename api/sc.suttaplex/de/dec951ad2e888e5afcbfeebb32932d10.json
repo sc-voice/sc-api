@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 113",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha explains that a truly good person does not disparage others or feel superior because of their attainment.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn113_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn113_translation-en-sujato",
           "is_root": false,
@@ -252,7 +253,7 @@
       ],
       "type": "leaf",
       "uid": "mn113",
-      "volpages": "MN iii 37"
+      "volpages": "PTS MN iii 37"
     }
   ]
 }

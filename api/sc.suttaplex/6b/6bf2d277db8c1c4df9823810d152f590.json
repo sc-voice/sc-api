@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 6.72",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Six qualities that enable a mendicant to gain strength in meditation.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an6.72_root-pli-ms",
           "is_root": true,
@@ -42,6 +43,19 @@
           "volpage": null
         },
         {
+          "author": "Anagarika Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "id": "an6.72_translation-de-sabbamitta",
+          "is_root": false,
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Stärke ",
+          "volpage": null
+        },
+        {
           "author": "Nyānatiloka Thera",
           "author_short": "Nyanatiloka",
           "author_uid": "nyanatiloka",
@@ -55,7 +69,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an6.72_translation-en-sujato",
           "is_root": false,
@@ -177,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an6.72",
-      "volpages": "AN iii 427"
+      "volpages": "PTS AN iii 427"
     }
   ]
 }

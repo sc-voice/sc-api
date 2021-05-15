@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 7.53",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Sāriputta and Moggallāna are on tour in the southern hills. A deity informs the laywoman Veḷukaṇṭakī that they are approaching. When Sāriputta expresses his amazement that she speaks with the gods, she goes on to list many other of her own amazing qualities.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an7.53_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an7.53_translation-en-sujato",
           "is_root": false,
@@ -165,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "an7.53",
-      "volpages": "AN iv 63"
+      "volpages": "PTS AN iv 63"
     }
   ]
 }

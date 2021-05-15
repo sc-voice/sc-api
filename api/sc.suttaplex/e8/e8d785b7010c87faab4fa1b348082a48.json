@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 109",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "On a lovely full moon night, one of the mendicants presents the Buddha with a series of questions that go to the heart of the teaching. But when he hears of the doctrine of not-self, another mendicant is unable to grasp the meaning.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn109_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn109_translation-en-sujato",
           "is_root": false,
@@ -253,7 +254,7 @@
       ],
       "type": "leaf",
       "uid": "mn109",
-      "volpages": "MN iii 15"
+      "volpages": "PTS MN iii 15"
     }
   ]
 }

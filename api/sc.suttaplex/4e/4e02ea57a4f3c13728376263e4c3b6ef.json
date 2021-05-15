@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 44.10",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Vacchagotta asks the Buddha whether a self exists, but the Buddha is silent. When Ānanda later asks him why he didn’t answer, the Buddha replied that it was to avoid misunderstanding.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn44.10_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn44.10_translation-en-sujato",
           "is_root": false,
@@ -226,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn44.10",
-      "volpages": "SN iv 400"
+      "volpages": "PTS SN iv 400"
     }
   ]
 }

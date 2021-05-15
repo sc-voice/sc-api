@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 48.43",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha discusses the five faculties and the five powers. They are like a river that flows around a central island. From one point of view they can be considered different, but from another they are just the same stream.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn48.43_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn48.43_translation-en-sujato",
           "is_root": false,
@@ -177,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn48.43",
-      "volpages": "SN v 219"
+      "volpages": "PTS SN v 219"
     }
   ]
 }

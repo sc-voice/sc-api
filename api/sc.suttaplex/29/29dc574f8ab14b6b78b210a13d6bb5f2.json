@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 7.18",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Seven persons who are worthy of gifts and veneration.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an7.18_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an7.18_translation-en-sujato",
           "is_root": false,
@@ -177,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "an7.18",
-      "volpages": "AN iv 14"
+      "volpages": "PTS AN iv 14"
     }
   ]
 }

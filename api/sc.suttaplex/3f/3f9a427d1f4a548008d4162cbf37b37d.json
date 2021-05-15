@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 12.35",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A mendicant asks who possesses old and death, and the other factors. The Buddha says the question is improper, as it assumes a self as agent. Rather, dependent origination is the teaching “by the middle”, explaining phenomena according to natural conditions.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn12.35_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn12.35_translation-en-sujato",
           "is_root": false,
@@ -226,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.35",
-      "volpages": "SN ii 60"
+      "volpages": "PTS SN ii 60"
     }
   ]
 }

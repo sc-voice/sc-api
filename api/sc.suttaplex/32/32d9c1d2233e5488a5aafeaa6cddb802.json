@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 3.23",
+      "alt_volpages": "PTS (2nd ed) SN i 218",
       "biblio": null,
       "blurb": "How many things give rise to suffering in oneself?",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn3.23_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn3.23_translation-en-sujato",
           "is_root": false,
@@ -201,7 +202,7 @@
       ],
       "type": "leaf",
       "uid": "sn3.23",
-      "volpages": "SN i 98"
+      "volpages": "PTS (1st ed) SN i 98"
     }
   ]
 }

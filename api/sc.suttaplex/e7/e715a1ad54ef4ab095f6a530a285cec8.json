@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 121",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha describes his own practice of the meditation on emptiness.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn121_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn121_translation-en-sujato",
           "is_root": false,
@@ -276,7 +277,7 @@
       ],
       "type": "leaf",
       "uid": "mn121",
-      "volpages": "MN iii 104"
+      "volpages": "PTS MN iii 104"
     }
   ]
 }

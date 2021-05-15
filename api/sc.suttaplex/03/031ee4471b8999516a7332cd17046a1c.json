@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 108",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Amid rising military tensions after the Buddha’s death, Venerable Ānanda is questioned about how the Saṅgha planned to continue in their teacher’s absence. As the Buddha refused to appoint a successor, the teaching and practice that he laid down become the teacher, and the Saṅgha resolves issues by consensus.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn108_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn108_translation-en-sujato",
           "is_root": false,
@@ -277,7 +278,7 @@
       ],
       "type": "leaf",
       "uid": "mn108",
-      "volpages": "MN iii 7"
+      "volpages": "PTS MN iii 7"
     }
   ]
 }

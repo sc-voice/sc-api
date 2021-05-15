@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 112",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "If someone claims to be awakened, their claim should be interrogated with a detailed series of detailed questions. Only if they can answer them clearly should the claim be accepted.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn112_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn112_translation-en-sujato",
           "is_root": false,
@@ -240,7 +241,7 @@
       ],
       "type": "leaf",
       "uid": "mn112",
-      "volpages": "MN iii 29"
+      "volpages": "PTS MN iii 29"
     }
   ]
 }

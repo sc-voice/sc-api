@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 3.1",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Fools are dangerous, but the wise are safe.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an3.1_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "an3.1_translation-de-sabbamitta",
           "is_root": false,
@@ -80,7 +81,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an3.1_translation-en-sujato",
           "is_root": false,
@@ -153,8 +154,8 @@
           "volpage": null
         },
         {
-          "author": "Gabriel N. Laera",
-          "author_short": "Laera",
+          "author": null,
+          "author_short": null,
           "author_uid": "laera",
           "id": "an3.1_translation-pt-laera-quaresma",
           "is_root": false,
@@ -228,7 +229,7 @@
       ],
       "type": "leaf",
       "uid": "an3.1",
-      "volpages": "AN i 101"
+      "volpages": "PTS AN i 101"
     }
   ]
 }

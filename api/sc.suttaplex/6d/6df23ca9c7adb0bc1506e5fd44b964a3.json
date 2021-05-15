@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 52",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Asked by a householder to teach a path to freedom, Venerable Ānanda explains no less than eleven meditative states that may serve as doors to the deathless.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn52_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn52_translation-en-sujato",
           "is_root": false,
@@ -303,7 +304,7 @@
       ],
       "type": "leaf",
       "uid": "mn52",
-      "volpages": "MN i 349"
+      "volpages": "PTS MN i 349"
     }
   ]
 }

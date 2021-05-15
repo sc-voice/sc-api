@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 41.4",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Citta the householder invites some mendicants to his home for a meal. When they left he followed them, and witnessed the junior monk Venerable Mahaka performing a psychic feat. Citta approached Mahaka in his hut and asked him to demonstrate his skills, and Mahaka obliged. Citta offers to support him with requisites, but Mahaka left, never to return.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn41.4_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn41.4_translation-en-sujato",
           "is_root": false,
@@ -177,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn41.4",
-      "volpages": "SN iv 288"
+      "volpages": "PTS SN iv 288"
     }
   ]
 }

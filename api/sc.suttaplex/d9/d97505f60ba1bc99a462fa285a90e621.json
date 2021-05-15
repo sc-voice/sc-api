@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "DN 21",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "After hearing a love song from a god of music, the Buddha engages in a deep discussion with Sakka on the conditioned origin of attachment and suffering.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "dn21_root-pli-ms",
           "is_root": true,
@@ -46,7 +47,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "dn21_translation-de-sabbamitta",
           "is_root": false,
@@ -71,7 +72,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "dn21_translation-en-sujato",
           "is_root": false,
@@ -254,7 +255,7 @@
       ],
       "type": "leaf",
       "uid": "dn21",
-      "volpages": "DN ii 263"
+      "volpages": "PTS DN ii 263"
     }
   ]
 }

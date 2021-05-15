@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 47.13",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Sāriputta dies of illness, and the novice Cunda together with Ānanda take his bowl and robes and report the sad news to the Buddha. The Buddha dispels Ānanda’s sadness by speaking of the four kinds of mindfulness meditation.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn47.13_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn47.13_translation-de-sabbamitta",
           "is_root": false,
@@ -80,7 +81,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn47.13_translation-en-sujato",
           "is_root": false,
@@ -239,7 +240,7 @@
       ],
       "type": "leaf",
       "uid": "sn47.13",
-      "volpages": "SN v 161"
+      "volpages": "PTS SN v 161"
     }
   ]
 }

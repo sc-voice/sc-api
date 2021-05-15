@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 47.8",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The parable of the cook. They present different kinds of dishes to the king, and observe which the king likes. In the same way, a mendicant observes why their meditation succeeds or fails. When the four kinds of mindfulness meditation succeeds it leads to giving up hindrances and entering immersion.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn47.8_root-pli-ms",
           "is_root": true,
@@ -43,7 +44,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn47.8_translation-de-sabbamitta",
           "is_root": false,
@@ -68,7 +69,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn47.8_translation-en-sujato",
           "is_root": false,
@@ -239,7 +240,7 @@
       ],
       "type": "leaf",
       "uid": "sn47.8",
-      "volpages": "SN v 149"
+      "volpages": "PTS SN v 149"
     }
   ]
 }

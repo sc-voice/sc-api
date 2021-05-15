@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 11",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha declares that only those following his path can genuinely experience the four stages of awakening. This is because, while much is shared with other systems, none of them go so far as to fully reject all attachment to the idea of a self.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn11_root-pli-ms",
           "is_root": true,
@@ -82,7 +83,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn11_translation-en-sujato",
           "is_root": false,
@@ -363,7 +364,7 @@
       ],
       "type": "leaf",
       "uid": "mn11",
-      "volpages": "MN i 63"
+      "volpages": "PTS MN i 63"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 99",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Working hard is not valuable in and of itself; what matters is the outcome. And just as in lay life, spiritual practice may or may not lead to fruitful results.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn99_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn99_translation-en-sujato",
           "is_root": false,
@@ -240,7 +241,7 @@
       ],
       "type": "leaf",
       "uid": "mn99",
-      "volpages": "MN ii 196"
+      "volpages": "PTS MN ii 196"
     }
   ]
 }

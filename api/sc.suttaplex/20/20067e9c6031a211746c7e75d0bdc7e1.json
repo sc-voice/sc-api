@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 35",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Saccaka was a debater, who challenged the Buddha to a contest. Despite his bragging, the Buddha is not at all perturbed at his attacks.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn35_root-pli-ms",
           "is_root": true,
@@ -82,7 +83,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn35_translation-en-sujato",
           "is_root": false,
@@ -314,7 +315,7 @@
       ],
       "type": "leaf",
       "uid": "mn35",
-      "volpages": "MN i 227"
+      "volpages": "PTS MN i 227"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 35.245",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A mendicant goes to a series of teachers and asks how vision is purified. Dissatisfied with all their answers, he complains to the Buddha, who illustrates his quandary with the famous simile of the Kiṁsuka tree. Just as the same Kiṁsuka tree might be described differently by people focusing on the leaves, or the fruit, or the bark, etc., so too the various teachers each speak of the aspect of Dhamma most meaningful to them. ",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn35.245_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn35.245_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.245",
-      "volpages": "SN iv 191"
+      "volpages": "PTS SN iv 191"
     }
   ]
 }

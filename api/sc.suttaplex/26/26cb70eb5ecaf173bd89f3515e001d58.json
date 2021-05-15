@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 111",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha describes in technical detail the process of insight of Venerable Sāriputta. Many ideas and terms in this text anticipate the Abhidhamma.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn111_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn111_translation-en-sujato",
           "is_root": false,
@@ -277,7 +278,7 @@
       ],
       "type": "leaf",
       "uid": "mn111",
-      "volpages": "MN iii 25"
+      "volpages": "PTS MN iii 25"
     }
   ]
 }

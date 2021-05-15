@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 9.40",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A bull elephant, annoyed by living in the herd, goes off by himself. Similarly, a mendicant feeling crowded in a monastery goes off by themselves and happily meditates in seclusion.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an9.40_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an9.40_translation-en-sujato",
           "is_root": false,
@@ -178,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an9.40",
-      "volpages": "AN iv 435"
+      "volpages": "PTS AN iv 435"
     }
   ]
 }

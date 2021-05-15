@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 6.12",
+      "alt_volpages": "PTS (2nd ed) SN i 332",
       "biblio": null,
       "blurb": "Brahmā Sahampati, referring to Devadatta, points out that honors destroy a scoundrel.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn6.12_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn6.12_translation-en-sujato",
           "is_root": false,
@@ -189,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn6.12",
-      "volpages": "SN i 153"
+      "volpages": "PTS (1st ed) SN i 153"
     }
   ]
 }

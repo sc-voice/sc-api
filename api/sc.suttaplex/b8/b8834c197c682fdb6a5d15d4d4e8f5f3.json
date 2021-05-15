@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 7.22",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "King Ajātasattu of Magadha wishes to invade the Vajjians, and sends his minister Vassakāra to tell the Buddha of his intentions. The Buddha recalls the time he taught the seven principles of non-decline to the Vajjians.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an7.22_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an7.22_translation-en-sujato",
           "is_root": false,
@@ -165,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "an7.22",
-      "volpages": "AN iv 17"
+      "volpages": "PTS AN iv 17"
     }
   ]
 }

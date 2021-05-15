@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 10.2",
+      "alt_volpages": "PTS (2nd ed) SN i 444",
       "biblio": null,
       "blurb": "A spirit tells the Buddha that if he is truly free he should not be instructing others.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn10.2_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn10.2_translation-en-sujato",
           "is_root": false,
@@ -201,7 +202,7 @@
       ],
       "type": "leaf",
       "uid": "sn10.2",
-      "volpages": "SN i 206"
+      "volpages": "PTS (1st ed) SN i 206"
     }
   ]
 }

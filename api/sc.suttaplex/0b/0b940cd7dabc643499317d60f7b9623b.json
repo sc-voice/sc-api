@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 51",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha discusses mindfulness meditation with lay practitioners. Contrasting the openness of animals with the duplicity of humans, he explains how to practice in a way that causes no harm to oneself or others.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn51_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn51_translation-en-sujato",
           "is_root": false,
@@ -253,7 +254,7 @@
       ],
       "type": "leaf",
       "uid": "mn51",
-      "volpages": "MN i 339"
+      "volpages": "PTS MN i 339"
     }
   ]
 }

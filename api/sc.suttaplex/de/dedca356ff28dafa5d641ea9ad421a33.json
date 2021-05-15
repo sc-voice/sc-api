@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 118",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Surrounded by many well-practiced mendicants, the Buddha teaches mindfulness of breathing in detail, showing how they relate to the four kinds of mindfulness meditation.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn118_root-pli-ms",
           "is_root": true,
@@ -82,7 +83,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn118_translation-en-sujato",
           "is_root": false,
@@ -251,8 +252,8 @@
           "volpage": null
         },
         {
-          "author": "Gabriel N. Laera",
-          "author_short": "Laera",
+          "author": null,
+          "author_short": null,
           "author_uid": "laera",
           "id": "mn118_translation-pt-laera-quaresma",
           "is_root": false,
@@ -386,7 +387,7 @@
       ],
       "type": "leaf",
       "uid": "mn118",
-      "volpages": "MN iii 78"
+      "volpages": "PTS MN iii 78"
     }
   ]
 }

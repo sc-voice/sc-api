@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "DN 22",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha details the seventh factor of the noble eightfold path, mindfulness meditation. This discourse is essentially identical to MN 10, with the addition of an extended section on the four noble truths derived from MN 141.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "dn22_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "dn22_translation-en-sujato",
           "is_root": false,
@@ -361,7 +362,7 @@
       ],
       "type": "leaf",
       "uid": "dn22",
-      "volpages": "DN ii 290"
+      "volpages": "PTS DN ii 290"
     }
   ]
 }

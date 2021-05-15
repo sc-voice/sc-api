@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 35.28",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The “all” consisting of the six interior and exterior sense fields is burning. This is the famous “third sermon” taught at Gayā’s Head to the followers of the three Kassapa brothers.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn35.28_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn35.28_translation-de-sabbamitta",
           "is_root": false,
@@ -80,7 +81,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn35.28_translation-en-sujato",
           "is_root": false,
@@ -311,7 +312,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.28",
-      "volpages": "SN iv 19"
+      "volpages": "PTS SN iv 19"
     }
   ]
 }

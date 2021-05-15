@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 8.46",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Some “Agreeable” gods put on a display of music and dance for Venerable Anuruddha, but he is not impressed. He then asks the Buddha how women are reborn in such a heaven.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an8.46_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an8.46_translation-en-sujato",
           "is_root": false,
@@ -178,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an8.46",
-      "volpages": "AN iv 261"
+      "volpages": "PTS AN iv 261"
     }
   ]
 }

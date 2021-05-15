@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 48",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Despite the Buddha’s presence, the monks of Kosambi fell into a deep and bitter dispute. The Buddha taught the reluctant monks to develop love and harmony, reminding them of the state of peace that they sought.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn48_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn48_translation-en-sujato",
           "is_root": false,
@@ -278,7 +279,7 @@
       ],
       "type": "leaf",
       "uid": "mn48",
-      "volpages": "MN i 320"
+      "volpages": "PTS MN i 320"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 9.14",
+      "alt_volpages": "PTS (2nd ed) SN i 440",
       "biblio": null,
       "blurb": "A mendicant takes a bath in a pond and sniffs a lotus. A deity accuses him of being a “thief of scent”. For a person living a life of purity, even such a small matter is a cause for concern",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn9.14_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn9.14_translation-en-sujato",
           "is_root": false,
@@ -201,7 +202,7 @@
       ],
       "type": "leaf",
       "uid": "sn9.14",
-      "volpages": "SN i 204"
+      "volpages": "PTS (1st ed) SN i 204"
     }
   ]
 }

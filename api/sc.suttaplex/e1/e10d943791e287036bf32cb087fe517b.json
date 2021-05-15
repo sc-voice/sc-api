@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 10.10",
+      "alt_volpages": "PTS (2nd ed) SN i 459",
       "biblio": null,
       "blurb": "A spirit was full of faith in the nun Sukkā, so he went about the towns and villages singing the benefits of giving her offerings.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn10.10_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn10.10_translation-en-sujato",
           "is_root": false,
@@ -177,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn10.10",
-      "volpages": "SN i 212"
+      "volpages": "PTS (1st ed) SN i 212"
     }
   ]
 }

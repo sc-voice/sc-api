@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 46.2",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Just as the body depends on food, the awakening factors depend on nutriment. The Buddha gives specific conditions for each of the factors.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn46.2_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn46.2_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn46.2",
-      "volpages": "SN v 64"
+      "volpages": "PTS SN v 64"
     }
   ]
 }

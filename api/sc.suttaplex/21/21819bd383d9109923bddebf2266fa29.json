@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 131",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "This discourse opens with a short but powerful set of verses extolling the benefits of insight into the here and now, followed by an explanation.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn131_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn131_translation-en-sujato",
           "is_root": false,
@@ -300,7 +301,7 @@
       ],
       "type": "leaf",
       "uid": "mn131",
-      "volpages": "MN iii 187"
+      "volpages": "PTS MN iii 187"
     }
   ]
 }

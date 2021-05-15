@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 13",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Challenged to show the difference between his teaching and that of other ascetics, the Buddha points out that they speak of letting go, but do not really understand why. He then explains in great detail the suffering that arises from attachment to sensual stimulation.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn13_root-pli-ms",
           "is_root": true,
@@ -82,7 +83,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn13_translation-en-sujato",
           "is_root": false,
@@ -351,7 +352,7 @@
       ],
       "type": "leaf",
       "uid": "mn13",
-      "volpages": "MN i 83"
+      "volpages": "PTS MN i 83"
     }
   ]
 }

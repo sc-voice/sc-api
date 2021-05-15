@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 7.69",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The blossoming of the Shady Orchid Tree delights the gods of the Thirty-Three, and in the same way, the renunciation of a Buddhist ascetic is delightful.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an7.69_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an7.69_translation-en-sujato",
           "is_root": false,
@@ -153,7 +154,7 @@
       ],
       "type": "leaf",
       "uid": "an7.69",
-      "volpages": "AN iv 117"
+      "volpages": "PTS AN iv 117"
     }
   ]
 }

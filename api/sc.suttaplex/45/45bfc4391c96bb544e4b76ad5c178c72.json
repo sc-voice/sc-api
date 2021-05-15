@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 116",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Reflecting on the changes that even geographical features undergo, the Buddha then recounts the names of sages of the past who have lived in Mount Isigili near Rājagaha.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn116_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn116_translation-en-sujato",
           "is_root": false,
@@ -228,7 +229,7 @@
       ],
       "type": "leaf",
       "uid": "mn116",
-      "volpages": "MN iii 68"
+      "volpages": "PTS MN iii 68"
     }
   ]
 }

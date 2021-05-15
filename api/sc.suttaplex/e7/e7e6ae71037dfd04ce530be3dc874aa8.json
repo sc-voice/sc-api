@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "DN 11",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha refuses to perform miracles, explaining that this is not the right way to inspire faith. He goes on to tell the story of a monk whose misguided quest for answers led him as far as Brahmā.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "dn11_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "dn11_translation-en-sujato",
           "is_root": false,
@@ -289,7 +290,7 @@
       ],
       "type": "leaf",
       "uid": "dn11",
-      "volpages": "DN i 211"
+      "volpages": "PTS DN i 211"
     }
   ]
 }

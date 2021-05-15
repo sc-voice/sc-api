@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 55.49",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A noble disciple with the four factors of stream-entry is a stream-enterer.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn55.49_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn55.49_translation-en-sujato",
           "is_root": false,
@@ -165,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "sn55.49",
-      "volpages": "SN v 404"
+      "volpages": "PTS SN v 404"
     }
   ]
 }

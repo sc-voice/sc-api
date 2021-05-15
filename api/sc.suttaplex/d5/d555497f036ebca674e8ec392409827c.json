@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 38.16",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The wanderer Jambukhādaka asks Sāriputta what is difficult to do in this teaching and training.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn38.16_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn38.16_translation-en-sujato",
           "is_root": false,
@@ -153,7 +154,7 @@
       ],
       "type": "leaf",
       "uid": "sn38.16",
-      "volpages": "SN iv 260"
+      "volpages": "PTS SN iv 260"
     }
   ]
 }

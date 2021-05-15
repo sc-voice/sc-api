@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 21.11",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha describes Venerable Mahākappina as thin, fair-skinned, with a big nose—and as awakened.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn21.11_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn21.11_translation-en-sujato",
           "is_root": false,
@@ -178,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn21.11",
-      "volpages": "SN ii 284"
+      "volpages": "PTS SN ii 284"
     }
   ]
 }

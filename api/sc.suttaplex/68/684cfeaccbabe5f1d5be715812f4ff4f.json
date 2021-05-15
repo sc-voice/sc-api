@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 98",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Two brahmin students ask the Buddha about what makes a brahmin: birth or deeds? the Buddha points out that, while the species of animals are determined by birth, for humans what matters is how you chose to live. This discourse anticipates the modern view that there are no such things as clearly defined racial differences among humans.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn98_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn98_translation-en-sujato",
           "is_root": false,
@@ -240,7 +241,7 @@
       ],
       "type": "leaf",
       "uid": "mn98",
-      "volpages": "MN ii 196"
+      "volpages": "PTS MN ii 196"
     }
   ]
 }

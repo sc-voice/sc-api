@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 8.84",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha teaches how to be a success as a master thief. Unusually, this discourse has no “spiritual” counterpart, so it sounds like the Buddha just giving a lesson in thievery! ",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an8.84_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an8.84_translation-en-sujato",
           "is_root": false,
@@ -153,7 +154,7 @@
       ],
       "type": "leaf",
       "uid": "an8.84",
-      "volpages": "AN iv 339"
+      "volpages": "PTS AN iv 339"
     }
   ]
 }

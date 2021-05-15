@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 100",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Angered by the devotion of a brahmin lady, a brahmin visits the Buddha. He positions himself against traditionalists and rationalists, as someone whose teaching is based on direct experience.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn100_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn100_translation-en-sujato",
           "is_root": false,
@@ -240,7 +241,7 @@
       ],
       "type": "leaf",
       "uid": "mn100",
-      "volpages": "MN ii 209"
+      "volpages": "PTS MN ii 209"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 35.73",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "One who does not understand the six senses’ origin, ending, gratification, drawback, and escape is no true mendicant. A mendicant speaks up, saying that he does not truly understand these things, so the Buddha teaches him further.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn35.73_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn35.73_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.73",
-      "volpages": "SN iv 44"
+      "volpages": "PTS SN iv 44"
     }
   ]
 }

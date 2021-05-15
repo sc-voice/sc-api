@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 64",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A little baby has no wrong views or intentions, but the underlying tendency for these things is still there. Without practicing, they will inevitably recur.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn64_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn64_translation-en-sujato",
           "is_root": false,
@@ -266,7 +267,7 @@
       ],
       "type": "leaf",
       "uid": "mn64",
-      "volpages": "MN i 432"
+      "volpages": "PTS MN i 432"
     }
   ]
 }

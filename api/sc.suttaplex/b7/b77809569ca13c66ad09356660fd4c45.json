@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 10.75",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The female lay disciple Migasālā questions Ānanda how the Buddha could have declared her father and her uncle had the same level of spiritual attainment, when one was much more strict than the other. Ānanda conveys this to the Buddha, who responds that only such as he can pass judgment, since the spiritual faculties of individuals are complex and hard to understand.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an10.75_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an10.75_translation-en-sujato",
           "is_root": false,
@@ -165,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "an10.75",
-      "volpages": "AN v 137"
+      "volpages": "PTS AN v 137"
     }
   ]
 }

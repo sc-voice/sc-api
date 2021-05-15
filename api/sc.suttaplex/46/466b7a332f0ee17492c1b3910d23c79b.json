@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 15.2",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Transmigration is endless, like the great earth.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn15.2_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn15.2_translation-en-sujato",
           "is_root": false,
@@ -189,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn15.2",
-      "volpages": "SN ii 179"
+      "volpages": "PTS SN ii 179"
     }
   ]
 }

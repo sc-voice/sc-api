@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.123",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Mahākoṭṭhita asks what an educated mendicant should focus on, and Sāriputta replies that if they focus on aggregates as impermanent, etc. they may become a stream-enterer. A stream-enterer contemplating in the same way may become a non-returner, a once-returner, and a perfected one.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.123_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.123_translation-en-sujato",
           "is_root": false,
@@ -189,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.123",
-      "volpages": "SN iii 169"
+      "volpages": "PTS SN iii 169"
     }
   ]
 }

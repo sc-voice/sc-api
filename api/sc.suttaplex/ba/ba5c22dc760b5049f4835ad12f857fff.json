@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 86",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Ignoring warnings, the Buddha ventures into the domain of the notorious killer Aṅgulimāla and succeeds in converting him to the path of non-violence. After becoming a monk Aṅgulimāla still suffered for his past deeds, but only to a small extent. He uses his new commitment to non-violence to help a woman in labor.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn86_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn86_translation-en-sujato",
           "is_root": false,
@@ -301,7 +302,7 @@
       ],
       "type": "leaf",
       "uid": "mn86",
-      "volpages": "MN ii 97"
+      "volpages": "PTS MN ii 97"
     }
   ]
 }

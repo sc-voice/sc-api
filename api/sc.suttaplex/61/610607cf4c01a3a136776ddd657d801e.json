@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 147",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha takes Rāhula with him to a secluded spot in order to lead him on to liberation.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn147_root-pli-ms",
           "is_root": true,
@@ -82,7 +83,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn147_translation-en-sujato",
           "is_root": false,
@@ -289,7 +290,7 @@
       ],
       "type": "leaf",
       "uid": "mn147",
-      "volpages": "MN iii 277"
+      "volpages": "PTS MN iii 277"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.7",
+      "alt_volpages": "PTS (2nd ed) SN i 110",
       "biblio": null,
       "blurb": "Pañcālacaṇḍa praises the Buddha for finding the opening amid the confinement of the world. But the Buddha affirms that anyone with mindfulness and stillness may find such an escape.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn2.7_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn2.7_translation-en-sujato",
           "is_root": false,
@@ -213,7 +214,7 @@
       ],
       "type": "leaf",
       "uid": "sn2.7",
-      "volpages": "SN i 48"
+      "volpages": "PTS (1st ed) SN i 48"
     }
   ]
 }

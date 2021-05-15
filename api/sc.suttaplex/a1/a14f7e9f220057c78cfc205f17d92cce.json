@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 36.6",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Both ordinary and awakened people experience the three feelings. The difference is that when an ordinary person is stricken with feeling, they react, creating more suffering, whereas an awakened person responds with equanimity.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn36.6_root-pli-ms",
           "is_root": true,
@@ -79,7 +80,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn36.6_translation-en-sujato",
           "is_root": false,
@@ -287,7 +288,7 @@
       ],
       "type": "leaf",
       "uid": "sn36.6",
-      "volpages": "SN iv 207"
+      "volpages": "PTS SN iv 207"
     }
   ]
 }

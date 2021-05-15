@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 75",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Accused by a hedonist of being too negative, the Buddha recounts the luxury of his upbringing, and his realization of how little value there was in such things. Through renunciation he found a far greater pleasure.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn75_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn75_translation-en-sujato",
           "is_root": false,
@@ -302,7 +303,7 @@
       ],
       "type": "leaf",
       "uid": "mn75",
-      "volpages": "MN i 501"
+      "volpages": "PTS MN i 501"
     }
   ]
 }

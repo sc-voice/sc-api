@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 37.5",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A woman with five bad qualities has a bad rebirth.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn37.5_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn37.5_translation-en-sujato",
           "is_root": false,
@@ -177,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn37.5",
-      "volpages": "SN iv 240"
+      "volpages": "PTS SN iv 240"
     }
   ]
 }

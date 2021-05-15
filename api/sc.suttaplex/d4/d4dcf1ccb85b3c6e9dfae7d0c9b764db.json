@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 44.1",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "While staying in Toraṇavatthu, King Pasenadi wishes to visit a spiritual teacher, and the nun Khemā is highly recommended to him. He asks her about whether a realized One exists after death, and she says this is not answerable. Later he visits the Buddha, who replies in exactly the same way.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn44.1_root-pli-ms",
           "is_root": true,
@@ -42,6 +43,19 @@
           "volpage": null
         },
         {
+          "author": "Anagarika Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "id": "sn44.1_translation-de-sabbamitta",
+          "is_root": false,
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Mit Khemā ",
+          "volpage": null
+        },
+        {
           "author": "Dr. Hellmuth Hecker",
           "author_short": "Hecker",
           "author_uid": "hecker",
@@ -55,7 +69,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn44.1_translation-en-sujato",
           "is_root": false,
@@ -178,7 +192,7 @@
       ],
       "type": "leaf",
       "uid": "sn44.1",
-      "volpages": "SN iv 374"
+      "volpages": "PTS SN iv 374"
     }
   ]
 }

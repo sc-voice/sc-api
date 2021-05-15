@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.39",
+      "alt_volpages": "PTS (2nd ed) SN i 61",
       "biblio": null,
       "blurb": "A goddess identifying herself as Kokanadā claims to confirm with her own experience the Buddha’s teachings on karma.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn1.39_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn1.39_translation-en-sujato",
           "is_root": false,
@@ -152,8 +153,8 @@
           "volpage": null
         },
         {
-          "author": "Gabriel N. Laera",
-          "author_short": "Laera",
+          "author": null,
+          "author_short": null,
           "author_uid": "laera",
           "id": "sn1.39_translation-pt-laera-quaresma",
           "is_root": false,
@@ -227,7 +228,7 @@
       ],
       "type": "leaf",
       "uid": "sn1.39",
-      "volpages": "SN i 29"
+      "volpages": "PTS (1st ed) SN i 29"
     }
   ]
 }

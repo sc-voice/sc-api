@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 44.5",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Mahākoṭṭhita asks Sāriputta whether a Realized One exists after death. Sāriputta says that only someone who has desire for the five aggregates would think in such terms.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn44.5_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn44.5_translation-en-sujato",
           "is_root": false,
@@ -178,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn44.5",
-      "volpages": "SN iv 387"
+      "volpages": "PTS SN iv 387"
     }
   ]
 }

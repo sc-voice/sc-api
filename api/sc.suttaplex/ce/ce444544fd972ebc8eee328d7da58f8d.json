@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 45.26",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A bad person practices wrong eightfold path, and a worse person has wrong knowledge and wrong liberation, too; a good person is the opposite.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn45.26_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn45.26_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn45.26",
-      "volpages": "SN v 20"
+      "volpages": "PTS SN v 20"
     }
   ]
 }

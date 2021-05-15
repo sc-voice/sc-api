@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 3.140",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Training people is like training wild horses.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an3.140_root-pli-ms",
           "is_root": true,
@@ -43,7 +44,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "an3.140_translation-de-sabbamitta",
           "is_root": false,
@@ -68,7 +69,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an3.140_translation-en-sujato",
           "is_root": false,
@@ -166,7 +167,7 @@
       ],
       "type": "leaf",
       "uid": "an3.140",
-      "volpages": "AN i 287"
+      "volpages": "PTS AN i 287"
     }
   ]
 }

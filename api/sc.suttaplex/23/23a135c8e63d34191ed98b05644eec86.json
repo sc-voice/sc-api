@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 45.4",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Ānanda sees the brahmin Jāṇussoṇi resplendent on his all-white chariot. He asks the Buddha whether there is a similarly divine vehicle in Buddhism. The Buddha responds by drawing a detailed set of analogies between the eightfold path and a chariot.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn45.4_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn45.4_translation-en-sujato",
           "is_root": false,
@@ -202,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn45.4",
-      "volpages": "SN v 4"
+      "volpages": "PTS SN v 4"
     }
   ]
 }

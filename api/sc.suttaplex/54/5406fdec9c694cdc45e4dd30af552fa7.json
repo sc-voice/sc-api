@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "DN 10",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Shortly after the Buddha’s death, Venerable Ānanda is invited to explain the core teachings.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "dn10_root-pli-ms",
           "is_root": true,
@@ -46,7 +47,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "dn10_translation-de-sabbamitta",
           "is_root": false,
@@ -59,7 +60,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "dn10_translation-en-sujato",
           "is_root": false,
@@ -230,7 +231,7 @@
       ],
       "type": "leaf",
       "uid": "dn10",
-      "volpages": "DN i 204"
+      "volpages": "PTS DN i 204"
     }
   ]
 }

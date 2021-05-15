@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 65",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A monk refuses to follow the rule forbidding eating after noon, but is filled with remorse and forgiven.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn65_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn65_translation-en-sujato",
           "is_root": false,
@@ -266,7 +267,7 @@
       ],
       "type": "leaf",
       "uid": "mn65",
-      "volpages": "MN i 437"
+      "volpages": "PTS MN i 437"
     }
   ]
 }

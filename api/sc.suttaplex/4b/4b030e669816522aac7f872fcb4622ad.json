@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 10.106",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Each of the ten path factors wears away its opposite.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an10.106_root-pli-ms",
           "is_root": true,
@@ -42,6 +43,19 @@
           "volpage": null
         },
         {
+          "author": "Anagarika Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "id": "an10.106_translation-de-sabbamitta",
+          "is_root": false,
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Abtragen ",
+          "volpage": null
+        },
+        {
           "author": "Nyānatiloka Thera",
           "author_short": "Nyanatiloka",
           "author_uid": "nyanatiloka",
@@ -55,7 +69,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an10.106_translation-en-sujato",
           "is_root": false,
@@ -153,7 +167,7 @@
       ],
       "type": "leaf",
       "uid": "an10.106",
-      "volpages": "AN v 215"
+      "volpages": "PTS AN v 215"
     }
   ]
 }

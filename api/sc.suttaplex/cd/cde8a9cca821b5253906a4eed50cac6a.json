@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "DN 25",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "This discourse gives a specially good example of dialog between religions. The Buddha insists that he is not interested to make anyone give up their teacher or practices, but only to help people let go of suffering.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "dn25_root-pli-ms",
           "is_root": true,
@@ -46,7 +47,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "dn25_translation-de-sabbamitta",
           "is_root": false,
@@ -59,7 +60,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "dn25_translation-en-sujato",
           "is_root": false,
@@ -242,7 +243,7 @@
       ],
       "type": "leaf",
       "uid": "dn25",
-      "volpages": "DN iii 36"
+      "volpages": "PTS DN iii 36"
     }
   ]
 }

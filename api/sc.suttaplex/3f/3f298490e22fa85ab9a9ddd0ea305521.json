@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 35.248",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The six senses are like a sheaf of barley struck with six flails; and the desire for rebirth is a seventh flail. The Buddha goes on to speak of the cunning trap of the gods; but the trap of Māra, conceit, is even more subtle.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn35.248_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn35.248_translation-en-sujato",
           "is_root": false,
@@ -202,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.248",
-      "volpages": "SN iv 201"
+      "volpages": "PTS SN iv 201"
     }
   ]
 }

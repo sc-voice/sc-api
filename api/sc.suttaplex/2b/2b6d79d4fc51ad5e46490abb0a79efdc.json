@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "DN 12",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A brahmin has fallen into the idea that there is no point in trying to offer spiritual help to others. The Buddha goes to see him, and persuades him of the genuine benefits of spiritual teaching.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "dn12_root-pli-ms",
           "is_root": true,
@@ -46,7 +47,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "dn12_translation-de-sabbamitta",
           "is_root": false,
@@ -59,7 +60,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "dn12_translation-en-sujato",
           "is_root": false,
@@ -230,7 +231,7 @@
       ],
       "type": "leaf",
       "uid": "dn12",
-      "volpages": "DN i 224"
+      "volpages": "PTS DN i 224"
     }
   ]
 }

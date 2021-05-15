@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 50",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Māra, the trickster and god of death, tried to annoy Moggallāna. He not only failed but was subject to a stern sermon warning of the dangers of attacking the Buddha’s disciples.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn50_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn50_translation-en-sujato",
           "is_root": false,
@@ -265,7 +266,7 @@
       ],
       "type": "leaf",
       "uid": "mn50",
-      "volpages": "MN i 332"
+      "volpages": "PTS MN i 332"
     }
   ]
 }

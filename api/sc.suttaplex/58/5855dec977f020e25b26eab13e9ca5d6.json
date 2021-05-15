@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 39",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha encourages the mendicants to live up to their name, by actually practicing in a way that meets or exceeds the expectations people have for renunciants.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn39_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn39_translation-en-sujato",
           "is_root": false,
@@ -302,7 +303,7 @@
       ],
       "type": "leaf",
       "uid": "mn39",
-      "volpages": "MN i 271"
+      "volpages": "PTS MN i 271"
     }
   ]
 }

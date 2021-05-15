@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.85",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Venerable Yamaka had the wrong view that one whose defilements have ended is annihilated at death. The monks ask Sāriputta to help, and he asks Yamaka whether the Realized One in this very life may be identified as one of the aggregates, or apart from them. Convinced, Yamaka lets go of his view and sees the Dhamma.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.85_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.85_translation-en-sujato",
           "is_root": false,
@@ -226,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.85",
-      "volpages": "SN iii 109"
+      "volpages": "PTS SN iii 109"
     }
   ]
 }

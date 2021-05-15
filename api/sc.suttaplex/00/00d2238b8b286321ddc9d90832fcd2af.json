@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.23",
+      "alt_volpages": "PTS (2nd ed) SN i 512",
       "biblio": null,
       "blurb": "When Vepacitti fell ill, Sakka visited his old adversary, who begged to be cured. But Sakka demanded to be taught a powerful magic spell first.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn11.23_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn11.23_translation-en-sujato",
           "is_root": false,
@@ -178,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.23",
-      "volpages": "SN i 238"
+      "volpages": "PTS (1st ed) SN i 238"
     }
   ]
 }

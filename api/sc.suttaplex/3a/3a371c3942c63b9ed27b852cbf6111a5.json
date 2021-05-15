@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.2",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A number of mendicants are heading for lands west, but the Buddha advises them to speak with Sāriputta before they go. Sāriputta reminds them that in foreign lands they will be scrutinized for their understanding, so they need to be able to answer questions on the teaching. He goes on to explain that the Dhamma is for the removal of desire for the five aggregates.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.2_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.2_translation-en-sujato",
           "is_root": false,
@@ -250,7 +251,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.2",
-      "volpages": "SN iii 5"
+      "volpages": "PTS SN iii 5"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 9.3",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Venerable Meghiya, while attending on the Buddha, wants to go off and meditate in a forest alone. The Buddha discourages him, but he goes anyway. When his meditation doesn’t go well, he returns chastened to the Buddha, who teaches him about the benefits of good companions and other fundamentals of a balanced spiritual practice.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an9.3_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an9.3_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an9.3",
-      "volpages": "AN iv 354"
+      "volpages": "PTS AN iv 354"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 45.27",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Someone without the eightfold path is easily knocked over, like a pot without a stand.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn45.27_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn45.27_translation-en-sujato",
           "is_root": false,
@@ -202,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn45.27",
-      "volpages": "SN v 20"
+      "volpages": "PTS SN v 20"
     }
   ]
 }

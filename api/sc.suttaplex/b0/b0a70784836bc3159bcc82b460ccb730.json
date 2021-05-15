@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 3.20",
+      "alt_volpages": "PTS (2nd ed) SN i 205",
       "biblio": null,
       "blurb": "A wealthy man dies childless, having not enjoyed his riches. The Buddha tells of how in the time of a solitary Buddha of the past named Tagarasikhī, a householder made an offering but later regretted it.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn3.20_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn3.20_translation-en-sujato",
           "is_root": false,
@@ -213,7 +214,7 @@
       ],
       "type": "leaf",
       "uid": "sn3.20",
-      "volpages": "SN i 91"
+      "volpages": "PTS (1st ed) SN i 91"
     }
   ]
 }

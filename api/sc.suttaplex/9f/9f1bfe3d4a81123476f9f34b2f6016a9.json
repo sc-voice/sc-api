@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 9.4",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Nandaka is teaching the monks when the Buddha arrives. Unbeknown to those inside, the Buddha waits until the talk was finished, then enters. Nandaka is embarrassed at keeping the Buddha waiting, but the Buddha praises him and offers a teaching on the four things a mendicant should complete. Nandaka then teaches five benefits of listening to Dhamma.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an9.4_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an9.4_translation-en-sujato",
           "is_root": false,
@@ -177,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "an9.4",
-      "volpages": "AN iv 358"
+      "volpages": "PTS AN iv 358"
     }
   ]
 }

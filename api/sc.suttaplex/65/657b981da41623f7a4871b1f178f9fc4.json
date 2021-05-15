@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 44.2",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Venerable Anurādha is questioned by a number of ascetics, and ends up by saying that the Realized One is described in terms other than “existing after death” and so on. The wanderers say he’s a fool, so he checks with the Buddha, who says that a Realized One is not even apprehended in this life, so how can he be described after death?",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn44.2_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn44.2_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn44.2",
-      "volpages": "SN iv 380"
+      "volpages": "PTS SN iv 380"
     }
   ]
 }

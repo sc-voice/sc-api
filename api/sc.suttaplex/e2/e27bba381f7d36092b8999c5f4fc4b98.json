@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 56",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha disagrees with a Jain ascetic on the question of whether physical or mental deeds are more important. When he hears of this, the Jain disciple Upāli decides to visit the Buddha and refute him, and proceeds despite all warnings.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn56_root-pli-ms",
           "is_root": true,
@@ -82,7 +83,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn56_translation-en-sujato",
           "is_root": false,
@@ -302,7 +303,7 @@
       ],
       "type": "leaf",
       "uid": "mn56",
-      "volpages": "MN i 371"
+      "volpages": "PTS MN i 371"
     }
   ]
 }

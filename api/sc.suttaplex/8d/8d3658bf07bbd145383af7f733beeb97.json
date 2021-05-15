@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 8.9",
+      "alt_volpages": "PTS (2nd ed) SN i 417",
       "biblio": null,
       "blurb": "Aññā Koṇḍañña, the very first disciple to realize the Dhamma, comes to visit the Buddha after long in seclusion. Inspired, Vaṅgīsa speaks verses in his praise.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn8.9_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn8.9_translation-en-sujato",
           "is_root": false,
@@ -189,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn8.9",
-      "volpages": "SN i 193"
+      "volpages": "PTS (1st ed) SN i 193"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 35.99",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Develop meditative immersion so as to truly understand the process of sense experience.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn35.99_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn35.99_translation-en-sujato",
           "is_root": false,
@@ -226,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.99",
-      "volpages": "SN iv 80"
+      "volpages": "PTS SN iv 80"
     }
   ]
 }

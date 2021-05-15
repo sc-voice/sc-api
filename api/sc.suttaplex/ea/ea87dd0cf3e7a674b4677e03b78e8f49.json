@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 35.85",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha tells Ānanda that the “world” consisting of six sense experience is empty because it is empty of self and what belongs to self.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn35.85_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn35.85_translation-en-sujato",
           "is_root": false,
@@ -238,7 +239,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.85",
-      "volpages": "SN iv 54"
+      "volpages": "PTS SN iv 54"
     }
   ]
 }

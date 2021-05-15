@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 36.11",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A mendicant wonders how there can be three kinds of feeling, yet all of them are suffering.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn36.11_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn36.11_translation-en-sujato",
           "is_root": false,
@@ -202,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn36.11",
-      "volpages": "SN iv 216"
+      "volpages": "PTS SN iv 216"
     }
   ]
 }

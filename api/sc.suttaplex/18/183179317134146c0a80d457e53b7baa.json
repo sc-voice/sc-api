@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": null,
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "If others ask why you follow the spiritual path, say it’s for giving up fetters, etc.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn45.42-47_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn45.42-47_translation-en-sujato",
           "is_root": false,

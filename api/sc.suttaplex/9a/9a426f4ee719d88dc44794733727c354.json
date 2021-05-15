@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.10",
+      "alt_volpages": "PTS (2nd ed) SN i 9",
       "biblio": null,
       "blurb": "Spiritual practitioners have clear complexions, despite their simple life.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn1.10_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn1.10_translation-en-sujato",
           "is_root": false,
@@ -176,8 +177,8 @@
           "volpage": null
         },
         {
-          "author": "Gabriel N. Laera",
-          "author_short": "Laera",
+          "author": null,
+          "author_short": null,
           "author_uid": "laera",
           "id": "sn1.10_translation-pt-laera-quaresma",
           "is_root": false,
@@ -251,7 +252,7 @@
       ],
       "type": "leaf",
       "uid": "sn1.10",
-      "volpages": "SN i 5"
+      "volpages": "PTS (1st ed) SN i 5"
     }
   ]
 }

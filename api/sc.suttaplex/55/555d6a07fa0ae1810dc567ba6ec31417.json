@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.13",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Because the aggregates are suffering, a noble disciple becomes disillusioned with them.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.13_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.13_translation-en-sujato",
           "is_root": false,
@@ -214,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.13",
-      "volpages": "SN iii 21"
+      "volpages": "PTS SN iii 21"
     }
   ]
 }

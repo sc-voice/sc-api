@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 7.63",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Anāthapiṇḍika’s home was in an uproar due to the badly behaved Sujātā, newly wedded to one of his sons. The Buddha speaks to her on the different kinds of wives.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an7.63_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an7.63_translation-en-sujato",
           "is_root": false,
@@ -189,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "an7.63",
-      "volpages": "AN iv 91"
+      "volpages": "PTS AN iv 91"
     }
   ]
 }

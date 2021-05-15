@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 6.8",
+      "alt_volpages": "PTS (2nd ed) SN i 323",
       "biblio": null,
       "blurb": "The brahmās Subrahmā and Suddhāvāsa come to the Buddha’s hut and speak on the monk Katamorakatissaka, a follower of Devadatta.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn6.8_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn6.8_translation-en-sujato",
           "is_root": false,
@@ -201,7 +202,7 @@
       ],
       "type": "leaf",
       "uid": "sn6.8",
-      "volpages": "SN i 148"
+      "volpages": "PTS (1st ed) SN i 148"
     }
   ]
 }

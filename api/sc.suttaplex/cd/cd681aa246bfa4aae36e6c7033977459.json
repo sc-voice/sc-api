@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 35.88",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Venerable Puṇṇa goes to the Buddha and asks for a teaching before he departs to the foreign land of Sunāparanta. The Buddha warns him that folk there are fierce, and questions whether he is ready for such a difficult assignment.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn35.88_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn35.88_translation-en-sujato",
           "is_root": false,
@@ -202,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.88",
-      "volpages": "SN iv 60"
+      "volpages": "PTS SN iv 60"
     }
   ]
 }

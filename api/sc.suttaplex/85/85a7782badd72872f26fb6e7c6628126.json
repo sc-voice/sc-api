@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 9.8",
+      "alt_volpages": "PTS (2nd ed) SN i 433",
       "biblio": null,
       "blurb": "A deity becomes concerned of the gossip about a certain monk who had become close with a family in the village. Taking the form of one of the women of the family, she tries to warn him; but he says a true practitioner is not concerned with gossip.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn9.8_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn9.8_translation-en-sujato",
           "is_root": false,
@@ -189,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn9.8",
-      "volpages": "SN i 201"
+      "volpages": "PTS (1st ed) SN i 201"
     }
   ]
 }

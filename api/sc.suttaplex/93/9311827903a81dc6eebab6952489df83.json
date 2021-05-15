@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 56.3",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Members of good families go forth to understand the four noble truths.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn56.3_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn56.3_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn56.3",
-      "volpages": "SN v 415"
+      "volpages": "PTS SN v 415"
     }
   ]
 }

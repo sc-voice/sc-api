@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "DN 26",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "In illustration of his dictum that one should rely on oneself, the Buddha gives a detailed account of the fall of a kingly lineage of the past, and the subsequent degeneration of society. This process, however, is not over, as the Buddha predicts that eventually society will fall into utter chaos. But far in the future, another Buddha, Metteyya, will arise in a time of peace and plenty.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "dn26_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "dn26_translation-en-sujato",
           "is_root": false,
@@ -241,7 +242,7 @@
       ],
       "type": "leaf",
       "uid": "dn26",
-      "volpages": "DN iii 58"
+      "volpages": "PTS DN iii 58"
     }
   ]
 }

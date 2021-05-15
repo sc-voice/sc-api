@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.37",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha speaks to Ānanda on what at AN 3.47 described as the “characteristics of conditioned phenomena”: arising, ceasing, and change while persisting. This was to become a critical aspect of later theories on the nature of change. Ānanda explains in terms of the aggregates.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.37_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.37_translation-en-sujato",
           "is_root": false,
@@ -214,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.37",
-      "volpages": "SN iii 37"
+      "volpages": "PTS SN iii 37"
     }
   ]
 }

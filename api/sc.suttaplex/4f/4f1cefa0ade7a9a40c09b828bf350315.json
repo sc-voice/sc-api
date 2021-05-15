@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 119",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "This focuses on the first aspect of mindfulness meditation, the observation of the body. This set of practices, simple as they seem, have far-reaching benefits.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn119_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn119_translation-en-sujato",
           "is_root": false,
@@ -301,7 +302,7 @@
       ],
       "type": "leaf",
       "uid": "mn119",
-      "volpages": "MN iii 88"
+      "volpages": "PTS MN iii 88"
     }
   ]
 }

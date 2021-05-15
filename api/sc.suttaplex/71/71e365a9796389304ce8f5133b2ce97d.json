@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.6",
+      "alt_volpages": "PTS (2nd ed) SN i 109",
       "biblio": null,
       "blurb": "The deity Kāmada addresses the Buddha with a series of cryptic statements lamenting the difficulty of spiritual practice. The Buddha agrees, but points out that true practitioners do it even though it’s hard.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn2.6_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn2.6_translation-en-sujato",
           "is_root": false,
@@ -152,8 +153,8 @@
           "volpage": null
         },
         {
-          "author": "Gabriel N. Laera",
-          "author_short": "Laera",
+          "author": null,
+          "author_short": null,
           "author_uid": "laera",
           "id": "sn2.6_translation-pt-laera-quaresma",
           "is_root": false,
@@ -227,7 +228,7 @@
       ],
       "type": "leaf",
       "uid": "sn2.6",
-      "volpages": "SN i 48"
+      "volpages": "PTS (1st ed) SN i 48"
     }
   ]
 }

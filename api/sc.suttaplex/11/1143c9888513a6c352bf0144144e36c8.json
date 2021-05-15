@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 7.4",
+      "alt_volpages": "PTS (2nd ed) SN i 351",
       "biblio": null,
       "blurb": "Hearing that a brahmin had gone forth under the Buddha, another brahmin was upset. But once again the Buddha calms him down, pointing out that anger only harms oneself.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn7.4_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn7.4_translation-en-sujato",
           "is_root": false,
@@ -189,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn7.4",
-      "volpages": "SN i 164"
+      "volpages": "PTS (1st ed) SN i 164"
     }
   ]
 }

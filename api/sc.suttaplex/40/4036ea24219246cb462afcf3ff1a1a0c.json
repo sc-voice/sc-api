@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 9.1",
+      "alt_volpages": "PTS (2nd ed) SN i 424",
       "biblio": null,
       "blurb": "A monk in the forest lets his mind drift to thoughts of the lay life, but is warned by a local deity.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn9.1_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn9.1_translation-en-sujato",
           "is_root": false,
@@ -225,7 +226,7 @@
       ],
       "type": "leaf",
       "uid": "sn9.1",
-      "volpages": "SN i 197"
+      "volpages": "PTS (1st ed) SN i 197"
     }
   ]
 }

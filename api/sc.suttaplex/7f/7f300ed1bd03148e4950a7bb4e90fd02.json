@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 10.7",
+      "alt_volpages": "PTS (2nd ed) SN i 452",
       "biblio": null,
       "blurb": "A female spirit hushes her children as she listens to the teaching. But her son Punabbasu says that he had not been talking, as he too wants to learn.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn10.7_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn10.7_translation-en-sujato",
           "is_root": false,
@@ -177,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn10.7",
-      "volpages": "SN i 209"
+      "volpages": "PTS (1st ed) SN i 209"
     }
   ]
 }

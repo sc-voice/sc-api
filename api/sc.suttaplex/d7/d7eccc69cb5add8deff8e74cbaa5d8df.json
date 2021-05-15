@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 8.2",
+      "alt_volpages": "PTS (2nd ed) SN i 400",
       "biblio": null,
       "blurb": "Vaṅgīsa is troubled again by lust, but manages to dispel it through his own efforts. His verse speak of the way of the renunciate, letting go of desire and wrong views, and dedicated to ethical conduct and seclusion.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn8.2_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn8.2_translation-en-sujato",
           "is_root": false,
@@ -189,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn8.2",
-      "volpages": "SN i 186"
+      "volpages": "PTS (1st ed) SN i 186"
     }
   ]
 }

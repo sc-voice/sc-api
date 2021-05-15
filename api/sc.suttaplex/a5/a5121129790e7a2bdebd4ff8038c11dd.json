@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 4.25",
+      "alt_volpages": "PTS (2nd ed) SN i 273",
       "biblio": null,
       "blurb": "Depressed, Māra laments to his three daughters of his failure to distract the Buddha. So they take on the task themselves, and assume a variety of sensuous forms to tempt him. But they fail too, and Māra castigates them for being so presumptuous",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn4.25_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn4.25_translation-en-sujato",
           "is_root": false,
@@ -226,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn4.25",
-      "volpages": "SN i 124"
+      "volpages": "PTS (1st ed) SN i 124"
     }
   ]
 }

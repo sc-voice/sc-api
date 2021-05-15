@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 47.3",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "When a mendicant asks for a teaching to take on retreat, the Buddha issues an unexpected rebuke. Evidently the mendicant had been badly behaved; but now, he insists, he is sincere. The Buddha relents, and teaches the four kinds of mindfulness meditation, well grounded on ethics.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn47.3_root-pli-ms",
           "is_root": true,
@@ -43,7 +44,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn47.3_translation-de-sabbamitta",
           "is_root": false,
@@ -68,7 +69,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn47.3_translation-en-sujato",
           "is_root": false,
@@ -215,7 +216,7 @@
       ],
       "type": "leaf",
       "uid": "sn47.3",
-      "volpages": "SN v 142"
+      "volpages": "PTS SN v 142"
     }
   ]
 }

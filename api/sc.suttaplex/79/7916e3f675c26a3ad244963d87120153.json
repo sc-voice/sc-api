@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 35.52",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The “all” consisting of the six interior and exterior sense fields is afflicted.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn35.52_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn35.52_translation-en-sujato",
           "is_root": false,
@@ -178,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.52",
-      "volpages": "SN iv 29"
+      "volpages": "PTS SN iv 29"
     }
   ]
 }

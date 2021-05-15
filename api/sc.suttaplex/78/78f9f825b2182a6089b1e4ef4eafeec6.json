@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 36.9",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The three feelings are impermanent.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn36.9_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn36.9_translation-en-sujato",
           "is_root": false,
@@ -226,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn36.9",
-      "volpages": "SN iv 214"
+      "volpages": "PTS SN iv 214"
     }
   ]
 }

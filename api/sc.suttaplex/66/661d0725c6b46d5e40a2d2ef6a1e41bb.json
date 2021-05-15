@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 63",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A monk demands that the Buddha answer his metaphysical questions, or else he will disrobe. The Buddha compares him to a man struck by an arrow, who refuses treatment until he can have all his questions about the arrow and the archer answered.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn63_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn63_translation-en-sujato",
           "is_root": false,
@@ -338,7 +339,7 @@
       ],
       "type": "leaf",
       "uid": "mn63",
-      "volpages": "MN i 426"
+      "volpages": "PTS MN i 426"
     }
   ]
 }

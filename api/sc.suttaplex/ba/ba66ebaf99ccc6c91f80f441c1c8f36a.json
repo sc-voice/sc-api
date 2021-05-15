@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 3.17",
+      "alt_volpages": "PTS (2nd ed) SN i 195",
       "biblio": null,
       "blurb": "Pasenadi asks the Buddha if there is one thing that secures benefit both in this life and the next.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn3.17_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn3.17_translation-en-sujato",
           "is_root": false,
@@ -213,7 +214,7 @@
       ],
       "type": "leaf",
       "uid": "sn3.17",
-      "volpages": "SN i 86"
+      "volpages": "PTS (1st ed) SN i 86"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 4.61",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Four things that are desirable, but hard to get; and how to get them through deeds of substance.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an4.61_root-pli-ms",
           "is_root": true,
@@ -43,7 +44,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "an4.61_translation-de-sabbamitta",
           "is_root": false,
@@ -68,7 +69,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an4.61_translation-en-sujato",
           "is_root": false,
@@ -203,7 +204,7 @@
       ],
       "type": "leaf",
       "uid": "an4.61",
-      "volpages": "AN ii 65"
+      "volpages": "PTS AN ii 65"
     }
   ]
 }

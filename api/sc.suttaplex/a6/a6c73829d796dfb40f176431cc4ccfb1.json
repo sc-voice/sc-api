@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.14",
+      "alt_volpages": "PTS (2nd ed) SN i 497",
       "biblio": null,
       "blurb": "The gods complain when a poor man is reborn in heaven. But Sakka points out that even though poor, he did many good deeds.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn11.14_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn11.14_translation-en-sujato",
           "is_root": false,
@@ -178,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.14",
-      "volpages": "SN i 231"
+      "volpages": "PTS (1st ed) SN i 231"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.99",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Transmigration has no knowable beginning; even the oceans, mountains, and this great earth will perish. But like a dog on a leash running around a post, beings remain attached to the aggregates.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.99_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.99_translation-en-sujato",
           "is_root": false,
@@ -202,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.99",
-      "volpages": "SN iii 149"
+      "volpages": "PTS SN iii 149"
     }
   ]
 }

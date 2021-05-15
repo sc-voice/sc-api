@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 12.39",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Intentions or choices are the force that propels consciousness from one life to the next.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn12.39_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn12.39_translation-en-sujato",
           "is_root": false,
@@ -226,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.39",
-      "volpages": "SN ii 66"
+      "volpages": "PTS SN ii 66"
     }
   ]
 }

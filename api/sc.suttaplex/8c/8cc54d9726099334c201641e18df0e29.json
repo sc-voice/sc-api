@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 105",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Not all of those who claim to be awakened are genuine. The Buddha teaches how true spiritual progress depends on an irreversible letting go of the forces that lead to suffering.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn105_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn105_translation-en-sujato",
           "is_root": false,
@@ -276,7 +277,7 @@
       ],
       "type": "leaf",
       "uid": "mn105",
-      "volpages": "MN ii 252"
+      "volpages": "PTS MN ii 252"
     }
   ]
 }

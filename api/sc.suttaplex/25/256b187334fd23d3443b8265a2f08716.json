@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 123",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Venerable Ānanda is invited by the Buddha to speak on the Buddha’s amazing qualities, and proceeds to list a series of apparently miraculous events accompanying his birth. The Buddha caps it off by explaining what he thinks is really amazing about himself.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn123_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn123_translation-en-sujato",
           "is_root": false,
@@ -228,7 +229,7 @@
       ],
       "type": "leaf",
       "uid": "mn123",
-      "volpages": "MN iii 118"
+      "volpages": "PTS MN iii 118"
     }
   ]
 }

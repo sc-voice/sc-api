@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 56.1",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Mendicants should develop immersion so as to understand the four noble truths: suffering, its origin, its cessation, and the path.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn56.1_root-pli-ms",
           "is_root": true,
@@ -43,7 +44,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn56.1_translation-de-sabbamitta",
           "is_root": false,
@@ -68,7 +69,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn56.1_translation-en-sujato",
           "is_root": false,
@@ -239,7 +240,7 @@
       ],
       "type": "leaf",
       "uid": "sn56.1",
-      "volpages": "SN v 414"
+      "volpages": "PTS SN v 414"
     }
   ]
 }

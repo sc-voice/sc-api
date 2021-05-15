@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 12.59",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Consciousness is reborn when you linger on pleasing things that stimulate fetters, illustrated with the simile of a tree.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn12.59_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn12.59_translation-en-sujato",
           "is_root": false,
@@ -214,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.59",
-      "volpages": "SN ii 91"
+      "volpages": "PTS SN ii 91"
     }
   ]
 }

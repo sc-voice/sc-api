@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 4.31",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Living in a suitable region, relying on good people, right determination, and past good karma.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an4.31_root-pli-ms",
           "is_root": true,
@@ -43,7 +44,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "an4.31_translation-de-sabbamitta",
           "is_root": false,
@@ -68,7 +69,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an4.31_translation-en-sujato",
           "is_root": false,
@@ -215,7 +216,7 @@
       ],
       "type": "leaf",
       "uid": "an4.31",
-      "volpages": "AN ii 32"
+      "volpages": "PTS AN ii 32"
     }
   ]
 }

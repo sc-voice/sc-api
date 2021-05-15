@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.57",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "To be fully accomplished, a mendicant should investigate the five aggregates in light of the four noble truths, as well as their gratification, drawback, and escape. In addition, they should investigate the elements, sense fields, and dependent origination.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.57_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.57_translation-en-sujato",
           "is_root": false,
@@ -202,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.57",
-      "volpages": "SN iii 61"
+      "volpages": "PTS SN iii 61"
     }
   ]
 }

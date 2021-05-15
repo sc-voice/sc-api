@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 134",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A monk who does not know the verses from MN 131 is encouraged by a deity to learn them.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn134_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn134_translation-en-sujato",
           "is_root": false,
@@ -228,7 +229,7 @@
       ],
       "type": "leaf",
       "uid": "mn134",
-      "volpages": "MN iii 199"
+      "volpages": "PTS MN iii 199"
     }
   ]
 }

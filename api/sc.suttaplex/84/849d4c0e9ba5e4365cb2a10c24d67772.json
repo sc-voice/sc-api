@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 44",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The layman Visākha asks the nun Dhammadinnā about various difficult matters, including some of the highest meditation attainments. The Buddha fully endorses her answers.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn44_root-pli-ms",
           "is_root": true,
@@ -57,6 +58,19 @@
           "volpage": null
         },
         {
+          "author": "Anagarika Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "id": "mn44_translation-de-sabbamitta",
+          "is_root": false,
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Die kürzere Einteilung ",
+          "volpage": null
+        },
+        {
           "author": "Mettiko Bhikkhu",
           "author_short": "Mettiko",
           "author_uid": "mettiko",
@@ -70,7 +84,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn44_translation-en-sujato",
           "is_root": false,
@@ -327,7 +341,7 @@
       ],
       "type": "leaf",
       "uid": "mn44",
-      "volpages": "MN i 299"
+      "volpages": "PTS MN i 299"
     }
   ]
 }

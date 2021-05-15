@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 35.130",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The householder Hāliddakāni asks Mahākaccāna about the relation between the diversity of elements and the diveristy of contacts, and he answers in terms of the elements of sense experience.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn35.130_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn35.130_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.130",
-      "volpages": "SN iv 115"
+      "volpages": "PTS SN iv 115"
     }
   ]
 }

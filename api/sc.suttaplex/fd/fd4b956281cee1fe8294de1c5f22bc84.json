@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 81",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha relates an unusual account of a past life in the time of the previous Buddha, Kassapa. At that time he was not interested in Dhamma, and had to be forced to go see the Buddha. This discourse is important in understanding the development of the Bodhisattva doctrine.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn81_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn81_translation-en-sujato",
           "is_root": false,
@@ -265,7 +266,7 @@
       ],
       "type": "leaf",
       "uid": "mn81",
-      "volpages": "MN ii 45"
+      "volpages": "PTS MN ii 45"
     }
   ]
 }

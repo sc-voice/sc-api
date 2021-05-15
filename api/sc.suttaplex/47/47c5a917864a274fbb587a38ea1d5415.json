@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 5.6",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Loss of foundational qualities leads to decline.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an5.6_root-pli-ms",
           "is_root": true,
@@ -43,7 +44,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "an5.6_translation-de-sabbamitta",
           "is_root": false,
@@ -68,7 +69,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an5.6_translation-en-sujato",
           "is_root": false,
@@ -191,7 +192,7 @@
       ],
       "type": "leaf",
       "uid": "an5.6",
-      "volpages": "AN iii 5"
+      "volpages": "PTS AN iii 5"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.9",
+      "alt_volpages": "PTS (2nd ed) SN i 487",
       "biblio": null,
       "blurb": "In days gone by, Sakka, lord of gods, and Vepacitti, lord of demons, visited a hermitage of seers. But Vepacitti behaves rudely, while Sakka honors them. However, the seers beg Sakka to leave, on account of the stink of their unwashed bodies. But he says he loves their smell.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn11.9_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn11.9_translation-en-sujato",
           "is_root": false,
@@ -178,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.9",
-      "volpages": "SN i 226"
+      "volpages": "PTS (1st ed) SN i 226"
     }
   ]
 }

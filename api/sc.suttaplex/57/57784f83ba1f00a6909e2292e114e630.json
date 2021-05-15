@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 43",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A series of questions and answers between Sāriputta and Mahākoṭṭhita, examining various subtle and abstruse aspects of the teachings.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn43_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn43_translation-en-sujato",
           "is_root": false,
@@ -302,7 +303,7 @@
       ],
       "type": "leaf",
       "uid": "mn43",
-      "volpages": "MN i 292"
+      "volpages": "PTS MN i 292"
     }
   ]
 }

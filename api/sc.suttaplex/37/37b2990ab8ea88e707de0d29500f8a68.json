@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.59",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "In the Deer Park at Varanasi the Buddha teaches the famous second discourse, on not-self with regard to the aggregates, to the group of five monks. At the conclusion, they become perfected ones.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.59_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn22.59_translation-de-sabbamitta",
           "is_root": false,
@@ -92,7 +93,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.59_translation-en-sujato",
           "is_root": false,
@@ -335,7 +336,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.59",
-      "volpages": "SN iii 66"
+      "volpages": "PTS SN iii 66"
     }
   ]
 }

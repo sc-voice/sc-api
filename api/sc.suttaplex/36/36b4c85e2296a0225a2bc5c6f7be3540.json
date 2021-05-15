@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 6.93",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Things impossible for a stream-enterer.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an6.93_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an6.93_translation-en-sujato",
           "is_root": false,
@@ -165,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "an6.93",
-      "volpages": "AN iii 439"
+      "volpages": "PTS AN iii 439"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 47",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "While some spiritual teachers prefer to remain in obscurity, the Buddha not only encouraged his followers to closely investigate him, but gave them a detailed and demanding method to do so.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn47_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn47_translation-en-sujato",
           "is_root": false,
@@ -278,7 +279,7 @@
       ],
       "type": "leaf",
       "uid": "mn47",
-      "volpages": "MN i 317"
+      "volpages": "PTS MN i 317"
     }
   ]
 }

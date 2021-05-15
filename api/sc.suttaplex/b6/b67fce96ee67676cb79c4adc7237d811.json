@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.94",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha doesn’t dispute with the world; the world disputes with him. He has understood the five aggregates and explains them. Like a lotus, he was born in the swamp, but rises above it.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.94_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.94_translation-en-sujato",
           "is_root": false,
@@ -202,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.94",
-      "volpages": "SN iii 138"
+      "volpages": "PTS SN iii 138"
     }
   ]
 }

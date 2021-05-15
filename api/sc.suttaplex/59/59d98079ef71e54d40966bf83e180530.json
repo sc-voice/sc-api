@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 7.16",
+      "alt_volpages": "PTS (2nd ed) SN i 385",
       "biblio": null,
       "blurb": "A brahmin who loves to contradict everyone approaches the Buddha thinking to challenge him. But when he hears the Buddha speak, he cannot find anything to contradict.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn7.16_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn7.16_translation-en-sujato",
           "is_root": false,
@@ -201,7 +202,7 @@
       ],
       "type": "leaf",
       "uid": "sn7.16",
-      "volpages": "SN i 179"
+      "volpages": "PTS (1st ed) SN i 179"
     }
   ]
 }

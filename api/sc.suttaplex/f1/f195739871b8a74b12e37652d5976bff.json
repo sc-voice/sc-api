@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 35.117",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "While practicing for awakening, the Buddha reflected that he should be diligent when his mind strayed to sense pleasures of the past, future, or present. He urges the mendicants to realize that place where the senses completely cease, and they ask Ānanda to explain this to them.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn35.117_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn35.117_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.117",
-      "volpages": "SN iv 97"
+      "volpages": "PTS SN iv 97"
     }
   ]
 }

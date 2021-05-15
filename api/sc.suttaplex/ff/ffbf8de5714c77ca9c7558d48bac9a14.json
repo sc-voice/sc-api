@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 56.44",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Just as it’s impossible to build an upper floor without building the lower floors first, it’s impossible to end suffering without penetrating the four noble truths.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn56.44_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn56.44_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn56.44",
-      "volpages": "SN v 452"
+      "volpages": "PTS SN v 452"
     }
   ]
 }

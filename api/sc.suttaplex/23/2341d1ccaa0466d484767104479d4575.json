@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 12.63",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha defines the four kinds of “food” or “nutriment”, which include edible food, contact, intention, and consciousness. He illustrates them with a series of powerful and horrifying similes.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn12.63_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn12.63_translation-en-sujato",
           "is_root": false,
@@ -238,7 +239,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.63",
-      "volpages": "SN ii 97"
+      "volpages": "PTS SN ii 97"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 48.42",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The brahmin Uṇṇābha points out that the five physical sense faculties do not share a common domain, so where do they come together? In the mind. Uṇṇābha pursues the teaching all the way to Nibbāna.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn48.42_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn48.42_translation-en-sujato",
           "is_root": false,
@@ -177,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn48.42",
-      "volpages": "SN v 217"
+      "volpages": "PTS SN v 217"
     }
   ]
 }

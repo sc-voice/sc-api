@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 7.14",
+      "alt_volpages": "PTS (2nd ed) SN i 377",
       "biblio": null,
       "blurb": "A brahmin is shabby clothes has been kicked out of his home by ungrateful sons. The Buddha gives him a verse to recite in the village council, comparing his faithless sons to his trusty wooden staff. Ashamed, the sons take back their father, bathe and dress him.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn7.14_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn7.14_translation-en-sujato",
           "is_root": false,
@@ -213,7 +214,7 @@
       ],
       "type": "leaf",
       "uid": "sn7.14",
-      "volpages": "SN i 175"
+      "volpages": "PTS (1st ed) SN i 175"
     }
   ]
 }

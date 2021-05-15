@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.29",
+      "alt_volpages": "PTS (2nd ed) SN i 146",
       "biblio": null,
       "blurb": "The Buddha asks Ānanda if he likes Sāriputta, and when he replies that he does, the god Susīma and his assembly appear, rejoicing in Sāriputta’s praises, and radiating in lustrous colors.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn2.29_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn2.29_translation-en-sujato",
           "is_root": false,
@@ -139,8 +140,8 @@
           "volpage": null
         },
         {
-          "author": "Gabriel N. Laera",
-          "author_short": "Laera",
+          "author": null,
+          "author_short": null,
           "author_uid": "laera",
           "id": "sn2.29_translation-pt-laera-quaresma",
           "is_root": false,
@@ -214,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn2.29",
-      "volpages": "SN i 63"
+      "volpages": "PTS (1st ed) SN i 63"
     }
   ]
 }

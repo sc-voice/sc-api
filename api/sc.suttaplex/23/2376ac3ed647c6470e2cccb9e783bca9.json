@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 7.9",
+      "alt_volpages": "PTS (2nd ed) SN i 358",
       "biblio": null,
       "blurb": "A brahmin conducting a fire sacrifice wishes to offer the sacrificial cake. He sees the Buddha meditating and wants to give it to him, but hesitates when he realizes he is a shaven-headed ascetic. He asks the Buddha’s caste, but the Buddha argues that conduct is the important thing, not caste. The Buddha gives a metaphorical reinterpretation of the elements of brahmanical ritual.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn7.9_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn7.9_translation-en-sujato",
           "is_root": false,
@@ -189,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn7.9",
-      "volpages": "SN i 167"
+      "volpages": "PTS (1st ed) SN i 167"
     }
   ]
 }

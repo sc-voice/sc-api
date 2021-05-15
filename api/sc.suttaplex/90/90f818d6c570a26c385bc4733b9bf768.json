@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 150",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "In discussion with a group of householders, the Buddha helps them to distinguish those spiritual practitioners who are truly worthy of respect.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn150_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn150_translation-en-sujato",
           "is_root": false,
@@ -216,7 +217,7 @@
       ],
       "type": "leaf",
       "uid": "mn150",
-      "volpages": "MN iii 290"
+      "volpages": "PTS MN iii 290"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 9.13",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Venerables Mahākoṭṭhita and Sāriputta discuss whether the spiritual path is for the purpose of changing the results of deeds.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an9.13_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an9.13_translation-en-sujato",
           "is_root": false,
@@ -178,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an9.13",
-      "volpages": "AN iv 382"
+      "volpages": "PTS AN iv 382"
     }
   ]
 }

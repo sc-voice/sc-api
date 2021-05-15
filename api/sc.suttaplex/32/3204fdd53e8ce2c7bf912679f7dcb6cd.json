@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "DN 6",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha explains to a diverse group of lay people how the results of meditation depend on the manner of development.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "dn6_root-pli-ms",
           "is_root": true,
@@ -46,7 +47,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "dn6_translation-de-sabbamitta",
           "is_root": false,
@@ -59,7 +60,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "dn6_translation-en-sujato",
           "is_root": false,
@@ -254,7 +255,7 @@
       ],
       "type": "leaf",
       "uid": "dn6",
-      "volpages": "DN i 150"
+      "volpages": "PTS DN i 150"
     }
   ]
 }

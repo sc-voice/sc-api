@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 35.63",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Venerable Migajāla asks how one lives alone, and how with a partner. The Buddha says that so long as one is bound by desire to the senses, one lives with a partner. A mendicant free of such desire dwells alone, even if they live in close association with worldly people.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn35.63_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn35.63_translation-en-sujato",
           "is_root": false,
@@ -202,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.63",
-      "volpages": "SN iv 35"
+      "volpages": "PTS SN iv 35"
     }
   ]
 }

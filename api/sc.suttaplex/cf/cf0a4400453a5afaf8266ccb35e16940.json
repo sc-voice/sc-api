@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 41.8",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Jain leader Mahāvīra, known as Nigaṇṭha Nātaputa in the Buddhist tradition, is visited by Citta. Mahāvīra asks him whether he believes in a certain state of immersion. When Citta replies that he doesn’t go by faith in the Buddha on this point, Mahāvīra is delighted. But it turns out Citta doesn’t need faith, as he experiences such a state for himself.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn41.8_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn41.8_translation-en-sujato",
           "is_root": false,
@@ -177,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn41.8",
-      "volpages": "SN iv 297"
+      "volpages": "PTS SN iv 297"
     }
   ]
 }

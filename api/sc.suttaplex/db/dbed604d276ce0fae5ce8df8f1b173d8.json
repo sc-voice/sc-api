@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 7",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The many different kinds of impurities that defile the mind are compared to a dirty cloth. When the mind is clean we find joy, which leads to states of higher consciousness. Finally, the Buddha rejects the Brahmanical notion that purity comes from bathing in sacred rivers.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn7_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "mn7_translation-de-sabbamitta",
           "is_root": false,
@@ -83,7 +84,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn7_translation-en-sujato",
           "is_root": false,
@@ -376,7 +377,7 @@
       ],
       "type": "leaf",
       "uid": "mn7",
-      "volpages": "MN i 36"
+      "volpages": "PTS MN i 36"
     }
   ]
 }

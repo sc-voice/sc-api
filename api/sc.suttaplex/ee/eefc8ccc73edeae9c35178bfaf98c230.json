@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 54",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "When Potaliya got upset at being referred to as “householder”, the Buddha quizzed him as to the true nature of attachment and renunciation.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn54_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn54_translation-en-sujato",
           "is_root": false,
@@ -290,7 +291,7 @@
       ],
       "type": "leaf",
       "uid": "mn54",
-      "volpages": "MN i 359"
+      "volpages": "PTS MN i 359"
     }
   ]
 }

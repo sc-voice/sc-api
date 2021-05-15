@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 12.12",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Venerable Moḷiyaphagguna asks who eats the consciousness food. The Buddha says the question is improper, as it assumes a self as agent. Rather, all the factors of dependent origination are simply natural conditions and have nothing to do with a “self”.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn12.12_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn12.12_translation-de-sabbamitta",
           "is_root": false,
@@ -80,7 +81,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn12.12_translation-en-sujato",
           "is_root": false,
@@ -240,7 +241,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.12",
-      "volpages": "SN ii 12"
+      "volpages": "PTS SN ii 12"
     }
   ]
 }

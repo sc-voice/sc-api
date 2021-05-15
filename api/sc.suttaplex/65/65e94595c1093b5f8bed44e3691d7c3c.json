@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 2",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The diverse problems of the spiritual journey demand a diverse range of responses. Rather than applying the same solution to every problem, the Buddha outlines seven methods of dealing with defilements, each of which works in certain cases.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn2_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "mn2_translation-de-sabbamitta",
           "is_root": false,
@@ -95,7 +96,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn2_translation-en-sujato",
           "is_root": false,
@@ -436,7 +437,7 @@
       ],
       "type": "leaf",
       "uid": "mn2",
-      "volpages": "MN i 6"
+      "volpages": "PTS MN i 6"
     }
   ]
 }

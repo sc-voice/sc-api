@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 8.12",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "General Sīha, a prominent disciple of the Jains, visits the Buddha against the wishes of Mahāvīra, the Jain leader. He challenges the Buddha by bringing up the various ways that people criticize him. Convinced by the Buddha’s response, Sīha wishes to take refuge in the Buddha; but the Buddha urges him to be cautious and to continue supporting the Jains.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an8.12_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an8.12_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an8.12",
-      "volpages": "AN iv 179"
+      "volpages": "PTS AN iv 179"
     }
   ]
 }

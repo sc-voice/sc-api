@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 7.7",
+      "alt_volpages": "PTS (2nd ed) SN i 354",
       "biblio": null,
       "blurb": "The brahmin Suddhika makes the strikingly Buddhist assertion that mere austerities don’t lead to purity; only knowledge and conduct do. ",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn7.7_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn7.7_translation-en-sujato",
           "is_root": false,
@@ -189,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn7.7",
-      "volpages": "SN i 165"
+      "volpages": "PTS (1st ed) SN i 165"
     }
   ]
 }

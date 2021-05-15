@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 56.41",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha tells the curious tale of a man who sat by a lotus pond to speculate about the world, and saw an army enter a lotus stalk. He thought he was going mad. The Buddha said that no, the army was real. Nevertheless, you should not speculate about such things, but should reflect on the four noble truths.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn56.41_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn56.41_translation-en-sujato",
           "is_root": false,
@@ -178,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn56.41",
-      "volpages": "SN v 446"
+      "volpages": "PTS SN v 446"
     }
   ]
 }

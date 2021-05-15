@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 17.27",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Someone who doesn’t fully understand material possessions, honor, and praise is no true ascetic.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn17.27_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn17.27_translation-en-sujato",
           "is_root": false,
@@ -165,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "sn17.27",
-      "volpages": "SN ii 237"
+      "volpages": "PTS SN ii 237"
     }
   ]
 }

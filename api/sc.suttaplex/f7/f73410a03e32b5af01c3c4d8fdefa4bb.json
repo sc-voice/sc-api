@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.92",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Rāhula asks how to contemplate to let go of conceit and be free. The Buddha urges him to see the aggregates as not-self.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.92_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.92_translation-en-sujato",
           "is_root": false,
@@ -214,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.92",
-      "volpages": "SN iii 136"
+      "volpages": "PTS SN iii 136"
     }
   ]
 }

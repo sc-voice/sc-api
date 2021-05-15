@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 5.33",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Uggaha invites the Buddha for a meal, and asks him to advise his daughters, who about about to be married.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an5.33_root-pli-ms",
           "is_root": true,
@@ -43,7 +44,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "an5.33_translation-de-sabbamitta",
           "is_root": false,
@@ -68,7 +69,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an5.33_translation-en-sujato",
           "is_root": false,
@@ -191,7 +192,7 @@
       ],
       "type": "leaf",
       "uid": "an5.33",
-      "volpages": "AN iii 36"
+      "volpages": "PTS AN iii 36"
     }
   ]
 }

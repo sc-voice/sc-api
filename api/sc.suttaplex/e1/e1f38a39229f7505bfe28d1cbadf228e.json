@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 151",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha notices Venerable Sāriputta’s glowing complexion, which is the result of his deep meditation. He then presents a series of reflections by which a mendicant can be sure that they are worthy of their alms-food.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn151_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn151_translation-en-sujato",
           "is_root": false,
@@ -240,7 +241,7 @@
       ],
       "type": "leaf",
       "uid": "mn151",
-      "volpages": "MN iii 293"
+      "volpages": "PTS MN iii 293"
     }
   ]
 }

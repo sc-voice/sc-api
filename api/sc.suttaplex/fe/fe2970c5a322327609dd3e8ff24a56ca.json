@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 56.11",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The famous first discourse, taught at Varanasi to the group of five ascetics. It begins by rejecting the extremes of asceticism and indulgence and recommends the middle way of the eightfold path. Then it defines the four noble truths and analyzes them in twelve aspects. It ends with Venerable Kondañña becoming the first person apart from the Buddha to realize the Dhamma.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn56.11_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn56.11_translation-de-sabbamitta",
           "is_root": false,
@@ -92,7 +93,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn56.11_translation-en-sujato",
           "is_root": false,
@@ -371,7 +372,7 @@
       ],
       "type": "leaf",
       "uid": "sn56.11",
-      "volpages": "SN v 420"
+      "volpages": "PTS SN v 420"
     }
   ]
 }

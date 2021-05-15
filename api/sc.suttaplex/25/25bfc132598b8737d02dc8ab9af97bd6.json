@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 42.3",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Yodhājı̄va the professional warrior asks the Buddha whether the belief that warriors have a good rebirth is correct. The Buddha tries to dissuade him, but ultimately reveals that by following the way of violence they head to a bad rebirth. Yodhājı̄va is distressed and takes refuge.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn42.3_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn42.3_translation-en-sujato",
           "is_root": false,
@@ -189,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn42.3",
-      "volpages": "SN iv 308"
+      "volpages": "PTS SN iv 308"
     }
   ]
 }

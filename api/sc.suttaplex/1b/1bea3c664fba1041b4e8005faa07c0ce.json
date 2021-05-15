@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.18",
+      "alt_volpages": "PTS (2nd ed) SN i 123",
       "biblio": null,
       "blurb": "At Sāketa the god Kakudha asks the Buddha if he delights or sorrows. The Buddha replies that since he has no attachments he neither delights nor sorrows.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn2.18_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn2.18_translation-en-sujato",
           "is_root": false,
@@ -139,8 +140,8 @@
           "volpage": null
         },
         {
-          "author": "Gabriel N. Laera",
-          "author_short": "Laera",
+          "author": null,
+          "author_short": null,
           "author_uid": "laera",
           "id": "sn2.18_translation-pt-laera-quaresma",
           "is_root": false,
@@ -214,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn2.18",
-      "volpages": "SN i 54"
+      "volpages": "PTS (1st ed) SN i 54"
     }
   ]
 }

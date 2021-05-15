@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 12.17",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A naked ascetic named Kassapa approaches the Buddha while he is on alms round and asks whether suffering is created by oneself, by another, by both, or by chance. Explaining why he rejects all these options, the Buddha asserts that suffering arises due to conditions.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn12.17_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn12.17_translation-de-sabbamitta",
           "is_root": false,
@@ -80,7 +81,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn12.17_translation-en-sujato",
           "is_root": false,
@@ -239,7 +240,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.17",
-      "volpages": "SN ii 18"
+      "volpages": "PTS SN ii 18"
     }
   ]
 }

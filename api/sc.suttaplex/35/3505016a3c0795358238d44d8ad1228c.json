@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 87",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A rare glimpse into the marital life of King Pasenadi, and how he is led to the Dhamma by his Queen, the incomparable Mallikā. She confirms the Buddha’s teaching that our loved ones bring us sorrow; but that’s not something a husband, father, and king wants to hear.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn87_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn87_translation-en-sujato",
           "is_root": false,
@@ -290,7 +291,7 @@
       ],
       "type": "leaf",
       "uid": "mn87",
-      "volpages": "MN ii 106"
+      "volpages": "PTS MN ii 106"
     }
   ]
 }

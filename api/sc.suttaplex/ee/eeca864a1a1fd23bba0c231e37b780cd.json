@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 32.57",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "When the rain cloud gods decide to revel in their own element, the weather becomes rainy",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn32.57_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn32.57_translation-en-sujato",
           "is_root": false,
@@ -177,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn32.57",
-      "volpages": "SN iii 257"
+      "volpages": "PTS SN iii 257"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 18.6",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha answers Rāhula’s request by teaching on perceptions in light of the three characteristics.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn18.6_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn18.6_translation-en-sujato",
           "is_root": false,
@@ -177,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn18.6",
-      "volpages": "SN ii 247"
+      "volpages": "PTS SN ii 247"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 152",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A brahmin teacher advocates that purification of the senses consists in simply avoiding seeing and hearing things. The Buddha explains that it is not about avoiding sense experience, but understanding it and learning to not be affected by sense experience.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn152_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn152_translation-en-sujato",
           "is_root": false,
@@ -264,7 +265,7 @@
       ],
       "type": "leaf",
       "uid": "mn152",
-      "volpages": "MN iii 298"
+      "volpages": "PTS MN iii 298"
     }
   ]
 }

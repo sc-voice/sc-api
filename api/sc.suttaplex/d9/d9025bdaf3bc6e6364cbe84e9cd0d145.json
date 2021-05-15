@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 44.7",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The wanderer Vacchagotta asks Moggallāna the ten metaphysical questions, starting with whether the cosmos is eternal. Moggallāna says such questions would only be answered by someone who identifies with the six senses. Vacchagotta then asks the Buddha the same questions.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn44.7_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn44.7_translation-en-sujato",
           "is_root": false,
@@ -190,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn44.7",
-      "volpages": "SN iv 391"
+      "volpages": "PTS SN iv 391"
     }
   ]
 }

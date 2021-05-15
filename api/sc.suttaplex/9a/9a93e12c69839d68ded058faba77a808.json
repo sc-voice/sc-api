@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 143",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "As the great lay disciple Anāthapiṇḍika lies dying, Venerable Sāriputta visits him and gives a powerful teaching on non-attachment.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn143_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn143_translation-en-sujato",
           "is_root": false,
@@ -277,7 +278,7 @@
       ],
       "type": "leaf",
       "uid": "mn143",
-      "volpages": "MN iii 258"
+      "volpages": "PTS MN iii 258"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 55.52",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "When a monk comes from Sāvatthī to Kapilavatthu, the Sakyans visit him and ask as to the health of the Buddha and the Saṅgha. Then they ask what the monk has learned. He replies that the number of perfected ones is few, and those on lower levels of attainment are greater in number.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn55.52_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn55.52_translation-en-sujato",
           "is_root": false,
@@ -165,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "sn55.52",
-      "volpages": "SN v 405"
+      "volpages": "PTS SN v 405"
     }
   ]
 }

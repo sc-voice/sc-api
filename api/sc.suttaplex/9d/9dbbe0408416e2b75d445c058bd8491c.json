@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 107",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha compares the training of an accountant with the step by step spiritual path of his followers. But even with such a well explained path, the Buddha can only show the way, and it is up to us to walk it.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn107_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn107_translation-en-sujato",
           "is_root": false,
@@ -276,7 +277,7 @@
       ],
       "type": "leaf",
       "uid": "mn107",
-      "volpages": "MN iii 1"
+      "volpages": "PTS MN iii 1"
     }
   ]
 }

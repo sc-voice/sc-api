@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 12.46",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A brahmin asks whether the person who acts is the same or different to the person who receives the result. The Buddha rejects both views as extreme.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn12.46_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn12.46_translation-en-sujato",
           "is_root": false,
@@ -226,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.46",
-      "volpages": "SN ii 75"
+      "volpages": "PTS SN ii 75"
     }
   ]
 }

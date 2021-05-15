@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 101",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha tackles a group of Jain ascetics, pressing them on their claim to be practicing to end all suffering by self-mortification. He points out a series of fallacies in their logic, and explains his own middle way.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn101_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn101_translation-en-sujato",
           "is_root": false,
@@ -265,7 +266,7 @@
       ],
       "type": "leaf",
       "uid": "mn101",
-      "volpages": "MN ii 214"
+      "volpages": "PTS MN ii 214"
     }
   ]
 }

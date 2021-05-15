@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 47.21",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Venerable Bhadda asks Ānanda about the ethical virtues encouraged by the Buddha—what is their purpose? To develop the four kinds of mindfulness meditation.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn47.21_root-pli-ms",
           "is_root": true,
@@ -43,7 +44,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn47.21_translation-de-sabbamitta",
           "is_root": false,
@@ -68,7 +69,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn47.21_translation-en-sujato",
           "is_root": false,
@@ -227,7 +228,7 @@
       ],
       "type": "leaf",
       "uid": "sn47.21",
-      "volpages": "SN v 171"
+      "volpages": "PTS SN v 171"
     }
   ]
 }

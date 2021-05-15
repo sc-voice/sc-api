@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 42.9",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Mahāvīra asks Asibandhakaputta to refute the Buddha on behalf of the Jains. He suggests to try to trap the Buddha with a dilemma: he claims to have compassion for householders, yet visits them with a large Saṅgha in a time of scarcity. But the Buddha says no family has been harmed from this.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn42.9_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn42.9_translation-en-sujato",
           "is_root": false,
@@ -189,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn42.9",
-      "volpages": "SN iv 322"
+      "volpages": "PTS SN iv 322"
     }
   ]
 }

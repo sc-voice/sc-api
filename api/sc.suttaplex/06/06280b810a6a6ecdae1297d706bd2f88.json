@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.1",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The householder Nakulapitā asks the Buddha for help in coping with old age. The Buddha says to reflect: “Even though I am afflicted in body, my mind will be unafflicted.” Later Sāriputta explains this in terms of the five aggregates.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.1_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.1_translation-en-sujato",
           "is_root": false,
@@ -250,7 +251,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.1",
-      "volpages": "SN iii 1"
+      "volpages": "PTS SN iii 1"
     }
   ]
 }

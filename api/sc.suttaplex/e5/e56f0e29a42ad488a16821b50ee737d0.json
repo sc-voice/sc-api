@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.87",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Venerable Vakkali is ill, and asks the Buddha to visit him. The Buddha does so, but says there is no point in seeing his physical body, as one who sees the Dhamma sees him. Later, Vakkali is taken to the Black Rock on Isigili, where he declares that he has no attachment to the aggregates, and takes his own life. The Buddha says that he had attained final extinguishment.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.87_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.87_translation-en-sujato",
           "is_root": false,
@@ -214,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.87",
-      "volpages": "SN iii 119"
+      "volpages": "PTS SN iii 119"
     }
   ]
 }

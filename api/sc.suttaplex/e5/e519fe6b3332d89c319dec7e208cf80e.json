@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 76",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Venerable Ānanda teaches a group of wanderers how there are many different approaches to the spiritual life, many of which lead nowhere.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn76_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn76_translation-en-sujato",
           "is_root": false,
@@ -265,7 +266,7 @@
       ],
       "type": "leaf",
       "uid": "mn76",
-      "volpages": "MN i 513"
+      "volpages": "PTS MN i 513"
     }
   ]
 }

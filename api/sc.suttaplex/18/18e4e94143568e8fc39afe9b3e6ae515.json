@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 17",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "While living in the wilderness is great, not everyone is ready for it. The Buddha encourages meditators to reflect on whether one’s environment is genuinely supporting their meditation practice, and if not, to leave.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn17_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn17_translation-en-sujato",
           "is_root": false,
@@ -326,7 +327,7 @@
       ],
       "type": "leaf",
       "uid": "mn17",
-      "volpages": "MN i 104"
+      "volpages": "PTS MN i 104"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 30.2",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Phoenixes may be born from eggs, the womb, moisture, or spontaneously. Each of them may carry off a dragon of lower birth.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn30.2_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn30.2_translation-en-sujato",
           "is_root": false,
@@ -177,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn30.2",
-      "volpages": "SN iii 246"
+      "volpages": "PTS SN iii 246"
     }
   ]
 }

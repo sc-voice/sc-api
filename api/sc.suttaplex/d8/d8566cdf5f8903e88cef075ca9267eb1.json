@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 46",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "While we all want to be happy, we often find the opposite happens. The Buddha explains why.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn46_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn46_translation-en-sujato",
           "is_root": false,
@@ -279,7 +280,7 @@
       ],
       "type": "leaf",
       "uid": "mn46",
-      "volpages": "MN i 309"
+      "volpages": "PTS MN i 309"
     }
   ]
 }

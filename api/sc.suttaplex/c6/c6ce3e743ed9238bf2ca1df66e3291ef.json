@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 92",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A brahmanical ascetic named Keṇiya invites the entire Saṅgha for a meal. When the brahmin Sela sees what is happening, he visits the Buddha and expresses his delight in a moving series of devotional verses.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn92_root-pli-ms",
           "is_root": true,
@@ -82,7 +83,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn92_translation-en-sujato",
           "is_root": false,
@@ -313,7 +314,7 @@
       ],
       "type": "leaf",
       "uid": "mn92",
-      "volpages": "MN ii 146"
+      "volpages": "PTS MN ii 146"
     }
   ]
 }

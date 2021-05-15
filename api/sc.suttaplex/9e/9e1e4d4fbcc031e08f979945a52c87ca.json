@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 40.7",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Moggallāna speaks to the mendicants of a time when his practice of the dimension of nothingness was faltering. He expresses his gratitude for the Buddha, who urged him to stabilize that attainment.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn40.7_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn40.7_translation-en-sujato",
           "is_root": false,
@@ -153,7 +154,7 @@
       ],
       "type": "leaf",
       "uid": "sn40.7",
-      "volpages": "SN iv 267"
+      "volpages": "PTS SN iv 267"
     }
   ]
 }

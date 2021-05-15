@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 10.94",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The householder Vajjiyamāhita visits some wanderers, who accuse the Buddha of condemning all asceticism. Vajjiyamāhita counters this by saying the Buddha only criticizes what is worthy of criticism. The Buddha praises him, and explains in detail what this means.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an10.94_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an10.94_translation-en-sujato",
           "is_root": false,
@@ -178,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an10.94",
-      "volpages": "AN v 189"
+      "volpages": "PTS AN v 189"
     }
   ]
 }

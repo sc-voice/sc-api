@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 3.15",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Quality takes time: the parable of the chariot-maker.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an3.15_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "an3.15_translation-de-sabbamitta",
           "is_root": false,
@@ -80,7 +81,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an3.15_translation-en-sujato",
           "is_root": false,
@@ -239,7 +240,7 @@
       ],
       "type": "leaf",
       "uid": "an3.15",
-      "volpages": "AN i 110"
+      "volpages": "PTS AN i 110"
     }
   ]
 }

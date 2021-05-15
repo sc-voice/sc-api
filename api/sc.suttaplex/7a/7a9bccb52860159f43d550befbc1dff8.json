@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 8.74",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A mendicant should reflect each night on the dangers that lie around them, and practice mindfulness of death with urgency to give up the unwholesome.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an8.74_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an8.74_translation-en-sujato",
           "is_root": false,
@@ -177,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "an8.74",
-      "volpages": "AN iv 320"
+      "volpages": "PTS AN iv 320"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 12.70",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The wanderer Susı̄ma fraudulently enters the Sangha so that the wanderers can learn the secret to the Buddha’s fame and success. Hearing that some mendicants claimed to be perfected, Susīma approaches and asks them if they have developed psychic powers or the formless states, to which they say no. Perplexed, he asks the Buddha, who explains that awakening follows insight into the principles of impermanence and causality. Eventually Susı̄ma confesses his misdeed.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn12.70_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn12.70_translation-en-sujato",
           "is_root": false,
@@ -214,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.70",
-      "volpages": "SN ii 119"
+      "volpages": "PTS SN ii 119"
     }
   ]
 }

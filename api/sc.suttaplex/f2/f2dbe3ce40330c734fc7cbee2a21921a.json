@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 82",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A wealthy young man, Raṭṭhapāla, has a strong aspiration to go forth, but has to prevail against the reluctance of his parents. Even after he became a monk, his parents tried to persuade him to disrobe. The discourse ends with a moving series of teachings on the fragility of the world.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn82_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn82_translation-en-sujato",
           "is_root": false,
@@ -302,7 +303,7 @@
       ],
       "type": "leaf",
       "uid": "mn82",
-      "volpages": "MN ii 54"
+      "volpages": "PTS MN ii 54"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.79",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "One of the most extensive discourses in this collection begins with the Buddha saying that when anyone recollects a past life, all they are recollecting is the five aggregates. He then gives a distinctive set of definitions of the aggregates in terms of their functions, and discusses them from various aspects.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.79_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.79_translation-en-sujato",
           "is_root": false,
@@ -214,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.79",
-      "volpages": "SN iii 86"
+      "volpages": "PTS SN iii 86"
     }
   ]
 }

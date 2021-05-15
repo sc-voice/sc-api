@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.11",
+      "alt_volpages": "PTS (2nd ed) SN i 117",
       "biblio": null,
       "blurb": "The deity Candimasa says that those who practice absorption will surely find escape. The Buddha adds that they must also be diligent and discard flaws.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn2.11_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn2.11_translation-en-sujato",
           "is_root": false,
@@ -139,8 +140,8 @@
           "volpage": null
         },
         {
-          "author": "Gabriel N. Laera",
-          "author_short": "Laera",
+          "author": null,
+          "author_short": null,
           "author_uid": "laera",
           "id": "sn2.11_translation-pt-laera-quaresma",
           "is_root": false,
@@ -214,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn2.11",
-      "volpages": "SN i 51"
+      "volpages": "PTS (1st ed) SN i 51"
     }
   ]
 }

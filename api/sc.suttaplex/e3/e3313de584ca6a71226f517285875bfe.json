@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 125",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A young monk is unable to persuade a prince of the blessings of peace of mind. The Buddha offers similes based on training an elephant that would have been successful, as this was a field the prince was familiar with.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn125_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn125_translation-en-sujato",
           "is_root": false,
@@ -240,7 +241,7 @@
       ],
       "type": "leaf",
       "uid": "mn125",
-      "volpages": "MN iii 128"
+      "volpages": "PTS MN iii 128"
     }
   ]
 }

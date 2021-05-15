@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 3.21",
+      "alt_volpages": "PTS (2nd ed) SN i 209",
       "biblio": null,
       "blurb": "The Buddha teaches Pasenadi of four kinds of person, going from dark to dark, dark to light, light to dark, and light to light.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn3.21_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn3.21_translation-de-sabbamitta",
           "is_root": false,
@@ -80,7 +81,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn3.21_translation-en-sujato",
           "is_root": false,
@@ -226,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn3.21",
-      "volpages": "SN i 93"
+      "volpages": "PTS (1st ed) SN i 93"
     }
   ]
 }

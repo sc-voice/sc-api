@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 45",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha explains how taking up different practices may have harmful or beneficial results. The memorable simile of the creeper shows how insidious temptations can be.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn45_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn45_translation-en-sujato",
           "is_root": false,
@@ -277,7 +278,7 @@
       ],
       "type": "leaf",
       "uid": "mn45",
-      "volpages": "MN i 305"
+      "volpages": "PTS MN i 305"
     }
   ]
 }

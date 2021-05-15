@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 17.23",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A laywoman should wish that if her son remains in the household life, he should be like Citta and Hatthaka. But if he becomes a monk, may material possessions, honor, and praise not come to him!",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn17.23_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn17.23_translation-en-sujato",
           "is_root": false,
@@ -165,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "sn17.23",
-      "volpages": "SN ii 235"
+      "volpages": "PTS SN ii 235"
     }
   ]
 }

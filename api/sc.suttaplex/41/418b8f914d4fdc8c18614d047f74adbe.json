@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 10.48",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Topics for frequent reflection by one gone forth.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an10.48_root-pli-ms",
           "is_root": true,
@@ -43,7 +44,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "an10.48_translation-de-sabbamitta",
           "is_root": false,
@@ -51,7 +52,7 @@
           "lang_name": "Deutsch",
           "publication_date": null,
           "segmented": true,
-          "title": "Zehn regelmäßige Betrachtungen für enthaltsam Lebende ",
+          "title": "Zehn regelmäßige Betrachtungen für Hauslose ",
           "volpage": null
         },
         {
@@ -68,7 +69,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an10.48_translation-en-sujato",
           "is_root": false,
@@ -215,7 +216,7 @@
       ],
       "type": "leaf",
       "uid": "an10.48",
-      "volpages": "AN v 87"
+      "volpages": "PTS AN v 87"
     }
   ]
 }

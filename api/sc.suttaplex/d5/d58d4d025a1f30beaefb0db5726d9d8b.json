@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 146",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "When asked to teach the nuns, Venerable Nandaka proceeds by inviting them to engage with his discourse and ask if there is anything that needs further explanation.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn146_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn146_translation-en-sujato",
           "is_root": false,
@@ -253,7 +254,7 @@
       ],
       "type": "leaf",
       "uid": "mn146",
-      "volpages": "MN iii 270"
+      "volpages": "PTS MN iii 270"
     }
   ]
 }

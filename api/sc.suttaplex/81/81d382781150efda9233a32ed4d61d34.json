@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 8.75",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Eight accomplishments, both worldly and spiritual.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an8.75_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an8.75_translation-en-sujato",
           "is_root": false,
@@ -165,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "an8.75",
-      "volpages": "AN iv 322"
+      "volpages": "PTS AN iv 322"
     }
   ]
 }

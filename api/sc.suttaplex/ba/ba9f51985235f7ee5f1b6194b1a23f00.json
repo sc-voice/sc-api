@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 55.6",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "After the rainy season, the chamberlains Isidatta and Purāṇa hear that the Buddha is approaching and go to see him. They describe their joy at knowing when the Buddha is approaching, and speak of their special duties guarding the royal harem. The Buddha says they have four factors of stream-entry—experiential faith in the Buddha, the teaching, and the Saṅgha; and here generosity rather than ethics as the final factor.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn55.6_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn55.6_translation-en-sujato",
           "is_root": false,
@@ -165,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "sn55.6",
-      "volpages": "SN v 348"
+      "volpages": "PTS SN v 348"
     }
   ]
 }

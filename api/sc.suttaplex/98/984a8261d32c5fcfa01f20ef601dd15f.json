@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "DN 8",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha is challenged by a naked ascetic on the topic of spiritual austerities. He points out that it is quite possible to perform all kinds of austere practices without having any inner purity of mind.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "dn8_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "dn8_translation-en-sujato",
           "is_root": false,
@@ -229,7 +230,7 @@
       ],
       "type": "leaf",
       "uid": "dn8",
-      "volpages": "DN i 161"
+      "volpages": "PTS DN i 161"
     }
   ]
 }

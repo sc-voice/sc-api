@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 35.93",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Consciousness arises from the dyad of the interior sense organ with its corresponding exterior sense stimulus. All these things are conditioned, impermanent, and constantly falling apart.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn35.93_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn35.93_translation-en-sujato",
           "is_root": false,
@@ -202,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.93",
-      "volpages": "SN iv 67"
+      "volpages": "PTS SN iv 67"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 33",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "For eleven reasons a cowherd is not able to properly look after a herd. The Buddha compares this to the spiritual growth of a mendicant.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn33_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "mn33_translation-de-sabbamitta",
           "is_root": false,
@@ -83,7 +84,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn33_translation-en-sujato",
           "is_root": false,
@@ -302,7 +303,7 @@
       ],
       "type": "leaf",
       "uid": "mn33",
-      "volpages": "MN i 220"
+      "volpages": "PTS MN i 220"
     }
   ]
 }

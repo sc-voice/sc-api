@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 6.37",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Seeing the laywoman Veḷukaṇṭakī preparing a meal for the Saṅgha, the Buddha celebrated by saying that giving is of great benefit when the donor and the recipient each possess three qualities.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an6.37_root-pli-ms",
           "is_root": true,
@@ -43,7 +44,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "an6.37_translation-de-sabbamitta",
           "is_root": false,
@@ -68,7 +69,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an6.37_translation-en-sujato",
           "is_root": false,
@@ -191,7 +192,7 @@
       ],
       "type": "leaf",
       "uid": "an6.37",
-      "volpages": "AN iii 336"
+      "volpages": "PTS AN iii 336"
     }
   ]
 }

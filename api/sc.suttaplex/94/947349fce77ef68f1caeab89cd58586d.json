@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 12.68",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Venerable Saviṭṭha questions Venerable Musīla about his attainments, and concludes he is an arahant. But Venerable Nārada offers an explanation showing that it is possible to see the Dhamma without having fully realized arahantship.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn12.68_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn12.68_translation-en-sujato",
           "is_root": false,
@@ -214,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.68",
-      "volpages": "SN ii 115"
+      "volpages": "PTS SN ii 115"
     }
   ]
 }

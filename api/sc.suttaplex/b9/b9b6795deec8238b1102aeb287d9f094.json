@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 70",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A third discourse that presents the health benefits of eating in one part of the day, and the reluctance of some mendicants to follow this.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn70_root-pli-ms",
           "is_root": true,
@@ -70,7 +71,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn70_translation-en-sujato",
           "is_root": false,
@@ -302,7 +303,7 @@
       ],
       "type": "leaf",
       "uid": "mn70",
-      "volpages": "MN i 473"
+      "volpages": "PTS MN i 473"
     }
   ]
 }

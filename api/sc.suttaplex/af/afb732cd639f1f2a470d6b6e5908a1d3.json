@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "DN 13",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "A number of brahmins are discussing the true path to Brahmā. Contesting the claims to authority based on the Vedas, the Buddha insists that only personal experience can lead to the truth.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "dn13_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "dn13_translation-en-sujato",
           "is_root": false,
@@ -229,7 +230,7 @@
       ],
       "type": "leaf",
       "uid": "dn13",
-      "volpages": "DN i 235"
+      "volpages": "PTS DN i 235"
     }
   ]
 }

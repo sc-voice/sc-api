@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 23.1",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Rādha asks the Buddha about Māra, and the Buddha explains in terms of the five aggregates. Seeing in this way leads to freedom.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn23.1_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn23.1_translation-en-sujato",
           "is_root": false,
@@ -165,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "sn23.1",
-      "volpages": "SN iii 189"
+      "volpages": "PTS SN iii 189"
     }
   ]
 }

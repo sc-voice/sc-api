@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 22.140",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Give up desire for what is suffering, i.e. the aggregates.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn22.140_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn22.140_translation-en-sujato",
           "is_root": false,
@@ -189,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.140",
-      "volpages": "SN iii 178"
+      "volpages": "PTS SN iii 178"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 5.3",
+      "alt_volpages": "PTS (2nd ed) SN i 284",
       "biblio": null,
       "blurb": "Māra taunts the nun Kisāgotamī, alleging she is mourning sons and longing for a man. She rejects him, stating that she has no need for men, as she has destroyed the mass of darkness and conquered the army of Death.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn5.3_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn5.3_translation-de-sabbamitta",
           "is_root": false,
@@ -80,7 +81,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn5.3_translation-en-sujato",
           "is_root": false,
@@ -251,7 +252,7 @@
       ],
       "type": "leaf",
       "uid": "sn5.3",
-      "volpages": "SN i 129"
+      "volpages": "PTS (1st ed) SN i 129"
     }
   ]
 }

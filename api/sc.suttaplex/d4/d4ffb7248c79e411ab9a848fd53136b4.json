@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 4.2",
+      "alt_volpages": "PTS (2nd ed) SN i 232",
       "biblio": null,
       "blurb": "Māra manifests before the Buddha in the form of a ferocious elephant in order to scare him.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn4.2_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn4.2_translation-en-sujato",
           "is_root": false,
@@ -214,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn4.2",
-      "volpages": "SN i 103"
+      "volpages": "PTS (1st ed) SN i 103"
     }
   ]
 }

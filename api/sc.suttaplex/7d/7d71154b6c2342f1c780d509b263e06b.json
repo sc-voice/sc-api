@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 54.2",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Breath meditation is very beneficial. It is developed together with the seven factors of awakening.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn54.2_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn54.2_translation-en-sujato",
           "is_root": false,
@@ -177,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn54.2",
-      "volpages": "SN v 312"
+      "volpages": "PTS SN v 312"
     }
   ]
 }

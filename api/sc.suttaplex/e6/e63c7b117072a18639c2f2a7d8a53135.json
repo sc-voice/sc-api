@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 12.26",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The Buddha is asked by Venerable Upavāṇa as to the origin of suffering. He replies that suffering originates by conditions. Moreover, all those who offer opinions as to the source of suffering are themselves part of the web of conditions, as they cannot state their views without contact.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn12.26_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "sn12.26_translation-de-sabbamitta",
           "is_root": false,
@@ -80,7 +81,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn12.26_translation-en-sujato",
           "is_root": false,
@@ -227,7 +228,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.26",
-      "volpages": "SN ii 41"
+      "volpages": "PTS SN ii 41"
     }
   ]
 }

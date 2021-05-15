@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "SN 7.10",
+      "alt_volpages": "PTS (2nd ed) SN i 365",
       "biblio": null,
       "blurb": "A brahmin is searching for his lost oxen when he sees the Buddha meditating peacefully in the forest. He laments the many sorrows of his life, celebrating the Buddha’s happiness and freedom from such sorrows.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "sn7.10_root-pli-ms",
           "is_root": true,
@@ -67,7 +68,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "sn7.10_translation-en-sujato",
           "is_root": false,
@@ -189,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn7.10",
-      "volpages": "SN i 170"
+      "volpages": "PTS (1st ed) SN i 170"
     }
   ]
 }

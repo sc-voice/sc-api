@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 9.36",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "The ending of defilements happens due to the practice of absorption meditation.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an9.36_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an9.36_translation-en-sujato",
           "is_root": false,
@@ -214,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "an9.36",
-      "volpages": "AN iv 422"
+      "volpages": "PTS AN iv 422"
     }
   ]
 }

@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 6.28",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "Some senior mendicants discuss the right time to see an esteemed mendicant, and Mahākaccāna answers by quoting the Buddha from AN 6.27.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an6.28_root-pli-ms",
           "is_root": true,
@@ -43,7 +44,7 @@
         },
         {
           "author": "Anagarika Sabbamitta",
-          "author_short": "Sabbamitta",
+          "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "an6.28_translation-de-sabbamitta",
           "is_root": false,
@@ -68,7 +69,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an6.28_translation-en-sujato",
           "is_root": false,
@@ -166,7 +167,7 @@
       ],
       "type": "leaf",
       "uid": "an6.28",
-      "volpages": "AN iii 320"
+      "volpages": "PTS AN iii 320"
     }
   ]
 }

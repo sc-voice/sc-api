@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "MN 84",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "In Madhurā, towards the north-eastern limit of the Buddha’s reach during his life, King Avantiputta asks Venerable Mahākaccāna regarding the brahmanical claim to be the highest caste.",
       "difficulty": {
@@ -21,7 +22,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "mn84_root-pli-ms",
           "is_root": true,
@@ -58,7 +59,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "mn84_translation-en-sujato",
           "is_root": false,
@@ -266,7 +267,7 @@
       ],
       "type": "leaf",
       "uid": "mn84",
-      "volpages": "MN ii 83"
+      "volpages": "PTS MN ii 83"
     }
   ]
 }

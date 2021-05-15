@@ -7,6 +7,7 @@
   "value": [
     {
       "acronym": "AN 7.77",
+      "alt_volpages": null,
       "biblio": null,
       "blurb": "An expert in monastic conduct has seven qualities.",
       "difficulty": null,
@@ -18,7 +19,7 @@
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-          "author_short": "Mahāsaṅgīti",
+          "author_short": "ms",
           "author_uid": "ms",
           "id": "an7.77_root-pli-ms",
           "is_root": true,
@@ -55,7 +56,7 @@
         },
         {
           "author": "Bhikkhu Sujato",
-          "author_short": "Sujato",
+          "author_short": "sujato",
           "author_uid": "sujato",
           "id": "an7.77_translation-en-sujato",
           "is_root": false,
@@ -153,7 +154,7 @@
       ],
       "type": "leaf",
       "uid": "an7.77",
-      "volpages": "AN iv 141"
+      "volpages": "PTS AN iv 141"
     }
   ]
 }
