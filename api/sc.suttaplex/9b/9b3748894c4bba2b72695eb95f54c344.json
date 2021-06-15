@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Saṅgārava",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Saṅgārava",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "an5.193",
-      "volpages": "PTS AN iii 230"
+      "volpages": " PTS 3.231, PTS 3.232, PTS 3.233, PTS 3.234, PTS 3.235, PTS 3.236"
     }
   ]
 }

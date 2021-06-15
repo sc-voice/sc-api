@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Kiṁsuka Tree",
+      "translated_title": "The Simile of the Parrot Tree",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Simile of the Parrot Tree",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.245",
-      "volpages": "PTS SN iv 191"
+      "volpages": " PTS 4.192, PTS 4.193, PTS 4.194, PTS 4.195"
     }
   ]
 }

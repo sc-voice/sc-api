@@ -18,7 +18,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Exposition of Non-Conflict",
+      "translated_title": "The Analysis of Non-Conflict ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Analysis of Non-Conflict ",
           "volpage": null
         },
         {
@@ -267,7 +267,7 @@
       ],
       "type": "leaf",
       "uid": "mn139",
-      "volpages": "PTS MN iii 230"
+      "volpages": " PTS 3.230, PTS 3.231, PTS 3.232, PTS 3.233, PTS 3.234, PTS 3.235, PTS 3.236, PTS 3.237"
     }
   ]
 }

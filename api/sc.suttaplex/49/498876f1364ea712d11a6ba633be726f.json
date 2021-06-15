@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Six Bases for Contact (3)",
+      "translated_title": "Six Fields of Contact (3rd)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Six Fields of Contact (3rd)",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.73",
-      "volpages": "PTS SN iv 44"
+      "volpages": " PTS 4.45"
     }
   ]
 }

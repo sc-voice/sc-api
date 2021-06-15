@@ -18,7 +18,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Greater Discourse to Vacchagotta",
+      "translated_title": "The Longer Discourse With Vacchagotta ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Longer Discourse With Vacchagotta ",
           "volpage": null
         },
         {
@@ -254,7 +254,7 @@
       ],
       "type": "leaf",
       "uid": "mn73",
-      "volpages": "PTS MN i 489"
+      "volpages": " PTS 1.490, PTS 1.491, PTS 1.492, PTS 1.493, PTS 1.494, PTS 1.495, PTS 1.496, PTS 1.497"
     }
   ]
 }

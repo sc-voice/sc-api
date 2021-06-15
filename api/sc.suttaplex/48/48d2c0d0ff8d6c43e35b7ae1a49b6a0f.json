@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Simile of the Great Log (1)",
+      "translated_title": "The Simile of the Tree Trunk (1st)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Simile of the Tree Trunk (1st)",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.241",
-      "volpages": "PTS SN iv 179"
+      "volpages": " PTS 4.180, PTS 4.181"
     }
   ]
 }

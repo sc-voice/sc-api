@@ -18,7 +18,7 @@
       "parallel_count": 58,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Ghoṭamukha ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Ghoṭamukha ",
           "volpage": null
         },
         {
@@ -229,7 +229,7 @@
       ],
       "type": "leaf",
       "uid": "mn94",
-      "volpages": "PTS MN ii 157"
+      "volpages": " PTS 2.158, PTS 2.159, PTS 2.160, PTS 2.161, PTS 2.162, PTS 2.163"
     }
   ]
 }

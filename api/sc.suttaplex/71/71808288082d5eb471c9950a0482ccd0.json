@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Meditation on Universals",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Meditation on Universals",
           "volpage": null
         },
         {
@@ -166,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "an10.25",
-      "volpages": "PTS AN v 46"
+      "volpages": " PTS 5.46"
     }
   ]
 }

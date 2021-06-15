@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Reflection",
+      "translated_title": "Thought",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Thought",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn56.8",
-      "volpages": "PTS SN v 418"
+      "volpages": " PTS 5.419"
     }
   ]
 }

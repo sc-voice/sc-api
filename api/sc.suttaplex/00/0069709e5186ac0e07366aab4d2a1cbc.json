@@ -18,7 +18,7 @@
       "parallel_count": 126,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Discourse to Prince Bodhi",
+      "translated_title": "With Prince Bodhi ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -79,7 +79,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Prince Bodhi ",
           "volpage": null
         },
         {
@@ -278,7 +278,7 @@
       ],
       "type": "leaf",
       "uid": "mn85",
-      "volpages": "PTS MN ii 91"
+      "volpages": " PTS 2.91, PTS 2.92, PTS 2.93, PTS 2.94, PTS 2.95, PTS 2.96, PTS 2.97"
     }
   ]
 }

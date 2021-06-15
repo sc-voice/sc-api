@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 4.12",
-      "alt_volpages": "PTS (2nd ed) SN i 244",
+      "alt_volpages": " PTS (2nd ed) 1.245",
       "biblio": null,
       "blurb": "Māra criticizes the Buddha for his lion’s roar, asserting that the Buddha is not in fact peerless.",
       "difficulty": null,
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Lion",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn4.12",
-      "volpages": "PTS (1st ed) SN i 109"
+      "volpages": " PTS (1st ed) 1.110"
     }
   ]
 }

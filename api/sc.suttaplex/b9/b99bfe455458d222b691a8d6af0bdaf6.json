@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Mental Absorption (1)",
+      "translated_title": "Difference (1st)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Difference (1st)",
           "volpage": null
         },
         {
@@ -228,7 +228,7 @@
       ],
       "type": "leaf",
       "uid": "an4.123",
-      "volpages": "PTS AN ii 126"
+      "volpages": " PTS 2.127, PTS 2.128"
     }
   ]
 }

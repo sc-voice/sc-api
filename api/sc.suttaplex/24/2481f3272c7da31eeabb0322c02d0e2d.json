@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.13",
-      "alt_volpages": "PTS (2nd ed) SN i 495",
+      "alt_volpages": " PTS (2nd ed) 1.496, PTS (2nd ed) 1.497",
       "biblio": null,
       "blurb": "Mahāli the Licchavi is skeptical as to whether the Buddha has really seen Sakka.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Mahali",
+      "translated_title": "With Mahāli",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Mahāli",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.13",
-      "volpages": "PTS (1st ed) SN i 230"
+      "volpages": " PTS (1st ed) 1.231"
     }
   ]
 }

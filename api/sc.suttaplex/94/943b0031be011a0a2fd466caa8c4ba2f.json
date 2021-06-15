@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Ānanda",
+      "translated_title": "With Ānanda",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Ānanda",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.21",
-      "volpages": "PTS SN iii 24"
+      "volpages": " PTS 3.25"
     }
   ]
 }

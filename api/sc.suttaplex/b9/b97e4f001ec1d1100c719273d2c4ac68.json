@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 6.3",
-      "alt_volpages": "PTS (2nd ed) SN i 306",
+      "alt_volpages": " PTS (2nd ed) 1.308, PTS (2nd ed) 1.309, PTS (2nd ed) 1.310",
       "biblio": null,
       "blurb": "Brahmā Sahampati appears before a woman who is a devotee of his, and tells her to offer food instead to her son, a Buddhist monk, as Brahmās don’t eat the food she offers.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Brahmadeva",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Brahmadeva",
           "volpage": null
         },
         {
@@ -202,7 +202,7 @@
       ],
       "type": "leaf",
       "uid": "sn6.3",
-      "volpages": "PTS (1st ed) SN i 140"
+      "volpages": " PTS (1st ed) 1.141, PTS (1st ed) 1.142"
     }
   ]
 }

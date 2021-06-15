@@ -18,7 +18,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Rebirth Based on Thought",
+      "translated_title": "Rebirth by Choice ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Rebirth by Choice ",
           "volpage": null
         },
         {
@@ -242,7 +242,7 @@
       ],
       "type": "leaf",
       "uid": "mn120",
-      "volpages": "PTS MN iii 99"
+      "volpages": " PTS 3.100, PTS 3.101, PTS 3.102, PTS 3.103"
     }
   ]
 }

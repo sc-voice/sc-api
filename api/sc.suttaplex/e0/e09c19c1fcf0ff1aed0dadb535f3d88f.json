@@ -15,7 +15,7 @@
       "parallel_count": 9,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "A Heap of the Wholesome",
+      "translated_title": "A Heap of the Unskillful",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Heap of the Unskillful",
           "volpage": null
         },
         {
@@ -216,7 +216,7 @@
       ],
       "type": "leaf",
       "uid": "sn47.5",
-      "volpages": "PTS SN v 145"
+      "volpages": " PTS 5.146"
     }
   ]
 }

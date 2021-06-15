@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 7.19",
-      "alt_volpages": "PTS (2nd ed) SN i 390",
+      "alt_volpages": " PTS (2nd ed) 1.391, PTS (2nd ed) 1.392",
       "biblio": null,
       "blurb": "A brahmin wonders whether the legitimate seeking of alms is a proper way to support his parents.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 6,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "The Brahmin Who Provided for His Mother",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Brahmin Who Provided for His Mother",
           "volpage": null
         },
         {
@@ -190,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn7.19",
-      "volpages": "PTS (1st ed) SN i 181"
+      "volpages": " PTS (1st ed) 1.182"
     }
   ]
 }

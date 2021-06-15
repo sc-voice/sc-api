@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Gain",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Gain",
           "volpage": null
         },
         {
@@ -190,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn48.11",
-      "volpages": "PTS SN v 199"
+      "volpages": " PTS 5.200"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.37",
-      "alt_volpages": "PTS (2nd ed) SN i 54",
+      "alt_volpages": " PTS (2nd ed) 1.55, PTS (2nd ed) 1.56, PTS (2nd ed) 1.57",
       "biblio": null,
       "blurb": "A vast congregation of deities assembles to see the Buddha and the Saṅgha at Kapilavatthu.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 12,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Concourse",
+      "translated_title": "The Congregation",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Congregation",
           "volpage": null
         },
         {
@@ -162,7 +162,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Assembléia",
           "volpage": null
         },
         {
@@ -228,7 +228,7 @@
       ],
       "type": "leaf",
       "uid": "sn1.37",
-      "volpages": "PTS (1st ed) SN i 26"
+      "volpages": " PTS (1st ed) 1.26, PTS (1st ed) 1.27"
     }
   ]
 }

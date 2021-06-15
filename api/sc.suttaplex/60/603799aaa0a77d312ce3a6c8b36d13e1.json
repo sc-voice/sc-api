@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "With Ignorance as Condition (2)",
+      "translated_title": "Ignorance is a Condition (2nd)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Ignorance is a Condition (2nd)",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.36",
-      "volpages": "PTS SN ii 63"
+      "volpages": " PTS 2.64"
     }
   ]
 }

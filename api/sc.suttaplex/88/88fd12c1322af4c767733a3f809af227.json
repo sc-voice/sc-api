@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.69",
-      "alt_volpages": "PTS (2nd ed) SN i 91",
+      "alt_volpages": " PTS (2nd ed) 1.92",
       "biblio": null,
       "blurb": "The world is bound by desire.",
       "difficulty": null,
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Desire",
           "volpage": null
         },
         {
@@ -174,7 +174,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Desejo",
           "volpage": null
         },
         {

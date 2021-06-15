@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Same in Living (1)",
+      "translated_title": "Equality (1st)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Equality (1st)",
           "volpage": null
         },
         {
@@ -240,7 +240,7 @@
       ],
       "type": "leaf",
       "uid": "an4.55",
-      "volpages": "PTS AN ii 61"
+      "volpages": " PTS 2.62"
     }
   ]
 }

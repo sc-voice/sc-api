@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Clinging",
+      "translated_title": "Grasping",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Grasping",
           "volpage": null
         },
         {
@@ -239,7 +239,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.52",
-      "volpages": "PTS SN ii 84"
+      "volpages": " PTS 2.85"
     }
   ]
 }

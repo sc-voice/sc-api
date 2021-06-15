@@ -15,7 +15,7 @@
       "parallel_count": 16,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Good Person",
+      "translated_title": "A Good Person",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Good Person",
           "volpage": null
         },
         {
@@ -204,7 +204,7 @@
       ],
       "type": "leaf",
       "uid": "an5.42",
-      "volpages": "PTS AN iii 46"
+      "volpages": " PTS 3.47"
     }
   ]
 }

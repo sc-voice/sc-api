@@ -15,7 +15,7 @@
       "parallel_count": 8,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "A Number of Bhikkhus",
+      "translated_title": "With Several Mendicants (1st)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Several Mendicants (1st)",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn36.17",
-      "volpages": "PTS SN iv 221"
+      "volpages": " PTS 4.222"
     }
   ]
 }

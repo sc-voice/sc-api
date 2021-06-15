@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.21",
-      "alt_volpages": "PTS (2nd ed) SN i 508",
+      "alt_volpages": " PTS (2nd ed) 1.509",
       "biblio": null,
       "blurb": "Anger is the only thing whose slaying the Buddha commends.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 27,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Having Slain",
+      "translated_title": "Incinerated",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Incinerated",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.21",
-      "volpages": "PTS (1st ed) SN i 237"
+      "volpages": " PTS (1st ed) 1.237"
     }
   ]
 }

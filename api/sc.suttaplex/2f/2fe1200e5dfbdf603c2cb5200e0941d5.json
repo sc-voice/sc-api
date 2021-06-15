@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 3.13",
-      "alt_volpages": "PTS (2nd ed) SN i 185",
+      "alt_volpages": " PTS (2nd ed) 1.186, PTS (2nd ed) 1.187",
       "biblio": null,
       "blurb": "In what is probably the world’s first weight loss diet, when Pasenadi shows up overweight and out of breath, the Buddha advises him to cut down his eating. He gives a verse to one of the king’s attendants, and asks him to recite it whenever the king is eating.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 16,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "A Bucket of Rice",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Bucket of Rice",
           "volpage": null
         },
         {
@@ -214,7 +214,7 @@
       ],
       "type": "leaf",
       "uid": "sn3.13",
-      "volpages": "PTS (1st ed) SN i 81"
+      "volpages": " PTS (1st ed) 1.82"
     }
   ]
 }

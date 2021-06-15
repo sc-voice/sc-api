@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Good Friend",
+      "translated_title": "Good Friends (1st)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Good Friends (1st)",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn45.63",
-      "volpages": "PTS SN v 32"
+      "volpages": " PTS 5.33"
     }
   ]
 }

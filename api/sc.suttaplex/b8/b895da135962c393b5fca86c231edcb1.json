@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.9",
-      "alt_volpages": "PTS (2nd ed) SN i 114",
+      "alt_volpages": " PTS (2nd ed) 1.115",
       "biblio": null,
       "blurb": "In a parable of a lunar eclipse, the moon god Candimā is swallowed by the demon lord Rāhu. Candimā appeals to the Buddha, who tells Rāhu to let go. This sutta is recited as a protection verse.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "The Moon",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Moon",
           "volpage": null
         },
         {

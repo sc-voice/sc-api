@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Bhaddiya",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Bhaddiya",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an4.193",
-      "volpages": "PTS AN ii 190"
+      "volpages": " PTS 2.191, PTS 2.192, PTS 2.193, PTS 2.194"
     }
   ]
 }

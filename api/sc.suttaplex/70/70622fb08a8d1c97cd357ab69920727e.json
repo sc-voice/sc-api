@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "In Brief (Good Will, Mindfulness, & Concentration)",
+      "translated_title": "A Teaching in Brief",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Teaching in Brief",
           "volpage": null
         },
         {
@@ -204,7 +204,7 @@
       ],
       "type": "leaf",
       "uid": "an8.63",
-      "volpages": "PTS AN iv 299"
+      "volpages": " PTS 4.300, PTS 4.301, PTS 4.302"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.18",
-      "alt_volpages": "PTS (2nd ed) SN i 502",
+      "alt_volpages": " PTS (2nd ed) 1.503, PTS (2nd ed) 1.504",
       "biblio": null,
       "blurb": "When Sakka sets out on a pleasure jaunt, he begins by lifting his joined palms to the four quarters . His charioteer Mātali points out that Sakka is venerated by gods and men, and asks who he is venerating. Sakka replies that he venerates both well-practiced mendicants as well as virtuous lay folk.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Worship of Householders (or Sakka’s Worship (1))",
+      "translated_title": "Who Sakka Worships",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Who Sakka Worships",
           "volpage": null
         },
         {

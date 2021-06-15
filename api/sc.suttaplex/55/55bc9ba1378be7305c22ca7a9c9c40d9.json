@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Godhā the Sakyan",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Godhā the Sakyan",
           "volpage": null
         },
         {
@@ -166,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "sn55.23",
-      "volpages": "PTS SN v 371"
+      "volpages": " PTS 5.372, PTS 5.373, PTS 5.374"
     }
   ]
 }

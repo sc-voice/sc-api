@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 10.7",
-      "alt_volpages": "PTS (2nd ed) SN i 452",
+      "alt_volpages": " PTS (2nd ed) 1.453, PTS (2nd ed) 1.454, PTS (2nd ed) 1.455",
       "biblio": null,
       "blurb": "A female spirit hushes her children as she listens to the teaching. But her son Punabbasu says that he had not been talking, as he too wants to learn.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Punabbasu",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Punabbasu",
           "volpage": null
         },
         {
@@ -178,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn10.7",
-      "volpages": "PTS (1st ed) SN i 209"
+      "volpages": " PTS (1st ed) 1.210"
     }
   ]
 }

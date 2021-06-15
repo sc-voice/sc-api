@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.5",
-      "alt_volpages": "PTS (2nd ed) SN i 5",
+      "alt_volpages": " PTS (2nd ed) 1.6",
       "biblio": null,
       "blurb": "A cryptic set of questions, which the Buddha answers equally cryptically.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 8,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "How Many Must One Cut?",
+      "translated_title": "Cut How Many?",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Cut How Many?",
           "volpage": null
         },
         {

@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Five Fearful Animosities (1)",
+      "translated_title": "Dangers and Threats",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Dangers and Threats",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.41",
-      "volpages": "PTS SN ii 68"
+      "volpages": " PTS 2.69, PTS 2.70"
     }
   ]
 }

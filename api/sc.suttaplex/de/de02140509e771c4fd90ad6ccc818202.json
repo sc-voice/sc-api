@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Virtue",
+      "translated_title": "Ethics",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Ethics",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn46.3",
-      "volpages": "PTS SN v 67"
+      "volpages": " PTS 5.68, PTS 5.69, PTS 5.70"
     }
   ]
 }

@@ -18,7 +18,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Great Sixfold Base",
+      "translated_title": "The Great Discourse on the Six Sense Fields ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -91,7 +91,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Great Discourse on the Six Sense Fields ",
           "volpage": null
         },
         {
@@ -291,7 +291,7 @@
       ],
       "type": "leaf",
       "uid": "mn149",
-      "volpages": "PTS MN iii 287"
+      "volpages": " PTS 3.288, PTS 3.289, PTS 3.290"
     }
   ]
 }

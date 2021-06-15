@@ -15,7 +15,7 @@
       "parallel_count": 10,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "About Sona",
+      "translated_title": "With Soṇa",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Soṇa",
           "volpage": null
         },
         {
@@ -252,7 +252,7 @@
       ],
       "type": "leaf",
       "uid": "an6.55",
-      "volpages": "PTS AN iii 374"
+      "volpages": " PTS 3.375, PTS 3.376, PTS 3.377, PTS 3.378, PTS 3.379"
     }
   ]
 }

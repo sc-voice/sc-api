@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.30",
-      "alt_volpages": "PTS (2nd ed) SN i 151",
+      "alt_volpages": " PTS (2nd ed) 1.152, PTS (2nd ed) 1.153, PTS (2nd ed) 1.154, PTS (2nd ed) 1.156",
       "biblio": null,
       "blurb": "A series of deities who had formerly been ascetics in the non-Buddhist sects came to the Buddha, speaking verses in praise—or occasional criticism—of their former teachers",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "The Disciples of Various Sectarians",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Disciples of Various Sectarians",
           "volpage": null
         },
         {
@@ -149,7 +149,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Os Discípulos de Vários Sectários",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn2.30",
-      "volpages": "PTS (1st ed) SN i 65"
+      "volpages": " PTS (1st ed) 1.66, PTS (1st ed) 1.67"
     }
   ]
 }

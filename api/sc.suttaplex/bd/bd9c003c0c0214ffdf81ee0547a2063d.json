@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Icchānaṅgala",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Icchānaṅgala",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn54.11",
-      "volpages": "PTS SN v 325"
+      "volpages": " PTS 5.326"
     }
   ]
 }

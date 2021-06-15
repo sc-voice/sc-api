@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Craving",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Craving",
           "volpage": null
         },
         {
@@ -190,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn26.8",
-      "volpages": "PTS SN iii 230"
+      "volpages": " PTS 3.231"
     }
   ]
 }

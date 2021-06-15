@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Diversity of Contacts",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Diversity of Contacts",
           "volpage": null
         },
         {
@@ -166,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "sn14.2",
-      "volpages": "PTS SN ii 140"
+      "volpages": " PTS 2.141"
     }
   ]
 }

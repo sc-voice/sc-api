@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 4.9",
-      "alt_volpages": "PTS (2nd ed) SN i 241",
+      "alt_volpages": " PTS (2nd ed) 1.242",
       "biblio": null,
       "blurb": "Though the Buddha says that life is short, Māra says it is long.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Life Span (1)",
+      "translated_title": "Life Span (1st)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Life Span (1st)",
           "volpage": null
         },
         {

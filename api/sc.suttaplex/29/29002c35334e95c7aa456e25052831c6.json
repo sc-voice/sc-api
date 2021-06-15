@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Ill (1)",
+      "translated_title": "Sick (1st)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Sick (1st)",
           "volpage": null
         },
         {
@@ -227,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn46.14",
-      "volpages": "PTS SN v 79"
+      "volpages": " PTS 5.80"
     }
   ]
 }

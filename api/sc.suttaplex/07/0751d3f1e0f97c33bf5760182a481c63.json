@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Friends and Colleagues (2nd)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Friends and Colleagues (2nd)",
           "volpage": null
         },
         {
@@ -166,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "sn55.17",
-      "volpages": "PTS SN v 365"
+      "volpages": " PTS 5.366"
     }
   ]
 }

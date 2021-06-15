@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 5.4",
-      "alt_volpages": "PTS (2nd ed) SN i 286",
+      "alt_volpages": " PTS (2nd ed) 1.287",
       "biblio": null,
       "blurb": "Māra comes to the nun Vijayā in the form of a handsome youth and tries to tempt her from her path. But she rejects sensual pleasures, as she delights in subtle meditation and has ended ignorance.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Vijaya",
+      "translated_title": "With Vijayā",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Vijayā",
           "volpage": null
         },
         {
@@ -252,7 +252,7 @@
       ],
       "type": "leaf",
       "uid": "sn5.4",
-      "volpages": "PTS (1st ed) SN i 130"
+      "volpages": " PTS (1st ed) 1.131"
     }
   ]
 }

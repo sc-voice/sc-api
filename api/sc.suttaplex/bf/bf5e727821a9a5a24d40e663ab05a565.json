@@ -18,7 +18,7 @@
       "parallel_count": 7,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "At Sāmagāma",
+      "translated_title": "At Sāmagāma ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "At Sāmagāma ",
           "volpage": null
         },
         {
@@ -242,7 +242,7 @@
       ],
       "type": "leaf",
       "uid": "mn104",
-      "volpages": "PTS MN ii 243"
+      "volpages": " PTS 2.244, PTS 2.245, PTS 2.246, PTS 2.247, PTS 2.248, PTS 2.249, PTS 2.250, PTS 2.251"
     }
   ]
 }

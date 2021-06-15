@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 3.8",
-      "alt_volpages": "PTS (2nd ed) SN i 171",
+      "alt_volpages": " PTS (2nd ed) 1.172",
       "biblio": null,
       "blurb": "Pasandi asks Queen Mallikā who is most dear. They both agree that the one most dear is oneself, and the Buddha agrees.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 7,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Queen Mallikā",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Queen Mallikā",
           "volpage": null
         },
         {
@@ -214,7 +214,7 @@
       ],
       "type": "leaf",
       "uid": "sn3.8",
-      "volpages": "PTS (1st ed) SN i 75"
+      "volpages": " PTS (1st ed) 1.75"
     }
   ]
 }

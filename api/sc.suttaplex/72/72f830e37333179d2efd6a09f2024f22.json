@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Maimed (1)",
+      "translated_title": "Broken (1st)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Broken (1st)",
           "volpage": null
         },
         {
@@ -192,7 +192,7 @@
       ],
       "type": "leaf",
       "uid": "an4.3",
-      "volpages": "PTS AN ii 2"
+      "volpages": " PTS 2.3, PTS 2.4"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "The Aggregates",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Aggregates",
           "volpage": null
         },
         {
@@ -190,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn25.10",
-      "volpages": "PTS SN iii 227"
+      "volpages": " PTS 3.228"
     }
   ]
 }

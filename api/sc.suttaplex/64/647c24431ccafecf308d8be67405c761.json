@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "In Oneself",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -52,7 +52,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "In Oneself",
           "volpage": null
         },
         {
@@ -178,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.150",
-      "volpages": "PTS SN iii 180"
+      "volpages": " PTS 3.181"
     }
   ]
 }

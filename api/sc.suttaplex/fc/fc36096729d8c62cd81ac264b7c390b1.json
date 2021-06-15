@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Protector (2)",
+      "translated_title": "A Protector (2nd)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Protector (2nd)",
           "volpage": null
         },
         {
@@ -167,7 +167,7 @@
       ],
       "type": "leaf",
       "uid": "an10.18",
-      "volpages": "PTS AN v 25"
+      "volpages": " PTS 5.26, PTS 5.27, PTS 5.28, PTS 5.29"
     }
   ]
 }

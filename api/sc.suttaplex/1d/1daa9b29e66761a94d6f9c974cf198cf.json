@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 3.19",
-      "alt_volpages": "PTS (2nd ed) SN i 201",
+      "alt_volpages": " PTS (2nd ed) 1.202, PTS (2nd ed) 1.203, PTS (2nd ed) 1.204, PTS (2nd ed) 1.205",
       "biblio": null,
       "blurb": "A wealthy man dies childless, having not enjoyed his riches. The Buddha says that wealth should be properly enjoyed and shared.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Childless (1st)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Childless (1st)",
           "volpage": null
         },
         {
@@ -202,7 +202,7 @@
       ],
       "type": "leaf",
       "uid": "sn3.19",
-      "volpages": "PTS (1st ed) SN i 89"
+      "volpages": " PTS (1st ed) 1.90, PTS (1st ed) 1.91"
     }
   ]
 }

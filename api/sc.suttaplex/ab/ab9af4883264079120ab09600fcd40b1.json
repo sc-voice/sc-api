@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 7.15",
-      "alt_volpages": "PTS (2nd ed) SN i 381",
+      "alt_volpages": " PTS (2nd ed) 1.382, PTS (2nd ed) 1.383, PTS (2nd ed) 1.384, PTS (2nd ed) 1.385",
       "biblio": null,
       "blurb": "A stuck-up brahmin listening to the Buddha teach is awestruck when the Buddha appears to read his mind. To the surprise of the crowd, he bows and kisses the Buddha’s feet. The Buddha tells him to take his seat, and they exchange verses on the topic of conceit.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Stuck-Up",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Stuck-Up",
           "volpage": null
         },
         {
@@ -190,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn7.15",
-      "volpages": "PTS (1st ed) SN i 177"
+      "volpages": " PTS (1st ed) 1.178"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 3.16",
-      "alt_volpages": "PTS (2nd ed) SN i 193",
+      "alt_volpages": " PTS (2nd ed) 1.194",
       "biblio": null,
       "blurb": "Pasenadi is disappointed to hear that Queen Mallikā has given birth to a daughter. But the Buddha consoles him, saying a woman may turn out better than a man.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "A Daughter",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Daughter",
           "volpage": null
         },
         {
@@ -202,7 +202,7 @@
       ],
       "type": "leaf",
       "uid": "sn3.16",
-      "volpages": "PTS (1st ed) SN i 86"
+      "volpages": " PTS (1st ed) 1.86"
     }
   ]
 }

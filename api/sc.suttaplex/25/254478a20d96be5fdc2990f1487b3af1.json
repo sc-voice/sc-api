@@ -15,7 +15,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Defilements",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Defilements",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an6.58",
-      "volpages": "PTS AN iii 387"
+      "volpages": " PTS 3.388, PTS 3.389, PTS 3.390"
     }
   ]
 }

@@ -18,7 +18,7 @@
       "parallel_count": 7,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Exposition of the Elements",
+      "translated_title": "The Analysis of the Elements ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -80,7 +80,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Analysis of the Elements ",
           "volpage": null
         },
         {
@@ -292,7 +292,7 @@
       ],
       "type": "leaf",
       "uid": "mn140",
-      "volpages": "PTS MN iii 237"
+      "volpages": " PTS 3.238, PTS 3.239, PTS 3.240, PTS 3.241, PTS 3.242, PTS 3.243, PTS 3.244, PTS 3.245, PTS 3.246, PTS 3.247"
     }
   ]
 }

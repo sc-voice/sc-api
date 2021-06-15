@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 8.10",
-      "alt_volpages": "PTS (2nd ed) SN i 419",
+      "alt_volpages": " PTS (2nd ed) 1.420",
       "biblio": null,
       "blurb": "Vaṅgīsa speaks in praise of Moggallāna and the Saṅgha.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Moggallāna",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Moggallāna",
           "volpage": null
         },
         {
@@ -190,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn8.10",
-      "volpages": "PTS (1st ed) SN i 194"
+      "volpages": " PTS (1st ed) 1.195"
     }
   ]
 }

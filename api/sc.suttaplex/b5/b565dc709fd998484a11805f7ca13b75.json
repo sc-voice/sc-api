@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.19",
-      "alt_volpages": "PTS (2nd ed) SN i 17",
+      "alt_volpages": " PTS (2nd ed) 1.17, PTS (2nd ed) 1.18",
       "biblio": null,
       "blurb": "Do you have a little hut and a little nest—or are you free?",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "A Little Hut",
+      "translated_title": "Little Hut",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Little Hut",
           "volpage": null
         },
         {
@@ -174,7 +174,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Uma pequena cabana",
           "volpage": null
         },
         {
@@ -240,7 +240,7 @@
       ],
       "type": "leaf",
       "uid": "sn1.19",
-      "volpages": "PTS (1st ed) SN i 8"
+      "volpages": " PTS (1st ed) 1.8"
     }
   ]
 }

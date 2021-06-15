@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "To Tapussa",
+      "translated_title": "With the Householder Tapussa",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With the Householder Tapussa",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "an9.41",
-      "volpages": "PTS AN iv 438"
+      "volpages": " PTS 4.439, PTS 4.440, PTS 4.441, PTS 4.442, PTS 4.443, PTS 4.444, PTS 4.445, PTS 4.446, PTS 4.447, PTS 4.448"
     }
   ]
 }

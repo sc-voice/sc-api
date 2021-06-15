@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Channa",
+      "translated_title": "With Channa",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Channa",
           "volpage": null
         },
         {
@@ -227,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.90",
-      "volpages": "PTS SN iii 132"
+      "volpages": " PTS 3.133, PTS 3.134, PTS 3.135"
     }
   ]
 }

@@ -18,7 +18,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Great Exposition of Kamma",
+      "translated_title": "The Longer Analysis of Deeds ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -79,7 +79,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Longer Analysis of Deeds ",
           "volpage": null
         },
         {
@@ -290,7 +290,7 @@
       ],
       "type": "leaf",
       "uid": "mn136",
-      "volpages": "PTS MN iii 207"
+      "volpages": " PTS 3.207, PTS 3.208, PTS 3.209, PTS 3.210, PTS 3.211, PTS 3.212, PTS 3.213, PTS 3.214, PTS 3.215"
     }
   ]
 }

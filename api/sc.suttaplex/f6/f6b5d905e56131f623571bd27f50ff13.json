@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "In Private (1st)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "In Private (1st)",
           "volpage": null
         },
         {
@@ -178,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn52.1",
-      "volpages": "PTS SN v 294"
+      "volpages": " PTS 5.294, PTS 5.295, PTS 5.296"
     }
   ]
 }

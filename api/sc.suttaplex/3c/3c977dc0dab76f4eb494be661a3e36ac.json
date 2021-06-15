@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "A Bhikkhu Named Elder",
+      "translated_title": "A Mendicant Named Senior",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Mendicant Named Senior",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn21.10",
-      "volpages": "PTS SN ii 282"
+      "volpages": " PTS 2.283, PTS 2.284"
     }
   ]
 }

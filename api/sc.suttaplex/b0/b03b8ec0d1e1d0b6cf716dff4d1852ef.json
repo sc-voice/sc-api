@@ -15,7 +15,7 @@
       "parallel_count": 8,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Analysis of Dependent Origination",
+      "translated_title": "Analysis",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Analysis",
           "volpage": null
         },
         {
@@ -276,7 +276,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.2",
-      "volpages": "PTS SN ii 2"
+      "volpages": " PTS 2.3, PTS 2.4"
     }
   ]
 }

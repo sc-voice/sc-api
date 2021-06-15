@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 5.10",
-      "alt_volpages": "PTS (2nd ed) SN i 296",
+      "alt_volpages": " PTS (2nd ed) 1.296, PTS (2nd ed) 1.297",
       "biblio": null,
       "blurb": "Māra asks the nun Vajirā about who has created this being. Recognizing him, she points out that the word “being” is nothing more than a convention used to designate the aggregates, just as the word “cart” is used when the parts are assembled",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Vajira",
+      "translated_title": "With Vajirā",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Vajirā",
           "volpage": null
         },
         {
@@ -264,7 +264,7 @@
       ],
       "type": "leaf",
       "uid": "sn5.10",
-      "volpages": "PTS (1st ed) SN i 134"
+      "volpages": " PTS (1st ed) 1.135"
     }
   ]
 }

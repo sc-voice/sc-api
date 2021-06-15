@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 9.2",
-      "alt_volpages": "PTS (2nd ed) SN i 425",
+      "alt_volpages": " PTS (2nd ed) 1.426, PTS (2nd ed) 1.427",
       "biblio": null,
       "blurb": "When a mendicant falls asleep in the middle of the day, a deity tries to rouse them up. But not all is at it seems.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Getting Up",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Getting Up",
           "volpage": null
         },
         {
@@ -190,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn9.2",
-      "volpages": "PTS (1st ed) SN i 197"
+      "volpages": " PTS (1st ed) 1.198"
     }
   ]
 }

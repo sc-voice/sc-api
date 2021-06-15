@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 3.9",
-      "alt_volpages": "PTS (2nd ed) SN i 172",
+      "alt_volpages": " PTS (2nd ed) 1.173, PTS (2nd ed) 1.174",
       "biblio": null,
       "blurb": "A great sacrifice involving the slaughter of many animals was being prepared for King Pasenadi. The Buddha condemns such sacrifices and says a fruitful sacrifice involves a blameless and harmless offering.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Sacrifice",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Sacrifice",
           "volpage": null
         },
         {
@@ -202,7 +202,7 @@
       ],
       "type": "leaf",
       "uid": "sn3.9",
-      "volpages": "PTS (1st ed) SN i 75"
+      "volpages": " PTS (1st ed) 1.76"
     }
   ]
 }

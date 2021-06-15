@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Cow",
+      "translated_title": "The Simile of the Cow",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Simile of the Cow",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an9.35",
-      "volpages": "PTS AN iv 418"
+      "volpages": " PTS 4.419, PTS 4.420, PTS 4.421, PTS 4.422"
     }
   ]
 }

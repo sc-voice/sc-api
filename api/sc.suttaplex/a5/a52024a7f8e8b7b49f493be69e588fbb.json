@@ -15,7 +15,7 @@
       "parallel_count": 6,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Adze Handle or The Ship",
+      "translated_title": "The Adze",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Adze",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.101",
-      "volpages": "PTS SN iii 152"
+      "volpages": " PTS 3.153, PTS 3.154, PTS 3.155"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 4.17",
-      "alt_volpages": "PTS (2nd ed) SN i 251",
+      "alt_volpages": " PTS (2nd ed) 1.252",
       "biblio": null,
       "blurb": "While the mendicants are listening to the teachings, Māra makes an awful roar to distract them.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Six Bases for Contact",
+      "translated_title": "The Six Fields of Contact",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Six Fields of Contact",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn4.17",
-      "volpages": "PTS (1st ed) SN i 112"
+      "volpages": " PTS (1st ed) 1.113"
     }
   ]
 }

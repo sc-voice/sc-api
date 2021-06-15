@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Mahākaccāna",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Mahākaccāna",
           "volpage": null
         },
         {
@@ -167,7 +167,7 @@
       ],
       "type": "leaf",
       "uid": "an6.26",
-      "volpages": "PTS AN iii 314"
+      "volpages": " PTS 3.315, PTS 3.316, PTS 3.317"
     }
   ]
 }

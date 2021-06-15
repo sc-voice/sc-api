@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Imperturbable",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Imperturbable",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an3.116",
-      "volpages": "PTS AN i 267"
+      "volpages": " PTS 1.267, PTS 1.268"
     }
   ]
 }

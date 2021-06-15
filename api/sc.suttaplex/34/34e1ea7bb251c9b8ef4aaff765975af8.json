@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 8.8",
-      "alt_volpages": "PTS (2nd ed) SN i 414",
+      "alt_volpages": " PTS (2nd ed) 1.415, PTS (2nd ed) 1.416, PTS (2nd ed) 1.417",
       "biblio": null,
       "blurb": "Seeing the Buddha speak on the Dhamma, and the rapt attention of the Saṅgha, Vaṅgīsa comes out with verses in his praise. When asked if the verses were spontaneous, he replies that they were, and the Buddha invites him to speak further.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Over a Thousand",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Over a Thousand",
           "volpage": null
         },
         {
@@ -190,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn8.8",
-      "volpages": "PTS (1st ed) SN i 192"
+      "volpages": " PTS (1st ed) 1.193"
     }
   ]
 }

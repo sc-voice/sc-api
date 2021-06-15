@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "To Asibandhakaputta",
+      "translated_title": "With Asibandhaka’s Son",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Asibandhaka’s Son",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn42.6",
-      "volpages": "PTS SN iv 311"
+      "volpages": " PTS 4.312, PTS 4.313, PTS 4.314"
     }
   ]
 }

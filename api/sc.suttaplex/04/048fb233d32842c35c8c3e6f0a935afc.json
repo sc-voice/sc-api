@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.23",
-      "alt_volpages": "PTS (2nd ed) SN i 132",
+      "alt_volpages": " PTS (2nd ed) 1.133, PTS (2nd ed) 1.134, PTS (2nd ed) 1.135, PTS (2nd ed) 1.136, PTS (2nd ed) 1.137",
       "biblio": null,
       "blurb": "The deity Serī speaks of how everyone loves food., to which the Buddha responds with verses in praise of giving. Serī speaks of his own generosity in a past life.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 17,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Serī",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Serī",
           "volpage": null
         },
         {
@@ -149,7 +149,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Com Seri",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn2.23",
-      "volpages": "PTS (1st ed) SN i 57"
+      "volpages": " PTS (1st ed) 1.58, PTS (1st ed) 1.59"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "A Method of Exposition",
+      "translated_title": "Is There a Way?",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Is There a Way?",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn46.52",
-      "volpages": "PTS SN v 108"
+      "volpages": " PTS 5.108, PTS 5.109, PTS 5.110, PTS 5.111"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Bhūmija",
+      "translated_title": "With Bhūmija",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Bhūmija",
           "volpage": null
         },
         {
@@ -252,7 +252,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.25",
-      "volpages": "PTS SN ii 37"
+      "volpages": " PTS 2.38, PTS 2.39, PTS 2.40, PTS 2.41"
     }
   ]
 }

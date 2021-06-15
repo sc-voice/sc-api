@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 7.2",
-      "alt_volpages": "PTS (2nd ed) SN i 347",
+      "alt_volpages": " PTS (2nd ed) 1.348, PTS (2nd ed) 1.349, PTS (2nd ed) 1.350",
       "biblio": null,
       "blurb": "A brahmin visits the Buddha and unleashes a tirade of abuse, but the Buddha refuses to accept it, showing that he remains free of anger.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 50,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "The Abuser",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Abuser",
           "volpage": null
         },
         {
@@ -226,7 +226,7 @@
       ],
       "type": "leaf",
       "uid": "sn7.2",
-      "volpages": "PTS (1st ed) SN i 161"
+      "volpages": " PTS (1st ed) 1.162, PTS (1st ed) 1.163"
     }
   ]
 }

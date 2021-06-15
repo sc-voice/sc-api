@@ -15,7 +15,7 @@
       "parallel_count": 9,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Pahārāda",
+      "translated_title": "With Pahārāda",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Pahārāda",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an8.19",
-      "volpages": "PTS AN iv 197"
+      "volpages": " PTS 4.198, PTS 4.199, PTS 4.200, PTS 4.201, PTS 4.202, PTS 4.203, PTS 4.204"
     }
   ]
 }

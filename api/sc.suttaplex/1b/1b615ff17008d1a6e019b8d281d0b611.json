@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Nonself with Cause Internal",
+      "translated_title": "Interior and Cause Are Not-Self",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Interior and Cause Are Not-Self",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.142",
-      "volpages": "PTS SN iv 130"
+      "volpages": " PTS 4.131"
     }
   ]
 }

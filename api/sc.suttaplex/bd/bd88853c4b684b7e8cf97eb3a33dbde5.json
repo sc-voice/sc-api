@@ -15,7 +15,7 @@
       "parallel_count": 45,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Kokālika",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Kokālika",
           "volpage": null
         },
         {
@@ -166,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "an10.89",
-      "volpages": "PTS AN v 170"
+      "volpages": " PTS 5.170, PTS 5.171, PTS 5.172, PTS 5.173, PTS 5.174"
     }
   ]
 }

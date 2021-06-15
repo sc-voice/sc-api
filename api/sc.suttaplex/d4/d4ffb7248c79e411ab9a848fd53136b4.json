@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 4.2",
-      "alt_volpages": "PTS (2nd ed) SN i 232",
+      "alt_volpages": " PTS (2nd ed) 1.233",
       "biblio": null,
       "blurb": "Māra manifests before the Buddha in the form of a ferocious elephant in order to scare him.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The King Elephant",
+      "translated_title": "In the Form of an Elephant King",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "In the Form of an Elephant King",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn4.2",
-      "volpages": "PTS (1st ed) SN i 103"
+      "volpages": " PTS (1st ed) 1.104"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 10.12",
-      "alt_volpages": "PTS (2nd ed) SN i 460",
+      "alt_volpages": " PTS (2nd ed) 1.461, PTS (2nd ed) 1.462, PTS (2nd ed) 1.463, PTS (2nd ed) 1.464, PTS (2nd ed) 1.465",
       "biblio": null,
       "blurb": "The famous story of the spirit Āḷavaka, who tries to bully the Buddha, but is soon persuaded through a surprisingly insightful series of questions and answers. This discourse provided the background for several elaborate legends in the later traditions",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 19,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Āḷavaka",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Āḷavaka",
           "volpage": null
         },
         {
@@ -202,7 +202,7 @@
       ],
       "type": "leaf",
       "uid": "sn10.12",
-      "volpages": "PTS (1st ed) SN i 213"
+      "volpages": " PTS (1st ed) 1.214, PTS (1st ed) 1.215"
     }
   ]
 }

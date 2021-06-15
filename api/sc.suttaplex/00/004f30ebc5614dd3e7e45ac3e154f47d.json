@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Wrongness",
+      "translated_title": "The Wrong Way",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Wrong Way",
           "volpage": null
         },
         {
@@ -204,7 +204,7 @@
       ],
       "type": "leaf",
       "uid": "an10.103",
-      "volpages": "PTS AN v 211"
+      "volpages": " PTS 5.212"
     }
   ]
 }

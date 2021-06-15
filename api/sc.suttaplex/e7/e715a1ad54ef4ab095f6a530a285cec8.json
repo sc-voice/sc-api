@@ -18,7 +18,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "The Shorter Discourse on Emptiness ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -79,7 +79,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Shorter Discourse on Emptiness ",
           "volpage": null
         },
         {
@@ -277,7 +277,7 @@
       ],
       "type": "leaf",
       "uid": "mn121",
-      "volpages": "PTS MN iii 104"
+      "volpages": " PTS 3.104, PTS 3.105, PTS 3.106, PTS 3.107, PTS 3.108, PTS 3.109"
     }
   ]
 }

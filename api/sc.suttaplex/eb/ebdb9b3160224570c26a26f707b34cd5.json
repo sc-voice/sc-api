@@ -18,7 +18,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Discourse at Naḷakapāna",
+      "translated_title": "At Naḷakapāna ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "At Naḷakapāna ",
           "volpage": null
         },
         {
@@ -254,7 +254,7 @@
       ],
       "type": "leaf",
       "uid": "mn68",
-      "volpages": "PTS MN i 462"
+      "volpages": " PTS 1.463, PTS 1.464, PTS 1.465, PTS 1.466, PTS 1.467, PTS 1.468"
     }
   ]
 }

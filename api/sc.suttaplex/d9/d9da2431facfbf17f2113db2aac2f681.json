@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 8.5",
-      "alt_volpages": "PTS (2nd ed) SN i 406",
+      "alt_volpages": " PTS (2nd ed) 1.407, PTS (2nd ed) 1.408",
       "biblio": null,
       "blurb": "The Buddha gives a simple teaching on four qualities of good speech. Vaṅgīsa is inspired to utter a more elaborate set of verses on the topic, praising especially the speech of the Buddha that leads to the Deathless. ",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 31,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Well-Spoken Words",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Well-Spoken Words",
           "volpage": null
         },
         {
@@ -190,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn8.5",
-      "volpages": "PTS (1st ed) SN i 188"
+      "volpages": " PTS (1st ed) 1.189"
     }
   ]
 }

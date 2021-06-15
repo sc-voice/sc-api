@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Sabhiya Kaccana",
+      "translated_title": "With Sabhiya Kaccāna",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Sabhiya Kaccāna",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn44.11",
-      "volpages": "PTS SN iv 401"
+      "volpages": " PTS 4.402, PTS 4.403"
     }
   ]
 }

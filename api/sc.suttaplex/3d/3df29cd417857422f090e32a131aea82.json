@@ -15,7 +15,7 @@
       "parallel_count": 6,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Dhammika(excerpt)",
+      "translated_title": "About Dhammika",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "About Dhammika",
           "volpage": null
         },
         {
@@ -180,7 +180,7 @@
       ],
       "type": "leaf",
       "uid": "an6.54",
-      "volpages": "PTS AN iii 366"
+      "volpages": " PTS 3.366, PTS 3.367, PTS 3.368, PTS 3.369, PTS 3.370, PTS 3.371, PTS 3.372, PTS 3.373"
     }
   ]
 }

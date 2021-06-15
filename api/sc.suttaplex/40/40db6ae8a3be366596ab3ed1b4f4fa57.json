@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "With Yourselves as an Island",
+      "translated_title": "Be Your Own Island",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Be Your Own Island",
           "volpage": null
         },
         {
@@ -227,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.43",
-      "volpages": "PTS SN iii 42"
+      "volpages": " PTS 3.43"
     }
   ]
 }

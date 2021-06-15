@@ -15,7 +15,7 @@
       "parallel_count": 18,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Vital Conditions (2nd)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Vital Conditions (2nd)",
           "volpage": null
         },
         {
@@ -166,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "an11.4",
-      "volpages": "PTS AN v 315"
+      "volpages": " PTS 5.315, PTS 5.316"
     }
   ]
 }

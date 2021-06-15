@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.2",
-      "alt_volpages": "PTS (2nd ed) SN i 469",
+      "alt_volpages": " PTS (2nd ed) 1.470, PTS (2nd ed) 1.471",
       "biblio": null,
       "blurb": "When Sakka, the Lord of Gods, tries to organize a conterattack against the demons, he is frustrated by his lazy general Susīma. Sakka asks Suvīra how one might get what one wants without effort; but Suvīra apparently believes Sakka can grant any wish he wants. The Buddha emphasizes that if effort is valuable among the gods, how much more so for mendicants.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Susima",
+      "translated_title": "With Susīma",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Susīma",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.2",
-      "volpages": "PTS (1st ed) SN i 217"
+      "volpages": " PTS (1st ed) 1.218"
     }
   ]
 }

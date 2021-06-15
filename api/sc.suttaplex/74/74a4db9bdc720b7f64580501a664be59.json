@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Sirivaḍḍha",
+      "translated_title": "With Sirivaḍḍha",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Sirivaḍḍha",
           "volpage": null
         },
         {
@@ -216,7 +216,7 @@
       ],
       "type": "leaf",
       "uid": "sn47.29",
-      "volpages": "PTS SN v 176"
+      "volpages": " PTS 5.177"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Khemaka",
+      "translated_title": "With Khemaka",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Khemaka",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.89",
-      "volpages": "PTS SN iii 126"
+      "volpages": " PTS 3.127, PTS 3.128, PTS 3.129, PTS 3.130, PTS 3.131, PTS 3.132"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 3.20",
-      "alt_volpages": "PTS (2nd ed) SN i 205",
+      "alt_volpages": " PTS (2nd ed) 1.206, PTS (2nd ed) 1.207, PTS (2nd ed) 1.209",
       "biblio": null,
       "blurb": "A wealthy man dies childless, having not enjoyed his riches. The Buddha tells of how in the time of a solitary Buddha of the past named Tagarasikhī, a householder made an offering but later regretted it.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 16,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Childless (2nd)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Childless (2nd)",
           "volpage": null
         },
         {
@@ -214,7 +214,7 @@
       ],
       "type": "leaf",
       "uid": "sn3.20",
-      "volpages": "PTS (1st ed) SN i 91"
+      "volpages": " PTS (1st ed) 1.92, PTS (1st ed) 1.93"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 11,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Kosala (1)",
+      "translated_title": "Kosala (1st)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Kosala (1st)",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an10.29",
-      "volpages": "PTS AN v 59"
+      "volpages": " PTS 5.60, PTS 5.61, PTS 5.62, PTS 5.63, PTS 5.64, PTS 5.65"
     }
   ]
 }

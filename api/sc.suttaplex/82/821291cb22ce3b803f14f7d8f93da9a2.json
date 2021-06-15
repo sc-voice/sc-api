@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.11",
-      "alt_volpages": "PTS (2nd ed) SN i 492",
+      "alt_volpages": " PTS (2nd ed) 1.492, PTS (2nd ed) 1.493",
       "biblio": null,
       "blurb": "Sakka achieved his status because of seven vows he kept in the past.",
       "difficulty": null,
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Vows",
           "volpage": null
         },
         {

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.14",
-      "alt_volpages": "PTS (2nd ed) SN i 120",
+      "alt_volpages": " PTS (2nd ed) 1.121",
       "biblio": null,
       "blurb": "The deity Nandana asks the Buddha who is virtuous, wise, beyond suffering, worshiped by the gods themselves. The Buddha replies that such a person is an arahant.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Nandana",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Nandana",
           "volpage": null
         },
         {
@@ -149,7 +149,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Com Nandana",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn2.14",
-      "volpages": "PTS (1st ed) SN i 52"
+      "volpages": " PTS (1st ed) 1.53"
     }
   ]
 }

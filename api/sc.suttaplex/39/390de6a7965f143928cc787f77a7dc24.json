@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Susīma",
+      "translated_title": "The Wanderer Susīma",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Wanderer Susīma",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.70",
-      "volpages": "PTS SN ii 119"
+      "volpages": " PTS 2.120, PTS 2.121, PTS 2.122, PTS 2.123, PTS 2.124, PTS 2.125, PTS 2.126, PTS 2.127, PTS 2.128"
     }
   ]
 }

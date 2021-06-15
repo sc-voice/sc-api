@@ -15,7 +15,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Kaccanagotta",
+      "translated_title": "Kaccānagotta",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Kaccānagotta",
           "volpage": null
         },
         {
@@ -265,7 +265,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.15",
-      "volpages": "PTS SN ii 16"
+      "volpages": " PTS 2.17"
     }
   ]
 }

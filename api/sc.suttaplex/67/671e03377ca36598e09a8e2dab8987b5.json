@@ -15,7 +15,7 @@
       "parallel_count": 65,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Going Beyond",
+      "translated_title": "Going to the Far Shore",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Going to the Far Shore",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn46.17",
-      "volpages": "PTS SN v 81"
+      "volpages": " PTS 5.82"
     }
   ]
 }

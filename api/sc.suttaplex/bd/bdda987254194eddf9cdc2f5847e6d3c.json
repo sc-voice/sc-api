@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Disciplinary Issues",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Disciplinary Issues",
           "volpage": null
         },
         {
@@ -154,7 +154,7 @@
       ],
       "type": "leaf",
       "uid": "an10.87",
-      "volpages": "PTS AN v 164"
+      "volpages": " PTS 5.165, PTS 5.166, PTS 5.167, PTS 5.168, PTS 5.169"
     }
   ]
 }

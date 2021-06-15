@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Wearing Away",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Wearing Away",
           "volpage": null
         },
         {
@@ -167,7 +167,7 @@
       ],
       "type": "leaf",
       "uid": "an10.106",
-      "volpages": "PTS AN v 215"
+      "volpages": " PTS 5.215, PTS 5.216"
     }
   ]
 }

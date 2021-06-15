@@ -15,7 +15,7 @@
       "parallel_count": 36,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "One of Little Learning",
+      "translated_title": "A Little Learning",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Little Learning",
           "volpage": null
         },
         {
@@ -216,7 +216,7 @@
       ],
       "type": "leaf",
       "uid": "an4.6",
-      "volpages": "PTS AN ii 6"
+      "volpages": " PTS 2.7, PTS 2.8"
     }
   ]
 }

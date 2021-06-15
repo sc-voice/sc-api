@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 6.13",
-      "alt_volpages": "PTS (2nd ed) SN i 333",
+      "alt_volpages": " PTS (2nd ed) 1.334, PTS (2nd ed) 1.335",
       "biblio": null,
       "blurb": "Brahmā Sahampati appears to the Buddha and speaks in praise of the renunciates staying fearless in the deep forest, and celebrates the many who have found freedom.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "At Andhakavinda",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "At Andhakavinda",
           "volpage": null
         },
         {

@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Sentient Beings",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Sentient Beings",
           "volpage": null
         },
         {
@@ -214,7 +214,7 @@
       ],
       "type": "leaf",
       "uid": "sn23.2",
-      "volpages": "PTS SN iii 189"
+      "volpages": " PTS 3.190"
     }
   ]
 }

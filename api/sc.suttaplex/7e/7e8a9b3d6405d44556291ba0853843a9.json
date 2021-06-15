@@ -18,7 +18,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Greater Discourse to Mālunkyāputta",
+      "translated_title": "The Longer Discourse With Māluṅkya ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Longer Discourse With Māluṅkya ",
           "volpage": null
         },
         {
@@ -267,7 +267,7 @@
       ],
       "type": "leaf",
       "uid": "mn64",
-      "volpages": "PTS MN i 432"
+      "volpages": " PTS 1.433, PTS 1.434, PTS 1.435, PTS 1.436, PTS 1.437"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Hell (1)",
+      "translated_title": "Heaven and Hell (1st)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Heaven and Hell (1st)",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an10.211",
-      "volpages": "PTS AN v 283"
+      "volpages": " PTS 5.283, PTS 5.284, PTS 5.285"
     }
   ]
 }

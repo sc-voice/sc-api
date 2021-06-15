@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "The Earth",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Earth",
           "volpage": null
         },
         {
@@ -178,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn13.5",
-      "volpages": "PTS SN ii 136"
+      "volpages": " PTS 2.136"
     }
   ]
 }

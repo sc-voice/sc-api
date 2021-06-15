@@ -18,7 +18,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Discourse at Kaṇṇakatthala",
+      "translated_title": "At Kaṇṇakatthala ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "At Kaṇṇakatthala ",
           "volpage": null
         },
         {
@@ -266,7 +266,7 @@
       ],
       "type": "leaf",
       "uid": "mn90",
-      "volpages": "PTS MN ii 125"
+      "volpages": " PTS 2.126, PTS 2.127, PTS 2.128, PTS 2.129, PTS 2.130, PTS 2.131, PTS 2.132, PTS 2.133"
     }
   ]
 }

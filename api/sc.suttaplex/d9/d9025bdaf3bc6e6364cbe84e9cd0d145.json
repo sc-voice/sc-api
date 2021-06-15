@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Moggallana",
+      "translated_title": "With Moggallāna",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Moggallāna",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn44.7",
-      "volpages": "PTS SN iv 391"
+      "volpages": " PTS 4.392, PTS 4.393, PTS 4.394, PTS 4.395"
     }
   ]
 }

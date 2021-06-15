@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Wanderers of Other Sects",
+      "translated_title": "Followers of Other Paths",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Followers of Other Paths",
           "volpage": null
         },
         {
@@ -228,7 +228,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.24",
-      "volpages": "PTS SN ii 32"
+      "volpages": " PTS 2.33, PTS 2.34, PTS 2.35, PTS 2.36, PTS 2.37"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.22",
-      "alt_volpages": "PTS (2nd ed) SN i 509",
+      "alt_volpages": " PTS (2nd ed) 1.510, PTS (2nd ed) 1.511, PTS (2nd ed) 1.512",
       "biblio": null,
       "blurb": "When an ugly spirit takes Sakka’s throne, the gods were outraged. But the more they complained, the prettier he became. Sakka realized this was the so-called “anger eating spirit”, and treated him with kindness and respect. ",
       "difficulty": null,
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Ugly",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.22",
-      "volpages": "PTS (1st ed) SN i 237"
+      "volpages": " PTS (1st ed) 1.238"
     }
   ]
 }

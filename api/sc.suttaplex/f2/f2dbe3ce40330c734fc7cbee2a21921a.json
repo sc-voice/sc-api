@@ -18,7 +18,7 @@
       "parallel_count": 39,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "On Raṭṭhapāla",
+      "translated_title": "With Raṭṭhapāla ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -79,7 +79,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Raṭṭhapāla ",
           "volpage": null
         },
         {
@@ -303,7 +303,7 @@
       ],
       "type": "leaf",
       "uid": "mn82",
-      "volpages": "PTS MN ii 54"
+      "volpages": " PTS 2.55, PTS 2.56, PTS 2.57, PTS 2.58, PTS 2.59, PTS 2.60, PTS 2.61, PTS 2.62, PTS 2.63, PTS 2.64, PTS 2.65, PTS 2.66, PTS 2.67, PTS 2.68, PTS 2.69, PTS 2.70, PTS 2.71, PTS 2.72, PTS 2.73, PTS 2.74"
     }
   ]
 }

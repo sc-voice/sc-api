@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Upavaṇa",
+      "translated_title": "Upavāṇa on What is Visible in This Very Life",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Upavāṇa on What is Visible in This Very Life",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.70",
-      "volpages": "PTS SN iv 41"
+      "volpages": " PTS 4.42, PTS 4.43"
     }
   ]
 }

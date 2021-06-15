@@ -15,7 +15,7 @@
       "parallel_count": 51,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Self-mortification",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Self-mortification",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an4.198",
-      "volpages": "PTS AN ii 205"
+      "volpages": " PTS 2.206, PTS 2.207, PTS 2.208, PTS 2.209, PTS 2.210, PTS 2.211"
     }
   ]
 }

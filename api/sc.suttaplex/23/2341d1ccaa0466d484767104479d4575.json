@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Son’s Flesh",
+      "translated_title": "A Child’s Flesh",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Child’s Flesh",
           "volpage": null
         },
         {
@@ -239,7 +239,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.63",
-      "volpages": "PTS SN ii 97"
+      "volpages": " PTS 2.98, PTS 2.99, PTS 2.100"
     }
   ]
 }

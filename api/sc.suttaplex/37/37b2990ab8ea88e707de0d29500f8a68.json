@@ -15,7 +15,7 @@
       "parallel_count": 8,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Characteristic of Nonself",
+      "translated_title": "The Characteristic of Not-Self",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -101,7 +101,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Characteristic of Not-Self",
           "volpage": null
         },
         {
@@ -336,7 +336,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.59",
-      "volpages": "PTS SN iii 66"
+      "volpages": " PTS 3.67, PTS 3.68"
     }
   ]
 }

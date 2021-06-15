@@ -15,7 +15,7 @@
       "parallel_count": 9,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Loving-Kindness",
+      "translated_title": "The Benefits of Love",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Benefits of Love",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an8.1",
-      "volpages": "PTS AN iv 150"
+      "volpages": " PTS 4.150, PTS 4.151"
     }
   ]
 }

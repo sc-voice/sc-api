@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.29",
-      "alt_volpages": "PTS (2nd ed) SN i 146",
+      "alt_volpages": " PTS (2nd ed) 1.147, PTS (2nd ed) 1.148, PTS (2nd ed) 1.149, PTS (2nd ed) 1.150, PTS (2nd ed) 1.151",
       "biblio": null,
       "blurb": "The Buddha asks Ānanda if he likes Sāriputta, and when he replies that he does, the god Susīma and his assembly appear, rejoicing in Sāriputta’s praises, and radiating in lustrous colors.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Susīma",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Susīma",
           "volpage": null
         },
         {
@@ -149,7 +149,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Com Susima",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn2.29",
-      "volpages": "PTS (1st ed) SN i 63"
+      "volpages": " PTS (1st ed) 1.64, PTS (1st ed) 1.65"
     }
   ]
 }

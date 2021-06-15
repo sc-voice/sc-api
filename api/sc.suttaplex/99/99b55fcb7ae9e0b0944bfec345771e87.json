@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 4.19",
-      "alt_volpages": "PTS (2nd ed) SN i 254",
+      "alt_volpages": " PTS (2nd ed) 1.255, PTS (2nd ed) 1.256",
       "biblio": null,
       "blurb": "While the mendicants are listening to the teachings, Māra takes the form of a farmer looking for lost oxen and addresses the Buddha.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Farmer",
+      "translated_title": "A Farmer",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Farmer",
           "volpage": null
         },
         {
@@ -227,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn4.19",
-      "volpages": "PTS (1st ed) SN i 114"
+      "volpages": " PTS (1st ed) 1.115, PTS (1st ed) 1.116"
     }
   ]
 }

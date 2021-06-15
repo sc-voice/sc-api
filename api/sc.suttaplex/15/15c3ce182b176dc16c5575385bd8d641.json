@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "States That Entail Suffering",
+      "translated_title": "Entailing Suffering",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Entailing Suffering",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.244",
-      "volpages": "PTS SN iv 188"
+      "volpages": " PTS 4.189, PTS 4.190, PTS 4.191"
     }
   ]
 }

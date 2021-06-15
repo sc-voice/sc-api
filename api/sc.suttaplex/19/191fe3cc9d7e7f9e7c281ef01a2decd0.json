@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 3.15",
-      "alt_volpages": "PTS (2nd ed) SN i 190",
+      "alt_volpages": " PTS (2nd ed) 1.190, PTS (2nd ed) 1.192, PTS (2nd ed) 1.193",
       "biblio": null,
       "blurb": "In a battle subsequent to SN 3.14, Pasenadi defeats Ajātasattu and takes him prisoner. Acting compassionately, he confiscates Ajātasattu’s military assets but releases him alive.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 11,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Battle (2nd)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Battle (2nd)",
           "volpage": null
         },
         {
@@ -190,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn3.15",
-      "volpages": "PTS (1st ed) SN i 83"
+      "volpages": " PTS (1st ed) 1.84, PTS (1st ed) 1.85"
     }
   ]
 }

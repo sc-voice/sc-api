@@ -18,7 +18,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Cloak",
+      "translated_title": "The Imported Cloth ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Imported Cloth ",
           "volpage": null
         },
         {
@@ -255,7 +255,7 @@
       ],
       "type": "leaf",
       "uid": "mn88",
-      "volpages": "PTS MN ii 112"
+      "volpages": " PTS 2.113, PTS 2.114, PTS 2.115, PTS 2.116, PTS 2.117"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.17",
-      "alt_volpages": "PTS (2nd ed) SN i 501",
+      "alt_volpages": " PTS (2nd ed) 1.502",
       "biblio": null,
       "blurb": "Sakka and Brahmā Sahampati come to the Buddha’s hut and speak in his praise.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 6,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Veneration of the Buddha",
+      "translated_title": "Homage to the Buddha",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Homage to the Buddha",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.17",
-      "volpages": "PTS (1st ed) SN i 233"
+      "volpages": " PTS (1st ed) 1.234"
     }
   ]
 }

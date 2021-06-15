@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 8.4",
-      "alt_volpages": "PTS (2nd ed) SN i 404",
+      "alt_volpages": " PTS (2nd ed) 1.405, PTS (2nd ed) 1.406",
       "biblio": null,
       "blurb": "Troubled once more by lust, Vaṅgīsa turned to Ānanda for support. Ānanda tells him to shift his perception so that beautiful things no longer seem so.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Ānanda",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Ānanda",
           "volpage": null
         },
         {

@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Kaḷara",
+      "translated_title": "With Kaḷāra the Aristocrat",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Kaḷāra the Aristocrat",
           "volpage": null
         },
         {
@@ -228,7 +228,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.32",
-      "volpages": "PTS SN ii 50"
+      "volpages": " PTS 2.51, PTS 2.52, PTS 2.53, PTS 2.54, PTS 2.55, PTS 2.56"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Uttara on Failing",
+      "translated_title": "Uttara on Failure",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Uttara on Failure",
           "volpage": null
         },
         {
@@ -167,7 +167,7 @@
       ],
       "type": "leaf",
       "uid": "an8.8",
-      "volpages": "PTS AN iv 162"
+      "volpages": " PTS 4.162, PTS 4.163, PTS 4.164, PTS 4.165, PTS 4.166"
     }
   ]
 }

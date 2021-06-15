@@ -18,7 +18,7 @@
       "parallel_count": 72,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Discourse with Aṅgulimāla",
+      "translated_title": "With Aṅgulimāla ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -79,7 +79,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Aṅgulimāla ",
           "volpage": null
         },
         {
@@ -302,7 +302,7 @@
       ],
       "type": "leaf",
       "uid": "mn86",
-      "volpages": "PTS MN ii 97"
+      "volpages": " PTS 2.98, PTS 2.99, PTS 2.100, PTS 2.101, PTS 2.102, PTS 2.103, PTS 2.104, PTS 2.105"
     }
   ]
 }

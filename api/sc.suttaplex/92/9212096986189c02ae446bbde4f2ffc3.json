@@ -15,7 +15,7 @@
       "parallel_count": 18,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Uposatha",
+      "translated_title": "Sabbath",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Sabbath",
           "volpage": null
         },
         {
@@ -167,7 +167,7 @@
       ],
       "type": "leaf",
       "uid": "an8.20",
-      "volpages": "PTS AN iv 204"
+      "volpages": " PTS 4.205, PTS 4.206, PTS 4.207, PTS 4.208"
     }
   ]
 }

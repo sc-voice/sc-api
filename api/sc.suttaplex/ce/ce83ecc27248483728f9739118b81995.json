@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 10.9",
-      "alt_volpages": "PTS (2nd ed) SN i 458",
+      "alt_volpages": " PTS (2nd ed) 1.459",
       "biblio": null,
       "blurb": "A spirit was full of faith in the nun Sukkā, so he went about the towns and villages encouraging people to listen to her teaching.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With the Nun Sukkā (1st)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With the Nun Sukkā (1st)",
           "volpage": null
         },
         {

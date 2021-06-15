@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 7.9",
-      "alt_volpages": "PTS (2nd ed) SN i 358",
+      "alt_volpages": " PTS (2nd ed) 1.359, PTS (2nd ed) 1.361, PTS (2nd ed) 1.362, PTS (2nd ed) 1.363, PTS (2nd ed) 1.364",
       "biblio": null,
       "blurb": "A brahmin conducting a fire sacrifice wishes to offer the sacrificial cake. He sees the Buddha meditating and wants to give it to him, but hesitates when he realizes he is a shaven-headed ascetic. He asks the Buddha’s caste, but the Buddha argues that conduct is the important thing, not caste. The Buddha gives a metaphorical reinterpretation of the elements of brahmanical ritual.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 8,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Bhāradvāja of Sundarika",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Bhāradvāja of Sundarika",
           "volpage": null
         },
         {
@@ -190,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn7.9",
-      "volpages": "PTS (1st ed) SN i 167"
+      "volpages": " PTS (1st ed) 1.168, PTS (1st ed) 1.169, PTS (1st ed) 1.170"
     }
   ]
 }

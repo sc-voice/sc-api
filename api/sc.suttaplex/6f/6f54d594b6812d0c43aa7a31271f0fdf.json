@@ -15,7 +15,7 @@
       "parallel_count": 8,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Good Will",
+      "translated_title": "The Benefits of Love",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Benefits of Love",
           "volpage": null
         },
         {
@@ -139,7 +139,7 @@
           "lang_name": "日本語",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "愛情の利点",
           "volpage": null
         },
         {
@@ -241,7 +241,7 @@
       ],
       "type": "leaf",
       "uid": "an11.15",
-      "volpages": "PTS AN v 342"
+      "volpages": " PTS 5.342"
     }
   ]
 }

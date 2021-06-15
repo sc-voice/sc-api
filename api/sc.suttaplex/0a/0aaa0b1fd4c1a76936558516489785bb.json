@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Irregular Order",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Irregular Order",
           "volpage": null
         },
         {
@@ -178,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn48.40",
-      "volpages": "PTS SN v 213"
+      "volpages": " PTS 5.214, PTS 5.215, PTS 5.216"
     }
   ]
 }

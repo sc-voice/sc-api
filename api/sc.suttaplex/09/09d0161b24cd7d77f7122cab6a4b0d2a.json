@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 9.6",
-      "alt_volpages": "PTS (2nd ed) SN i 430",
+      "alt_volpages": " PTS (2nd ed) 1.431, PTS (2nd ed) 1.432",
       "biblio": null,
       "blurb": "A former partner of Venerable Anuruddha, now a deity named Jālinī, tries to tempt him with heavenly pleasures. But he has seen a higher happiness.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Anuruddha",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Anuruddha",
           "volpage": null
         },
         {

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 7.1",
-      "alt_volpages": "PTS (2nd ed) SN i 344",
+      "alt_volpages": " PTS (2nd ed) 1.344, PTS (2nd ed) 1.345, PTS (2nd ed) 1.346, PTS (2nd ed) 1.347",
       "biblio": null,
       "blurb": "When a brahmin lady expresses her confidence in the Triple Gem, her husband is annoyed. She encourages him to visit the Buddha, who soothes his anger.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 27,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Dhanañjānī",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Dhanañjānī",
           "volpage": null
         },
         {
@@ -190,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn7.1",
-      "volpages": "PTS (1st ed) SN i 160"
+      "volpages": " PTS (1st ed) 1.160, PTS (1st ed) 1.161"
     }
   ]
 }

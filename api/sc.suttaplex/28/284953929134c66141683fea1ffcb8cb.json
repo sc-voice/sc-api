@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Jhanas and Direct Knowledges",
+      "translated_title": "Absorptions and Insights",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Absorptions and Insights",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn16.9",
-      "volpages": "PTS SN ii 210"
+      "volpages": " PTS 2.211, PTS 2.212, PTS 2.213, PTS 2.214"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.17",
-      "alt_volpages": "PTS (2nd ed) SN i 122",
+      "alt_volpages": " PTS (2nd ed) 1.123",
       "biblio": null,
       "blurb": "Subrahmā the god asks for the escape from fear. The Buddha says there is no escape from fear without letting go of everything.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Subrahmā",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Subrahmā",
           "volpage": null
         },
         {
@@ -214,7 +214,7 @@
       ],
       "type": "leaf",
       "uid": "sn2.17",
-      "volpages": "PTS (1st ed) SN i 53"
+      "volpages": " PTS (1st ed) 1.54"
     }
   ]
 }

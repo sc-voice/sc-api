@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Uruvelā (1)",
+      "translated_title": "At Uruvelā (1st)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "At Uruvelā (1st)",
           "volpage": null
         },
         {
@@ -216,7 +216,7 @@
       ],
       "type": "leaf",
       "uid": "an4.21",
-      "volpages": "PTS AN ii 20"
+      "volpages": " PTS 2.20, PTS 2.21"
     }
   ]
 }

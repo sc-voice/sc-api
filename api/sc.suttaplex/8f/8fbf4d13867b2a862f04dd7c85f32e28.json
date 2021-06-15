@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Girimānanda",
+      "translated_title": "With Girimānanda",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Girimānanda",
           "volpage": null
         },
         {
@@ -252,7 +252,7 @@
       ],
       "type": "leaf",
       "uid": "an10.60",
-      "volpages": "PTS AN v 108"
+      "volpages": " PTS 5.109, PTS 5.110, PTS 5.111, PTS 5.112"
     }
   ]
 }

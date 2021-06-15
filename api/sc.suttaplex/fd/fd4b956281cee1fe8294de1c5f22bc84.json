@@ -18,7 +18,7 @@
       "parallel_count": 7,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Discourse on Ghaṭīkāra",
+      "translated_title": "With Ghaṭikāra ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Ghaṭikāra ",
           "volpage": null
         },
         {
@@ -266,7 +266,7 @@
       ],
       "type": "leaf",
       "uid": "mn81",
-      "volpages": "PTS MN ii 45"
+      "volpages": " PTS 2.45, PTS 2.46, PTS 2.47, PTS 2.49, PTS 2.50, PTS 2.51, PTS 2.52, PTS 2.53, PTS 2.54"
     }
   ]
 }

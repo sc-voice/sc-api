@@ -18,7 +18,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Anuruddha ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Anuruddha ",
           "volpage": null
         },
         {
@@ -229,7 +229,7 @@
       ],
       "type": "leaf",
       "uid": "mn127",
-      "volpages": "PTS MN iii 144"
+      "volpages": " PTS 3.145, PTS 3.146, PTS 3.147, PTS 3.148, PTS 3.149, PTS 3.150, PTS 3.151, PTS 3.152"
     }
   ]
 }

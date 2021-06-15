@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.9",
-      "alt_volpages": "PTS (2nd ed) SN i 487",
+      "alt_volpages": " PTS (2nd ed) 1.488",
       "biblio": null,
       "blurb": "In days gone by, Sakka, lord of gods, and Vepacitti, lord of demons, visited a hermitage of seers. But Vepacitti behaves rudely, while Sakka honors them. However, the seers beg Sakka to leave, on account of the stink of their unwashed bodies. But he says he loves their smell.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Seers in a Forest",
+      "translated_title": "Hermits in the Wilderness",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Hermits in the Wilderness",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.9",
-      "volpages": "PTS (1st ed) SN i 226"
+      "volpages": " PTS (1st ed) 1.227"
     }
   ]
 }

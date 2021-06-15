@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 6.11",
-      "alt_volpages": "PTS (2nd ed) SN i 331",
+      "alt_volpages": " PTS (2nd ed) 1.332",
       "biblio": null,
       "blurb": "Brahmā Sanaṅkumāra appears to the Buddha and asserts that the aristocrat or khattiya is the best caste, but the Buddha is the best of people.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 6,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Sanaṅkumāra",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Sanaṅkumāra",
           "volpage": null
         },
         {

@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "An Angry Person",
+      "translated_title": "Irritable",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Irritable",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "an7.64",
-      "volpages": "PTS AN iv 94"
+      "volpages": " PTS 4.95, PTS 4.96, PTS 4.97, PTS 4.98"
     }
   ]
 }

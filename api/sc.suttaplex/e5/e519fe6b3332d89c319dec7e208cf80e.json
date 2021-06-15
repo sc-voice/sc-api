@@ -18,7 +18,7 @@
       "parallel_count": 65,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Discourse to Sandaka",
+      "translated_title": "With Sandaka ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Sandaka ",
           "volpage": null
         },
         {
@@ -266,7 +266,7 @@
       ],
       "type": "leaf",
       "uid": "mn76",
-      "volpages": "PTS MN i 513"
+      "volpages": " PTS 1.514, PTS 1.515, PTS 1.516, PTS 1.517, PTS 1.518, PTS 1.519, PTS 1.520, PTS 1.521, PTS 1.522, PTS 1.523, PTS 1.524"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Knowledge of the Faculties of Persons",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Knowledge of the Faculties of Persons",
           "volpage": null
         },
         {
@@ -167,7 +167,7 @@
       ],
       "type": "leaf",
       "uid": "an6.62",
-      "volpages": "PTS AN iii 402"
+      "volpages": " PTS 3.403, PTS 3.404, PTS 3.405, PTS 3.406, PTS 3.407, PTS 3.409"
     }
   ]
 }

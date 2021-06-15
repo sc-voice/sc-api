@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.7",
-      "alt_volpages": "PTS (2nd ed) SN i 110",
+      "alt_volpages": " PTS (2nd ed) 1.111",
       "biblio": null,
       "blurb": "Pañcālacaṇḍa praises the Buddha for finding the opening amid the confinement of the world. But the Buddha affirms that anyone with mindfulness and stillness may find such an escape.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Pañcālacaṇḍa",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Pañcālacaṇḍa",
           "volpage": null
         },
         {

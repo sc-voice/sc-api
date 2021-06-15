@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.77",
-      "alt_volpages": "PTS (2nd ed) SN i 98",
+      "alt_volpages": " PTS (2nd ed) 1.99",
       "biblio": null,
       "blurb": "A series of questions on diverse matters.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Sovereignty",
+      "translated_title": "Authority",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Authority",
           "volpage": null
         },
         {
@@ -162,7 +162,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Autoridade",
           "volpage": null
         },
         {

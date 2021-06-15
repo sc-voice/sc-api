@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Anuruddha",
+      "translated_title": "Anuruddha and the Agreeable Deities",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Anuruddha and the Agreeable Deities",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an8.46",
-      "volpages": "PTS AN iv 261"
+      "volpages": " PTS 4.263, PTS 4.264, PTS 4.265, PTS 4.266"
     }
   ]
 }

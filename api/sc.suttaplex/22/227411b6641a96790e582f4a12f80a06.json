@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Sīha",
+      "translated_title": "With Sīha",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Sīha",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an8.12",
-      "volpages": "PTS AN iv 179"
+      "volpages": " PTS 4.180, PTS 4.181, PTS 4.182, PTS 4.183, PTS 4.184, PTS 4.185, PTS 4.186, PTS 4.187, PTS 4.188"
     }
   ]
 }

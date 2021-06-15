@@ -18,7 +18,7 @@
       "parallel_count": 12,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Exhortation to Anāthapiṇḍika",
+      "translated_title": "Advice to Anāthapiṇḍika ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Advice to Anāthapiṇḍika ",
           "volpage": null
         },
         {
@@ -278,7 +278,7 @@
       ],
       "type": "leaf",
       "uid": "mn143",
-      "volpages": "PTS MN iii 258"
+      "volpages": " PTS 3.258, PTS 3.259, PTS 3.260, PTS 3.261, PTS 3.262, PTS 3.263"
     }
   ]
 }

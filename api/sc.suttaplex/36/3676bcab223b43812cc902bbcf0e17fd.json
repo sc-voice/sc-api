@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Cases of Knowledge (1)",
+      "translated_title": "Grounds for Knowledge",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Grounds for Knowledge",
           "volpage": null
         },
         {
@@ -228,7 +228,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.33",
-      "volpages": "PTS SN ii 56"
+      "volpages": " PTS 2.57, PTS 2.58, PTS 2.59"
     }
   ]
 }

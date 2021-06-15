@@ -18,7 +18,7 @@
       "parallel_count": 11,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "With Cankī",
+      "translated_title": "With Caṅkī ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Caṅkī ",
           "volpage": null
         },
         {
@@ -303,7 +303,7 @@
       ],
       "type": "leaf",
       "uid": "mn95",
-      "volpages": "PTS MN ii 164"
+      "volpages": " PTS 2.164, PTS 2.165, PTS 2.166, PTS 2.167, PTS 2.168, PTS 2.169, PTS 2.170, PTS 2.171, PTS 2.172, PTS 2.173, PTS 2.174, PTS 2.175, PTS 2.176, PTS 2.177"
     }
   ]
 }

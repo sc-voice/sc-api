@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Bonds",
+      "translated_title": "Attachments",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Attachments",
           "volpage": null
         },
         {
@@ -240,7 +240,7 @@
       ],
       "type": "leaf",
       "uid": "an4.10",
-      "volpages": "PTS AN ii 10"
+      "volpages": " PTS 2.11, PTS 2.12, PTS 2.13"
     }
   ]
 }

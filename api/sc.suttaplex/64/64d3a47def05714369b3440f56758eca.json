@@ -18,7 +18,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Great Forty",
+      "translated_title": "The Great Forty ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -79,7 +79,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Great Forty ",
           "volpage": null
         },
         {
@@ -278,7 +278,7 @@
       ],
       "type": "leaf",
       "uid": "mn117",
-      "volpages": "PTS MN iii 71"
+      "volpages": " PTS 3.72, PTS 3.73, PTS 3.74, PTS 3.75, PTS 3.76, PTS 3.77, PTS 3.78"
     }
   ]
 }

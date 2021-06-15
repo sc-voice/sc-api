@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.7",
-      "alt_volpages": "PTS (2nd ed) SN i 7",
+      "alt_volpages": " PTS (2nd ed) 1.7",
       "biblio": null,
       "blurb": "Those who comprehend the teachings live smooth amid the rough.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Not Penetrated",
+      "translated_title": "Not Comprehending",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Not Comprehending",
           "volpage": null
         },
         {
@@ -174,7 +174,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Sem compreensão",
           "volpage": null
         },
         {
@@ -240,7 +240,7 @@
       ],
       "type": "leaf",
       "uid": "sn1.7",
-      "volpages": "PTS (1st ed) SN i 4"
+      "volpages": " PTS (1st ed) 1.4"
     }
   ]
 }

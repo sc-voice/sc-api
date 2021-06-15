@@ -18,7 +18,7 @@
       "parallel_count": 20,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "To Māgandiya",
+      "translated_title": "With Māgaṇḍiya ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -79,7 +79,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Māgaṇḍiya ",
           "volpage": null
         },
         {
@@ -303,7 +303,7 @@
       ],
       "type": "leaf",
       "uid": "mn75",
-      "volpages": "PTS MN i 501"
+      "volpages": " PTS 1.502, PTS 1.503, PTS 1.504, PTS 1.505, PTS 1.506, PTS 1.507, PTS 1.508, PTS 1.509, PTS 1.510, PTS 1.511, PTS 1.512, PTS 1.513"
     }
   ]
 }

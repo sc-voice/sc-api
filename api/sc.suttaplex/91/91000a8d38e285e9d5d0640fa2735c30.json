@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Discourse at Tikaṇḍakī",
+      "translated_title": "At Tikaṇḍakī",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "At Tikaṇḍakī",
           "volpage": null
         },
         {
@@ -216,7 +216,7 @@
       ],
       "type": "leaf",
       "uid": "an5.144",
-      "volpages": "PTS AN iii 169"
+      "volpages": " PTS 3.170"
     }
   ]
 }

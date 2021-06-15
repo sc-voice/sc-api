@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.15",
-      "alt_volpages": "PTS (2nd ed) SN i 121",
+      "alt_volpages": " PTS (2nd ed) 1.122",
       "biblio": null,
       "blurb": "Candana asks who crosses the flood. The Buddha replies that it is one who is virtuous , wise, peaceful, and beyond attachment to rebirth.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 13,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Candana",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Candana",
           "volpage": null
         },
         {
@@ -149,7 +149,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Com Candana",
           "volpage": null
         },
         {

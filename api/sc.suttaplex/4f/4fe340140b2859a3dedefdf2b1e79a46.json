@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Lohicca",
+      "translated_title": "With Lohicca",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Lohicca",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.132",
-      "volpages": "PTS SN iv 116"
+      "volpages": " PTS 4.117, PTS 4.118, PTS 4.119, PTS 4.120, PTS 4.121"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.75",
-      "alt_volpages": "PTS (2nd ed) SN i 95",
+      "alt_volpages": " PTS (2nd ed) 1.96",
       "biblio": null,
       "blurb": "Why is it that, though the path has been taught, people still fear?",
       "difficulty": null,
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Afraid",
           "volpage": null
         },
         {
@@ -227,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn1.75",
-      "volpages": "PTS (1st ed) SN i 42"
+      "volpages": " PTS (1st ed) 1.43"
     }
   ]
 }

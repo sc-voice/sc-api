@@ -15,7 +15,7 @@
       "parallel_count": 43,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Bharadvaja",
+      "translated_title": "With Bhāradvāja",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Bhāradvāja",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.127",
-      "volpages": "PTS SN iv 110"
+      "volpages": " PTS 4.111, PTS 4.112, PTS 4.113"
     }
   ]
 }

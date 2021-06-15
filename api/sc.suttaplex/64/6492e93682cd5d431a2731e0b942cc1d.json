@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.74",
-      "alt_volpages": "PTS (2nd ed) SN i 95",
+      "alt_volpages": " PTS (2nd ed) 1.95",
       "biblio": null,
       "blurb": "A series of questions asked by one deity, answered by another, and then given a better answer by the Buddha.",
       "difficulty": null,
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Rain",
           "volpage": null
         },
         {
@@ -162,7 +162,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Chuva",
           "volpage": null
         },
         {

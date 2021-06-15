@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 9.1",
-      "alt_volpages": "PTS (2nd ed) SN i 424",
+      "alt_volpages": " PTS (2nd ed) 1.424, PTS (2nd ed) 1.425",
       "biblio": null,
       "blurb": "A monk in the forest lets his mind drift to thoughts of the lay life, but is warned by a local deity.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Seclusion",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Seclusion",
           "volpage": null
         },
         {
@@ -226,7 +226,7 @@
       ],
       "type": "leaf",
       "uid": "sn9.1",
-      "volpages": "PTS (1st ed) SN i 197"
+      "volpages": " PTS (1st ed) 1.197"
     }
   ]
 }

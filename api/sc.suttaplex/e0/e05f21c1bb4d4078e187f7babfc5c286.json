@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 7.18",
-      "alt_volpages": "PTS (2nd ed) SN i 388",
+      "alt_volpages": " PTS (2nd ed) 1.389, PTS (2nd ed) 1.390",
       "biblio": null,
       "blurb": "Some brahmin students are collecting firewood when they see the Buddha in meditation. They return and inform their teacher, who visits the Buddha to ask him how he is so peaceful in the wild forest.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Collecting Firewood",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Collecting Firewood",
           "volpage": null
         },
         {
@@ -202,7 +202,7 @@
       ],
       "type": "leaf",
       "uid": "sn7.18",
-      "volpages": "PTS (1st ed) SN i 180"
+      "volpages": " PTS (1st ed) 1.181"
     }
   ]
 }

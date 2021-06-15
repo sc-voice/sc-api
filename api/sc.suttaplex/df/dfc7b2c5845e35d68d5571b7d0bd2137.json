@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.80",
-      "alt_volpages": "PTS (2nd ed) SN i 101",
+      "alt_volpages": " PTS (2nd ed) 1.101, PTS (2nd ed) 1.102",
       "biblio": null,
       "blurb": "A series of questions on diverse topics.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Source of Light",
+      "translated_title": "Lamp",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Lamp",
           "volpage": null
         },
         {
@@ -162,7 +162,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Luz",
           "volpage": null
         },
         {

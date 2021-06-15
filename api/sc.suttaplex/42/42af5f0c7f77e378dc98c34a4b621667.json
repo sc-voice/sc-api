@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 8.11",
-      "alt_volpages": "PTS (2nd ed) SN i 420",
+      "alt_volpages": " PTS (2nd ed) 1.421",
       "biblio": null,
       "blurb": "Vaṅgīsa says the Buddha, like the moon or the sun, outshines the whole world.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "At Gaggarā",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "At Gaggarā",
           "volpage": null
         },
         {
@@ -190,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn8.11",
-      "volpages": "PTS (1st ed) SN i 195"
+      "volpages": " PTS (1st ed) 1.196"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "One With a Sense of Dhamma",
+      "translated_title": "One Who Knows the Teachings",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "One Who Knows the Teachings",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "an7.68",
-      "volpages": "PTS AN iv 113"
+      "volpages": " PTS 4.114, PTS 4.115, PTS 4.116, PTS 4.117"
     }
   ]
 }

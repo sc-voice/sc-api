@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.4",
-      "alt_volpages": "PTS (2nd ed) SN i 106",
+      "alt_volpages": " PTS (2nd ed) 1.107",
       "biblio": null,
       "blurb": "The deity Māgadha asks the Buddha how many sources of light there are in the world. The Buddha speaks of five lights, but the Buddha is the best of them.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 13,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Māghadha",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Māghadha",
           "volpage": null
         },
         {
@@ -149,7 +149,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Com Maghadha",
           "volpage": null
         },
         {

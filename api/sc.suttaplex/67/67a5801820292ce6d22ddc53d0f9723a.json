@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 5.2",
-      "alt_volpages": "PTS (2nd ed) SN i 283",
+      "alt_volpages": " PTS (2nd ed) 1.283, PTS (2nd ed) 1.284",
       "biblio": null,
       "blurb": "When meditating in the Dark Wood, the nun Somā is taunted by Māra, who claims that a mere woman can never see the subtle truth. She rejects him, stating that gender does not matter when one is perceiving deep truths, and telling Māra to go see those still attached to gender.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Soma",
+      "translated_title": "With Somā",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Somā",
           "volpage": null
         },
         {

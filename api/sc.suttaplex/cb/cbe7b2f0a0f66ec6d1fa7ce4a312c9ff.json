@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.26",
-      "alt_volpages": "PTS (2nd ed) SN i 142",
+      "alt_volpages": " PTS (2nd ed) 1.143, PTS (2nd ed) 1.144, PTS (2nd ed) 1.145",
       "biblio": null,
       "blurb": "Rohitassa asks the Buddha if it is possible to reach the end of the world by traveling. The Buddha says no; and Rohitassa tells of how in a past life as a seer he had tried to accomplish this very feat and failed. The Buddha says the end of the world is found in this body.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Rohitassa",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Rohitassa",
           "volpage": null
         },
         {
@@ -226,7 +226,7 @@
       ],
       "type": "leaf",
       "uid": "sn2.26",
-      "volpages": "PTS (1st ed) SN i 61"
+      "volpages": " PTS (1st ed) 1.62"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 5.8",
-      "alt_volpages": "PTS (2nd ed) SN i 292",
+      "alt_volpages": " PTS (2nd ed) 1.293, PTS (2nd ed) 1.294",
       "biblio": null,
       "blurb": "Māra asks the nun Sīsupacālā whose teaching she believes in. She replies that she rejects the various sectarians and follows the Buddha, as his teachings lead to freedom.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Sisupacala",
+      "translated_title": "With Sīsupacālā",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Sīsupacālā",
           "volpage": null
         },
         {
@@ -252,7 +252,7 @@
       ],
       "type": "leaf",
       "uid": "sn5.8",
-      "volpages": "PTS (1st ed) SN i 133"
+      "volpages": " PTS (1st ed) 1.134"
     }
   ]
 }

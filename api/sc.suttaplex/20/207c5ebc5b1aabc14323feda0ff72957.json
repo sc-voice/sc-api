@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 4.20",
-      "alt_volpages": "PTS (2nd ed) SN i 257",
+      "alt_volpages": " PTS (2nd ed) 1.257, PTS (2nd ed) 1.258",
       "biblio": null,
       "blurb": "The Buddha wonders whether it is possible to rule justly, without violence. Māra appears and encourages the Buddha to purse such a path.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 11,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Rulership",
+      "translated_title": "Ruling",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Ruling",
           "volpage": null
         },
         {
@@ -239,7 +239,7 @@
       ],
       "type": "leaf",
       "uid": "sn4.20",
-      "volpages": "PTS (1st ed) SN i 116"
+      "volpages": " PTS (1st ed) 1.117"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 6.4",
-      "alt_volpages": "PTS (2nd ed) SN i 310",
+      "alt_volpages": " PTS (2nd ed) 1.311, PTS (2nd ed) 1.312, PTS (2nd ed) 1.313, PTS (2nd ed) 1.314",
       "biblio": null,
       "blurb": "Baka the Brahmā conceives the wrong view that his status is permanent and imperishable. The Buddha goes to dissuade him, and they have an exchange in verse, with the Buddha telling Baka of his past lives. ",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Baka the Brahmā",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Baka the Brahmā",
           "volpage": null
         },
         {
@@ -202,7 +202,7 @@
       ],
       "type": "leaf",
       "uid": "sn6.4",
-      "volpages": "PTS (1st ed) SN i 142"
+      "volpages": " PTS (1st ed) 1.143, PTS (1st ed) 1.144"
     }
   ]
 }

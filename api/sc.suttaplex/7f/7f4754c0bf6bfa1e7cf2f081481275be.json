@@ -15,7 +15,7 @@
       "parallel_count": 7,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Great Questions (1)",
+      "translated_title": "The Great Questions (1st)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Great Questions (1st)",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an10.27",
-      "volpages": "PTS AN v 48"
+      "volpages": " PTS 5.49, PTS 5.50, PTS 5.51, PTS 5.52, PTS 5.53, PTS 5.54"
     }
   ]
 }

@@ -18,7 +18,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "At Kīṭāgiri",
+      "translated_title": "At Kīṭāgiri ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -79,7 +79,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "At Kīṭāgiri ",
           "volpage": null
         },
         {
@@ -303,7 +303,7 @@
       ],
       "type": "leaf",
       "uid": "mn70",
-      "volpages": "PTS MN i 473"
+      "volpages": " PTS 1.474, PTS 1.475, PTS 1.476, PTS 1.477, PTS 1.478, PTS 1.479, PTS 1.480, PTS 1.481"
     }
   ]
 }

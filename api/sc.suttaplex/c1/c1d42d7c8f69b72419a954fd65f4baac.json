@@ -18,7 +18,7 @@
       "parallel_count": 13,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Many Elements ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Many Elements ",
           "volpage": null
         },
         {
@@ -229,7 +229,7 @@
       ],
       "type": "leaf",
       "uid": "mn115",
-      "volpages": "PTS MN iii 61"
+      "volpages": " PTS 3.62, PTS 3.63, PTS 3.64, PTS 3.65, PTS 3.66, PTS 3.67"
     }
   ]
 }

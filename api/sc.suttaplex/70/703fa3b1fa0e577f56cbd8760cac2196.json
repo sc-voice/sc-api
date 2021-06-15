@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Before My Enlightenment (1)",
+      "translated_title": "Before My Awakening (Interior)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Before My Awakening (Interior)",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.13",
-      "volpages": "PTS SN iv 6"
+      "volpages": " PTS 4.7, PTS 4.8"
     }
   ]
 }

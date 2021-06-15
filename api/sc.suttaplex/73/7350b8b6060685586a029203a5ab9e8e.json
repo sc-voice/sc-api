@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 5.3",
-      "alt_volpages": "PTS (2nd ed) SN i 284",
+      "alt_volpages": " PTS (2nd ed) 1.285, PTS (2nd ed) 1.286",
       "biblio": null,
       "blurb": "Māra taunts the nun Kisāgotamī, alleging she is mourning sons and longing for a man. She rejects him, stating that she has no need for men, as she has destroyed the mass of darkness and conquered the army of Death.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Gotami",
+      "translated_title": "With Kisāgotamī",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Kisāgotamī",
           "volpage": null
         },
         {
@@ -252,7 +252,7 @@
       ],
       "type": "leaf",
       "uid": "sn5.3",
-      "volpages": "PTS (1st ed) SN i 129"
+      "volpages": " PTS (1st ed) 1.130"
     }
   ]
 }

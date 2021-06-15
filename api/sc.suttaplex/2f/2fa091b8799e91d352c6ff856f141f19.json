@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 7.14",
-      "alt_volpages": "PTS (2nd ed) SN i 377",
+      "alt_volpages": " PTS (2nd ed) 1.378, PTS (2nd ed) 1.379, PTS (2nd ed) 1.380, PTS (2nd ed) 1.381",
       "biblio": null,
       "blurb": "A brahmin is shabby clothes has been kicked out of his home by ungrateful sons. The Buddha gives him a verse to recite in the village council, comparing his faithless sons to his trusty wooden staff. Ashamed, the sons take back their father, bathe and dress him.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "A well-to-do brahmin",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A well-to-do brahmin",
           "volpage": null
         },
         {
@@ -214,7 +214,7 @@
       ],
       "type": "leaf",
       "uid": "sn7.14",
-      "volpages": "PTS (1st ed) SN i 175"
+      "volpages": " PTS (1st ed) 1.176, PTS (1st ed) 1.177"
     }
   ]
 }

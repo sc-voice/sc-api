@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.5",
-      "alt_volpages": "PTS (2nd ed) SN i 479",
+      "alt_volpages": " PTS (2nd ed) 1.480, PTS (2nd ed) 1.481, PTS (2nd ed) 1.482, PTS (2nd ed) 1.483",
       "biblio": null,
       "blurb": "The demon lord Vepacitti proposes to Sakka that they engage in a battle of wits in debate rather than war. Vepacitti speaks in praise of forceful punishment, while Sakka stands up for patience and forgiveness.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 48,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Victory by Well-Spoken Counsel",
+      "translated_title": "Victory by Good Speech",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Victory by Good Speech",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.5",
-      "volpages": "PTS (1st ed) SN i 222"
+      "volpages": " PTS (1st ed) 1.223, PTS (1st ed) 1.224"
     }
   ]
 }

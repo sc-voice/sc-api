@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Parileyya",
+      "translated_title": "At Pārileyya",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "At Pārileyya",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.81",
-      "volpages": "PTS SN iii 94"
+      "volpages": " PTS 3.95, PTS 3.96, PTS 3.97, PTS 3.98, PTS 3.99"
     }
   ]
 }

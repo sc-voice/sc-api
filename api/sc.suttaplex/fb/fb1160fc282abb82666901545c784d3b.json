@@ -18,7 +18,7 @@
       "parallel_count": 20,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Brahmāyu ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Brahmāyu ",
           "volpage": null
         },
         {
@@ -241,7 +241,7 @@
       ],
       "type": "leaf",
       "uid": "mn91",
-      "volpages": "PTS MN ii 133"
+      "volpages": " PTS 2.134, PTS 2.135, PTS 2.136, PTS 2.137, PTS 2.138, PTS 2.139, PTS 2.141, PTS 2.142, PTS 2.143, PTS 2.144, PTS 2.145, PTS 2.146"
     }
   ]
 }

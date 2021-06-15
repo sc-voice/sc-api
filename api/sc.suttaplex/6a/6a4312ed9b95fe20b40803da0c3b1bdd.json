@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.15",
-      "alt_volpages": "PTS (2nd ed) SN i 499",
+      "alt_volpages": " PTS (2nd ed) 1.500",
       "biblio": null,
       "blurb": "When Sakka asks what place is truly delightful, the Buddha replies that it is wherever the perfected ones dwell.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 8,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "A Delightful Place",
+      "translated_title": "Delightful",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Delightful",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.15",
-      "volpages": "PTS (1st ed) SN i 232"
+      "volpages": " PTS (1st ed) 1.233"
     }
   ]
 }

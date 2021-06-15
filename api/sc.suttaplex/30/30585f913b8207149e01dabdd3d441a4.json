@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 6.15",
-      "alt_volpages": "PTS (2nd ed) SN i 340",
+      "alt_volpages": " PTS (2nd ed) 1.341, PTS (2nd ed) 1.342, PTS (2nd ed) 1.343",
       "biblio": null,
       "blurb": "After the Buddha became finally extinguished, Brahmā Sahampati led a series of distinguished beings who uttered verses in commemoration",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 17,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Final Extinguishment",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Final Extinguishment",
           "volpage": null
         },
         {
@@ -226,7 +226,7 @@
       ],
       "type": "leaf",
       "uid": "sn6.15",
-      "volpages": "PTS (1st ed) SN i 157"
+      "volpages": " PTS (1st ed) 1.158, PTS (1st ed) 1.159"
     }
   ]
 }

@@ -18,7 +18,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Esukārī ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Esukārī ",
           "volpage": null
         },
         {
@@ -253,7 +253,7 @@
       ],
       "type": "leaf",
       "uid": "mn96",
-      "volpages": "PTS MN ii 177"
+      "volpages": " PTS 2.178, PTS 2.179, PTS 2.180, PTS 2.181, PTS 2.182, PTS 2.183, PTS 2.184"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "In Brief",
+      "translated_title": "The Sabbath With Eight Factors, In Brief",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Sabbath With Eight Factors, In Brief",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an8.41",
-      "volpages": "PTS AN iv 248"
+      "volpages": " PTS 4.249, PTS 4.250, PTS 4.251"
     }
   ]
 }

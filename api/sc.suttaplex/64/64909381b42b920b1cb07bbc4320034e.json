@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Accompanied by Lovingkindness",
+      "translated_title": "Full of Love",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Full of Love",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn46.54",
-      "volpages": "PTS SN v 115"
+      "volpages": " PTS 5.116, PTS 5.117, PTS 5.118, PTS 5.119, PTS 5.120, PTS 5.121"
     }
   ]
 }

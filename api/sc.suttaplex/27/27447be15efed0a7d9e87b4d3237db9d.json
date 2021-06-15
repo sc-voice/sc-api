@@ -18,7 +18,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Discourse with Assalāyana",
+      "translated_title": "With Assalāyana ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Assalāyana ",
           "volpage": null
         },
         {
@@ -278,7 +278,7 @@
       ],
       "type": "leaf",
       "uid": "mn93",
-      "volpages": "PTS MN ii 147"
+      "volpages": " PTS 2.147, PTS 2.148, PTS 2.149, PTS 2.150, PTS 2.151, PTS 2.152, PTS 2.153, PTS 2.154, PTS 2.155, PTS 2.157"
     }
   ]
 }

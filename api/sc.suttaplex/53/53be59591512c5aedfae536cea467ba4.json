@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.53",
-      "alt_volpages": "PTS (2nd ed) SN i 80",
+      "alt_volpages": " PTS (2nd ed) 1.81",
       "biblio": null,
       "blurb": "Things that are friends in this life and the next.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Friend",
+      "translated_title": "A Friend",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Friend",
           "volpage": null
         },
         {

@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Association",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Association",
           "volpage": null
         },
         {
@@ -154,7 +154,7 @@
       ],
       "type": "leaf",
       "uid": "an9.6",
-      "volpages": "PTS AN iv 365"
+      "volpages": " PTS 4.366, PTS 4.367, PTS 4.368, PTS 4.369"
     }
   ]
 }

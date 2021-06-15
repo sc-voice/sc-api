@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.25",
-      "alt_volpages": "PTS (2nd ed) SN i 514",
+      "alt_volpages": " PTS (2nd ed) 1.515, PTS (2nd ed) 1.516",
       "biblio": null,
       "blurb": "The Buddha recalls the words of Sakka warning of how anger crushes people like an avalanche",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 6,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Nonanger",
+      "translated_title": "Don’t Be Angry",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Don’t Be Angry",
           "volpage": null
         },
         {

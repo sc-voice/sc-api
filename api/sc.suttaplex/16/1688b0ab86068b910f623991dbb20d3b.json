@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 10.6",
-      "alt_volpages": "PTS (2nd ed) SN i 451",
+      "alt_volpages": " PTS (2nd ed) 1.452",
       "biblio": null,
       "blurb": "A female spirit hushes her son Piyaṅkara so she can hear the teaching and pursue harmlessness.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Piyaṅkara",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Piyaṅkara",
           "volpage": null
         },
         {

@@ -18,7 +18,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "At Isigili ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "At Isigili ",
           "volpage": null
         },
         {
@@ -229,7 +229,7 @@
       ],
       "type": "leaf",
       "uid": "mn116",
-      "volpages": "PTS MN iii 68"
+      "volpages": " PTS 3.68, PTS 3.69, PTS 3.70, PTS 3.71"
     }
   ]
 }

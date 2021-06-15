@@ -15,7 +15,7 @@
       "parallel_count": 6,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Pañcakaṅga",
+      "translated_title": "With Pañcakaṅga",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Pañcakaṅga",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn36.19",
-      "volpages": "PTS SN iv 223"
+      "volpages": " PTS 4.224, PTS 4.225, PTS 4.226, PTS 4.227, PTS 4.228"
     }
   ]
 }

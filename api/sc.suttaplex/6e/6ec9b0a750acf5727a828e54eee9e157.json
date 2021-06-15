@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Sāriputta and Koṭṭhita (4)",
+      "translated_title": "With Sāriputta and Koṭṭhita (4th)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Sāriputta and Koṭṭhita (4th)",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn44.6",
-      "volpages": "PTS SN iv 388"
+      "volpages": " PTS 4.389, PTS 4.390, PTS 4.391"
     }
   ]
 }

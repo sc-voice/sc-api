@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Waste-water Pool",
+      "translated_title": "Billabong",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Billabong",
           "volpage": null
         },
         {
@@ -192,7 +192,7 @@
       ],
       "type": "leaf",
       "uid": "an4.178",
-      "volpages": "PTS AN ii 165"
+      "volpages": " PTS 2.166, PTS 2.167"
     }
   ]
 }

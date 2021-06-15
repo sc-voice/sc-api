@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.38",
-      "alt_volpages": "PTS (2nd ed) SN i 57",
+      "alt_volpages": " PTS (2nd ed) 1.58, PTS (2nd ed) 1.59, PTS (2nd ed) 1.60, PTS (2nd ed) 1.61",
       "biblio": null,
       "blurb": "A series of deities praise the Buddha’s resilience and composure when his foot is injured by a stone.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Stone Splinter",
+      "translated_title": "A Splinter",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Splinter",
           "volpage": null
         },
         {
@@ -174,7 +174,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Uma Farpa",
           "volpage": null
         },
         {
@@ -240,7 +240,7 @@
       ],
       "type": "leaf",
       "uid": "sn1.38",
-      "volpages": "PTS (1st ed) SN i 27"
+      "volpages": " PTS (1st ed) 1.28, PTS (1st ed) 1.29"
     }
   ]
 }

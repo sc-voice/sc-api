@@ -18,7 +18,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Dhanañjāni ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Dhanañjāni ",
           "volpage": null
         },
         {
@@ -253,7 +253,7 @@
       ],
       "type": "leaf",
       "uid": "mn97",
-      "volpages": "PTS MN ii 184"
+      "volpages": " PTS 2.185, PTS 2.186, PTS 2.187, PTS 2.188, PTS 2.189, PTS 2.190, PTS 2.191, PTS 2.192, PTS 2.193, PTS 2.194, PTS 2.195, PTS 2.196"
     }
   ]
 }

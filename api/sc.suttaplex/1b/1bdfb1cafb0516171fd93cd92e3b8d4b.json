@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.72",
-      "alt_volpages": "PTS (2nd ed) SN i 93",
+      "alt_volpages": " PTS (2nd ed) 1.94",
       "biblio": null,
       "blurb": "What is the sign or token of a chariot, a fire, a nation, and a woman?",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Chariot",
+      "translated_title": "A Chariot",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Chariot",
           "volpage": null
         },
         {
@@ -162,7 +162,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Uma Carruagem",
           "volpage": null
         },
         {
@@ -228,7 +228,7 @@
       ],
       "type": "leaf",
       "uid": "sn1.72",
-      "volpages": "PTS (1st ed) SN i 41"
+      "volpages": " PTS (1st ed) 1.42"
     }
   ]
 }

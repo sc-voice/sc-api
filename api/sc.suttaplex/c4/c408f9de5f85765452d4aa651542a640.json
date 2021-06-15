@@ -15,7 +15,7 @@
       "parallel_count": 9,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "If There Is Lust",
+      "translated_title": "If There Is Desire",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "If There Is Desire",
           "volpage": null
         },
         {
@@ -227,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.64",
-      "volpages": "PTS SN ii 101"
+      "volpages": " PTS 2.101, PTS 2.102, PTS 2.103, PTS 2.104"
     }
   ]
 }

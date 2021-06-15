@@ -15,7 +15,7 @@
       "parallel_count": 20,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Mental Barrenness",
+      "translated_title": "Emotional Barrenness",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Emotional Barrenness",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an10.14",
-      "volpages": "PTS AN v 17"
+      "volpages": " PTS 5.18, PTS 5.19, PTS 5.20, PTS 5.21"
     }
   ]
 }

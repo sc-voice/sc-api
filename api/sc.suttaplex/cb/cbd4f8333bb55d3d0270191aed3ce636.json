@@ -15,7 +15,7 @@
       "parallel_count": 9,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "The Seven Suns",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -52,7 +52,7 @@
           "lang_name": "Deutsch",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Die sieben Sonnen",
           "volpage": null
         },
         {
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Seven Suns",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an7.66",
-      "volpages": "PTS AN iv 100"
+      "volpages": " PTS 4.100, PTS 4.101, PTS 4.102, PTS 4.103, PTS 4.104, PTS 4.105, PTS 4.106"
     }
   ]
 }

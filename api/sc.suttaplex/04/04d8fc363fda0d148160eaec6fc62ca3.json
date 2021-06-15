@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.24",
-      "alt_volpages": "PTS (2nd ed) SN i 513",
+      "alt_volpages": " PTS (2nd ed) 1.514",
       "biblio": null,
       "blurb": "When two mendicants have a falling out, the Buddha recalls the wise words of Sakka on not letting anger ruin friendship.",
       "difficulty": null,
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Transgression",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.24",
-      "volpages": "PTS (1st ed) SN i 239"
+      "volpages": " PTS (1st ed) 1.240"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Mindfulness of Death (2)",
+      "translated_title": "Mindfulness of Death (2nd)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Mindfulness of Death (2nd)",
           "volpage": null
         },
         {
@@ -240,7 +240,7 @@
       ],
       "type": "leaf",
       "uid": "an6.20",
-      "volpages": "PTS AN iii 306"
+      "volpages": " PTS 3.307, PTS 3.308"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Bhikkhunis’ Quarter",
+      "translated_title": "The Nuns’ Quarters",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Nuns’ Quarters",
           "volpage": null
         },
         {
@@ -216,7 +216,7 @@
       ],
       "type": "leaf",
       "uid": "sn47.10",
-      "volpages": "PTS SN v 154"
+      "volpages": " PTS 5.155, PTS 5.156, PTS 5.157, PTS 5.158"
     }
   ]
 }

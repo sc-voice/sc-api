@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Yamaka",
+      "translated_title": "With Yamaka",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Yamaka",
           "volpage": null
         },
         {
@@ -227,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.85",
-      "volpages": "PTS SN iii 109"
+      "volpages": " PTS 3.110, PTS 3.111, PTS 3.112, PTS 3.113, PTS 3.114, PTS 3.115"
     }
   ]
 }

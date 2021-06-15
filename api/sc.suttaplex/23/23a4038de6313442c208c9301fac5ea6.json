@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 4.1",
-      "alt_volpages": "PTS (2nd ed) SN i 231",
+      "alt_volpages": " PTS (2nd ed) 1.231, PTS (2nd ed) 1.232",
       "biblio": null,
       "blurb": "Māra accuses the Buddha of having abandoned the path of true austerity.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Austere Practice",
+      "translated_title": "Mortification",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Mortification",
           "volpage": null
         },
         {
@@ -227,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn4.1",
-      "volpages": "PTS (1st ed) SN i 103"
+      "volpages": " PTS (1st ed) 1.103"
     }
   ]
 }

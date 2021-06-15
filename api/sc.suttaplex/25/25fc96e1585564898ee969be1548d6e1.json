@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 6.14",
-      "alt_volpages": "PTS (2nd ed) SN i 335",
+      "alt_volpages": " PTS (2nd ed) 1.336, PTS (2nd ed) 1.337, PTS (2nd ed) 1.338, PTS (2nd ed) 1.339, PTS (2nd ed) 1.340",
       "biblio": null,
       "blurb": "The Buddha tells a story of the past Buddha Sikhī and his disciple Abhibhū. They visit a brahmā realm where they perform many astounding feats and give teachings.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 8,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "About Aruṇavatī",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "About Aruṇavatī",
           "volpage": null
         },
         {
@@ -190,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn6.14",
-      "volpages": "PTS (1st ed) SN i 155"
+      "volpages": " PTS (1st ed) 1.155, PTS (1st ed) 1.156, PTS (1st ed) 1.157"
     }
   ]
 }

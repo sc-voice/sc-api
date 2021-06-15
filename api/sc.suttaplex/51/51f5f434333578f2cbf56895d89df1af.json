@@ -15,7 +15,7 @@
       "parallel_count": 6,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "To Dasama",
+      "translated_title": "The Man From the City of Aṭṭhaka",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Man From the City of Aṭṭhaka",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "an11.16",
-      "volpages": "PTS AN v 342"
+      "volpages": " PTS 5.343, PTS 5.344, PTS 5.345, PTS 5.346, PTS 5.347"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Water Simile",
+      "translated_title": "A Simile With Water",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Simile With Water",
           "volpage": null
         },
         {
@@ -192,7 +192,7 @@
       ],
       "type": "leaf",
       "uid": "an7.15",
-      "volpages": "PTS AN iv 11"
+      "volpages": " PTS 4.12, PTS 4.13"
     }
   ]
 }

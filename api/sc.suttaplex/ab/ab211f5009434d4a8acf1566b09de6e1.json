@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.3",
-      "alt_volpages": "PTS (2nd ed) SN i 472",
+      "alt_volpages": " PTS (2nd ed) 1.472, PTS (2nd ed) 1.473, PTS (2nd ed) 1.474, PTS (2nd ed) 1.475",
       "biblio": null,
       "blurb": "Sakka rallies his troops with the sight of his banner. But the Buddha points out that the deities, powerful as they are, are not free of fear, but he is. He encourages the mendicants to recollect the Triple Gem to abandon fear.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 8,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Crest of the Standard",
+      "translated_title": "The Banner’s Crest",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Banner’s Crest",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.3",
-      "volpages": "PTS (1st ed) SN i 218"
+      "volpages": " PTS (1st ed) 1.219, PTS (1st ed) 1.220"
     }
   ]
 }

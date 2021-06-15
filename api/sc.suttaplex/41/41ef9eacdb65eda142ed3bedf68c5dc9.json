@@ -15,7 +15,7 @@
       "parallel_count": 7,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Not Yours (1)",
+      "translated_title": "It’s Not Yours (1st)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "It’s Not Yours (1st)",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.101",
-      "volpages": "PTS SN iv 81"
+      "volpages": " PTS 4.82"
     }
   ]
 }

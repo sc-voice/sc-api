@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Cunda",
+      "translated_title": "By Mahācunda",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "By Mahācunda",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an10.24",
-      "volpages": "PTS AN v 41"
+      "volpages": " PTS 5.42, PTS 5.43, PTS 5.44, PTS 5.45"
     }
   ]
 }

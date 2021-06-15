@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "If There Were No (1)",
+      "translated_title": "If There Were No Gratification (Interior)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "If There Were No Gratification (Interior)",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.17",
-      "volpages": "PTS SN iv 9"
+      "volpages": " PTS 4.11, PTS 4.12"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 3.21",
-      "alt_volpages": "PTS (2nd ed) SN i 209",
+      "alt_volpages": " PTS (2nd ed) 1.210, PTS (2nd ed) 1.211, PTS (2nd ed) 1.212, PTS (2nd ed) 1.213, PTS (2nd ed) 1.214, PTS (2nd ed) 1.215, PTS (2nd ed) 1.216",
       "biblio": null,
       "blurb": "The Buddha teaches Pasenadi of four kinds of person, going from dark to dark, dark to light, light to dark, and light to light.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Persons",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Persons",
           "volpage": null
         },
         {
@@ -227,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn3.21",
-      "volpages": "PTS (1st ed) SN i 93"
+      "volpages": " PTS (1st ed) 1.94, PTS (1st ed) 1.95, PTS (1st ed) 1.96"
     }
   ]
 }

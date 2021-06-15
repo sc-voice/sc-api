@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Views",
+      "translated_title": "What Is Your View?",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "What Is Your View?",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "an10.93",
-      "volpages": "PTS AN v 185"
+      "volpages": " PTS 5.185, PTS 5.186, PTS 5.187, PTS 5.188, PTS 5.189"
     }
   ]
 }

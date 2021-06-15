@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.1",
-      "alt_volpages": "PTS (2nd ed) SN i 1",
+      "alt_volpages": " PTS (2nd ed) 1.1, PTS (2nd ed) 1.2",
       "biblio": null,
       "blurb": "The Buddha crossed the flood of suffering by neither standing nor swimming.",
       "difficulty": null,
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Crossing the Flood",
           "volpage": null
         },
         {
@@ -264,7 +264,7 @@
       ],
       "type": "leaf",
       "uid": "sn1.1",
-      "volpages": "PTS (1st ed) SN i 1"
+      "volpages": " PTS (1st ed) 1.1"
     }
   ]
 }

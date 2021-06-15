@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Inscriptions",
+      "translated_title": "Etchings",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Etchings",
           "volpage": null
         },
         {
@@ -192,7 +192,7 @@
       ],
       "type": "leaf",
       "uid": "an3.132",
-      "volpages": "PTS AN i 283"
+      "volpages": " PTS 1.284"
     }
   ]
 }

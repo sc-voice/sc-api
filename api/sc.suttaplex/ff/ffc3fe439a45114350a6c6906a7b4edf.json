@@ -15,7 +15,7 @@
       "parallel_count": 7,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Wheel-Turning Monarch",
+      "translated_title": "A Wheel-Turning Monarch",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Wheel-Turning Monarch",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn46.42",
-      "volpages": "PTS SN v 99"
+      "volpages": " PTS 5.99"
     }
   ]
 }

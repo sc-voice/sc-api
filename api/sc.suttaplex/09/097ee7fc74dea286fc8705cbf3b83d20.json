@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.27",
-      "alt_volpages": "PTS (2nd ed) SN i 145",
+      "alt_volpages": " PTS (2nd ed) 1.146",
       "biblio": null,
       "blurb": "Nanda speaks of the transience of life, saying one should do good to be reborn in a happy future life. The Buddha replies that one should let go attachment.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Nanda",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Nanda",
           "volpage": null
         },
         {
@@ -149,7 +149,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Com Nanda",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn2.27",
-      "volpages": "PTS (1st ed) SN i 62"
+      "volpages": " PTS (1st ed) 1.63"
     }
   ]
 }

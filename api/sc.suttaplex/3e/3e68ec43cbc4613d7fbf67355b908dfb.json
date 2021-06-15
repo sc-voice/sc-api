@@ -15,7 +15,7 @@
       "parallel_count": 10,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Emotional Shackles",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Emotional Shackles",
           "volpage": null
         },
         {
@@ -178,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "an9.72",
-      "volpages": "PTS AN iv 461"
+      "volpages": " PTS 4.461, PTS 4.462"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 6.9",
-      "alt_volpages": "PTS (2nd ed) SN i 323",
+      "alt_volpages": " PTS (2nd ed) 1.324, PTS (2nd ed) 1.325",
       "biblio": null,
       "blurb": "The brahmā Tudu tries to persuade Kokālika to have faith in Sāriputta and Moggallāna, but Kokālika wants none of it.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 46,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With the Brahmā Tudu",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With the Brahmā Tudu",
           "volpage": null
         },
         {

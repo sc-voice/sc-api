@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.10",
-      "alt_volpages": "PTS (2nd ed) SN i 489",
+      "alt_volpages": " PTS (2nd ed) 1.489, PTS (2nd ed) 1.491",
       "biblio": null,
       "blurb": "In the past, when battle between the gods and demons loomed, some seers sought out the demon lord Sambara to beg for protection. But due to their devotion to Sakka, he rejected them, so they cursed him.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Seers by the Ocean",
+      "translated_title": "Hermits by the Ocean",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Hermits by the Ocean",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.10",
-      "volpages": "PTS (1st ed) SN i 227"
+      "volpages": " PTS (1st ed) 1.228"
     }
   ]
 }

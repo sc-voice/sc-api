@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.12",
-      "alt_volpages": "PTS (2nd ed) SN i 118",
+      "alt_volpages": " PTS (2nd ed) 1.119",
       "biblio": null,
       "blurb": "The deity Veṇhu celebrates the joy of those who follow the Buddha’s teaching. The Buddha affirms that such will escape death. Veṇhu is the Pali spelling of Sanskrit Viṣṇu, and this marks a rare appearance of a god of this name in the early texts.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Vishnu",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Vishnu",
           "volpage": null
         },
         {
@@ -149,7 +149,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Com Vishnu (Veṇḍu)",
           "volpage": null
         },
         {

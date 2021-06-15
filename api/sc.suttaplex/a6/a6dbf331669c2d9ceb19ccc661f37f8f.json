@@ -15,7 +15,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Anuruddha",
+      "translated_title": "Anuruddha and the Great Thoughts",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Anuruddha and the Great Thoughts",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "an8.30",
-      "volpages": "PTS AN iv 228"
+      "volpages": " PTS 4.229, PTS 4.230, PTS 4.231, PTS 4.232, PTS 4.233, PTS 4.234, PTS 4.235"
     }
   ]
 }

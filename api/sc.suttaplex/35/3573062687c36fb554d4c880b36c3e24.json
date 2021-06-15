@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Discourse on Future Dangers (4)",
+      "translated_title": "Future Perils (4th)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Future Perils (4th)",
           "volpage": null
         },
         {
@@ -228,7 +228,7 @@
       ],
       "type": "leaf",
       "uid": "an5.80",
-      "volpages": "PTS AN iii 108"
+      "volpages": " PTS 3.109, PTS 3.110"
     }
   ]
 }

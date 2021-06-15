@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Dart",
+      "translated_title": "An Arrow",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -88,7 +88,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "An Arrow",
           "volpage": null
         },
         {
@@ -288,7 +288,7 @@
       ],
       "type": "leaf",
       "uid": "sn36.6",
-      "volpages": "PTS SN iv 207"
+      "volpages": " PTS 4.208, PTS 4.210"
     }
   ]
 }

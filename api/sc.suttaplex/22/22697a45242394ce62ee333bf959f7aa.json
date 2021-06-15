@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 10.2",
-      "alt_volpages": "PTS (2nd ed) SN i 444",
+      "alt_volpages": " PTS (2nd ed) 1.445",
       "biblio": null,
       "blurb": "A spirit tells the Buddha that if he is truly free he should not be instructing others.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With a Spirit Named Sakka",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With a Spirit Named Sakka",
           "volpage": null
         },
         {

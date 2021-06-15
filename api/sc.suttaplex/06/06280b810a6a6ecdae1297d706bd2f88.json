@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Nakulapita",
+      "translated_title": "Nakula’s Father",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Nakula’s Father",
           "volpage": null
         },
         {
@@ -251,7 +251,7 @@
       ],
       "type": "leaf",
       "uid": "sn22.1",
-      "volpages": "PTS SN iii 1"
+      "volpages": " PTS 3.1, PTS 3.2, PTS 3.3, PTS 3.4, PTS 3.5"
     }
   ]
 }

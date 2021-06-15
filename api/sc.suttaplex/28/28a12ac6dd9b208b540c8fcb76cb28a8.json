@@ -15,7 +15,7 @@
       "parallel_count": 17,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Noble Lineages",
+      "translated_title": "The Noble Traditions",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Noble Traditions",
           "volpage": null
         },
         {
@@ -228,7 +228,7 @@
       ],
       "type": "leaf",
       "uid": "an4.28",
-      "volpages": "PTS AN ii 27"
+      "volpages": " PTS 2.28, PTS 2.29"
     }
   ]
 }

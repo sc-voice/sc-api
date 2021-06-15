@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 4.3",
-      "alt_volpages": "PTS (2nd ed) SN i 233",
+      "alt_volpages": " PTS (2nd ed) 1.234",
       "biblio": null,
       "blurb": "Māra tries to scare the Buddha by taking on shifting forms both beautiful and hideous.",
       "difficulty": null,
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Beautiful",
           "volpage": null
         },
         {

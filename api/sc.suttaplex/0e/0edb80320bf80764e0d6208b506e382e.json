@@ -18,7 +18,7 @@
       "parallel_count": 37,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "The Sixfold Purification ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Sixfold Purification ",
           "volpage": null
         },
         {
@@ -241,7 +241,7 @@
       ],
       "type": "leaf",
       "uid": "mn112",
-      "volpages": "PTS MN iii 29"
+      "volpages": " PTS 3.30, PTS 3.31, PTS 3.32, PTS 3.33, PTS 3.34, PTS 3.35, PTS 3.36, PTS 3.37"
     }
   ]
 }

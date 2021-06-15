@@ -18,7 +18,7 @@
       "parallel_count": 15,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "One Fine Night ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -79,7 +79,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "One Fine Night ",
           "volpage": null
         },
         {
@@ -301,7 +301,7 @@
       ],
       "type": "leaf",
       "uid": "mn131",
-      "volpages": "PTS MN iii 187"
+      "volpages": " PTS 3.188, PTS 3.189"
     }
   ]
 }

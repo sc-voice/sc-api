@@ -18,7 +18,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "The Five and Three ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Five and Three ",
           "volpage": null
         },
         {
@@ -241,7 +241,7 @@
       ],
       "type": "leaf",
       "uid": "mn102",
-      "volpages": "PTS MN ii 228"
+      "volpages": " PTS 2.229, PTS 2.231, PTS 2.232, PTS 2.233, PTS 2.234, PTS 2.235, PTS 2.236, PTS 2.237, PTS 2.238"
     }
   ]
 }

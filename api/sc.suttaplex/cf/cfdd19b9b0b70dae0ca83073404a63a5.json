@@ -18,7 +18,7 @@
       "parallel_count": 17,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Greater Discourse to Sakuludāyin",
+      "translated_title": "The Longer Discourse with Sakuludāyī ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Longer Discourse with Sakuludāyī ",
           "volpage": null
         },
         {
@@ -279,7 +279,7 @@
       ],
       "type": "leaf",
       "uid": "mn77",
-      "volpages": "PTS MN ii 1"
+      "volpages": " PTS 2.1, PTS 2.2, PTS 2.3, PTS 2.4, PTS 2.5, PTS 2.6, PTS 2.7, PTS 2.8, PTS 2.9, PTS 2.10, PTS 2.11, PTS 2.12, PTS 2.13, PTS 2.14, PTS 2.15, PTS 2.16, PTS 2.17, PTS 2.18, PTS 2.19, PTS 2.20, PTS 2.21, PTS 2.22"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Uninstructed (1)",
+      "translated_title": "Uneducated",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Uneducated",
           "volpage": null
         },
         {
@@ -239,7 +239,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.61",
-      "volpages": "PTS SN ii 94"
+      "volpages": " PTS 2.94, PTS 2.95"
     }
   ]
 }

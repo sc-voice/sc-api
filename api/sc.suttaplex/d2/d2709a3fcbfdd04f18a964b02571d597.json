@@ -18,7 +18,7 @@
       "parallel_count": 11,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Discourse to Dīghanakha",
+      "translated_title": "With Dīghanakha ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -79,7 +79,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Dīghanakha ",
           "volpage": null
         },
         {
@@ -290,7 +290,7 @@
       ],
       "type": "leaf",
       "uid": "mn74",
-      "volpages": "PTS MN i 497"
+      "volpages": " PTS 1.498, PTS 1.499, PTS 1.500, PTS 1.501"
     }
   ]
 }

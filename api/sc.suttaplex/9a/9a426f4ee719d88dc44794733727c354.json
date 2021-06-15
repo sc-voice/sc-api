@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.10",
-      "alt_volpages": "PTS (2nd ed) SN i 9",
+      "alt_volpages": " PTS (2nd ed) 1.10",
       "biblio": null,
       "blurb": "Spiritual practitioners have clear complexions, despite their simple life.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Forest",
+      "translated_title": "Wilderness",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Wilderness",
           "volpage": null
         },
         {
@@ -186,7 +186,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Floresta",
           "volpage": null
         },
         {
@@ -252,7 +252,7 @@
       ],
       "type": "leaf",
       "uid": "sn1.10",
-      "volpages": "PTS (1st ed) SN i 5"
+      "volpages": " PTS (1st ed) 1.5"
     }
   ]
 }

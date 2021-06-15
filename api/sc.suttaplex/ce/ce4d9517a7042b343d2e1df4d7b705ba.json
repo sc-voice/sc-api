@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.28",
-      "alt_volpages": "PTS (2nd ed) SN i 33",
+      "alt_volpages": " PTS (2nd ed) 1.34, PTS (2nd ed) 1.35",
       "biblio": null,
       "blurb": "Even the rich are full of greed for more—is there anyone free of greed?",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Those of Great Wealth",
+      "translated_title": "Affluent",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Affluent",
           "volpage": null
         },
         {
@@ -162,7 +162,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Abastados",
           "volpage": null
         },
         {

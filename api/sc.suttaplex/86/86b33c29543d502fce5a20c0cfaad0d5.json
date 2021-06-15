@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.22",
-      "alt_volpages": "PTS (2nd ed) SN i 131",
+      "alt_volpages": " PTS (2nd ed) 1.132",
       "biblio": null,
       "blurb": "The deity Khema utters a series of verses in praise of good deeds. The Buddha responds with a simile for someone who departs the path of the good.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 43,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Khema",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Khema",
           "volpage": null
         },
         {

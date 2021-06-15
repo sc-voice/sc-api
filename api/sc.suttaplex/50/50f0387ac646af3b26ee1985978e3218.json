@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "15.1. Isidāsī",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -52,7 +52,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "15.1. Isidāsī",
           "volpage": null
         },
         {
@@ -142,7 +142,7 @@
       ],
       "type": "leaf",
       "uid": "thig15.1",
-      "volpages": null
+      "volpages": " PTS 163, PTS 164, PTS 165, PTS 166, PTS 167"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 3.1",
-      "alt_volpages": "PTS (2nd ed) SN i 157",
+      "alt_volpages": " PTS (2nd ed) 1.157, PTS (2nd ed) 1.158, PTS (2nd ed) 1.159, PTS (2nd ed) 1.160, PTS (2nd ed) 1.161",
       "biblio": null,
       "blurb": "King Pasenadi meets the Buddha for the first time. He wonders how the Buddha can claim to be awakened when he is still so young. The Buddha teaches him four things that should not be looked down on for their youth.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Young",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Young",
           "volpage": null
         },
         {
@@ -214,7 +214,7 @@
       ],
       "type": "leaf",
       "uid": "sn3.1",
-      "volpages": "PTS (1st ed) SN i 68"
+      "volpages": " PTS (1st ed) 1.68, PTS (1st ed) 1.69, PTS (1st ed) 1.70"
     }
   ]
 }

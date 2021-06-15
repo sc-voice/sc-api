@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.8",
-      "alt_volpages": "PTS (2nd ed) SN i 485",
+      "alt_volpages": " PTS (2nd ed) 1.486, PTS (2nd ed) 1.487",
       "biblio": null,
       "blurb": "Sakka, lord of gods, and Verocana, lord of demons, approach the Buddha’s hut and speak in praise of effort.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Verocana, Lord of the Asuras",
+      "translated_title": "Verocana, Lord of Demons",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Verocana, Lord of Demons",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.8",
-      "volpages": "PTS (1st ed) SN i 225"
+      "volpages": " PTS (1st ed) 1.226"
     }
   ]
 }

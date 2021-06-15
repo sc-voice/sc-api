@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.8",
-      "alt_volpages": "PTS (2nd ed) SN i 111",
+      "alt_volpages": " PTS (2nd ed) 1.112, PTS (2nd ed) 1.113, PTS (2nd ed) 1.114",
       "biblio": null,
       "blurb": "Tāyana, a deity who was in a past life was a leader of a non-Buddhist sect, speaks a series of verses in praise of strenuous exertion and discipline. These famous verses are commonly recited by Theravadin monks.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 55,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Tāyana",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Tāyana",
           "volpage": null
         },
         {
@@ -214,7 +214,7 @@
       ],
       "type": "leaf",
       "uid": "sn2.8",
-      "volpages": "PTS (1st ed) SN i 49"
+      "volpages": " PTS (1st ed) 1.49, PTS (1st ed) 1.50"
     }
   ]
 }

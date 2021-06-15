@@ -15,7 +15,7 @@
       "parallel_count": 37,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Warrior (2)",
+      "translated_title": "Warriors (2nd)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Warriors (2nd)",
           "volpage": null
         },
         {
@@ -216,7 +216,7 @@
       ],
       "type": "leaf",
       "uid": "an5.76",
-      "volpages": "PTS AN iii 93"
+      "volpages": " PTS 3.94, PTS 3.95, PTS 3.96, PTS 3.97, PTS 3.98, PTS 3.99, PTS 3.100"
     }
   ]
 }

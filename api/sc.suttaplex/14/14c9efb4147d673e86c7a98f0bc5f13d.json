@@ -15,7 +15,7 @@
       "parallel_count": 7,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "A Penetrative Discourse",
+      "translated_title": "Penetrative",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Penetrative",
           "volpage": null
         },
         {
@@ -240,7 +240,7 @@
       ],
       "type": "leaf",
       "uid": "an6.63",
-      "volpages": "PTS AN iii 410"
+      "volpages": " PTS 3.410, PTS 3.411, PTS 3.412, PTS 3.413, PTS 3.414, PTS 3.415, PTS 3.416, PTS 3.417"
     }
   ]
 }

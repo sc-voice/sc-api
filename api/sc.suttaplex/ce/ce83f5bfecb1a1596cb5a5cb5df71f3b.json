@@ -18,7 +18,7 @@
       "parallel_count": 10,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Discourse on Makhādeva",
+      "translated_title": "About King Makhādeva ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "About King Makhādeva ",
           "volpage": null
         },
         {
@@ -254,7 +254,7 @@
       ],
       "type": "leaf",
       "uid": "mn83",
-      "volpages": "PTS MN ii 74"
+      "volpages": " PTS 2.75, PTS 2.76, PTS 2.77, PTS 2.78, PTS 2.79, PTS 2.80, PTS 2.81, PTS 2.82, PTS 2.83"
     }
   ]
 }

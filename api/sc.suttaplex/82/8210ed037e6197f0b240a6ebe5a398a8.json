@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 7.17",
-      "alt_volpages": "PTS (2nd ed) SN i 386",
+      "alt_volpages": " PTS (2nd ed) 1.387, PTS (2nd ed) 1.388",
       "biblio": null,
       "blurb": "A brahmin is enjoying his work in the woods. Seeing the Buddha in meditation, he wonders what sort of work the Buddha enjoys.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "The Builder",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Builder",
           "volpage": null
         },
         {
@@ -214,7 +214,7 @@
       ],
       "type": "leaf",
       "uid": "sn7.17",
-      "volpages": "PTS (1st ed) SN i 179"
+      "volpages": " PTS (1st ed) 1.180"
     }
   ]
 }

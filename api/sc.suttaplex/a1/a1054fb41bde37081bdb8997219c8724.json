@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.7",
-      "alt_volpages": "PTS (2nd ed) SN i 484",
+      "alt_volpages": " PTS (2nd ed) 1.485",
       "biblio": null,
       "blurb": "Sakka reflects that one should not harm even one’s enemy. Knowing this, Vepacitti immediately takes advantage of it.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "One Should Not Transgress",
+      "translated_title": "Not Betray",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Not Betray",
           "volpage": null
         },
         {

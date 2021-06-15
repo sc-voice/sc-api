@@ -18,7 +18,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Discourse to Vacchagotta on the Threefold Knowledge",
+      "translated_title": "To Vacchagotta on the Three Knowledges ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -79,7 +79,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "To Vacchagotta on the Three Knowledges ",
           "volpage": null
         },
         {
@@ -266,7 +266,7 @@
       ],
       "type": "leaf",
       "uid": "mn71",
-      "volpages": "PTS MN i 481"
+      "volpages": " PTS 1.482, PTS 1.483"
     }
   ]
 }

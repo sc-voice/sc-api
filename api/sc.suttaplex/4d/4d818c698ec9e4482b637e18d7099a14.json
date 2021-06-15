@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 3.4",
-      "alt_volpages": "PTS (2nd ed) SN i 164",
+      "alt_volpages": " PTS (2nd ed) 1.165, PTS (2nd ed) 1.166",
       "biblio": null,
       "blurb": "Reporting on a reflection that arose while on retreat, Pasenadi says that those who do bad deeds treat themselves as enemy. The Buddha expresses his agreement in verse.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 19,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Loved",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Loved",
           "volpage": null
         },
         {
@@ -202,7 +202,7 @@
       ],
       "type": "leaf",
       "uid": "sn3.4",
-      "volpages": "PTS (1st ed) SN i 71"
+      "volpages": " PTS (1st ed) 1.72"
     }
   ]
 }

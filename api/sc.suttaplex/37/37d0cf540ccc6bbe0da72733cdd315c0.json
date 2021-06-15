@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 10.8",
-      "alt_volpages": "PTS (2nd ed) SN i 455",
+      "alt_volpages": " PTS (2nd ed) 1.456, PTS (2nd ed) 1.457, PTS (2nd ed) 1.458",
       "biblio": null,
       "blurb": "When Anāthapiṇḍika heard that a Buddha had arisen in the world, he rose first thing in the morning to go and visit him. But a mysterious darkness caused him to hesitate, so a spirit repeatedly encouraged him to step forward. Finally he reached the Buddha, and asked if he had slept well.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 11,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Sudatta",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Sudatta",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn10.8",
-      "volpages": "PTS (1st ed) SN i 210"
+      "volpages": " PTS (1st ed) 1.211, PTS (1st ed) 1.212"
     }
   ]
 }

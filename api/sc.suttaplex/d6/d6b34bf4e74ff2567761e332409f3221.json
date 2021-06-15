@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 4.23",
-      "alt_volpages": "PTS (2nd ed) SN i 264",
+      "alt_volpages": " PTS (2nd ed) 1.265, PTS (2nd ed) 1.266, PTS (2nd ed) 1.267, PTS (2nd ed) 1.268, PTS (2nd ed) 1.269",
       "biblio": null,
       "blurb": "Venerable Godhika finds himself repeatedly falling away from his meditation attainments due to severe illness. Eventually he considers suicide, and Māra tries to get the Buddha to deter him. But the Buddha says Godhika has already attained awakening and has died blamelessly.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Godhika",
+      "translated_title": "With Godhika",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Godhika",
           "volpage": null
         },
         {
@@ -227,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn4.23",
-      "volpages": "PTS (1st ed) SN i 120"
+      "volpages": " PTS (1st ed) 1.121, PTS (1st ed) 1.122"
     }
   ]
 }

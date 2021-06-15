@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.6",
-      "alt_volpages": "PTS (2nd ed) SN i 109",
+      "alt_volpages": " PTS (2nd ed) 1.109, PTS (2nd ed) 1.110",
       "biblio": null,
       "blurb": "The deity Kāmada addresses the Buddha with a series of cryptic statements lamenting the difficulty of spiritual practice. The Buddha agrees, but points out that true practitioners do it even though it’s hard.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Discourse to Kāmada",
+      "translated_title": "With Kāmada",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Kāmada",
           "volpage": null
         },
         {
@@ -162,7 +162,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Com Kamada",
           "volpage": null
         },
         {

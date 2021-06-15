@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.76",
-      "alt_volpages": "PTS (2nd ed) SN i 96",
+      "alt_volpages": " PTS (2nd ed) 1.97, PTS (2nd ed) 1.98",
       "biblio": null,
       "blurb": "A series of questions on the path.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Does Not Decay",
+      "translated_title": "Getting Old",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Getting Old",
           "volpage": null
         },
         {
@@ -162,7 +162,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Envelhecendo",
           "volpage": null
         },
         {

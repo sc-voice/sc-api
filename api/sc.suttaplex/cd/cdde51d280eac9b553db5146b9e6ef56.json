@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Places People Are Reborn",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -43,6 +43,19 @@
           "volpage": null
         },
         {
+          "author": "Anagarika Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "id": "an7.55_translation-de-sabbamitta",
+          "is_root": false,
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Bestimmungsorte von Menschen ",
+          "volpage": null
+        },
+        {
           "author": "Nyānatiloka Thera",
           "author_short": "Nyanatiloka",
           "author_uid": "nyanatiloka",
@@ -64,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Places People Are Reborn",
           "volpage": null
         },
         {
@@ -178,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an7.55",
-      "volpages": "PTS AN iv 70"
+      "volpages": " PTS 4.71, PTS 4.72, PTS 4.73, PTS 4.74"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 6,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "To Cunda the Silversmith",
+      "translated_title": "With Cunda",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Cunda",
           "volpage": null
         },
         {
@@ -227,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "an10.176",
-      "volpages": "PTS AN v 263"
+      "volpages": " PTS 5.263, PTS 5.264, PTS 5.265, PTS 5.266, PTS 5.267, PTS 5.268"
     }
   ]
 }

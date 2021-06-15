@@ -15,7 +15,7 @@
       "parallel_count": 8,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Cundī",
+      "translated_title": "With Cundī",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Cundī",
           "volpage": null
         },
         {
@@ -204,7 +204,7 @@
       ],
       "type": "leaf",
       "uid": "an5.32",
-      "volpages": "PTS AN iii 35"
+      "volpages": " PTS 3.35, PTS 3.36"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.19",
-      "alt_volpages": "PTS (2nd ed) SN i 504",
+      "alt_volpages": " PTS (2nd ed) 1.505",
       "biblio": null,
       "blurb": "When Sakka sets out on a pleasure jaunt, he begins by lifting his joined palms to the Buddha. His charioteer Mātali points out that Sakka is venerated by gods and men, and asks who he is venerating. Sakka replies that he venerates the Buddha, the perfected mendicants as well as trainees on the path.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Worship of the Teacher (or Sakka’s Worship (2))",
+      "translated_title": "Who Sakka Worships",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Who Sakka Worships",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.19",
-      "volpages": "PTS (1st ed) SN i 235"
+      "volpages": " PTS (1st ed) 1.235"
     }
   ]
 }

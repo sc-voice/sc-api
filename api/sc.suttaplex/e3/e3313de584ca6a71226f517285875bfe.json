@@ -18,7 +18,7 @@
       "parallel_count": 10,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "The Level of the Tamed ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -79,7 +79,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Level of the Tamed ",
           "volpage": null
         },
         {
@@ -241,7 +241,7 @@
       ],
       "type": "leaf",
       "uid": "mn125",
-      "volpages": "PTS MN iii 128"
+      "volpages": " PTS 3.129, PTS 3.130, PTS 3.131, PTS 3.132, PTS 3.133, PTS 3.134, PTS 3.135, PTS 3.136, PTS 3.137"
     }
   ]
 }

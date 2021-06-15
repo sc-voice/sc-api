@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.21",
-      "alt_volpages": "PTS (2nd ed) SN i 129",
+      "alt_volpages": " PTS (2nd ed) 1.130, PTS (2nd ed) 1.131",
       "biblio": null,
       "blurb": "The deity Siva says one should associate only with the good, and this will lead to happiness. The Buddha adds that associating with the good leads to the end of suffering. Siva is the Pali spelling of Sanskrit Śiva, and this marks a rare appearance of a god of this name in the early texts.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Shiva",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Shiva",
           "volpage": null
         },
         {
@@ -149,7 +149,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Com Shiva",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn2.21",
-      "volpages": "PTS (1st ed) SN i 56"
+      "volpages": " PTS (1st ed) 1.57"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 23,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Lion",
+      "translated_title": "The Lion’s Roar",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Lion’s Roar",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an10.21",
-      "volpages": "PTS AN v 32"
+      "volpages": " PTS 5.33, PTS 5.34, PTS 5.35, PTS 5.36"
     }
   ]
 }

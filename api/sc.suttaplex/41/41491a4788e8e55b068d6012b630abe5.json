@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.16",
-      "alt_volpages": "PTS (2nd ed) SN i 500",
+      "alt_volpages": " PTS (2nd ed) 1.501",
       "biblio": null,
       "blurb": "When Sakka asks where a gift is most fruitful, the Buddha replies that it is the Saṅgha.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 8,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Bestowing Alms",
+      "translated_title": "Sponsoring Sacrifice",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Sponsoring Sacrifice",
           "volpage": null
         },
         {

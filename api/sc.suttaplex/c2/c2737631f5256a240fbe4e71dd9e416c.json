@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Ugga (2)",
+      "translated_title": "With Ugga of the Village of Hatthi",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Ugga of the Village of Hatthi",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an8.22",
-      "volpages": "PTS AN iv 212"
+      "volpages": " PTS 4.213, PTS 4.214, PTS 4.215, PTS 4.216"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 7.20",
-      "alt_volpages": "PTS (2nd ed) SN i 392",
+      "alt_volpages": " PTS (2nd ed) 1.393",
       "biblio": null,
       "blurb": "The Buddha explains that a true mendicant is one who has gone beyond evil.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 23,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "A Beggar",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Beggar",
           "volpage": null
         },
         {

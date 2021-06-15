@@ -15,7 +15,7 @@
       "parallel_count": 8,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Chapter One",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -52,7 +52,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Chapter One",
           "volpage": null
         },
         {
@@ -142,7 +142,7 @@
       ],
       "type": "leaf",
       "uid": "thag19.1",
-      "volpages": null
+      "volpages": " PTS 97, PTS 98, PTS 99, PTS 100, PTS 101, PTS 102, PTS 103"
     }
   ]
 }

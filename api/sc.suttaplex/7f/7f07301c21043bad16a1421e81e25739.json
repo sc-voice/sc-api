@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 7.7",
-      "alt_volpages": "PTS (2nd ed) SN i 354",
+      "alt_volpages": " PTS (2nd ed) 1.355, PTS (2nd ed) 1.356",
       "biblio": null,
       "blurb": "The brahmin Suddhika makes the strikingly Buddhist assertion that mere austerities don’t lead to purity; only knowledge and conduct do. ",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Bhāradvāja the Pure",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Bhāradvāja the Pure",
           "volpage": null
         },
         {
@@ -190,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn7.7",
-      "volpages": "PTS (1st ed) SN i 165"
+      "volpages": " PTS (1st ed) 1.166"
     }
   ]
 }

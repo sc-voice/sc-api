@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Maluṅkyaputta",
+      "translated_title": "Māluṅkyaputta",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Māluṅkyaputta",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.95",
-      "volpages": "PTS SN iv 72"
+      "volpages": " PTS 4.72, PTS 4.73, PTS 4.74, PTS 4.75, PTS 4.76"
     }
   ]
 }

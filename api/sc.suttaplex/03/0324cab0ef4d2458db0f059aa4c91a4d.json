@@ -18,7 +18,7 @@
       "parallel_count": 19,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Six Sets of Six",
+      "translated_title": "Six By Six ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Six By Six ",
           "volpage": null
         },
         {
@@ -254,7 +254,7 @@
       ],
       "type": "leaf",
       "uid": "mn148",
-      "volpages": "PTS MN iii 280"
+      "volpages": " PTS 3.281, PTS 3.282, PTS 3.283, PTS 3.284, PTS 3.285, PTS 3.286, PTS 3.287"
     }
   ]
 }

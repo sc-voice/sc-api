@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Sheaves of Reeds",
+      "translated_title": "Bundles of Reeds",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Bundles of Reeds",
           "volpage": null
         },
         {
@@ -239,7 +239,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.67",
-      "volpages": "PTS SN ii 112"
+      "volpages": " PTS 2.113, PTS 2.114, PTS 2.115"
     }
   ]
 }

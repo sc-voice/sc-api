@@ -15,7 +15,7 @@
       "parallel_count": 66,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Non-Decline",
+      "translated_title": "Non-decline",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Non-decline",
           "volpage": null
         },
         {
@@ -228,7 +228,7 @@
       ],
       "type": "leaf",
       "uid": "an4.37",
-      "volpages": "PTS AN ii 39"
+      "volpages": " PTS 2.40"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 6.1",
-      "alt_volpages": "PTS (2nd ed) SN i 298",
+      "alt_volpages": " PTS (2nd ed) 1.298, PTS (2nd ed) 1.300, PTS (2nd ed) 1.301, PTS (2nd ed) 1.302, PTS (2nd ed) 1.303",
       "biblio": null,
       "blurb": "After his awakening, the Buddha hesitated to teach, thinking that the Dhamma is too subtle for people to understand. But the high divinity Brahmā Sahampati appears and encourages him to teach, pointing out that there are some with “little dust in their eyes” who will understand.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 47,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "The Appeal of Brahmā",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Appeal of Brahmā",
           "volpage": null
         },
         {
@@ -275,7 +275,7 @@
       ],
       "type": "leaf",
       "uid": "sn6.1",
-      "volpages": "PTS (1st ed) SN i 136"
+      "volpages": " PTS (1st ed) 1.136, PTS (1st ed) 1.137, PTS (1st ed) 1.138"
     }
   ]
 }

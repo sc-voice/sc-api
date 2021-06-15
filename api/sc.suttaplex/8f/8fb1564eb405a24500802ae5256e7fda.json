@@ -15,7 +15,7 @@
       "parallel_count": 6,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Wild Colts",
+      "translated_title": "A Wild Colt",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Wild Colt",
           "volpage": null
         },
         {
@@ -167,7 +167,7 @@
       ],
       "type": "leaf",
       "uid": "an8.14",
-      "volpages": "PTS AN iv 190"
+      "volpages": " PTS 4.191, PTS 4.192, PTS 4.193, PTS 4.194, PTS 4.195"
     }
   ]
 }

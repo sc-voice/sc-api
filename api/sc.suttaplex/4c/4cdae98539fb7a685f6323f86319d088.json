@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "3.8. Somā",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -65,7 +65,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "3.8. Somā",
           "volpage": null
         },
         {
@@ -155,7 +155,7 @@
       ],
       "type": "leaf",
       "uid": "thig3.8",
-      "volpages": null
+      "volpages": " PTS 130"
     }
   ]
 }

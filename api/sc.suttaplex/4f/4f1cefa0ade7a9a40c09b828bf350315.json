@@ -18,7 +18,7 @@
       "parallel_count": 6,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Discourse on mindfulness of body",
+      "translated_title": "Mindfulness of the Body ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -79,7 +79,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Mindfulness of the Body ",
           "volpage": null
         },
         {
@@ -302,7 +302,7 @@
       ],
       "type": "leaf",
       "uid": "mn119",
-      "volpages": "PTS MN iii 88"
+      "volpages": " PTS 3.89, PTS 3.90, PTS 3.91, PTS 3.92, PTS 3.93, PTS 3.94, PTS 3.95, PTS 3.96, PTS 3.97, PTS 3.98, PTS 3.99"
     }
   ]
 }

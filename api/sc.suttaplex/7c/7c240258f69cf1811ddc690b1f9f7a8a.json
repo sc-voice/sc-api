@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "At Vesālī",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "At Vesālī",
           "volpage": null
         },
         {
@@ -226,7 +226,7 @@
       ],
       "type": "leaf",
       "uid": "sn54.9",
-      "volpages": "PTS SN v 320"
+      "volpages": " PTS 5.321, PTS 5.322"
     }
   ]
 }

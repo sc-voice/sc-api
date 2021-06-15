@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.22",
-      "alt_volpages": "PTS (2nd ed) SN i 27",
+      "alt_volpages": " PTS (2nd ed) 1.28",
       "biblio": null,
       "blurb": "The evil you do hurts yourself.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 12,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "It Touches",
+      "translated_title": "Impact",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Impact",
           "volpage": null
         },
         {
@@ -162,7 +162,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Impacto",
           "volpage": null
         },
         {

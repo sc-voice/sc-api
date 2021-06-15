@@ -18,7 +18,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Discourse on Gulissāni",
+      "translated_title": "With Gulissāni ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -79,7 +79,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Gulissāni ",
           "volpage": null
         },
         {
@@ -266,7 +266,7 @@
       ],
       "type": "leaf",
       "uid": "mn69",
-      "volpages": "PTS MN i 469"
+      "volpages": " PTS 1.469, PTS 1.470, PTS 1.471, PTS 1.472, PTS 1.473"
     }
   ]
 }

@@ -18,7 +18,7 @@
       "parallel_count": 17,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Shorter Exposition of Action",
+      "translated_title": "The Shorter Analysis of Deeds ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Shorter Analysis of Deeds ",
           "volpage": null
         },
         {
@@ -351,7 +351,7 @@
       ],
       "type": "leaf",
       "uid": "mn135",
-      "volpages": "PTS MN iii 202"
+      "volpages": " PTS 3.203, PTS 3.204, PTS 3.205, PTS 3.206"
     }
   ]
 }

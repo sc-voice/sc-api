@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.14",
-      "alt_volpages": "PTS (2nd ed) SN i 13",
+      "alt_volpages": " PTS (2nd ed) 1.13",
       "biblio": null,
       "blurb": "A god’s worldly values are improved by the Buddha’s version.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Khattiya",
+      "translated_title": "Aristocrats",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Aristocrats",
           "volpage": null
         },
         {
@@ -186,7 +186,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Aristocratas",
           "volpage": null
         },
         {

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 11.23",
-      "alt_volpages": "PTS (2nd ed) SN i 512",
+      "alt_volpages": " PTS (2nd ed) 1.513",
       "biblio": null,
       "blurb": "When Vepacitti fell ill, Sakka visited his old adversary, who begged to be cured. But Sakka demanded to be taught a powerful magic spell first.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Magic",
+      "translated_title": "The Sambari Sorcery",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Sambari Sorcery",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn11.23",
-      "volpages": "PTS (1st ed) SN i 238"
+      "volpages": " PTS (1st ed) 1.239"
     }
   ]
 }

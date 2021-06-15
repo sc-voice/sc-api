@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.43",
-      "alt_volpages": "PTS (2nd ed) SN i 67",
+      "alt_volpages": " PTS (2nd ed) 1.68",
       "biblio": null,
       "blurb": "Gods and humans love to eat, so what kind of being does not like food?",
       "difficulty": null,
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Food",
           "volpage": null
         },
         {
@@ -162,7 +162,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Comida",
           "volpage": null
         },
         {

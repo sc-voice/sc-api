@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Exposition on the Corrupted",
+      "translated_title": "The Explanation on the Corrupt",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Explanation on the Corrupt",
           "volpage": null
         },
         {
@@ -203,7 +203,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.243",
-      "volpages": "PTS SN iv 182"
+      "volpages": " PTS 4.183, PTS 4.184, PTS 4.185, PTS 4.186, PTS 4.187, PTS 4.188"
     }
   ]
 }

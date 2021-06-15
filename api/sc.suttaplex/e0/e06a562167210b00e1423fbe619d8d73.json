@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.32",
-      "alt_volpages": "PTS (2nd ed) SN i 39",
+      "alt_volpages": " PTS (2nd ed) 1.40, PTS (2nd ed) 1.41, PTS (2nd ed) 1.42, PTS (2nd ed) 1.43",
       "biblio": null,
       "blurb": "A series of deities give verses praising generosity, and the Buddha gives his own response.",
       "difficulty": null,
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Stinginess",
           "volpage": null
         },
         {
@@ -227,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn1.32",
-      "volpages": "PTS (1st ed) SN i 18"
+      "volpages": " PTS (1st ed) 1.19"
     }
   ]
 }

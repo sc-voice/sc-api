@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Pāṭaliya",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Pāṭaliya",
           "volpage": null
         },
         {
@@ -166,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "sn42.13",
-      "volpages": "PTS SN iv 340"
+      "volpages": " PTS 4.341, PTS 4.342, PTS 4.343, PTS 4.344, PTS 4.345, PTS 4.346, PTS 4.347, PTS 4.348, PTS 4.349, PTS 4.350, PTS 4.351, PTS 4.352, PTS 4.353, PTS 4.354, PTS 4.355, PTS 4.356, PTS 4.357, PTS 4.358, PTS 4.359"
     }
   ]
 }

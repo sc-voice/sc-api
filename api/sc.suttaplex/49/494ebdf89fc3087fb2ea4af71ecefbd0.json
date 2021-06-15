@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 9.4",
-      "alt_volpages": "PTS (2nd ed) SN i 428",
+      "alt_volpages": " PTS (2nd ed) 1.429",
       "biblio": null,
       "blurb": "When a group of mendicants leave the forest in which they had been staying, the local deities lament their absence.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Several Mendicants Set Out Wandering",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Several Mendicants Set Out Wandering",
           "volpage": null
         },
         {

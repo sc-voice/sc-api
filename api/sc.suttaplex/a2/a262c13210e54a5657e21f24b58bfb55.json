@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Sumangala's Mother",
+      "translated_title": "2.3. Sumaṅgala’s Mother",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -65,7 +65,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "2.3. Sumaṅgala’s Mother",
           "volpage": null
         },
         {
@@ -204,7 +204,7 @@
       ],
       "type": "leaf",
       "uid": "thig2.3",
-      "volpages": null
+      "volpages": " PTS 126"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.23",
-      "alt_volpages": "PTS (2nd ed) SN i 28",
+      "alt_volpages": " PTS (2nd ed) 1.29",
       "biblio": null,
       "blurb": "This generation is all tangled up like a nest of matted hair. But who can unravel the tangle?",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 13,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Tangle",
+      "translated_title": "A Tangle",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Tangle",
           "volpage": null
         },
         {

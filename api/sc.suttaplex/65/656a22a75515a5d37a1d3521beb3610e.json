@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 10.3",
-      "alt_volpages": "PTS (2nd ed) SN i 445",
+      "alt_volpages": " PTS (2nd ed) 1.446, PTS (2nd ed) 1.447",
       "biblio": null,
       "blurb": "The spirits Khara and Sūciloma argue about whether the Buddha is a true ascetic or not. They approach him initially with threats, but then ask as to the origin of greed and hate.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 14,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Spiky",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Spiky",
           "volpage": null
         },
         {
@@ -202,7 +202,7 @@
       ],
       "type": "leaf",
       "uid": "sn10.3",
-      "volpages": "PTS (1st ed) SN i 207"
+      "volpages": " PTS (1st ed) 1.207, PTS (1st ed) 1.208"
     }
   ]
 }

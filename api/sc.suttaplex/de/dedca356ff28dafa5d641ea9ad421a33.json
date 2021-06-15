@@ -18,7 +18,7 @@
       "parallel_count": 19,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Mindfulness of Breathing",
+      "translated_title": "Mindfulness of Breathing ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -91,7 +91,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Mindfulness of Breathing ",
           "volpage": null
         },
         {
@@ -261,7 +261,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Atenção Plena Na Respiração",
           "volpage": null
         },
         {
@@ -387,7 +387,7 @@
       ],
       "type": "leaf",
       "uid": "mn118",
-      "volpages": "PTS MN iii 78"
+      "volpages": " PTS 3.79, PTS 3.80, PTS 3.81, PTS 3.82, PTS 3.83, PTS 3.84, PTS 3.85, PTS 3.86, PTS 3.87, PTS 3.88"
     }
   ]
 }

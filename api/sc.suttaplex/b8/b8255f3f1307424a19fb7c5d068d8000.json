@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 10.5",
-      "alt_volpages": "PTS (2nd ed) SN i 448",
+      "alt_volpages": " PTS (2nd ed) 1.449, PTS (2nd ed) 1.450, PTS (2nd ed) 1.451",
       "biblio": null,
       "blurb": "It seems that the novice Sānu had returned to his home intending to disrobe. To prevent him, a spirit possessed him, encouraging him to pursue the path of good. Sānu’s mother, weeping for her son, also tries to make him stay in robes.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 8,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Sānu",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Sānu",
           "volpage": null
         },
         {
@@ -178,7 +178,7 @@
       ],
       "type": "leaf",
       "uid": "sn10.5",
-      "volpages": "PTS (1st ed) SN i 208"
+      "volpages": " PTS (1st ed) 1.209"
     }
   ]
 }

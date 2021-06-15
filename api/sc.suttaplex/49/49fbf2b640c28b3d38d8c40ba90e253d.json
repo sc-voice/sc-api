@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Volitional (1)",
+      "translated_title": "Intentional (1st)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Intentional (1st)",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an10.217",
-      "volpages": "PTS AN v 292"
+      "volpages": " PTS 5.292, PTS 5.293, PTS 5.294, PTS 5.295, PTS 5.296, PTS 5.297"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 10.11",
-      "alt_volpages": "PTS (2nd ed) SN i 460",
+      "alt_volpages": " PTS (2nd ed) 1.460",
       "biblio": null,
       "blurb": "A spirit was full of faith in the nun Cirā, so he went about the towns and villages singing the benefits of giving her offerings.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With the Nun Cīrā",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With the Nun Cīrā",
           "volpage": null
         },
         {

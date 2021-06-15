@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "To the Sakyans (on the Uposatha)",
+      "translated_title": "With the Sakyans",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With the Sakyans",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "an10.46",
-      "volpages": "PTS AN v 83"
+      "volpages": " PTS 5.84, PTS 5.85, PTS 5.86"
     }
   ]
 }

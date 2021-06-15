@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 4.4",
-      "alt_volpages": "PTS (2nd ed) SN i 234",
+      "alt_volpages": " PTS (2nd ed) 1.235, PTS (2nd ed) 1.236",
       "biblio": null,
       "blurb": "When the Buddha explains to the mendicants how he realized freedom, Māra claims he is still trapped.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Mara’s Snare (1)",
+      "translated_title": "Māra’s Snares (1st)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Māra’s Snares (1st)",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn4.4",
-      "volpages": "PTS (1st ed) SN i 105"
+      "volpages": " PTS (1st ed) 1.105"
     }
   ]
 }

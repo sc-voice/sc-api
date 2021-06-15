@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Verañjā",
+      "translated_title": "At Verañja",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "At Verañja",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an8.11",
-      "volpages": "PTS AN iv 172"
+      "volpages": " PTS 4.173, PTS 4.174, PTS 4.175, PTS 4.176, PTS 4.177, PTS 4.178, PTS 4.179"
     }
   ]
 }

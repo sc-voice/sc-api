@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.15",
-      "alt_volpages": "PTS (2nd ed) SN i 13",
+      "alt_volpages": " PTS (2nd ed) 1.14",
       "biblio": null,
       "blurb": "The quiet murmuring of the jungle can be scary—but not to the Buddha.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Murmuring",
+      "translated_title": "Whispering",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Whispering",
           "volpage": null
         },
         {
@@ -186,7 +186,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Sussurrando",
           "volpage": null
         },
         {
@@ -252,7 +252,7 @@
       ],
       "type": "leaf",
       "uid": "sn1.15",
-      "volpages": "PTS (1st ed) SN i 7"
+      "volpages": " PTS (1st ed) 1.7"
     }
   ]
 }

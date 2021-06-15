@@ -15,7 +15,7 @@
       "parallel_count": 23,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Earthquakes",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Earthquakes",
           "volpage": null
         },
         {
@@ -166,7 +166,7 @@
       ],
       "type": "leaf",
       "uid": "an8.70",
-      "volpages": "PTS AN iv 308"
+      "volpages": " PTS 4.309, PTS 4.310, PTS 4.311, PTS 4.312, PTS 4.313, PTS 4.314"
     }
   ]
 }

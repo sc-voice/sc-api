@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.71",
-      "alt_volpages": "PTS (2nd ed) SN i 93",
+      "alt_volpages": " PTS (2nd ed) 1.93",
       "biblio": null,
       "blurb": "The killing of anger is the only killing praised by the noble ones.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 28,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Having Slain",
+      "translated_title": "Incinerated",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Incinerated",
           "volpage": null
         },
         {
@@ -174,7 +174,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Aniquilado",
           "volpage": null
         },
         {

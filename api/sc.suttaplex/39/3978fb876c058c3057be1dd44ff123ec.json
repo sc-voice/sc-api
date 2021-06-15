@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Most Beautiful Girl of the Land",
+      "translated_title": "The Finest Lady in the Land",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Finest Lady in the Land",
           "volpage": null
         },
         {
@@ -216,7 +216,7 @@
       ],
       "type": "leaf",
       "uid": "sn47.20",
-      "volpages": "PTS SN v 169"
+      "volpages": " PTS 5.170, PTS 5.171"
     }
   ]
 }

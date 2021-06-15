@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Half the Holy Life",
+      "translated_title": "Half the Spiritual Life",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Half the Spiritual Life",
           "volpage": null
         },
         {
@@ -251,7 +251,7 @@
       ],
       "type": "leaf",
       "uid": "sn45.2",
-      "volpages": "PTS SN v 2"
+      "volpages": " PTS 5.3"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Nanda’s Mother",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -43,6 +43,19 @@
           "volpage": null
         },
         {
+          "author": "Anagarika Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "id": "an7.53_translation-de-sabbamitta",
+          "is_root": false,
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Nandas Mutter ",
+          "volpage": null
+        },
+        {
           "author": "Nyānatiloka Thera",
           "author_short": "Nyanatiloka",
           "author_uid": "nyanatiloka",
@@ -64,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Nanda’s Mother",
           "volpage": null
         },
         {
@@ -166,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an7.53",
-      "volpages": "PTS AN iv 63"
+      "volpages": " PTS 4.64, PTS 4.65, PTS 4.66, PTS 4.67"
     }
   ]
 }

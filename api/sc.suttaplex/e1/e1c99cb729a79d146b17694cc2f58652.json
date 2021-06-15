@@ -18,7 +18,7 @@
       "parallel_count": 37,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Lesser Discourse to Sakuludāyi",
+      "translated_title": "The Shorter Discourse With Sakuludāyī ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Shorter Discourse With Sakuludāyī ",
           "volpage": null
         },
         {
@@ -254,7 +254,7 @@
       ],
       "type": "leaf",
       "uid": "mn79",
-      "volpages": "PTS MN ii 29"
+      "volpages": " PTS 2.30, PTS 2.31, PTS 2.32, PTS 2.33, PTS 2.34, PTS 2.35, PTS 2.36, PTS 2.37, PTS 2.38, PTS 2.39"
     }
   ]
 }

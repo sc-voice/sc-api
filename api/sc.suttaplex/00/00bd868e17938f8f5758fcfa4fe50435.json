@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 5.7",
-      "alt_volpages": "PTS (2nd ed) SN i 291",
+      "alt_volpages": " PTS (2nd ed) 1.292",
       "biblio": null,
       "blurb": "Māra asks the nun Upacālā where she wishes to be reborn. But as the world everywhere is burning, she rejects all forms of rebirth.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 6,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Upacala",
+      "translated_title": "With Upacālā",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Upacālā",
           "volpage": null
         },
         {

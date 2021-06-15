@@ -18,7 +18,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Advice from Nandaka",
+      "translated_title": "Advice from Nandaka ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Advice from Nandaka ",
           "volpage": null
         },
         {
@@ -254,7 +254,7 @@
       ],
       "type": "leaf",
       "uid": "mn146",
-      "volpages": "PTS MN iii 270"
+      "volpages": " PTS 3.271, PTS 3.272, PTS 3.273, PTS 3.274, PTS 3.275, PTS 3.276, PTS 3.277"
     }
   ]
 }

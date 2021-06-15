@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.11",
-      "alt_volpages": "PTS (2nd ed) SN i 11",
+      "alt_volpages": " PTS (2nd ed) 1.11",
       "biblio": null,
       "blurb": "Even the divine Garden of Delight is impermanent.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 9,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Nandana",
+      "translated_title": "The Garden of Delight",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Garden of Delight",
           "volpage": null
         },
         {
@@ -174,7 +174,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "O Jardim do Deleite",
           "volpage": null
         },
         {
@@ -240,7 +240,7 @@
       ],
       "type": "leaf",
       "uid": "sn1.11",
-      "volpages": "PTS (1st ed) SN i 5"
+      "volpages": " PTS (1st ed) 1.6"
     }
   ]
 }

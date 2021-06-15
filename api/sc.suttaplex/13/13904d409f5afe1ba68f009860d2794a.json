@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Milk-Sap Tree",
+      "translated_title": "The Simile of the Latex-Producing Tree",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Simile of the Latex-Producing Tree",
           "volpage": null
         },
         {
@@ -191,7 +191,7 @@
       ],
       "type": "leaf",
       "uid": "sn35.231",
-      "volpages": "PTS SN iv 159"
+      "volpages": " PTS 4.160, PTS 4.161, PTS 4.162"
     }
   ]
 }

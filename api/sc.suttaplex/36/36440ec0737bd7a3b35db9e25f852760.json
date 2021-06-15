@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Drum-Peg",
+      "translated_title": "The Drum Peg",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Drum Peg",
           "volpage": null
         },
         {
@@ -251,7 +251,7 @@
       ],
       "type": "leaf",
       "uid": "sn20.7",
-      "volpages": "PTS SN ii 266"
+      "volpages": " PTS 2.267"
     }
   ]
 }

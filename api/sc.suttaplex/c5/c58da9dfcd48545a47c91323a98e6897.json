@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.26",
-      "alt_volpages": "PTS (2nd ed) SN i 32",
+      "alt_volpages": " PTS (2nd ed) 1.33",
       "biblio": null,
       "blurb": "How many lights are there that light up the world?",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 13,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Sources of Light",
+      "translated_title": "Lamps",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Lamps",
           "volpage": null
         },
         {
@@ -162,7 +162,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Fontes de Luz",
           "volpage": null
         },
         {

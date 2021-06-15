@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 8.12",
-      "alt_volpages": "PTS (2nd ed) SN i 421",
+      "alt_volpages": " PTS (2nd ed) 1.422, PTS (2nd ed) 1.423",
       "biblio": null,
       "blurb": "Remembering his past as a wandering poet, Vaṅgīsa celebrates the freedom he has found in the Dhamma",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Vaṅgīsa",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Vaṅgīsa",
           "volpage": null
         },
         {

@@ -18,7 +18,7 @@
       "parallel_count": 10,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Subha ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Subha ",
           "volpage": null
         },
         {
@@ -241,7 +241,7 @@
       ],
       "type": "leaf",
       "uid": "mn99",
-      "volpages": "PTS MN ii 196"
+      "volpages": " PTS 2.197, PTS 2.198, PTS 2.199, PTS 2.200, PTS 2.201, PTS 2.202, PTS 2.203, PTS 2.204, PTS 2.205, PTS 2.206, PTS 2.207, PTS 2.208, PTS 2.209"
     }
   ]
 }

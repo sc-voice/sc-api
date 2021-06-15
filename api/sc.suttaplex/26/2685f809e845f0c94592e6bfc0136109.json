@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 7.21",
-      "alt_volpages": "PTS (2nd ed) SN i 393",
+      "alt_volpages": " PTS (2nd ed) 1.394, PTS (2nd ed) 1.395",
       "biblio": null,
       "blurb": "A brahmin believes that by bathing he can wash away his sins. But the Buddha speaks of the Dhamma as a lake for true purification.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Saṅgārava",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Saṅgārava",
           "volpage": null
         },
         {
@@ -190,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn7.21",
-      "volpages": "PTS (1st ed) SN i 182"
+      "volpages": " PTS (1st ed) 1.183"
     }
   ]
 }

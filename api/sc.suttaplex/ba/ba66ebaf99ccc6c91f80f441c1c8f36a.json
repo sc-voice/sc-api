@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 3.17",
-      "alt_volpages": "PTS (2nd ed) SN i 195",
+      "alt_volpages": " PTS (2nd ed) 1.195, PTS (2nd ed) 1.196",
       "biblio": null,
       "blurb": "Pasenadi asks the Buddha if there is one thing that secures benefit both in this life and the next.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 13,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Diligence",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Diligence",
           "volpage": null
         },
         {
@@ -214,7 +214,7 @@
       ],
       "type": "leaf",
       "uid": "sn3.17",
-      "volpages": "PTS (1st ed) SN i 86"
+      "volpages": " PTS (1st ed) 1.87"
     }
   ]
 }

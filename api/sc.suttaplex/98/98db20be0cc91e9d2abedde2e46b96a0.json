@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 3.11",
-      "alt_volpages": "PTS (2nd ed) SN i 176",
+      "alt_volpages": " PTS (2nd ed) 1.177, PTS (2nd ed) 1.178, PTS (2nd ed) 1.179, PTS (2nd ed) 1.180, PTS (2nd ed) 1.181",
       "biblio": null,
       "blurb": "A diverse group of ascetics passes by, and Pasenadi asks the Buddha if any of them are perfected ones. The Buddha says it is not easy for one such as Pasenadi to judge the spiritual achievements of others. Pasenadi reveals that the men are, in fact, his spies.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Seven Matted-Hair Ascetics",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Seven Matted-Hair Ascetics",
           "volpage": null
         },
         {
@@ -214,7 +214,7 @@
       ],
       "type": "leaf",
       "uid": "sn3.11",
-      "volpages": "PTS (1st ed) SN i 77"
+      "volpages": " PTS (1st ed) 1.78, PTS (1st ed) 1.79"
     }
   ]
 }

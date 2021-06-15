@@ -15,7 +15,7 @@
       "parallel_count": 11,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Proximate Cause",
+      "translated_title": "Vital Conditions",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Vital Conditions",
           "volpage": null
         },
         {
@@ -264,7 +264,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.23",
-      "volpages": "PTS SN ii 29"
+      "volpages": " PTS 2.30, PTS 2.31, PTS 2.32"
     }
   ]
 }

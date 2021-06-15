@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Taints",
+      "translated_title": "Defilements",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Defilements",
           "volpage": null
         },
         {
@@ -192,7 +192,7 @@
       ],
       "type": "leaf",
       "uid": "sn47.50",
-      "volpages": "PTS SN v 189"
+      "volpages": " PTS 5.190"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 4.13",
-      "alt_volpages": "PTS (2nd ed) SN i 245",
+      "alt_volpages": " PTS (2nd ed) 1.246, PTS (2nd ed) 1.247",
       "biblio": null,
       "blurb": "The Buddha rests after being struck by stone splinters, and Māra criticizes him for being lazy.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Splinter",
+      "translated_title": "A Splinter",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Splinter",
           "volpage": null
         },
         {
@@ -251,7 +251,7 @@
       ],
       "type": "leaf",
       "uid": "sn4.13",
-      "volpages": "PTS (1st ed) SN i 110"
+      "volpages": " PTS (1st ed) 1.111"
     }
   ]
 }

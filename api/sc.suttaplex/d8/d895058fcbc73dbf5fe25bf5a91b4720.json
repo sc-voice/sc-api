@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 4.14",
-      "alt_volpages": "PTS (2nd ed) SN i 247",
+      "alt_volpages": " PTS (2nd ed) 1.248",
       "biblio": null,
       "blurb": "Māra discourages the Buddha from teaching, warning him that he will become corrupted by favoritism.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Suitable",
+      "translated_title": "Appropriate",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Appropriate",
           "volpage": null
         },
         {

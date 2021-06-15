@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 9.11",
-      "alt_volpages": "PTS (2nd ed) SN i 436",
+      "alt_volpages": " PTS (2nd ed) 1.437",
       "biblio": null,
       "blurb": "A mendicant plagued by bad thoughts is encouraged by a deity.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 11,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Unskillful Thoughts",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Unskillful Thoughts",
           "volpage": null
         },
         {

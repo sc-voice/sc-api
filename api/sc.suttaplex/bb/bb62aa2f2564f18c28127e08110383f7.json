@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Robe",
+      "translated_title": "Robes",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Robes",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "sn16.11",
-      "volpages": "PTS SN ii 217"
+      "volpages": " PTS 2.218, PTS 2.219, PTS 2.220, PTS 2.221, PTS 2.222"
     }
   ]
 }

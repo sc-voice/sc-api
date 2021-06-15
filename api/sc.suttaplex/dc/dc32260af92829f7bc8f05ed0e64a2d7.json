@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 5.9",
-      "alt_volpages": "PTS (2nd ed) SN i 294",
+      "alt_volpages": " PTS (2nd ed) 1.295",
       "biblio": null,
       "blurb": "Māra asks the nun Selā about who has created this “puppet”, i.e. the form that has been reincarnated. She replies that there is no creator, but it arises as a result of conditions, like the growing of a seed in a field.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Sela",
+      "translated_title": "With Selā",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -89,7 +89,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Selā",
           "volpage": null
         },
         {

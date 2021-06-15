@@ -18,7 +18,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Discourse on the Simile of the Quail",
+      "translated_title": "The Simile of the Quail ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -79,7 +79,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Simile of the Quail ",
           "volpage": null
         },
         {
@@ -290,7 +290,7 @@
       ],
       "type": "leaf",
       "uid": "mn66",
-      "volpages": "PTS MN i 447"
+      "volpages": " PTS 1.448, PTS 1.449, PTS 1.450, PTS 1.451, PTS 1.452, PTS 1.453, PTS 1.454, PTS 1.455, PTS 1.456"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.16",
-      "alt_volpages": "PTS (2nd ed) SN i 14",
+      "alt_volpages": " PTS (2nd ed) 1.15",
       "biblio": null,
       "blurb": "Laziness is an obstruction to the path.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Drowsiness and Lethargy",
+      "translated_title": "Sleepiness and Sloth",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Sleepiness and Sloth",
           "volpage": null
         },
         {
@@ -186,7 +186,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Sonolência e Preguiça",
           "volpage": null
         },
         {

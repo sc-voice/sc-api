@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.50",
-      "alt_volpages": "PTS (2nd ed) SN i 75",
+      "alt_volpages": " PTS (2nd ed) 1.75, PTS (2nd ed) 1.77, PTS (2nd ed) 1.78",
       "biblio": null,
       "blurb": "Ghaṭīkāra, a disciple of the former Buddha Kassapa, comes to the Buddha and speaks of his past life, and of the attainments of six friends.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Ghaṭikara",
+      "translated_title": "With Ghaṭikāra",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Ghaṭikāra",
           "volpage": null
         },
         {
@@ -150,7 +150,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Com Ghatikara",
           "volpage": null
         },
         {
@@ -216,7 +216,7 @@
       ],
       "type": "leaf",
       "uid": "sn1.50",
-      "volpages": "PTS (1st ed) SN i 35"
+      "volpages": " PTS (1st ed) 1.36"
     }
   ]
 }

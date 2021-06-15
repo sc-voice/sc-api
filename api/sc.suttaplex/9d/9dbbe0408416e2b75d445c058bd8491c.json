@@ -18,7 +18,7 @@
       "parallel_count": 41,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Moggallāna the Accountant ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -79,7 +79,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Moggallāna the Accountant ",
           "volpage": null
         },
         {
@@ -277,7 +277,7 @@
       ],
       "type": "leaf",
       "uid": "mn107",
-      "volpages": "PTS MN iii 1"
+      "volpages": " PTS 3.1, PTS 3.2, PTS 3.3, PTS 3.4, PTS 3.5, PTS 3.7"
     }
   ]
 }

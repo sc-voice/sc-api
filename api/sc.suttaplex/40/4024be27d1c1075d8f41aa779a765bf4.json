@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.25",
-      "alt_volpages": "PTS (2nd ed) SN i 30",
+      "alt_volpages": " PTS (2nd ed) 1.31, PTS (2nd ed) 1.32",
       "biblio": null,
       "blurb": "If a perfected one has gone beyond all sense of self, would they still refer to themselves as “I”? ",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "The Arahant",
+      "translated_title": "A Perfected One",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Perfected One",
           "volpage": null
         },
         {
@@ -227,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn1.25",
-      "volpages": "PTS (1st ed) SN i 14"
+      "volpages": " PTS (1st ed) 1.15"
     }
   ]
 }

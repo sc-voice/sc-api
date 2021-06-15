@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Punnika and the Brahman",
+      "translated_title": "12.1. Puṇṇikā",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -65,7 +65,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "12.1. Puṇṇikā",
           "volpage": null
         },
         {
@@ -204,7 +204,7 @@
       ],
       "type": "leaf",
       "uid": "thig12.1",
-      "volpages": null
+      "volpages": " PTS 146, PTS 147"
     }
   ]
 }

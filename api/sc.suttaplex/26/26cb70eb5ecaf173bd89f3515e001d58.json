@@ -18,7 +18,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Progression",
+      "translated_title": "One by One ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -79,7 +79,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "One by One ",
           "volpage": null
         },
         {
@@ -278,7 +278,7 @@
       ],
       "type": "leaf",
       "uid": "mn111",
-      "volpages": "PTS MN iii 25"
+      "volpages": " PTS 3.25, PTS 3.26, PTS 3.27, PTS 3.28, PTS 3.29"
     }
   ]
 }

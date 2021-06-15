@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.60",
-      "alt_volpages": "PTS (2nd ed) SN i 85",
+      "alt_volpages": " PTS (2nd ed) 1.86",
       "biblio": null,
       "blurb": "A pair of verses on the nature of poetry, and lacking a Dhamma counterpart.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Poetry",
+      "translated_title": "A Poet",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Poet",
           "volpage": null
         },
         {
@@ -162,7 +162,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Um Poeta",
           "volpage": null
         },
         {

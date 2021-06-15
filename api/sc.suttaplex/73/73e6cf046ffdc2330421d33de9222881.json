@@ -15,7 +15,7 @@
       "parallel_count": 3,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Exploration",
+      "translated_title": "Self-examination",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Self-examination",
           "volpage": null
         },
         {
@@ -227,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.66",
-      "volpages": "PTS SN ii 107"
+      "volpages": " PTS 2.108, PTS 2.109, PTS 2.110, PTS 2.111, PTS 2.112"
     }
   ]
 }

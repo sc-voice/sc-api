@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Hatthisāriputta",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Hatthisāriputta",
           "volpage": null
         },
         {
@@ -179,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an6.60",
-      "volpages": "PTS AN iii 392"
+      "volpages": " PTS 3.393, PTS 3.394, PTS 3.395, PTS 3.396, PTS 3.397, PTS 3.398, PTS 3.399"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Not Resilient",
+      "translated_title": "Cannot Endure",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Cannot Endure",
           "volpage": null
         },
         {
@@ -204,7 +204,7 @@
       ],
       "type": "leaf",
       "uid": "an5.139",
-      "volpages": "PTS AN iii 157"
+      "volpages": " PTS 3.158, PTS 3.159, PTS 3.160, PTS 3.161"
     }
   ]
 }

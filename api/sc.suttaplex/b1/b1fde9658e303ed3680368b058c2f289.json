@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 9.12",
-      "alt_volpages": "PTS (2nd ed) SN i 437",
+      "alt_volpages": " PTS (2nd ed) 1.438",
       "biblio": null,
       "blurb": "A deity speaks of the fearfulness of the murmuring forest. But to a mendicant it seems delightful.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "Midday",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Midday",
           "volpage": null
         },
         {

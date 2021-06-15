@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.35",
-      "alt_volpages": "PTS (2nd ed) SN i 49",
+      "alt_volpages": " PTS (2nd ed) 1.50, PTS (2nd ed) 1.51, PTS (2nd ed) 1.52, PTS (2nd ed) 1.53",
       "biblio": null,
       "blurb": "Some deities come to find fault with the Buddha. He responds to their critique, which stimulates a further discussion on wrong-doing and forgiveness.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 9,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Faultfinders",
+      "translated_title": "Disdain",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Disdain",
           "volpage": null
         },
         {
@@ -162,7 +162,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Desdém",
           "volpage": null
         },
         {
@@ -228,7 +228,7 @@
       ],
       "type": "leaf",
       "uid": "sn1.35",
-      "volpages": "PTS (1st ed) SN i 23"
+      "volpages": " PTS (1st ed) 1.24, PTS (1st ed) 1.25"
     }
   ]
 }

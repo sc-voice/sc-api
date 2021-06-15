@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "About Gavesin",
+      "translated_title": "About Gavesī",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -77,7 +77,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "About Gavesī",
           "volpage": null
         },
         {
@@ -216,7 +216,7 @@
       ],
       "type": "leaf",
       "uid": "an5.180",
-      "volpages": "PTS AN iii 214"
+      "volpages": " PTS 3.215, PTS 3.216, PTS 3.217, PTS 3.218, PTS 3.219"
     }
   ]
 }

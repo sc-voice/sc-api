@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.4",
-      "alt_volpages": "PTS (2nd ed) SN i 5",
+      "alt_volpages": " PTS (2nd ed) 1.5",
       "biblio": null,
       "blurb": "Time flies, so we should drop the world’s bait.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 5,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Time Flies By",
+      "translated_title": "Time Flies",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Time Flies",
           "volpage": null
         },
         {
@@ -174,7 +174,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "O Tempo Voa",
           "volpage": null
         },
         {
@@ -240,7 +240,7 @@
       ],
       "type": "leaf",
       "uid": "sn1.4",
-      "volpages": "PTS (1st ed) SN i 3"
+      "volpages": " PTS (1st ed) 1.3"
     }
   ]
 }

@@ -18,7 +18,7 @@
       "parallel_count": 12,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Analysis of the Six Sense-Domains",
+      "translated_title": "The Analysis of the Six Sense Fields ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "The Analysis of the Six Sense Fields ",
           "volpage": null
         },
         {
@@ -242,7 +242,7 @@
       ],
       "type": "leaf",
       "uid": "mn137",
-      "volpages": "PTS MN iii 215"
+      "volpages": " PTS 3.216, PTS 3.217, PTS 3.218, PTS 3.219, PTS 3.220, PTS 3.221, PTS 3.222"
     }
   ]
 }

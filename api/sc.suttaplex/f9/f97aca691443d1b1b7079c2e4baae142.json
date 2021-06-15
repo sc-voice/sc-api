@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 1.66",
-      "alt_volpages": "PTS (2nd ed) SN i 89",
+      "alt_volpages": " PTS (2nd ed) 1.90",
       "biblio": null,
       "blurb": "The world is afflicted with death and old age, and burning with desire.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Afflicted",
+      "translated_title": "Beaten Down",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Beaten Down",
           "volpage": null
         },
         {
@@ -162,7 +162,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Abatido",
           "volpage": null
         },
         {

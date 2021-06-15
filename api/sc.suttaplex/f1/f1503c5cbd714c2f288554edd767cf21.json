@@ -15,7 +15,7 @@
       "parallel_count": 21,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "At the Cāpāla Shrine",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "At the Cāpāla Shrine",
           "volpage": null
         },
         {
@@ -190,7 +190,7 @@
       ],
       "type": "leaf",
       "uid": "sn51.10",
-      "volpages": "PTS SN v 258"
+      "volpages": " PTS 5.259, PTS 5.260, PTS 5.261, PTS 5.262, PTS 5.263"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 6,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Mental Absorption",
+      "translated_title": "Depending on Absorption",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -64,7 +64,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Depending on Absorption",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "an9.36",
-      "volpages": "PTS AN iv 422"
+      "volpages": " PTS 4.423, PTS 4.424, PTS 4.425, PTS 4.426"
     }
   ]
 }

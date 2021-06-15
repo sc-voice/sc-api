@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "SN 2.3",
-      "alt_volpages": "PTS (2nd ed) SN i 105",
+      "alt_volpages": " PTS (2nd ed) 1.106",
       "biblio": null,
       "blurb": "The god Māgha asks the Buddha about what one should slay in order to sleep well and be without sorrow.",
       "difficulty": null,
@@ -15,7 +15,7 @@
       "parallel_count": 27,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Māgha",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Māgha",
           "volpage": null
         },
         {
@@ -149,7 +149,7 @@
           "lang_name": "Português",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "Com Magha",
           "volpage": null
         },
         {
@@ -215,7 +215,7 @@
       ],
       "type": "leaf",
       "uid": "sn2.3",
-      "volpages": "PTS (1st ed) SN i 47"
+      "volpages": " PTS (1st ed) 1.47"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Thorough Investigation",
+      "translated_title": "A Full Inquiry",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -76,7 +76,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "A Full Inquiry",
           "volpage": null
         },
         {
@@ -227,7 +227,7 @@
       ],
       "type": "leaf",
       "uid": "sn12.51",
-      "volpages": "PTS SN ii 80"
+      "volpages": " PTS 2.81, PTS 2.82, PTS 2.83, PTS 2.84"
     }
   ]
 }

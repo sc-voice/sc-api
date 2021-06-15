@@ -18,7 +18,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": null,
+      "translated_title": "With Bakkula ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -67,7 +67,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Bakkula ",
           "volpage": null
         },
         {
@@ -229,7 +229,7 @@
       ],
       "type": "leaf",
       "uid": "mn124",
-      "volpages": "PTS MN iii 124"
+      "volpages": " PTS 3.125, PTS 3.126, PTS 3.127, PTS 3.128"
     }
   ]
 }

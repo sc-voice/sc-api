@@ -18,7 +18,7 @@
       "parallel_count": 4,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "To Vacchagotta on Fire",
+      "translated_title": "With Vacchagotta on Fire ",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -79,7 +79,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": null,
+          "title": "With Vacchagotta on Fire ",
           "volpage": null
         },
         {
@@ -303,7 +303,7 @@
       ],
       "type": "leaf",
       "uid": "mn72",
-      "volpages": "PTS MN i 483"
+      "volpages": " PTS 1.484, PTS 1.485, PTS 1.486, PTS 1.487, PTS 1.488, PTS 1.489"
     }
   ]
 }
