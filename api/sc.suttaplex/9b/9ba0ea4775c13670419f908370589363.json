@@ -43,6 +43,19 @@
           "volpage": null
         },
         {
+          "author": "Anagarika Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "id": "an7.96-614_translation-de-sabbamitta",
+          "is_root": false,
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "publication_date": null,
+          "segmented": true,
+          "title": "96–614 ",
+          "volpage": null
+        },
+        {
           "author": "Nyānatiloka Thera",
           "author_short": "Nyanatiloka",
           "author_uid": "nyanatiloka",
@@ -166,7 +179,7 @@
       ],
       "type": "leaf",
       "uid": "an7.96-614",
-      "volpages": null
+      "volpages": " PTS 4.147"
     }
   ]
 }

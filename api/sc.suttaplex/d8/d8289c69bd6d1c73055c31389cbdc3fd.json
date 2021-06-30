@@ -43,6 +43,19 @@
           "volpage": null
         },
         {
+          "author": "Anagarika Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "id": "sn15.1_translation-de-sabbamitta",
+          "is_root": false,
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Gras und Stängel ",
+          "volpage": null
+        },
+        {
           "author": "Wilhelm Geiger",
           "author_short": "Geiger",
           "author_uid": "geiger",
