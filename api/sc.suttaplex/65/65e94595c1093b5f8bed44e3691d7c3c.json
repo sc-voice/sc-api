@@ -70,7 +70,7 @@
           "volpage": null
         },
         {
-          "author": "Anagarika Sabbamitta",
+          "author": "Sabbamitta Silashin",
           "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "mn2_translation-de-sabbamitta",
@@ -300,6 +300,19 @@
           "lang_name": "Norsk",
           "publication_date": "2013",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "author": "Piotr Jagodziński",
+          "author_short": "hardao",
+          "author_uid": "hardao",
+          "id": "mn2_translation-pl-hardao",
+          "is_root": false,
+          "lang": "pl",
+          "lang_name": "Polski",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Mowa o wszystkich skażeniach",
           "volpage": null
         },
         {
