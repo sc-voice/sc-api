@@ -255,6 +255,19 @@
         },
         {
           "author": "Piotr Jagodziński",
+          "author_short": "hardao",
+          "author_uid": "hardao",
+          "id": "mn10_translation-pl-hardao",
+          "is_root": false,
+          "lang": "pl",
+          "lang_name": "Polski",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Mowa o ustanowieniach uważności",
+          "volpage": null
+        },
+        {
+          "author": "Piotr Jagodziński",
           "author_short": "Jagodziński",
           "author_uid": "jagodzinski",
           "id": "pl_mn10_jagodzinski",

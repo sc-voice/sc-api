@@ -69,6 +69,19 @@
           "volpage": null
         },
         {
+          "author": "Ayya Soma",
+          "author_short": "soma",
+          "author_uid": "soma",
+          "id": "thig5.12_translation-en-soma",
+          "is_root": false,
+          "lang": "en",
+          "lang_name": "English",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Candā",
+          "volpage": null
+        },
+        {
           "author": "Thanissaro Bhikkhu",
           "author_short": "Thanissaro",
           "author_uid": "thanissaro",

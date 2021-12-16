@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Puṇṇā",
+      "translated_title": "Verses of the Elder Puṇṇā",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -56,6 +56,19 @@
           "volpage": null
         },
         {
+          "author": "Ayya Soma",
+          "author_short": "soma",
+          "author_uid": "soma",
+          "id": "thig1.3_translation-en-soma",
+          "is_root": false,
+          "lang": "en",
+          "lang_name": "English",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Verses of the Elder Puṇṇā",
+          "volpage": null
+        },
+        {
           "author": "Bhikkhu Sujato",
           "author_short": "sujato",
           "author_uid": "sujato",
@@ -65,7 +78,7 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": "Puṇṇā",
+          "title": "Verses of the Elder Puṇṇā",
           "volpage": null
         },
         {
