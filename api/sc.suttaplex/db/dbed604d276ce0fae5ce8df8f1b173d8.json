@@ -58,7 +58,7 @@
           "volpage": null
         },
         {
-          "author": "Sabbamitta Silashin",
+          "author": "Sabbamitta",
           "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "mn7_translation-de-sabbamitta",
@@ -264,6 +264,19 @@
           "lang_name": "Norsk",
           "publication_date": "2013",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "author": "Piotr Jagodziński",
+          "author_short": "hardao",
+          "author_uid": "hardao",
+          "id": "mn7_translation-pl-hardao",
+          "is_root": false,
+          "lang": "pl",
+          "lang_name": "Polski",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Mowa o szacie",
           "volpage": null
         },
         {
