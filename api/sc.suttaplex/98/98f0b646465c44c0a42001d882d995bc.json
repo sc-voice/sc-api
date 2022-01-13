@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Uttamā",
+      "translated_title": "Verses of the Elder Uttamā",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -31,7 +31,7 @@
           "volpage": null
         },
         {
-          "author": "Sabbamitta Silashin",
+          "author": "Sabbamitta",
           "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "thig3.2_translation-de-sabbamitta",
@@ -56,19 +56,6 @@
           "volpage": null
         },
         {
-          "author": "Bhikkhu Sujato",
-          "author_short": "sujato",
-          "author_uid": "sujato",
-          "id": "thig3.2_translation-en-sujato",
-          "is_root": false,
-          "lang": "en",
-          "lang_name": "English",
-          "publication_date": null,
-          "segmented": true,
-          "title": "Uttamā",
-          "volpage": null
-        },
-        {
           "author": "Ayya Soma",
           "author_short": "soma",
           "author_uid": "soma",
@@ -78,7 +65,20 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": "Uttamā",
+          "title": "Verses of the Elder Uttamā",
+          "volpage": null
+        },
+        {
+          "author": "Bhikkhu Sujato",
+          "author_short": "sujato",
+          "author_uid": "sujato",
+          "id": "thig3.2_translation-en-sujato",
+          "is_root": false,
+          "lang": "en",
+          "lang_name": "English",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Verses of the Elder Uttamā",
           "volpage": null
         },
         {

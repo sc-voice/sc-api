@@ -180,19 +180,6 @@
           "volpage": null
         },
         {
-          "author": null,
-          "author_short": null,
-          "author_uid": "my",
-          "id": "dn1_translation-my-my-team",
-          "is_root": false,
-          "lang": "my",
-          "lang_name": "မြန်မာဘာသာ",
-          "publication_date": null,
-          "segmented": true,
-          "title": "၁။ ပရိဗ္ဗာဇကကထာ",
-          "volpage": null
-        },
-        {
           "author": "Pitaka Myanmar Translation",
           "author_short": "PMT",
           "author_uid": "pmt",

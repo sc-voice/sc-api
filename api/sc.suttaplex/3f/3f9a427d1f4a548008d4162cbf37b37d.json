@@ -55,6 +55,19 @@
           "volpage": null
         },
         {
+          "author": "Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "id": "sn12.35_translation-de-sabbamitta",
+          "is_root": false,
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Unwissenheit ist eine Bedingung ",
+          "volpage": null
+        },
+        {
           "author": "Wilhelm Geiger",
           "author_short": "Geiger",
           "author_uid": "geiger",

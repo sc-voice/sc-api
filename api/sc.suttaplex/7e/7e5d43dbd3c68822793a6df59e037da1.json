@@ -15,7 +15,7 @@
       "parallel_count": 0,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Verses of the Elder Muttā",
+      "translated_title": "Muttā (2nd)",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -31,7 +31,7 @@
           "volpage": null
         },
         {
-          "author": "Sabbamitta Silashin",
+          "author": "Sabbamitta",
           "author_short": "sabbamitta",
           "author_uid": "sabbamitta",
           "id": "thig1.11_translation-de-sabbamitta",
@@ -56,19 +56,6 @@
           "volpage": null
         },
         {
-          "author": "Ayya Soma",
-          "author_short": "soma",
-          "author_uid": "soma",
-          "id": "thig1.11_translation-en-soma",
-          "is_root": false,
-          "lang": "en",
-          "lang_name": "English",
-          "publication_date": null,
-          "segmented": true,
-          "title": "Verses of the Elder Muttā",
-          "volpage": null
-        },
-        {
           "author": "Bhikkhu Sujato",
           "author_short": "sujato",
           "author_uid": "sujato",
@@ -78,7 +65,20 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": "Verses of the Elder Muttā",
+          "title": "Muttā (2nd)",
+          "volpage": null
+        },
+        {
+          "author": "Ayya Soma",
+          "author_short": "soma",
+          "author_uid": "soma",
+          "id": "thig1.11_translation-en-soma",
+          "is_root": false,
+          "lang": "en",
+          "lang_name": "English",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Muttā (2nd)",
           "volpage": null
         },
         {
