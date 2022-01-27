@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Ambapālī",
+      "translated_title": "Verses of the Elder Ambapālī",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -56,19 +56,6 @@
           "volpage": null
         },
         {
-          "author": "Bhikkhu Sujato",
-          "author_short": "sujato",
-          "author_uid": "sujato",
-          "id": "thig13.1_translation-en-sujato",
-          "is_root": false,
-          "lang": "en",
-          "lang_name": "English",
-          "publication_date": null,
-          "segmented": true,
-          "title": "Ambapālī",
-          "volpage": null
-        },
-        {
           "author": "Ayya Soma",
           "author_short": "soma",
           "author_uid": "soma",
@@ -78,7 +65,20 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": "Ambapālī",
+          "title": "Verses of the Elder Ambapālī",
+          "volpage": null
+        },
+        {
+          "author": "Bhikkhu Sujato",
+          "author_short": "sujato",
+          "author_uid": "sujato",
+          "id": "thig13.1_translation-en-sujato",
+          "is_root": false,
+          "lang": "en",
+          "lang_name": "English",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Verses of the Elder Ambapālī",
           "volpage": null
         },
         {
