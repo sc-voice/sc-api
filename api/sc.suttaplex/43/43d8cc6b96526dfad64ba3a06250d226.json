@@ -105,6 +105,19 @@
           "volpage": null
         },
         {
+          "author": "Sayalay Piyadassi",
+          "author_short": "piyadassi",
+          "author_uid": "piyadassi",
+          "id": "sn11.5_translation-lt-piyadassi",
+          "is_root": false,
+          "lang": "lt",
+          "lang_name": "Lietuvių Kalba",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Apie pergalę, kurią nulėmė geras pasisakymas",
+          "volpage": null
+        },
+        {
           "author": "Pitaka Myanmar Translation",
           "author_short": "PMT",
           "author_uid": "pmt",

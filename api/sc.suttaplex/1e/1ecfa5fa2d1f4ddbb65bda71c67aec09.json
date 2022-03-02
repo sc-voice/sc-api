@@ -80,6 +80,19 @@
           "volpage": null
         },
         {
+          "author": "Sayalay Piyadassi",
+          "author_short": "piyadassi",
+          "author_uid": "piyadassi",
+          "id": "sn53.1-12_translation-lt-piyadassi",
+          "is_root": false,
+          "lang": "lt",
+          "lang_name": "Lietuvių Kalba",
+          "publication_date": null,
+          "segmented": true,
+          "title": "1-12. Džhana ir t.t.",
+          "volpage": null
+        },
+        {
           "author": "Pitaka Myanmar Translation",
           "author_short": "PMT",
           "author_uid": "pmt",

@@ -15,7 +15,7 @@
       "parallel_count": 1,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Mettikā",
+      "translated_title": "Verses of the Elder Mettikā",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -56,19 +56,6 @@
           "volpage": null
         },
         {
-          "author": "Bhikkhu Sujato",
-          "author_short": "sujato",
-          "author_uid": "sujato",
-          "id": "thig2.6_translation-en-sujato",
-          "is_root": false,
-          "lang": "en",
-          "lang_name": "English",
-          "publication_date": null,
-          "segmented": true,
-          "title": "Mettikā",
-          "volpage": null
-        },
-        {
           "author": "Ayya Soma",
           "author_short": "soma",
           "author_uid": "soma",
@@ -78,7 +65,20 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": "Mettikā",
+          "title": "Verses of the Elder Mettikā",
+          "volpage": null
+        },
+        {
+          "author": "Bhikkhu Sujato",
+          "author_short": "sujato",
+          "author_uid": "sujato",
+          "id": "thig2.6_translation-en-sujato",
+          "is_root": false,
+          "lang": "en",
+          "lang_name": "English",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Verses of the Elder Mettikā",
           "volpage": null
         },
         {

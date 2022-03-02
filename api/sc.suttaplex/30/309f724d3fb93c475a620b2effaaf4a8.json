@@ -15,7 +15,7 @@
       "parallel_count": 2,
       "root_lang": "pli",
       "root_lang_name": "Pāli",
-      "translated_title": "Sīsūpacālā",
+      "translated_title": "Verses of the Elder Sīsūpacālā",
       "translations": [
         {
           "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
@@ -56,19 +56,6 @@
           "volpage": null
         },
         {
-          "author": "Bhikkhu Sujato",
-          "author_short": "sujato",
-          "author_uid": "sujato",
-          "id": "thig8.1_translation-en-sujato",
-          "is_root": false,
-          "lang": "en",
-          "lang_name": "English",
-          "publication_date": null,
-          "segmented": true,
-          "title": "Sīsūpacālā",
-          "volpage": null
-        },
-        {
           "author": "Ayya Soma",
           "author_short": "soma",
           "author_uid": "soma",
@@ -78,7 +65,20 @@
           "lang_name": "English",
           "publication_date": null,
           "segmented": true,
-          "title": "Sīsūpacālā",
+          "title": "Verses of the Elder Sīsūpacālā",
+          "volpage": null
+        },
+        {
+          "author": "Bhikkhu Sujato",
+          "author_short": "sujato",
+          "author_uid": "sujato",
+          "id": "thig8.1_translation-en-sujato",
+          "is_root": false,
+          "lang": "en",
+          "lang_name": "English",
+          "publication_date": null,
+          "segmented": true,
+          "title": "Verses of the Elder Sīsūpacālā",
           "volpage": null
         },
         {
