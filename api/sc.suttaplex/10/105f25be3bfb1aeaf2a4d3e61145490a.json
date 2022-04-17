@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Old Age and Death",
+      "translated_title": "Old Age and Death ",
       "translations": [
         {
           "lang": "pli",
@@ -90,7 +90,7 @@
           "publication_date": null,
           "id": "sn3.3_translation-en-sujato",
           "segmented": true,
-          "title": "Old Age and Death",
+          "title": "Old Age and Death ",
           "volpage": null
         },
         {
@@ -103,6 +103,19 @@
           "publication_date": "2014",
           "id": "es_sn3.3_baron",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Noé Ismet",
+          "author_short": "noeismet",
+          "author_uid": "noeismet",
+          "publication_date": null,
+          "id": "sn3.3_translation-fr-noeismet",
+          "segmented": true,
+          "title": "La Vieillesse et la Mort",
           "volpage": null
         },
         {

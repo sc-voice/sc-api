@@ -10,13 +10,13 @@
       "volpages": " PTS 2.105, PTS 2.106, PTS 2.107",
       "alt_volpages": null,
       "uid": "sn12.65",
-      "blurb": "The Buddha the story of how his awakening came about through investigation into dependent origination. He compares it to man discovering and ancient city, lost and overgrown with weeds.",
+      "blurb": "The Buddha tells the story of how his awakening came about through investigation into dependent origination. He compares it to a man discovering and ancient city, lost and overgrown with weeds.",
       "difficulty": null,
       "original_title": "Nagarasutta",
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "The City",
+      "translated_title": "The City ",
       "translations": [
         {
           "lang": "pli",
@@ -90,7 +90,7 @@
           "publication_date": null,
           "id": "sn12.65_translation-en-sujato",
           "segmented": true,
-          "title": "The City",
+          "title": "The City ",
           "volpage": null
         },
         {

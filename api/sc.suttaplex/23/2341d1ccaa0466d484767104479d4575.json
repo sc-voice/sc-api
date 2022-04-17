@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "A Child’s Flesh",
+      "translated_title": "A Child’s Flesh ",
       "translations": [
         {
           "lang": "pli",
@@ -90,7 +90,7 @@
           "publication_date": null,
           "id": "sn12.63_translation-en-sujato",
           "segmented": true,
-          "title": "A Child’s Flesh",
+          "title": "A Child’s Flesh ",
           "volpage": null
         },
         {
@@ -152,6 +152,19 @@
           "publication_date": null,
           "id": "it_sn12.63_alfano",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "lt",
+          "lang_name": "Lietuvių Kalba",
+          "is_root": false,
+          "author": "Sayalay Piyadassi",
+          "author_short": "piyadassi",
+          "author_uid": "piyadassi",
+          "publication_date": null,
+          "id": "sn12.63_translation-lt-piyadassi",
+          "segmented": true,
+          "title": "Sūnaus mėsa",
           "volpage": null
         },
         {

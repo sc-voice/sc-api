@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Anxiety Because of Grasping",
+      "translated_title": "Anxiety Because of Grasping ",
       "translations": [
         {
           "lang": "pli",
@@ -65,7 +65,7 @@
           "publication_date": null,
           "id": "sn22.7_translation-en-sujato",
           "segmented": true,
-          "title": "Anxiety Because of Grasping",
+          "title": "Anxiety Because of Grasping ",
           "volpage": null
         },
         {
@@ -91,6 +91,19 @@
           "publication_date": "2011",
           "id": "es_sn22.7_baron",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Noé Ismet",
+          "author_short": "noeismet",
+          "author_uid": "noeismet",
+          "publication_date": null,
+          "id": "sn22.7_translation-fr-noeismet",
+          "segmented": true,
+          "title": "L’Anxiété due à la Saisie",
           "volpage": null
         },
         {

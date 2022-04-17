@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Worldly Conditions (2nd)",
+      "translated_title": "Worldly Conditions (2nd) ",
       "translations": [
         {
           "lang": "pli",
@@ -78,7 +78,7 @@
           "publication_date": null,
           "id": "an8.6_translation-en-sujato",
           "segmented": true,
-          "title": "Worldly Conditions (2nd)",
+          "title": "Worldly Conditions (2nd) ",
           "volpage": null
         },
         {
@@ -104,6 +104,19 @@
           "publication_date": "2012",
           "id": "es_an8.6_nandisena",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Noé Ismet",
+          "author_short": "noeismet",
+          "author_uid": "noeismet",
+          "publication_date": null,
+          "id": "an8.6_translation-fr-noeismet",
+          "segmented": true,
+          "title": "Les Conditions Mondaines (2ème)",
           "volpage": null
         },
         {

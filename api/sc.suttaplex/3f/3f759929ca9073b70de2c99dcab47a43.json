@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "With Sanaṅkumāra",
+      "translated_title": "With Sanaṅkumāra ",
       "translations": [
         {
           "lang": "pli",
@@ -59,6 +59,19 @@
           "lang": "de",
           "lang_name": "Deutsch",
           "is_root": false,
+          "author": "Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "publication_date": null,
+          "id": "sn6.11_translation-de-sabbamitta",
+          "segmented": true,
+          "title": "Mit Sanaṅkumāra ",
+          "volpage": null
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
           "author": "Wilhelm Geiger",
           "author_short": "Geiger",
           "author_uid": "geiger",
@@ -77,7 +90,7 @@
           "publication_date": null,
           "id": "sn6.11_translation-en-sujato",
           "segmented": true,
-          "title": "With Sanaṅkumāra",
+          "title": "With Sanaṅkumāra ",
           "volpage": null
         },
         {
