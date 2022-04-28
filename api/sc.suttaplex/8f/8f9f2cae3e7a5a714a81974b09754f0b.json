@@ -119,6 +119,19 @@
           "volpage": null
         },
         {
+          "lang": "lt",
+          "lang_name": "Lietuvių Kalba",
+          "is_root": false,
+          "author": "Sayalay Piyadassi",
+          "author_short": "piyadassi",
+          "author_uid": "piyadassi",
+          "publication_date": null,
+          "id": "an7.74_translation-lt-piyadassi",
+          "segmented": true,
+          "title": "Apie Araką",
+          "volpage": null
+        },
+        {
           "lang": "my",
           "lang_name": "မြန်မာဘာသာ",
           "is_root": false,
@@ -192,7 +205,8 @@
         }
       ],
       "parallel_count": 3,
-      "biblio": null
+      "biblio": null,
+      "priority_author_uid": "sujato"
     }
   ]
 }

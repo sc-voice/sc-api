@@ -280,6 +280,19 @@
           "lang": "sr",
           "lang_name": "Srpski",
           "is_root": false,
+          "author": "Branko Kovačević",
+          "author_short": "brankokovacevic",
+          "author_uid": "brankokovacevic",
+          "publication_date": null,
+          "id": "dn2_translation-sr-brankokovacevic",
+          "segmented": true,
+          "title": "Predlozi savetnika",
+          "volpage": null
+        },
+        {
+          "lang": "sr",
+          "lang_name": "Srpski",
+          "is_root": false,
           "author": "Čedomil Veljačić",
           "author_short": "Veljačić",
           "author_uid": "veljacic",
@@ -326,7 +339,8 @@
         }
       ],
       "parallel_count": 92,
-      "biblio": null
+      "biblio": null,
+      "priority_author_uid": "sujato"
     }
   ]
 }

@@ -191,7 +191,8 @@
         }
       ],
       "parallel_count": 8,
-      "biblio": null
+      "biblio": null,
+      "priority_author_uid": "sujato"
     }
   ]
 }

@@ -169,6 +169,19 @@
           "volpage": null
         },
         {
+          "lang": "lt",
+          "lang_name": "Lietuvių Kalba",
+          "is_root": false,
+          "author": "Sayalay Piyadassi",
+          "author_short": "piyadassi",
+          "author_uid": "piyadassi",
+          "publication_date": null,
+          "id": "mn119_translation-lt-piyadassi",
+          "segmented": true,
+          "title": "Atida kūnui",
+          "volpage": null
+        },
+        {
           "lang": "my",
           "lang_name": "မြန်မာဘာသာ",
           "is_root": false,
@@ -302,7 +315,8 @@
         }
       ],
       "parallel_count": 6,
-      "biblio": null
+      "biblio": null,
+      "priority_author_uid": "sujato"
     }
   ]
 }

@@ -98,6 +98,19 @@
           "title": "The Questions of Sakka"
         },
         {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Noé Ismet",
+          "author_short": "noeismet",
+          "author_uid": "noeismet",
+          "publication_date": null,
+          "id": "dn21_translation-fr-noeismet",
+          "segmented": true,
+          "title": "Les Questions de Sakka",
+          "volpage": null
+        },
+        {
           "lang": "he",
           "lang_name": "Hebrew",
           "is_root": false,
@@ -255,7 +268,8 @@
         }
       ],
       "parallel_count": 11,
-      "biblio": null
+      "biblio": null,
+      "priority_author_uid": "sujato"
     }
   ]
 }
