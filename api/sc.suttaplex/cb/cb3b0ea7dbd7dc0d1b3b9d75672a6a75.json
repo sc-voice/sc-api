@@ -118,6 +118,19 @@
           "volpage": null
         },
         {
+          "lang": "pt",
+          "lang_name": "Português",
+          "is_root": false,
+          "author": null,
+          "author_short": null,
+          "author_uid": "laera",
+          "publication_date": null,
+          "id": "an5.209_translation-pt-laera-quaresma",
+          "segmented": true,
+          "title": "O Som do Canto",
+          "volpage": null
+        },
+        {
           "lang": "ru",
           "lang_name": "ру́сский язы́к",
           "is_root": false,
