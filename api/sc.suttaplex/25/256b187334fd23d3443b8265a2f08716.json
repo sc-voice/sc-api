@@ -84,6 +84,19 @@
           "volpage": null
         },
         {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Noé Ismet",
+          "author_short": "noeismet",
+          "author_uid": "noeismet",
+          "publication_date": null,
+          "id": "mn123_translation-fr-noeismet",
+          "segmented": true,
+          "title": "Incroyable et Stupéfiant",
+          "volpage": null
+        },
+        {
           "lang": "hi",
           "lang_name": "हिन्दी",
           "is_root": false,
