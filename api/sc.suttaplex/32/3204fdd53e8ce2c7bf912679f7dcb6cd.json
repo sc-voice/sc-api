@@ -218,6 +218,19 @@
           "volpage": null
         },
         {
+          "lang": "sr",
+          "lang_name": "Srpski",
+          "is_root": false,
+          "author": "Branislav Kovačević",
+          "author_short": "brankokovacevic",
+          "author_uid": "brankokovacevic",
+          "publication_date": null,
+          "id": "dn6_translation-sr-brankokovacevic",
+          "segmented": true,
+          "title": "Razgovor sa Mahālijem",
+          "volpage": null
+        },
+        {
           "lang": "th",
           "lang_name": "ไทย",
           "is_root": false,
