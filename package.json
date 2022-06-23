@@ -1,6 +1,6 @@
 {
   "name": "suttacentral-api",
-  "version": "2.2.58",
+  "version": "2.2.59",
   "description": "SuttaCentral API cached proxy",
   "main": "index.js",
   "directories": {

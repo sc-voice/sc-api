@@ -94,6 +94,19 @@
           "volpage": null
         },
         {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Noé Ismet",
+          "author_short": "noeismet",
+          "author_uid": "noeismet",
+          "publication_date": null,
+          "id": "sn42.11_translation-fr-noeismet",
+          "segmented": true,
+          "title": "Avec Bhadraka",
+          "volpage": null
+        },
+        {
           "lang": "id",
           "lang_name": "Indonesian",
           "is_root": false,
