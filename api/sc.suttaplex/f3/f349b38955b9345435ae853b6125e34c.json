@@ -6,7 +6,7 @@
   ],
   "value": [
     {
-      "acronym": null,
+      "acronym": "AN 10.238",
       "volpages": " PTS 5.310",
       "alt_volpages": null,
       "uid": "an10.238",
@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "",
+      "translated_title": "Untitled Discourse on Greed (2nd)",
       "translations": [
         {
           "lang": "pli",
@@ -78,7 +78,7 @@
           "publication_date": null,
           "id": "an10.238_translation-en-sujato",
           "segmented": true,
-          "title": "",
+          "title": "Untitled Discourse on Greed (2nd)",
           "volpage": null
         },
         {
