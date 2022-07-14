@@ -10,7 +10,7 @@
       "volpages": " PTS 2.152, PTS 2.153",
       "alt_volpages": null,
       "uid": "sn14.12",
-      "blurb": "Thoughts of sensuality, ill-will, and delusion arise due to a series of causes.",
+      "blurb": "Thoughts of sensuality, ill-will, and cruelty arise due to a series of causes.",
       "difficulty": null,
       "original_title": "Sanidānasutta",
       "root_lang": "pli",
@@ -41,6 +41,19 @@
           "publication_date": "2018",
           "id": "bn_sn14.12_indragupta-bangish-ajit",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "publication_date": null,
+          "id": "sn14.12_translation-de-sabbamitta",
+          "segmented": true,
+          "title": "Aus einer Ursache ",
           "volpage": null
         },
         {

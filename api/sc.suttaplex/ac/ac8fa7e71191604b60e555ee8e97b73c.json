@@ -232,18 +232,6 @@
           "volpage": null
         },
         {
-          "lang": "pl",
-          "lang_name": "Polski",
-          "is_root": false,
-          "author": "Piotr Jagodziński",
-          "author_short": "Jagodziński",
-          "author_uid": "jagodzinski",
-          "publication_date": null,
-          "id": "pl_mn1_jagodzinski",
-          "segmented": false,
-          "volpage": null
-        },
-        {
           "lang": "pt",
           "lang_name": "Português",
           "is_root": false,
