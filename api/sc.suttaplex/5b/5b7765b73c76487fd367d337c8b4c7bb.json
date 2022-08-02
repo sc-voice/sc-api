@@ -194,6 +194,18 @@
           "volpage": null
         },
         {
+          "lang": "ru",
+          "lang_name": "ру́сский язы́к",
+          "is_root": false,
+          "author": "Леонид Шаповалов",
+          "author_short": "Шаповалов",
+          "author_uid": "shapovalov",
+          "publication_date": null,
+          "id": "ru_dn29_shapovalov",
+          "segmented": false,
+          "volpage": null
+        },
+        {
           "lang": "si",
           "lang_name": "සිංහල",
           "is_root": false,

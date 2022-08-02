@@ -10,7 +10,7 @@
       "volpages": " PTS 2.243",
       "alt_volpages": null,
       "uid": "sn17.37",
-      "blurb": null,
+      "blurb": "Even someone who would not lie for the sake of their mother would so so when corrupted by material possessions. ",
       "difficulty": null,
       "original_title": "Mātusutta",
       "root_lang": "pli",
@@ -41,6 +41,19 @@
           "publication_date": "2018",
           "id": "bn_sn17.37_indragupta-bangish-ajit",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "publication_date": null,
+          "id": "sn17.37_translation-de-sabbamitta",
+          "segmented": true,
+          "title": "Mutter ",
           "volpage": null
         },
         {

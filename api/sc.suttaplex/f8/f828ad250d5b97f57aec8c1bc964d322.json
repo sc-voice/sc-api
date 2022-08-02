@@ -192,18 +192,6 @@
           "volpage": null
         },
         {
-          "lang": "ro",
-          "lang_name": "Română",
-          "is_root": false,
-          "author": "Dhammadha.ro community",
-          "author_short": "Dhammadha",
-          "author_uid": "dhammadharo",
-          "publication_date": "2019",
-          "id": "ro_sn1.8_dhammadharo",
-          "segmented": false,
-          "volpage": null
-        },
-        {
           "lang": "ru",
           "lang_name": "ру́сский язы́к",
           "is_root": false,
