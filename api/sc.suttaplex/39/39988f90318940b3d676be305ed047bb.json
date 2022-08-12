@@ -160,6 +160,19 @@
           "lang": "my",
           "lang_name": "မြန်မာဘာသာ",
           "is_root": false,
+          "author": null,
+          "author_short": null,
+          "author_uid": "my",
+          "publication_date": null,
+          "id": "dn5_translation-my-my-team",
+          "segmented": true,
+          "title": "ကူဋဒန္တသုတ် ",
+          "volpage": null
+        },
+        {
+          "lang": "my",
+          "lang_name": "မြန်မာဘာသာ",
+          "is_root": false,
           "author": "Pitaka Myanmar Translation",
           "author_short": "PMT",
           "author_uid": "pmt",
@@ -226,7 +239,7 @@
           "publication_date": null,
           "id": "dn5_translation-sr-brankokovacevic",
           "segmented": true,
-          "title": "Kūṭadanta",
+          "title": "Kūṭadanta ",
           "volpage": null
         },
         {

@@ -160,6 +160,19 @@
           "lang": "my",
           "lang_name": "မြန်မာဘာသာ",
           "is_root": false,
+          "author": null,
+          "author_short": null,
+          "author_uid": "my",
+          "publication_date": null,
+          "id": "dn3_translation-my-my-team",
+          "segmented": true,
+          "title": "အမ္ဗဋ္ဌသုတ် ",
+          "volpage": null
+        },
+        {
+          "lang": "my",
+          "lang_name": "မြန်မာဘာသာ",
+          "is_root": false,
           "author": "Pitaka Myanmar Translation",
           "author_short": "PMT",
           "author_uid": "pmt",
@@ -196,6 +209,19 @@
           "lang": "ru",
           "lang_name": "ру́сский язы́к",
           "is_root": false,
+          "author": null,
+          "author_short": null,
+          "author_uid": "team",
+          "publication_date": null,
+          "id": "dn3_translation-ru-team",
+          "segmented": true,
+          "title": null,
+          "volpage": null
+        },
+        {
+          "lang": "ru",
+          "lang_name": "ру́сский язы́к",
+          "is_root": false,
           "author": "А. Я. Сыркина",
           "author_short": "Сыркина",
           "author_uid": "syrkina",
@@ -226,7 +252,7 @@
           "publication_date": null,
           "id": "dn3_translation-sr-brankokovacevic",
           "segmented": true,
-          "title": "Razgovor sa Ambaṭṭhom",
+          "title": "Razgovor sa Ambaṭṭhom ",
           "volpage": null
         },
         {

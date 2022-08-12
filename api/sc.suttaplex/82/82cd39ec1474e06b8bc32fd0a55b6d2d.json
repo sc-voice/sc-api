@@ -82,6 +82,19 @@
           "volpage": null
         },
         {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Bhikkhu Sekha",
+          "author_short": "sekha",
+          "author_uid": "sekha",
+          "publication_date": null,
+          "id": "an11.8_translation-fr-sekha",
+          "segmented": true,
+          "title": "L’attention ",
+          "volpage": null
+        },
+        {
           "lang": "id",
           "lang_name": "Indonesian",
           "is_root": false,
