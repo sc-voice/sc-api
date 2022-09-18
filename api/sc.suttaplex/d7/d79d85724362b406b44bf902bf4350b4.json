@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Chapter Six",
+      "translated_title": "Chapter Six ",
       "translations": [
         {
           "lang": "pli",
@@ -90,7 +90,7 @@
           "publication_date": null,
           "id": "an1.248-257_translation-en-sujato",
           "segmented": true,
-          "title": "Chapter Six",
+          "title": "Chapter Six ",
           "volpage": null
         },
         {
@@ -115,7 +115,7 @@
           "publication_date": null,
           "id": "an1.248-257_translation-fr-sekha",
           "segmented": true,
-          "title": "248–257 ",
+          "title": "Sixième groupe",
           "volpage": null
         },
         {
@@ -140,6 +140,19 @@
           "publication_date": null,
           "id": "id_an1.248-257_anggara",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Kaz Takehara",
+          "author_short": "kaz",
+          "author_uid": "kaz",
+          "publication_date": null,
+          "id": "an1.248-257_translation-jpn-kaz",
+          "segmented": true,
+          "title": "第十九　一番（第六）（是第一品） ",
           "volpage": null
         },
         {
@@ -176,7 +189,7 @@
           "publication_date": null,
           "id": "an1.248-257_translation-pt-laera-quaresma",
           "segmented": true,
-          "title": "248–257 ",
+          "title": "Sexta Seção",
           "volpage": null
         },
         {

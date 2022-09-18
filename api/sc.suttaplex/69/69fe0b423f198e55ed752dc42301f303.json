@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "What Occupies the Mind",
+      "translated_title": "What Occupies the Mind ",
       "translations": [
         {
           "lang": "pli",
@@ -102,7 +102,7 @@
           "publication_date": null,
           "id": "an1.1-10_translation-en-sujato",
           "segmented": true,
-          "title": "What Occupies the Mind",
+          "title": "What Occupies the Mind ",
           "volpage": null
         },
         {
@@ -118,6 +118,19 @@
           "volpage": null
         },
         {
+          "lang": "fi",
+          "lang_name": "Suomi",
+          "is_root": false,
+          "author": "Ajahn Mudito",
+          "author_short": "mudito",
+          "author_uid": "mudito",
+          "publication_date": null,
+          "id": "an1.1-10_translation-fi-mudito",
+          "segmented": true,
+          "title": "1. Näyt jne. ",
+          "volpage": null
+        },
+        {
           "lang": "fr",
           "lang_name": "Français",
           "is_root": false,
@@ -127,7 +140,7 @@
           "publication_date": null,
           "id": "an1.1-10_translation-fr-sekha",
           "segmented": true,
-          "title": "1–10 ",
+          "title": "1. La forme visible etc. ",
           "volpage": null
         },
         {
@@ -152,6 +165,19 @@
           "publication_date": null,
           "id": "id_an1.1-10_anggara",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Kaz Takehara",
+          "author_short": "kaz",
+          "author_uid": "kaz",
+          "publication_date": null,
+          "id": "an1.1-10_translation-jpn-kaz",
+          "segmented": true,
+          "title": "第一　姿形（すがたかたち）等　（色等品） ",
           "volpage": null
         },
         {

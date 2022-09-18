@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Abbreviated Texts Beginning with Greed",
+      "translated_title": "Abbreviated Texts Beginning with Greed ",
       "translations": [
         {
           "lang": "pli",
@@ -78,7 +78,7 @@
           "publication_date": null,
           "id": "an2.310-479_translation-en-sujato",
           "segmented": true,
-          "title": "Abbreviated Texts Beginning with Greed",
+          "title": "Abbreviated Texts Beginning with Greed ",
           "volpage": null
         },
         {
@@ -103,6 +103,19 @@
           "publication_date": null,
           "id": "id_an2.310-479_anggara",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Kaz Takehara",
+          "author_short": "kaz",
+          "author_uid": "kaz",
+          "publication_date": null,
+          "id": "an2.310-479_translation-jpn-kaz",
+          "segmented": true,
+          "title": null,
           "volpage": null
         },
         {

@@ -140,7 +140,7 @@
           "publication_date": null,
           "id": "an1.31-40_translation-fr-sekha",
           "segmented": true,
-          "title": "31–40 ",
+          "title": "Indompté",
           "volpage": null
         },
         {
@@ -189,6 +189,19 @@
           "publication_date": null,
           "id": "it_an1.31-40_alfano",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Kaz Takehara",
+          "author_short": "kaz",
+          "author_uid": "kaz",
+          "publication_date": null,
+          "id": "an1.31-40_translation-jpn-kaz",
+          "segmented": true,
+          "title": "第四　訓練されていないもの　（無調品） ",
           "volpage": null
         },
         {

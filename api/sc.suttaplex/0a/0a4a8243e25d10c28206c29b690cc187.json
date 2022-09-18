@@ -128,7 +128,7 @@
           "publication_date": null,
           "id": "an1.21-30_translation-fr-sekha",
           "segmented": true,
-          "title": "21–30 ",
+          "title": "Inexploitable",
           "volpage": null
         },
         {
@@ -177,6 +177,19 @@
           "publication_date": null,
           "id": "it_an1.21-30_alfano",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Kaz Takehara",
+          "author_short": "kaz",
+          "author_uid": "kaz",
+          "publication_date": null,
+          "id": "an1.21-30_translation-jpn-kaz",
+          "segmented": true,
+          "title": "第三　役に立たないもの　（無堪忍品） ",
           "volpage": null
         },
         {

@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Chapter Three",
+      "translated_title": "Chapter Three ",
       "translations": [
         {
           "lang": "pli",
@@ -78,7 +78,7 @@
           "publication_date": null,
           "id": "an1.316-332_translation-en-sujato",
           "segmented": true,
-          "title": "Chapter Three",
+          "title": "Chapter Three ",
           "volpage": null
         },
         {
@@ -103,7 +103,7 @@
           "publication_date": null,
           "id": "an1.316-332_translation-fr-sekha",
           "segmented": true,
-          "title": "316–332 ",
+          "title": "Troisième groupe",
           "volpage": null
         },
         {
@@ -128,6 +128,19 @@
           "publication_date": null,
           "id": "id_an1.316-332_anggara",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Kaz Takehara",
+          "author_short": "kaz",
+          "author_uid": "kaz",
+          "publication_date": null,
+          "id": "an1.316-332_translation-jpn-kaz",
+          "segmented": true,
+          "title": "第二十六　一つのもの（第三）（一法品） ",
           "volpage": null
         },
         {

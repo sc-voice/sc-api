@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Giving",
+      "translated_title": "Giving ",
       "translations": [
         {
           "lang": "pli",
@@ -90,7 +90,7 @@
           "publication_date": null,
           "id": "an2.141-150_translation-en-sujato",
           "segmented": true,
-          "title": "Giving",
+          "title": "Giving ",
           "volpage": null
         },
         {
@@ -127,6 +127,19 @@
           "publication_date": null,
           "id": "id_an2.141-150_anggara",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Kaz Takehara",
+          "author_short": "kaz",
+          "author_uid": "kaz",
+          "publication_date": null,
+          "id": "an2.141-150_translation-jpn-kaz",
+          "segmented": true,
+          "title": "第十三　贈る事（施品） ",
           "volpage": null
         },
         {

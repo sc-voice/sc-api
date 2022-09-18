@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Chapter Five",
+      "translated_title": "Chapter Five ",
       "translations": [
         {
           "lang": "pli",
@@ -90,7 +90,7 @@
           "publication_date": null,
           "id": "an1.235-247_translation-en-sujato",
           "segmented": true,
-          "title": "Chapter Five",
+          "title": "Chapter Five ",
           "volpage": null
         },
         {
@@ -115,7 +115,7 @@
           "publication_date": null,
           "id": "an1.235-247_translation-fr-sekha",
           "segmented": true,
-          "title": "235–247 ",
+          "title": "Cinquième groupe",
           "volpage": null
         },
         {
@@ -140,6 +140,19 @@
           "publication_date": null,
           "id": "id_an1.235-247_anggara",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Kaz Takehara",
+          "author_short": "kaz",
+          "author_uid": "kaz",
+          "publication_date": null,
+          "id": "an1.235-247_translation-jpn-kaz",
+          "segmented": true,
+          "title": "第十八　一番（第五）（是第一品） ",
           "volpage": null
         },
         {
@@ -176,7 +189,7 @@
           "publication_date": null,
           "id": "an1.235-247_translation-pt-laera-quaresma",
           "segmented": true,
-          "title": "235–247 ",
+          "title": "Quinta Seção",
           "volpage": null
         },
         {

@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Persons",
+      "translated_title": "Persons ",
       "translations": [
         {
           "lang": "pli",
@@ -90,7 +90,7 @@
           "publication_date": null,
           "id": "an2.52-63_translation-en-sujato",
           "segmented": true,
-          "title": "Persons",
+          "title": "Persons ",
           "volpage": null
         },
         {
@@ -115,6 +115,19 @@
           "publication_date": null,
           "id": "id_an2.52-63_anggara",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Kaz Takehara",
+          "author_short": "kaz",
+          "author_uid": "kaz",
+          "publication_date": null,
+          "id": "an2.52-63_translation-jpn-kaz",
+          "segmented": true,
+          "title": "第六　人々（人品） ",
           "volpage": null
         },
         {

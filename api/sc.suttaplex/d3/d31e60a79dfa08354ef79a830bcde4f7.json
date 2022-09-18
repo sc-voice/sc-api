@@ -115,7 +115,7 @@
           "publication_date": null,
           "id": "an1.11-20_translation-fr-sekha",
           "segmented": true,
-          "title": "11–20 ",
+          "title": "L’éradication des obstacles",
           "volpage": null
         },
         {
@@ -152,6 +152,19 @@
           "publication_date": null,
           "id": "it_an1.11-20_woodward",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Kaz Takehara",
+          "author_short": "kaz",
+          "author_uid": "kaz",
+          "publication_date": null,
+          "id": "an1.11-20_translation-jpn-kaz",
+          "segmented": true,
+          "title": "第二　妨げを捨て去る (断蓋品) ",
           "volpage": null
         },
         {

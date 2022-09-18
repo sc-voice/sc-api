@@ -155,6 +155,19 @@
           "volpage": null
         },
         {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Kaz Takehara",
+          "author_short": "kaz",
+          "author_uid": "kaz",
+          "publication_date": null,
+          "id": "an2.32-41_translation-jpn-kaz",
+          "segmented": true,
+          "title": "第四　安らかな心　（等心品） ",
+          "volpage": null
+        },
+        {
           "lang": "my",
           "lang_name": "မြန်မာဘာသာ",
           "is_root": false,

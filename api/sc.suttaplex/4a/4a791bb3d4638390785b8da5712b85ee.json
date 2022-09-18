@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Chapter Two",
+      "translated_title": "Chapter Two ",
       "translations": [
         {
           "lang": "pli",
@@ -90,7 +90,7 @@
           "publication_date": null,
           "id": "an1.306-315_translation-en-sujato",
           "segmented": true,
-          "title": "Chapter Two",
+          "title": "Chapter Two ",
           "volpage": null
         },
         {
@@ -115,7 +115,7 @@
           "publication_date": null,
           "id": "an1.306-315_translation-fr-sekha",
           "segmented": true,
-          "title": "306–315 ",
+          "title": "Deuxième groupe",
           "volpage": null
         },
         {
@@ -140,6 +140,19 @@
           "publication_date": null,
           "id": "id_an1.306-315_anggara",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Kaz Takehara",
+          "author_short": "kaz",
+          "author_uid": "kaz",
+          "publication_date": null,
+          "id": "an1.306-315_translation-jpn-kaz",
+          "segmented": true,
+          "title": "第二十五　一つのもの（第二）（一法品） ",
           "volpage": null
         },
         {

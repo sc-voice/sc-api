@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Another Chapter on a Finger Snap",
+      "translated_title": "Another Chapter on a Finger Snap ",
       "translations": [
         {
           "lang": "pli",
@@ -78,7 +78,7 @@
           "publication_date": null,
           "id": "an1.394-574_translation-en-sujato",
           "segmented": true,
-          "title": "Another Chapter on a Finger Snap",
+          "title": "Another Chapter on a Finger Snap ",
           "volpage": null
         },
         {
@@ -103,7 +103,7 @@
           "publication_date": null,
           "id": "an1.394-574_translation-fr-sekha",
           "segmented": true,
-          "title": "394–574 ",
+          "title": "Une fraction de seconde",
           "volpage": null
         },
         {
@@ -128,6 +128,19 @@
           "publication_date": null,
           "id": "id_an1.394-574_anggara",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Kaz Takehara",
+          "author_short": "kaz",
+          "author_uid": "kaz",
+          "publication_date": null,
+          "id": "an1.394-574_translation-jpn-kaz",
+          "segmented": true,
+          "title": "第二十九　続 指鳴らし（後弾指品） ",
           "volpage": null
         },
         {

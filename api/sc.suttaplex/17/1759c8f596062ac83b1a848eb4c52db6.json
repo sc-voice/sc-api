@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Assemblies",
+      "translated_title": "Assemblies ",
       "translations": [
         {
           "lang": "pli",
@@ -90,7 +90,7 @@
           "publication_date": null,
           "id": "an2.42-51_translation-en-sujato",
           "segmented": true,
-          "title": "Assemblies",
+          "title": "Assemblies ",
           "volpage": null
         },
         {
@@ -140,6 +140,19 @@
           "publication_date": null,
           "id": "id_an2.42-51_anggara",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Kaz Takehara",
+          "author_short": "kaz",
+          "author_uid": "kaz",
+          "publication_date": null,
+          "id": "an2.42-51_translation-jpn-kaz",
+          "segmented": true,
+          "title": "第五　集まり（衆会品） ",
           "volpage": null
         },
         {

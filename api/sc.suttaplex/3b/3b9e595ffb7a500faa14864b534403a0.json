@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Chapter Seven",
+      "translated_title": "Chapter Seven ",
       "translations": [
         {
           "lang": "pli",
@@ -90,7 +90,7 @@
           "publication_date": null,
           "id": "an1.258-267_translation-en-sujato",
           "segmented": true,
-          "title": "Chapter Seven",
+          "title": "Chapter Seven ",
           "volpage": null
         },
         {
@@ -115,7 +115,7 @@
           "publication_date": null,
           "id": "an1.258-267_translation-fr-sekha",
           "segmented": true,
-          "title": "258–267 ",
+          "title": "Septième groupe",
           "volpage": null
         },
         {
@@ -140,6 +140,19 @@
           "publication_date": null,
           "id": "id_an1.258-267_anggara",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Kaz Takehara",
+          "author_short": "kaz",
+          "author_uid": "kaz",
+          "publication_date": null,
+          "id": "an1.258-267_translation-jpn-kaz",
+          "segmented": true,
+          "title": "第二十　一番（第七）（是第一品） ",
           "volpage": null
         },
         {
@@ -176,7 +189,7 @@
           "publication_date": null,
           "id": "an1.258-267_translation-pt-laera-quaresma",
           "segmented": true,
-          "title": "258–267 ",
+          "title": "Sétima Seção",
           "volpage": null
         },
         {

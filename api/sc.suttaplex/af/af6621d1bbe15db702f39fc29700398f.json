@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Good Friends",
+      "translated_title": "Good Friends ",
       "translations": [
         {
           "lang": "pli",
@@ -102,7 +102,7 @@
           "publication_date": null,
           "id": "an1.71-81_translation-en-sujato",
           "segmented": true,
-          "title": "Good Friends",
+          "title": "Good Friends ",
           "volpage": null
         },
         {
@@ -127,7 +127,7 @@
           "publication_date": null,
           "id": "an1.71-81_translation-fr-sekha",
           "segmented": true,
-          "title": "71–81 ",
+          "title": "Une amitié bénéfique",
           "volpage": null
         },
         {
@@ -152,6 +152,19 @@
           "publication_date": null,
           "id": "id_an1.71-81_anggara",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Kaz Takehara",
+          "author_short": "kaz",
+          "author_uid": "kaz",
+          "publication_date": null,
+          "id": "an1.71-81_translation-jpn-kaz",
+          "segmented": true,
+          "title": "第八　良い友達（善友等品） ",
           "volpage": null
         },
         {

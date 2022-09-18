@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Inspiring Qualities",
+      "translated_title": "Inspiring Qualities ",
       "translations": [
         {
           "lang": "pli",
@@ -78,7 +78,7 @@
           "publication_date": null,
           "id": "an1.378-393_translation-en-sujato",
           "segmented": true,
-          "title": "Inspiring Qualities",
+          "title": "Inspiring Qualities ",
           "volpage": null
         },
         {
@@ -103,7 +103,7 @@
           "publication_date": null,
           "id": "an1.378-393_translation-fr-sekha",
           "segmented": true,
-          "title": "378–393 ",
+          "title": "Les choses qui inspirent la confiance",
           "volpage": null
         },
         {
@@ -128,6 +128,19 @@
           "publication_date": null,
           "id": "id_an1.378-393_anggara",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Kaz Takehara",
+          "author_short": "kaz",
+          "author_uid": "kaz",
+          "publication_date": null,
+          "id": "an1.378-393_translation-jpn-kaz",
+          "segmented": true,
+          "title": "活気づけてくれるもの",
           "volpage": null
         },
         {
@@ -164,7 +177,7 @@
           "publication_date": null,
           "id": "an1.378-393_translation-pt-laera-quaresma",
           "segmented": true,
-          "title": "378–393 ",
+          "title": "Seção sobre o que inspira clara e serena confiança",
           "volpage": null
         },
         {

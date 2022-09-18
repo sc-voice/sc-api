@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Mindfulness of the Body",
+      "translated_title": "Mindfulness of the Body ",
       "translations": [
         {
           "lang": "pli",
@@ -78,7 +78,7 @@
           "publication_date": null,
           "id": "an1.575-615_translation-en-sujato",
           "segmented": true,
-          "title": "Mindfulness of the Body",
+          "title": "Mindfulness of the Body ",
           "volpage": null
         },
         {
@@ -103,7 +103,7 @@
           "publication_date": null,
           "id": "an1.575-615_translation-fr-sekha",
           "segmented": true,
-          "title": "575–615 ",
+          "title": "La présence d’esprit dirigée vers le corps",
           "volpage": null
         },
         {
@@ -128,6 +128,19 @@
           "publication_date": null,
           "id": "id_an1.575-615_anggara",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "Kaz Takehara",
+          "author_short": "kaz",
+          "author_uid": "kaz",
+          "publication_date": null,
+          "id": "an1.575-615_translation-jpn-kaz",
+          "segmented": true,
+          "title": "第三十　体を心に留めている事（念身品） ",
           "volpage": null
         },
         {
