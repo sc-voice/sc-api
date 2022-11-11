@@ -10,7 +10,7 @@
       "volpages": " PTS 4.39",
       "alt_volpages": null,
       "uid": "sn35.65",
-      "blurb": "Venerable Samiddhi asks the Buddha what Māra is. The Buddha says that that Māra is present so long as the senses exist.",
+      "blurb": "Venerable Samiddhi asks the Buddha what Māra is. The Buddha says that Māra is present so long as the senses exist.",
       "difficulty": null,
       "original_title": "Paṭhamasamiddhimārapañhāsutta",
       "root_lang": "pli",
@@ -41,6 +41,19 @@
           "publication_date": "2018",
           "id": "bn_sn35.65_gyanendriya",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "publication_date": null,
+          "id": "sn35.65_translation-de-sabbamitta",
+          "segmented": true,
+          "title": "Samiddhis Fragen über Māra ",
           "volpage": null
         },
         {

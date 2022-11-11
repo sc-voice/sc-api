@@ -10,7 +10,7 @@
       "volpages": " PTS 4.83, PTS 4.84",
       "alt_volpages": null,
       "uid": "sn35.103",
-      "blurb": "The Buddha’s former teacher Uddaka Rāmaputta claimed to be a knowledge master, a universal victor, how had excised the tumor. But a true knowledge master understands the senses, a victor is freed from them, and excising the tumor is being free from attachment to the body.",
+      "blurb": "The Buddha’s former teacher Uddaka Rāmaputta claimed to be a knowledge master, a universal victor, who had excised the tumor. But a true knowledge master understands the senses, a victor is freed from them, and excising the tumor is being free from attachment to the body.",
       "difficulty": null,
       "original_title": "Udakasutta",
       "root_lang": "pli",
@@ -41,6 +41,19 @@
           "publication_date": "2018",
           "id": "bn_sn35.103_gyanendriya",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "publication_date": null,
+          "id": "sn35.103_translation-de-sabbamitta",
+          "segmented": true,
+          "title": "Über Uddaka ",
           "volpage": null
         },
         {

@@ -10,13 +10,13 @@
       "volpages": "PTS SN iv 53",
       "alt_volpages": null,
       "uid": "sn35.84",
-      "blurb": "The Buddha tells Ānanda that in the training of the noble one the “world” consisting of six sense experience is liable fall apart.",
+      "blurb": "The Buddha tells Ānanda that in the training of the noble one the “world” consisting of six sense experience is liable to wear out.",
       "difficulty": null,
       "original_title": "Palokadhammasutta",
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Wearing Out ",
+      "translated_title": "Liable to Wear Out ",
       "translations": [
         {
           "lang": "pli",
@@ -47,6 +47,19 @@
           "lang": "de",
           "lang_name": "Deutsch",
           "is_root": false,
+          "author": "Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "publication_date": null,
+          "id": "sn35.84_translation-de-sabbamitta",
+          "segmented": true,
+          "title": "Was verwelken muss ",
+          "volpage": null
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
           "author": "Dr. Hellmuth Hecker",
           "author_short": "Hecker",
           "author_uid": "hecker",
@@ -65,7 +78,7 @@
           "publication_date": null,
           "id": "sn35.84_translation-en-sujato",
           "segmented": true,
-          "title": "Wearing Out ",
+          "title": "Liable to Wear Out ",
           "volpage": null
         },
         {

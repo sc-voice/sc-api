@@ -19,7 +19,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "The Wheel-Turning Monarch",
+      "translated_title": "The Wheel-Turning Monarch ",
       "translations": [
         {
           "lang": "pli",
@@ -50,6 +50,19 @@
           "lang": "de",
           "lang_name": "Deutsch",
           "is_root": false,
+          "author": "Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "publication_date": null,
+          "id": "dn26_translation-de-sabbamitta",
+          "segmented": true,
+          "title": "Der Rad-drehende Herrscher ",
+          "volpage": null
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
           "author": "Dr. R. Otto Franke",
           "author_short": "Franke",
           "author_uid": "franke",
@@ -68,7 +81,7 @@
           "publication_date": null,
           "id": "dn26_translation-en-sujato",
           "segmented": true,
-          "title": "The Wheel-Turning Monarch",
+          "title": "The Wheel-Turning Monarch ",
           "volpage": null
         },
         {

@@ -53,7 +53,7 @@
           "publication_date": null,
           "id": "sn22.149_translation-de-sabbamitta",
           "segmented": true,
-          "title": "Das Nicht-Selbst beobachten ",
+          "title": "Das, was ohne Selbst ist, beobachten ",
           "volpage": null
         },
         {
@@ -66,6 +66,19 @@
           "publication_date": "1967",
           "id": "de_sn22.149_nyanaponika",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "en",
+          "lang_name": "English",
+          "is_root": false,
+          "author": "Dr Joongpyo Lee",
+          "author_short": "davis",
+          "author_uid": "davis",
+          "publication_date": null,
+          "id": "sn22.149_translation-en-davis",
+          "segmented": true,
+          "title": "Observing Not-Self ",
           "volpage": null
         },
         {

@@ -77,7 +77,7 @@
           "publication_date": null,
           "id": "sn22.59_translation-de-sabbamitta",
           "segmented": true,
-          "title": "Kennzeichen des Nicht-selbst ",
+          "title": "Das Kennzeichen dessen, was ohne Selbst ist ",
           "volpage": null
         },
         {
@@ -90,6 +90,19 @@
           "publication_date": "1967",
           "id": "de_sn22.59_nyanaponika",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "en",
+          "lang_name": "English",
+          "is_root": false,
+          "author": "Dr Joongpyo Lee",
+          "author_short": "davis",
+          "author_uid": "davis",
+          "publication_date": null,
+          "id": "sn22.59_translation-en-davis",
+          "segmented": true,
+          "title": "The Characteristic of Not-Self ",
           "volpage": null
         },
         {
