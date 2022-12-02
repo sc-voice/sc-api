@@ -44,6 +44,19 @@
           "volpage": null
         },
         {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "publication_date": null,
+          "id": "sn50.89-98_translation-de-sabbamitta",
+          "segmented": true,
+          "title": "Noch ein Kapitel über Arten der Suche ",
+          "volpage": null
+        },
+        {
           "lang": "en",
           "lang_name": "English",
           "is_root": false,

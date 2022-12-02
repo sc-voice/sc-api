@@ -50,6 +50,19 @@
           "lang": "de",
           "lang_name": "Deutsch",
           "is_root": false,
+          "author": "Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "publication_date": null,
+          "id": "mn93_translation-de-sabbamitta",
+          "segmented": true,
+          "title": "Mit Assalāyana ",
+          "volpage": null
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
           "author": "Mettiko Bhikkhu",
           "author_short": "Mettiko",
           "author_uid": "mettiko",
@@ -79,7 +92,7 @@
           "is_root": false,
           "lang": "en",
           "lang_name": "English",
-          "publication_date": "2013",
+          "publication_date": "1954–9",
           "segmented": false,
           "volpage": null,
           "title": "Discourse with Assalāyana"
