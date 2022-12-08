@@ -206,6 +206,19 @@
           "volpage": null
         },
         {
+          "lang": "sr",
+          "lang_name": "Srpski",
+          "is_root": false,
+          "author": "Branislav Kovačević",
+          "author_short": "brankokovacevic",
+          "author_uid": "brankokovacevic",
+          "publication_date": null,
+          "id": "dn20_translation-sr-brankokovacevic",
+          "segmented": true,
+          "title": "Veliko okupljanje ",
+          "volpage": null
+        },
+        {
           "lang": "th",
           "lang_name": "ไทย",
           "is_root": false,

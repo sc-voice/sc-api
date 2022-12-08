@@ -10,7 +10,7 @@
       "volpages": "PTS SN iii 240",
       "alt_volpages": null,
       "uid": "sn29.1",
-      "blurb": null,
+      "blurb": "Dragons may be born from eggs, the womb, moisture, or spontaneously.",
       "difficulty": null,
       "original_title": "Suddhikasutta",
       "root_lang": "pli",
@@ -41,6 +41,19 @@
           "publication_date": "2018",
           "id": "bn_sn29.1_indragupta-suman-adikalyan-sivak-rahul",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "publication_date": null,
+          "id": "sn29.1_translation-de-sabbamitta",
+          "segmented": true,
+          "title": "Einfache Fassung ",
           "volpage": null
         },
         {
