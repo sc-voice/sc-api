@@ -81,6 +81,18 @@
           "volpage": null
         },
         {
+          "lang": "no",
+          "lang_name": "Norsk",
+          "is_root": false,
+          "author": "Kåre A. Lie, Tone Gleditsch Stabell",
+          "author_short": "Lie …",
+          "author_uid": "lie-stabell",
+          "publication_date": "2006",
+          "id": "no_thag1.96_lie-stabell",
+          "segmented": false,
+          "volpage": null
+        },
+        {
           "lang": "si",
           "lang_name": "සිංහල",
           "is_root": false,
