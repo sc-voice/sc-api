@@ -231,6 +231,19 @@
           "volpage": null
         },
         {
+          "lang": "sr",
+          "lang_name": "Srpski",
+          "is_root": false,
+          "author": "Branislav Kovačević",
+          "author_short": "brankokovacevic",
+          "author_uid": "brankokovacevic",
+          "publication_date": null,
+          "id": "dn21_translation-sr-brankokovacevic",
+          "segmented": true,
+          "title": "Sakkina pitanja ",
+          "volpage": null
+        },
+        {
           "lang": "th",
           "lang_name": "ไทย",
           "is_root": false,
