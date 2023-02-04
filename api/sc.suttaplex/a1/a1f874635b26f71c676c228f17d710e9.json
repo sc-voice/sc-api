@@ -119,6 +119,19 @@
           "volpage": null
         },
         {
+          "lang": "lt",
+          "lang_name": "Lietuvių Kalba",
+          "is_root": false,
+          "author": "Sayalay Piyadassi",
+          "author_short": "piyadassi",
+          "author_uid": "piyadassi",
+          "publication_date": null,
+          "id": "sn35.10_translation-lt-piyadassi",
+          "segmented": true,
+          "title": "Išorinės jutimo sritys nepastovios ir praeity, ir ateity",
+          "volpage": null
+        },
+        {
           "lang": "my",
           "lang_name": "မြန်မာဘာသာ",
           "is_root": false,

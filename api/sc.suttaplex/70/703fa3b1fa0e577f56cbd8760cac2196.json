@@ -119,6 +119,19 @@
           "volpage": null
         },
         {
+          "lang": "lt",
+          "lang_name": "Lietuvių Kalba",
+          "is_root": false,
+          "author": "Sayalay Piyadassi",
+          "author_short": "piyadassi",
+          "author_uid": "piyadassi",
+          "publication_date": null,
+          "id": "sn35.13_translation-lt-piyadassi",
+          "segmented": true,
+          "title": "Pirmoji sutta apie laiką prieš nušvitimą",
+          "volpage": null
+        },
+        {
           "lang": "my",
           "lang_name": "မြန်မာဘာသာ",
           "is_root": false,
