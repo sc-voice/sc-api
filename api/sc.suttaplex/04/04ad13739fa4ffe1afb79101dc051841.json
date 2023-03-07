@@ -10,7 +10,7 @@
       "volpages": " PTS 5.368",
       "alt_volpages": null,
       "uid": "sn55.20",
-      "blurb": "Moggallāna visits the gods of the Thirty-Three and encourages them in the four factors of stream-entry.",
+      "blurb": "The Buddha visits the gods of the Thirty-Three and encourages them in the four factors of stream-entry.",
       "difficulty": null,
       "original_title": "Tatiyadevacārikasutta",
       "root_lang": "pli",
@@ -41,6 +41,19 @@
           "publication_date": "2018",
           "id": "bn_sn55.20_bangish-ajit-pragyadarshi",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "publication_date": null,
+          "id": "sn55.20_translation-de-sabbamitta",
+          "segmented": true,
+          "title": "Ein Besuch bei den Göttern (3) ",
           "volpage": null
         },
         {
