@@ -7,7 +7,7 @@
   "value": [
     {
       "acronym": "AN 7.10",
-      "volpages": " PTS 4.9",
+      "volpages": "PTS AN iv 8",
       "alt_volpages": null,
       "uid": "an7.10",
       "blurb": "The fetters of compliance, repulsion, views, doubt, conceit, envy, and stinginess.",
@@ -32,18 +32,6 @@
           "volpage": null
         },
         {
-          "lang": "bn",
-          "lang_name": "Bengali",
-          "is_root": false,
-          "author": "সুমঙ্গল বড়ুয়া",
-          "author_short": "বড়ুয়া",
-          "author_uid": "sumangal-barua",
-          "publication_date": "2018",
-          "id": "bn_an7.10_sumangal-barua",
-          "segmented": false,
-          "volpage": null
-        },
-        {
           "lang": "de",
           "lang_name": "Deutsch",
           "is_root": false,
@@ -54,18 +42,6 @@
           "id": "an7.10_translation-de-sabbamitta",
           "segmented": true,
           "title": "Geiz ",
-          "volpage": null
-        },
-        {
-          "lang": "de",
-          "lang_name": "Deutsch",
-          "is_root": false,
-          "author": "Nyānatiloka Thera",
-          "author_short": "Nyanatiloka",
-          "author_uid": "nyanatiloka",
-          "publication_date": "1907",
-          "id": "de_an7.10_nyanatiloka",
-          "segmented": false,
           "volpage": null
         },
         {
@@ -80,95 +56,11 @@
           "segmented": true,
           "title": "Stinginess ",
           "volpage": null
-        },
-        {
-          "lang": "id",
-          "lang_name": "Indonesian",
-          "is_root": false,
-          "author": "Indra Anggara",
-          "author_short": "Anggara",
-          "author_uid": "anggara",
-          "publication_date": null,
-          "id": "id_an7.10_anggara",
-          "segmented": false,
-          "volpage": null
-        },
-        {
-          "lang": "my",
-          "lang_name": "မြန်မာဘာသာ",
-          "is_root": false,
-          "author": "Pitaka Myanmar Translation",
-          "author_short": "PMT",
-          "author_uid": "pmt",
-          "publication_date": null,
-          "id": "my_an7.10_pmt",
-          "segmented": false,
-          "volpage": null
-        },
-        {
-          "lang": "ru",
-          "lang_name": "ру́сский язы́к",
-          "is_root": false,
-          "author": "SV",
-          "author_short": "SV",
-          "author_uid": "sv",
-          "publication_date": "2013",
-          "id": "ru_an7.10_sv",
-          "segmented": false,
-          "volpage": null
-        },
-        {
-          "lang": "si",
-          "lang_name": "සිංහල",
-          "is_root": false,
-          "author": "A.P. de Zoysa",
-          "author_short": "Zoysa",
-          "author_uid": "zoysa",
-          "publication_date": null,
-          "id": "si_an7.10_zoysa",
-          "segmented": false,
-          "volpage": null
-        },
-        {
-          "lang": "th",
-          "lang_name": "ไทย",
-          "is_root": false,
-          "author": "Siam Rath",
-          "author_short": "Siam Rath",
-          "author_uid": "siam_rath",
-          "publication_date": null,
-          "id": "th_an7.10_siam_rath",
-          "segmented": false,
-          "volpage": null
-        },
-        {
-          "lang": "vi",
-          "lang_name": "Tiếng Việt",
-          "is_root": false,
-          "author": "Thích Minh Châu",
-          "author_short": "Minh Châu",
-          "author_uid": "minh_chau",
-          "publication_date": "1980–1981",
-          "id": "vi_an7.10_minh_chau",
-          "segmented": false,
-          "volpage": null
-        },
-        {
-          "lang": "zh",
-          "lang_name": "汉语",
-          "is_root": false,
-          "author": "莊春江",
-          "author_short": "莊春江",
-          "author_uid": "zhuang",
-          "publication_date": null,
-          "id": "zh_an7.10_zhuang",
-          "segmented": false,
-          "volpage": null
         }
       ],
       "parallel_count": 0,
       "biblio": null,
-      "priority_author_uid": "sujato"
+      "priority_author_uid": null
     }
   ]
 }
