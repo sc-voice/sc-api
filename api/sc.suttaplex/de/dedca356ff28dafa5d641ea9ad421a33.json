@@ -10,7 +10,7 @@
       "volpages": " PTS 3.79, PTS 3.80, PTS 3.81, PTS 3.82, PTS 3.83, PTS 3.84, PTS 3.85, PTS 3.86, PTS 3.87, PTS 3.88",
       "alt_volpages": null,
       "uid": "mn118",
-      "blurb": "Surrounded by many well-practiced mendicants, the Buddha teaches mindfulness of breathing in detail, showing how they relate to the four kinds of mindfulness meditation.",
+      "blurb": "Surrounded by many well-practiced mendicants, the Buddha teaches mindfulness of breathing in detail, showing how it relates to the four kinds of mindfulness meditation.",
       "difficulty": {
         "name": "intermediate",
         "level": 2
@@ -68,6 +68,19 @@
           "publication_date": null,
           "id": "cs_mn118_chromovsky",
           "segmented": false,
+          "volpage": null
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "publication_date": null,
+          "id": "mn118_translation-de-sabbamitta",
+          "segmented": true,
+          "title": "Achtsamkeit auf den Atem ",
           "volpage": null
         },
         {
