@@ -231,6 +231,19 @@
           "volpage": null
         },
         {
+          "lang": "lt",
+          "lang_name": "Lietuvių Kalba",
+          "is_root": false,
+          "author": "Sayalay Piyadassi",
+          "author_short": "piyadassi",
+          "author_uid": "piyadassi",
+          "publication_date": null,
+          "id": "mn9_translation-lt-piyadassi",
+          "segmented": true,
+          "title": "Apie teisingą požiūrį ",
+          "volpage": null
+        },
+        {
           "lang": "my",
           "lang_name": "မြန်မာဘာသာ",
           "is_root": false,

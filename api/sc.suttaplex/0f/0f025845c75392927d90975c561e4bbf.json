@@ -107,6 +107,19 @@
           "volpage": null
         },
         {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Noé Ismet",
+          "author_short": "noeismet",
+          "author_uid": "noeismet",
+          "publication_date": null,
+          "id": "sn35.230_translation-fr-noeismet",
+          "segmented": true,
+          "title": "L’Allégorie du Pêcheur ",
+          "volpage": null
+        },
+        {
           "lang": "id",
           "lang_name": "Indonesian",
           "is_root": false,
