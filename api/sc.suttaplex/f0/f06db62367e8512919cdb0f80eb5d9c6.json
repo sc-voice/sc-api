@@ -157,6 +157,18 @@
           "volpage": null
         },
         {
+          "lang": "nl",
+          "lang_name": "Nederlands",
+          "is_root": false,
+          "author": "Bhikkhu Kuala Lumpur Dhammajoti",
+          "author_short": "Dhammajoti",
+          "author_uid": "dhammajoti",
+          "publication_date": "2008",
+          "id": "nl_mn78_dhammajoti",
+          "segmented": false,
+          "volpage": null
+        },
+        {
           "lang": "no",
           "lang_name": "Norsk",
           "is_root": false,
