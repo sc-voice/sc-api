@@ -32,7 +32,8 @@
           "id": "mn137_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn137_chowdhury",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -56,7 +58,8 @@
           "publication_date": "2001",
           "id": "de_mn137_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -69,12 +72,14 @@
           "id": "mn137_translation-en-sujato",
           "segmented": true,
           "title": "The Analysis of the Six Sense Fields ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Suddhāso Bhikkhu",
           "author_short": "Suddhāso",
           "author_uid": "suddhaso",
+          "has_comment": false,
           "id": "en_mn137_suddhaso",
           "is_root": false,
           "lang": "en",
@@ -94,7 +99,8 @@
           "publication_date": null,
           "id": "es_mn137_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -106,7 +112,8 @@
           "publication_date": null,
           "id": "hi_mn137_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -118,7 +125,8 @@
           "publication_date": "2009",
           "id": "hu_mn137_fenyvesi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -130,7 +138,8 @@
           "publication_date": null,
           "id": "id_mn137_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -142,7 +151,8 @@
           "publication_date": "2007",
           "id": "it_mn137_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -154,7 +164,8 @@
           "publication_date": null,
           "id": "my_mn137_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -166,7 +177,8 @@
           "publication_date": "2013",
           "id": "no_mn137_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -178,7 +190,8 @@
           "publication_date": "2013",
           "id": "pt_mn137_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -190,7 +203,8 @@
           "publication_date": "2014",
           "id": "ru_mn137_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -202,7 +216,8 @@
           "publication_date": null,
           "id": "si_mn137_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -214,7 +229,8 @@
           "publication_date": null,
           "id": "th_mn137_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -226,7 +242,8 @@
           "publication_date": null,
           "id": "vi_mn137_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -238,7 +255,8 @@
           "publication_date": null,
           "id": "zh_mn137_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 12,

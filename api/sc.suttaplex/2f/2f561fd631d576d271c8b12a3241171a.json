@@ -32,7 +32,8 @@
           "id": "mn6_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn6_barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "cs_mn6_gavesako-chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -68,7 +71,8 @@
           "publication_date": "2001",
           "id": "de_mn6_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -81,12 +85,14 @@
           "id": "mn6_translation-en-sujato",
           "segmented": true,
           "title": "One Might Wish ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_mn6_bodhi",
           "is_root": false,
           "lang": "en",
@@ -100,6 +106,7 @@
           "author": "Suddhāso Bhikkhu",
           "author_short": "Suddhāso",
           "author_uid": "suddhaso",
+          "has_comment": false,
           "id": "en_mn6_suddhaso",
           "is_root": false,
           "lang": "en",
@@ -113,6 +120,7 @@
           "author": "I.B. Horner",
           "author_short": "Horner",
           "author_uid": "horner",
+          "has_comment": false,
           "id": "en_mn6_horner",
           "is_root": false,
           "lang": "en",
@@ -132,7 +140,8 @@
           "publication_date": "2008",
           "id": "es_mn6_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -144,7 +153,8 @@
           "publication_date": null,
           "id": "fr_mn6_maes",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -156,7 +166,8 @@
           "publication_date": "1933",
           "id": "hi_mn6_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -168,7 +179,8 @@
           "publication_date": "2009",
           "id": "hu_mn6_anatta",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -180,7 +192,8 @@
           "publication_date": null,
           "id": "id_mn6_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -192,7 +205,8 @@
           "publication_date": "2007",
           "id": "it_mn6_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -204,7 +218,8 @@
           "publication_date": null,
           "id": "my_mn6_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -216,7 +231,8 @@
           "publication_date": "2013",
           "id": "no_mn6_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pl",
@@ -229,7 +245,8 @@
           "id": "mn6_translation-pl-hardao",
           "segmented": true,
           "title": "Mowa o oczekiwaniach ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -241,7 +258,8 @@
           "publication_date": "2008",
           "id": "pt_mn6_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -254,7 +272,8 @@
           "id": "mn6_translation-ru-sv",
           "segmented": true,
           "title": "Если монах желает",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -266,7 +285,8 @@
           "publication_date": null,
           "id": "ru_mn6_kupi-ka",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -278,7 +298,8 @@
           "publication_date": "2014",
           "id": "ru_mn6_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -290,7 +311,8 @@
           "publication_date": null,
           "id": "si_mn6_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -302,7 +324,8 @@
           "publication_date": null,
           "id": "sl_mn6_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -314,7 +337,8 @@
           "publication_date": "2014",
           "id": "sr_mn6_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -326,7 +350,8 @@
           "publication_date": null,
           "id": "th_mn6_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -338,7 +363,8 @@
           "publication_date": "1995",
           "id": "vi_mn6_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -350,7 +376,8 @@
           "publication_date": null,
           "id": "zh_mn6_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 6,

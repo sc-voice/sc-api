@@ -32,7 +32,8 @@
           "id": "mn17_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn17_barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "cs_mn17_chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -68,7 +71,8 @@
           "publication_date": "2001",
           "id": "de_mn17_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -81,12 +85,14 @@
           "id": "mn17_translation-en-sujato",
           "segmented": true,
           "title": "Jungle Thickets ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Suddhāso Bhikkhu",
           "author_short": "Suddhāso",
           "author_uid": "suddhaso",
+          "has_comment": false,
           "id": "en_mn17_suddhaso",
           "is_root": false,
           "lang": "en",
@@ -100,6 +106,7 @@
           "author": "I.B. Horner",
           "author_short": "Horner",
           "author_uid": "horner",
+          "has_comment": false,
           "id": "en_mn17_horner",
           "is_root": false,
           "lang": "en",
@@ -119,7 +126,8 @@
           "publication_date": null,
           "id": "es_mn17_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -131,7 +139,8 @@
           "publication_date": null,
           "id": "fr_mn17_maes",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -143,7 +152,8 @@
           "publication_date": null,
           "id": "fr_mn17_buddhavacanaorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -155,7 +165,8 @@
           "publication_date": "1933",
           "id": "hi_mn17_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -167,7 +178,8 @@
           "publication_date": "1989",
           "id": "hu_mn17_vekerdi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -179,7 +191,8 @@
           "publication_date": null,
           "id": "id_mn17_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -191,7 +204,8 @@
           "publication_date": "2007",
           "id": "it_mn17_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -203,7 +217,8 @@
           "publication_date": null,
           "id": "my_mn17_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -215,7 +230,8 @@
           "publication_date": "2013",
           "id": "no_mn17_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -227,7 +243,8 @@
           "publication_date": "2006",
           "id": "pt_mn17_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -240,7 +257,8 @@
           "id": "mn17_translation-ru-sv",
           "segmented": true,
           "title": "Лесная чаща ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -252,7 +270,8 @@
           "publication_date": null,
           "id": "ru_mn17_kupi-ka",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -264,7 +283,8 @@
           "publication_date": "2013",
           "id": "ru_mn17_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -276,7 +296,8 @@
           "publication_date": null,
           "id": "si_mn17_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -288,7 +309,8 @@
           "publication_date": null,
           "id": "sl_mn17_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -300,7 +322,8 @@
           "publication_date": "2014",
           "id": "sr_mn17_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -312,7 +335,8 @@
           "publication_date": null,
           "id": "th_mn17_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -324,7 +348,8 @@
           "publication_date": null,
           "id": "vi_mn17_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -336,7 +361,8 @@
           "publication_date": null,
           "id": "zh_mn17_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 4,

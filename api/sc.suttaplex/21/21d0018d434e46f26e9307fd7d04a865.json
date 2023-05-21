@@ -29,7 +29,8 @@
           "id": "sn56.47_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn56.47_bangish-ajit-pragyadarshi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "sn56.47_translation-de-sabbamitta",
           "segmented": true,
           "title": "Ein Joch mit einer Öffnung (1) ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1993",
           "id": "de_sn56.47_hecker",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,12 +83,14 @@
           "id": "sn56.47_translation-en-sujato",
           "segmented": true,
           "title": "A Yoke With a Hole (1st) ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_sn56.47_bodhi",
           "is_root": false,
           "lang": "en",
@@ -105,7 +111,8 @@
           "id": "sn56.47_translation-fr-sekha",
           "segmented": true,
           "title": "Dans l’encolure du joug ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -117,7 +124,8 @@
           "publication_date": null,
           "id": "fr_sn56.47_buddhavacanaorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -129,7 +137,8 @@
           "publication_date": null,
           "id": "id_sn56.47_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "lt",
@@ -142,7 +151,8 @@
           "id": "sn56.47_translation-lt-piyadassi",
           "segmented": true,
           "title": "Pirmoji sutta apie vienangį jungą",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -154,7 +164,8 @@
           "publication_date": null,
           "id": "my_sn56.47_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -166,7 +177,8 @@
           "publication_date": "2019",
           "id": "no_sn56.47_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -178,7 +190,8 @@
           "publication_date": "2012",
           "id": "ru_sn56.47_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -190,7 +203,8 @@
           "publication_date": null,
           "id": "si_sn56.47_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -202,7 +216,8 @@
           "publication_date": null,
           "id": "th_sn56.47_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -214,7 +229,8 @@
           "publication_date": "1980",
           "id": "vi_sn56.47_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -226,7 +242,8 @@
           "publication_date": null,
           "id": "zh_sn56.47_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 2,

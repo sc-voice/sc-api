@@ -32,7 +32,8 @@
           "id": "dn31_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_dn31_shilabhadra",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "cs_dn31_marx-chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -69,7 +72,8 @@
           "id": "dn31_translation-de-sabbamitta",
           "segmented": true,
           "title": "Rat für Sigālaka ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -82,12 +86,14 @@
           "id": "dn31_translation-en-sujato",
           "segmented": true,
           "title": "Advice to Sigālaka ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": true
         },
         {
           "author": "Kelly, Sawyer, Yareham",
           "author_short": "Kelly …",
           "author_uid": "kelly-sawyer-yareham",
+          "has_comment": false,
           "id": "en_dn31_kelly-sawyer-yareham",
           "is_root": false,
           "lang": "en",
@@ -107,7 +113,8 @@
           "publication_date": "2010–14",
           "id": "es_dn31_nandisena",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "he",
@@ -119,7 +126,8 @@
           "publication_date": "2014",
           "id": "he_dn31_schwartz",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -131,7 +139,8 @@
           "publication_date": "1936",
           "id": "hi_dn31_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -143,7 +152,8 @@
           "publication_date": "2012",
           "id": "hu_dn31_sandor",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -155,7 +165,8 @@
           "publication_date": null,
           "id": "id_dn31_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -167,7 +178,8 @@
           "publication_date": null,
           "id": "it_dn31_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "kan",
@@ -179,7 +191,8 @@
           "publication_date": "2012",
           "id": "kan_dn31_srirangaraj",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "lt",
@@ -192,7 +205,8 @@
           "id": "dn31_translation-lt-piyadassi",
           "segmented": true,
           "title": "Apie Singalą ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -204,7 +218,8 @@
           "publication_date": null,
           "id": "my_dn31_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "nl",
@@ -216,7 +231,8 @@
           "publication_date": null,
           "id": "nl_dn31_loosbroek",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -228,7 +244,8 @@
           "publication_date": "2013",
           "id": "no_dn31_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pl",
@@ -241,7 +258,8 @@
           "id": "dn31_translation-pl-hardao",
           "segmented": true,
           "title": "Mowa do Siṅgāli ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -253,7 +271,8 @@
           "publication_date": "2008",
           "id": "pt_dn31_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ro",
@@ -265,7 +284,8 @@
           "publication_date": null,
           "id": "ro_dn31_busoi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -277,7 +297,8 @@
           "publication_date": null,
           "id": "ru_dn31_ivakhnenko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -289,7 +310,8 @@
           "publication_date": null,
           "id": "si_dn31_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -301,7 +323,8 @@
           "publication_date": null,
           "id": "sr_dn31_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sv",
@@ -313,7 +336,8 @@
           "publication_date": null,
           "id": "sv_dn31_jonhagen",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -325,7 +349,8 @@
           "publication_date": null,
           "id": "th_dn31_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -337,7 +362,8 @@
           "publication_date": null,
           "id": "vi_dn31_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -349,7 +375,8 @@
           "publication_date": null,
           "id": "zh_dn31_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 17,

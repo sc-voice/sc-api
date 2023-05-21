@@ -29,7 +29,8 @@
           "id": "sn40.10_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn40.10_gyanendriya",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "sn40.10_translation-de-sabbamitta",
           "segmented": true,
           "title": "Mit Sakka ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1993",
           "id": "de_sn40.10_hecker",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,7 +83,8 @@
           "id": "sn40.10_translation-en-sujato",
           "segmented": true,
           "title": "With Sakka ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -91,7 +96,8 @@
           "publication_date": null,
           "id": "id_sn40.10_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -103,7 +109,8 @@
           "publication_date": null,
           "id": "my_sn40.10_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -115,7 +122,8 @@
           "publication_date": "2018",
           "id": "no_sn40.10_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -127,7 +135,8 @@
           "publication_date": "2012",
           "id": "ru_sn40.10_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -139,7 +148,8 @@
           "publication_date": null,
           "id": "si_sn40.10_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -151,7 +161,8 @@
           "publication_date": "1980",
           "id": "vi_sn40.10_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -163,7 +174,8 @@
           "publication_date": null,
           "id": "zh_sn40.10_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 5,

@@ -32,7 +32,8 @@
           "id": "dn15_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_dn15_shilabhadra",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "cs_dn15_chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -69,7 +72,8 @@
           "id": "dn15_translation-de-sabbamitta",
           "segmented": true,
           "title": "Die große Lehrrede über das Kausalprinzip ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -82,12 +86,14 @@
           "id": "dn15_translation-en-sujato",
           "segmented": true,
           "title": "The Great Discourse on Causation ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_dn15_bodhi",
           "is_root": false,
           "lang": "en",
@@ -107,7 +113,8 @@
           "publication_date": null,
           "id": "es_dn15_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -120,7 +127,8 @@
           "id": "dn15_translation-fr-noeismet",
           "segmented": true,
           "title": "La Coproduction Conditionnée",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "he",
@@ -132,7 +140,8 @@
           "publication_date": "2014",
           "id": "he_dn15_schwartz",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -144,7 +153,8 @@
           "publication_date": "1936",
           "id": "hi_dn15_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -156,7 +166,8 @@
           "publication_date": "2009",
           "id": "hu_dn15_hadhazi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -168,7 +179,8 @@
           "publication_date": null,
           "id": "id_dn15_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -180,7 +192,8 @@
           "publication_date": null,
           "id": "it_dn15_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "kan",
@@ -192,7 +205,8 @@
           "publication_date": "2012",
           "id": "kan_dn15_srirangaraj",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -204,7 +218,8 @@
           "publication_date": null,
           "id": "my_dn15_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -216,7 +231,8 @@
           "publication_date": "2013",
           "id": "no_dn15_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -228,7 +244,8 @@
           "publication_date": "2008",
           "id": "pt_dn15_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ro",
@@ -240,7 +257,8 @@
           "publication_date": null,
           "id": "ro_dn15_busoi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -252,7 +270,8 @@
           "publication_date": "2016",
           "id": "ru_dn15_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -264,7 +283,8 @@
           "publication_date": null,
           "id": "si_dn15_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -277,7 +297,8 @@
           "id": "dn15_translation-sr-brankokovacevic",
           "segmented": true,
           "title": "Govor o uzročnosti ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -289,7 +310,8 @@
           "publication_date": null,
           "id": "th_dn15_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -301,7 +323,8 @@
           "publication_date": null,
           "id": "vi_dn15_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -313,7 +336,8 @@
           "publication_date": null,
           "id": "zh_dn15_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 17,

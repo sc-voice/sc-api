@@ -29,7 +29,8 @@
           "id": "sn46.70_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn46.70_bangish-ajit-pragyadarshi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "sn46.70_translation-de-sabbamitta",
           "segmented": true,
           "title": "Entfremdung ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1993",
           "id": "de_sn46.70_hecker",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,12 +83,14 @@
           "id": "sn46.70_translation-en-sujato",
           "segmented": true,
           "title": "Dissatisfaction ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Frank Lee Woodward",
           "author_short": "Woodward",
           "author_uid": "woodward",
+          "has_comment": false,
           "id": "en_sn46.70_woodward",
           "is_root": false,
           "lang": "en",
@@ -104,7 +110,8 @@
           "publication_date": "2014",
           "id": "es_sn46.70_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -116,7 +123,8 @@
           "publication_date": null,
           "id": "id_sn46.70_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "lt",
@@ -129,7 +137,8 @@
           "id": "sn46.70_translation-lt-piyadassi",
           "segmented": true,
           "title": "Sutta apie nesimėgavimą",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -141,7 +150,8 @@
           "publication_date": null,
           "id": "my_sn46.70_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -153,7 +163,8 @@
           "publication_date": "2018",
           "id": "no_sn46.70_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -165,7 +176,8 @@
           "publication_date": "2012",
           "id": "ru_sn46.70_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -177,7 +189,8 @@
           "publication_date": null,
           "id": "si_sn46.70_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -189,7 +202,8 @@
           "publication_date": "1980",
           "id": "vi_sn46.70_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -201,7 +215,8 @@
           "publication_date": null,
           "id": "zh_sn46.70_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 1,

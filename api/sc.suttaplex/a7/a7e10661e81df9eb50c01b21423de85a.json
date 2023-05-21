@@ -29,7 +29,8 @@
           "id": "an2.280-309_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_an2.280-309_sumangal-barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "an2.280-309_translation-de-sabbamitta",
           "segmented": true,
           "title": "Abgekürzte Texte über das Ordensrecht ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1907",
           "id": "de_an2.280-309_nyanatiloka",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,7 +83,8 @@
           "id": "an2.280-309_translation-en-sujato",
           "segmented": true,
           "title": "Abbreviated Texts on Monastic Law ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "es",
@@ -91,7 +96,8 @@
           "publication_date": "2012",
           "id": "es_an2.280-309_isidatta",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -103,7 +109,8 @@
           "publication_date": null,
           "id": "fr_an2.280-309_buddhavacanaorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -115,7 +122,8 @@
           "publication_date": null,
           "id": "id_an2.280-309_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "jpn",
@@ -128,7 +136,8 @@
           "id": "an2.280-309_translation-jpn-kaz",
           "segmented": true,
           "title": "第十八　戒律についての要約文（律品） ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -140,7 +149,8 @@
           "publication_date": null,
           "id": "my_an2.280-309_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -152,7 +162,8 @@
           "publication_date": "2020",
           "id": "no_an2.280-309_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -165,7 +176,8 @@
           "id": "an2.280-309_translation-pt-laera-quaresma",
           "segmented": true,
           "title": "Textos breves começando pelo treinamento",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -177,7 +189,8 @@
           "publication_date": "2013",
           "id": "ru_an2.280-309_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -189,7 +202,8 @@
           "publication_date": null,
           "id": "si_an2.280-309_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -201,7 +215,8 @@
           "publication_date": null,
           "id": "th_an2.280-309_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -213,7 +228,8 @@
           "publication_date": "1980–1981",
           "id": "vi_an2.280-309_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 1,

@@ -32,7 +32,8 @@
           "id": "mn46_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn46_barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "cs_mn46_chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -68,7 +71,8 @@
           "publication_date": "2001",
           "id": "de_mn46_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -81,12 +85,14 @@
           "id": "mn46_translation-en-sujato",
           "segmented": true,
           "title": "The Great Discourse on Taking Up Practices ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_mn46_bodhi",
           "is_root": false,
           "lang": "en",
@@ -100,6 +106,7 @@
           "author": "Suddhāso Bhikkhu",
           "author_short": "Suddhāso",
           "author_uid": "suddhaso",
+          "has_comment": false,
           "id": "en_mn46_suddhaso",
           "is_root": false,
           "lang": "en",
@@ -113,6 +120,7 @@
           "author": "I.B. Horner",
           "author_short": "Horner",
           "author_uid": "horner",
+          "has_comment": false,
           "id": "en_mn46_horner",
           "is_root": false,
           "lang": "en",
@@ -132,7 +140,8 @@
           "publication_date": "1933",
           "id": "hi_mn46_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -144,7 +153,8 @@
           "publication_date": null,
           "id": "id_mn46_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -156,7 +166,8 @@
           "publication_date": "2007",
           "id": "it_mn46_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -168,7 +179,8 @@
           "publication_date": null,
           "id": "my_mn46_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -180,7 +192,8 @@
           "publication_date": "2013",
           "id": "no_mn46_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -192,7 +205,8 @@
           "publication_date": "2006",
           "id": "pt_mn46_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -204,7 +218,8 @@
           "publication_date": "2014",
           "id": "ru_mn46_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -216,7 +231,8 @@
           "publication_date": null,
           "id": "si_mn46_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -228,7 +244,8 @@
           "publication_date": null,
           "id": "sl_mn46_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -240,7 +257,8 @@
           "publication_date": "2014",
           "id": "sr_mn46_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -252,7 +270,8 @@
           "publication_date": null,
           "id": "th_mn46_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -264,7 +283,8 @@
           "publication_date": null,
           "id": "vi_mn46_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -276,7 +296,8 @@
           "publication_date": null,
           "id": "zh_mn46_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 2,

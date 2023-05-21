@@ -32,7 +32,8 @@
           "id": "mn92_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "af",
@@ -44,7 +45,8 @@
           "publication_date": "1999",
           "id": "af_mn92_kruger",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "bn_mn92_mahasthavya",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -68,7 +71,8 @@
           "publication_date": "2001",
           "id": "de_mn92_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -80,7 +84,8 @@
           "publication_date": null,
           "id": "de_mn92_nyanaponika",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -93,12 +98,14 @@
           "id": "mn92_translation-en-sujato",
           "segmented": true,
           "title": "With Sela ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Laurence Khantipalo Mills, Bhikkhu Sujato",
           "author_short": "Mills …",
           "author_uid": "mills-sujato",
+          "has_comment": false,
           "id": "en_mn92_mills-sujato",
           "is_root": false,
           "lang": "en",
@@ -118,7 +125,8 @@
           "publication_date": null,
           "id": "es_mn92_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -130,7 +138,8 @@
           "publication_date": null,
           "id": "hi_mn92_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -142,7 +151,8 @@
           "publication_date": null,
           "id": "id_mn92_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -154,7 +164,8 @@
           "publication_date": "2007",
           "id": "it_mn92_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -166,7 +177,8 @@
           "publication_date": null,
           "id": "my_mn92_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "nl",
@@ -178,7 +190,8 @@
           "publication_date": null,
           "id": "nl_mn92_loosbroek",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -190,7 +203,8 @@
           "publication_date": "2013",
           "id": "no_mn92_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -202,7 +216,8 @@
           "publication_date": "2004",
           "id": "pt_mn92_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -214,7 +229,8 @@
           "publication_date": "2010",
           "id": "ru_mn92_gerasimov",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -226,7 +242,8 @@
           "publication_date": "2015",
           "id": "ru_mn92_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -238,7 +255,8 @@
           "publication_date": null,
           "id": "si_mn92_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -250,7 +268,8 @@
           "publication_date": null,
           "id": "sl_mn92_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -262,7 +281,8 @@
           "publication_date": "2014",
           "id": "sr_mn92_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ta",
@@ -274,7 +294,8 @@
           "publication_date": null,
           "id": "ta_mn92_arasu",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -286,7 +307,8 @@
           "publication_date": null,
           "id": "th_mn92_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -298,7 +320,8 @@
           "publication_date": null,
           "id": "vi_mn92_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -310,7 +333,8 @@
           "publication_date": null,
           "id": "zh_mn92_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 18,

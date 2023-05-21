@@ -32,7 +32,8 @@
           "id": "mn124_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn124_chowdhury",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -56,7 +58,8 @@
           "publication_date": "2001",
           "id": "de_mn124_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -69,7 +72,8 @@
           "id": "mn124_translation-en-sujato",
           "segmented": true,
           "title": "With Bakkula ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "es",
@@ -81,7 +85,8 @@
           "publication_date": null,
           "id": "es_mn124_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -93,7 +98,8 @@
           "publication_date": null,
           "id": "hi_mn124_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -105,7 +111,8 @@
           "publication_date": null,
           "id": "id_mn124_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -117,7 +124,8 @@
           "publication_date": "2007",
           "id": "it_mn124_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -129,7 +137,8 @@
           "publication_date": null,
           "id": "my_mn124_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -141,7 +150,8 @@
           "publication_date": "2013",
           "id": "no_mn124_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -153,7 +163,8 @@
           "publication_date": "2004",
           "id": "pt_mn124_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -165,7 +176,8 @@
           "publication_date": "2015",
           "id": "ru_mn124_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -177,7 +189,8 @@
           "publication_date": null,
           "id": "si_mn124_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -189,7 +202,8 @@
           "publication_date": "2014",
           "id": "sr_mn124_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -201,7 +215,8 @@
           "publication_date": null,
           "id": "th_mn124_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -213,7 +228,8 @@
           "publication_date": null,
           "id": "vi_mn124_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -225,7 +241,8 @@
           "publication_date": null,
           "id": "zh_mn124_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 1,

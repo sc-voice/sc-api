@@ -32,7 +32,8 @@
           "id": "dn14_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_dn14_shilabhadra",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -57,7 +59,8 @@
           "id": "dn14_translation-de-sabbamitta",
           "segmented": true,
           "title": "Die große Lehrrede über die Ernte aus den Taten ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -70,12 +73,14 @@
           "id": "dn14_translation-en-sujato",
           "segmented": true,
           "title": "The Great Discourse on the Harvest of Deeds ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": true
         },
         {
           "author": "T.W. & C.A.F. Rhys Davids",
           "author_short": "Rhys Davids",
           "author_uid": "tw-caf_rhysdavids",
+          "has_comment": false,
           "id": "en_dn14_tw-caf_rhysdavids",
           "is_root": false,
           "lang": "en",
@@ -95,7 +100,8 @@
           "publication_date": "1995",
           "id": "es_dn14_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "he",
@@ -107,7 +113,8 @@
           "publication_date": "2014",
           "id": "he_dn14_schwartz",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -119,7 +126,8 @@
           "publication_date": "1936",
           "id": "hi_dn14_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -131,7 +139,8 @@
           "publication_date": null,
           "id": "id_dn14_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -143,7 +152,8 @@
           "publication_date": null,
           "id": "it_dn14_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "kan",
@@ -155,7 +165,8 @@
           "publication_date": "2012",
           "id": "kan_dn14_srirangaraj",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -167,7 +178,8 @@
           "publication_date": null,
           "id": "my_dn14_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -179,7 +191,8 @@
           "publication_date": "2013",
           "id": "no_dn14_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -191,7 +204,8 @@
           "publication_date": "2013",
           "id": "pt_dn14_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -203,7 +217,8 @@
           "publication_date": "2015",
           "id": "ru_dn14_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -215,7 +230,8 @@
           "publication_date": null,
           "id": "si_dn14_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -228,7 +244,8 @@
           "id": "dn14_translation-sr-brankokovacevic",
           "segmented": true,
           "title": "Govor o velikom podvigu ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -240,7 +257,8 @@
           "publication_date": null,
           "id": "th_dn14_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -252,7 +270,8 @@
           "publication_date": null,
           "id": "vi_dn14_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -264,7 +283,8 @@
           "publication_date": null,
           "id": "zh_dn14_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 99,

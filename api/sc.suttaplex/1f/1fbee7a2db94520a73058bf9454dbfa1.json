@@ -29,7 +29,8 @@
           "id": "sn35.227_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn35.227_gyanendriya",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "sn35.227_translation-de-sabbamitta",
           "segmented": true,
           "title": "Die äußeren Felder als ohne Selbst ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1993",
           "id": "de_sn35.227_hecker",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,7 +83,8 @@
           "id": "sn35.227_translation-en-sujato",
           "segmented": true,
           "title": "The Exterior as Not-Self ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "es",
@@ -91,7 +96,8 @@
           "publication_date": "2010",
           "id": "es_sn35.227_isidatta",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -103,7 +109,8 @@
           "publication_date": null,
           "id": "id_sn35.227_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -115,7 +122,8 @@
           "publication_date": null,
           "id": "my_sn35.227_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -127,7 +135,8 @@
           "publication_date": "2018",
           "id": "no_sn35.227_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -139,7 +148,8 @@
           "publication_date": "2012",
           "id": "ru_sn35.227_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -151,7 +161,8 @@
           "publication_date": null,
           "id": "si_sn35.227_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -163,7 +174,8 @@
           "publication_date": null,
           "id": "th_sn35.227_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -175,7 +187,8 @@
           "publication_date": "1980",
           "id": "vi_sn35.227_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -187,7 +200,8 @@
           "publication_date": null,
           "id": "zh_sn35.227_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 0,

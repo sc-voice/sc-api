@@ -32,7 +32,8 @@
           "id": "mn30_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn30_barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "cs_mn30_chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -68,7 +71,8 @@
           "publication_date": "2001",
           "id": "de_mn30_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -81,12 +85,14 @@
           "id": "mn30_translation-en-sujato",
           "segmented": true,
           "title": "The Shorter Simile of the Heartwood ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "I.B. Horner",
           "author_short": "Horner",
           "author_uid": "horner",
+          "has_comment": false,
           "id": "en_mn30_horner",
           "is_root": false,
           "lang": "en",
@@ -106,7 +112,8 @@
           "publication_date": "2001",
           "id": "es_mn30_angulo",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -118,7 +125,8 @@
           "publication_date": null,
           "id": "fr_mn30_maes",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -130,7 +138,8 @@
           "publication_date": "1933",
           "id": "hi_mn30_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -142,7 +151,8 @@
           "publication_date": null,
           "id": "id_mn30_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -154,7 +164,8 @@
           "publication_date": "2007",
           "id": "it_mn30_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "lt",
@@ -167,7 +178,8 @@
           "id": "mn30_translation-lt-piyadassi",
           "segmented": true,
           "title": "Mažoji sutta su palyginimu su branduoline mediena ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -179,7 +191,8 @@
           "publication_date": null,
           "id": "my_mn30_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -191,7 +204,8 @@
           "publication_date": "2013",
           "id": "no_mn30_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -203,7 +217,8 @@
           "publication_date": "2006",
           "id": "pt_mn30_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -216,7 +231,8 @@
           "id": "mn30_translation-ru-sv",
           "segmented": true,
           "title": "Малое наставление с примером о сердцевине ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -228,7 +244,8 @@
           "publication_date": null,
           "id": "ru_mn30_kupi-ka",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -240,7 +257,8 @@
           "publication_date": "2013",
           "id": "ru_mn30_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -252,7 +270,8 @@
           "publication_date": null,
           "id": "si_mn30_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -264,7 +283,8 @@
           "publication_date": null,
           "id": "sl_mn30_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -276,7 +296,8 @@
           "publication_date": "2014",
           "id": "sr_mn30_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -288,7 +309,8 @@
           "publication_date": null,
           "id": "th_mn30_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -300,7 +322,8 @@
           "publication_date": null,
           "id": "vi_mn30_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -312,7 +335,8 @@
           "publication_date": null,
           "id": "zh_mn30_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 2,

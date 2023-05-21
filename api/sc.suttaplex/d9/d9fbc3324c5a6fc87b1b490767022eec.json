@@ -32,7 +32,8 @@
           "id": "mn38_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn38_barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ca",
@@ -56,7 +58,8 @@
           "publication_date": "2012",
           "id": "ca_mn38_jambudipa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -68,7 +71,8 @@
           "publication_date": null,
           "id": "cs_mn38_chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -80,7 +84,8 @@
           "publication_date": "2001",
           "id": "de_mn38_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -93,12 +98,14 @@
           "id": "mn38_translation-en-sujato",
           "segmented": true,
           "title": "The Longer Discourse on the Ending of Craving ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_mn38_bodhi",
           "is_root": false,
           "lang": "en",
@@ -112,6 +119,7 @@
           "author": "Suddhāso Bhikkhu",
           "author_short": "Suddhāso",
           "author_uid": "suddhaso",
+          "has_comment": false,
           "id": "en_mn38_suddhaso",
           "is_root": false,
           "lang": "en",
@@ -125,6 +133,7 @@
           "author": "I.B. Horner",
           "author_short": "Horner",
           "author_uid": "horner",
+          "has_comment": false,
           "id": "en_mn38_horner",
           "is_root": false,
           "lang": "en",
@@ -144,7 +153,8 @@
           "publication_date": "2004",
           "id": "es_mn38_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -156,7 +166,8 @@
           "publication_date": null,
           "id": "fr_mn38_maes",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -168,7 +179,8 @@
           "publication_date": "1933",
           "id": "hi_mn38_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -180,7 +192,8 @@
           "publication_date": "1989",
           "id": "hu_mn38_vekerdi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -192,7 +205,8 @@
           "publication_date": null,
           "id": "id_mn38_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -204,7 +218,8 @@
           "publication_date": "2007",
           "id": "it_mn38_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ko",
@@ -216,7 +231,8 @@
           "publication_date": "2013",
           "id": "ko_mn38_khemacara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -228,7 +244,8 @@
           "publication_date": null,
           "id": "my_mn38_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -240,7 +257,8 @@
           "publication_date": "2013",
           "id": "no_mn38_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pl",
@@ -252,7 +270,8 @@
           "publication_date": null,
           "id": "pl_mn38_jagodzinski",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -264,7 +283,8 @@
           "publication_date": "2014",
           "id": "pt_mn38_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -276,7 +296,8 @@
           "publication_date": "2015",
           "id": "ru_mn38_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -288,7 +309,8 @@
           "publication_date": null,
           "id": "si_mn38_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -300,7 +322,8 @@
           "publication_date": null,
           "id": "sl_mn38_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -312,7 +335,8 @@
           "publication_date": "2014",
           "id": "sr_mn38_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -324,7 +348,8 @@
           "publication_date": null,
           "id": "th_mn38_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -336,7 +361,8 @@
           "publication_date": null,
           "id": "vi_mn38_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -348,7 +374,8 @@
           "publication_date": null,
           "id": "zh_mn38_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 63,

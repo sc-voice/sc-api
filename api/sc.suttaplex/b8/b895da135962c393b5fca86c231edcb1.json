@@ -29,7 +29,8 @@
           "id": "sn2.9_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn2.9_indragupta-bangish-ajit-sivak",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ca",
@@ -53,7 +55,8 @@
           "publication_date": null,
           "id": "ca_sn2.9_gea",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "id": "sn2.9_translation-de-sabbamitta",
           "segmented": true,
           "title": "Der Mond ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -78,7 +82,8 @@
           "publication_date": "1925",
           "id": "de_sn2.9_geiger",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -91,7 +96,8 @@
           "id": "sn2.9_translation-en-sujato",
           "segmented": true,
           "title": "The Moon ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "es",
@@ -103,7 +109,8 @@
           "publication_date": "2015",
           "id": "es_sn2.9_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -115,7 +122,8 @@
           "publication_date": "2009",
           "id": "hu_sn2.9_z_kovacs",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -127,7 +135,8 @@
           "publication_date": null,
           "id": "id_sn2.9_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -139,7 +148,8 @@
           "publication_date": "1999",
           "id": "it_sn2.9_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -151,7 +161,8 @@
           "publication_date": null,
           "id": "my_sn2.9_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -163,7 +174,8 @@
           "publication_date": "2015",
           "id": "no_sn2.9_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -175,7 +187,8 @@
           "publication_date": "2005",
           "id": "pt_sn2.9_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -187,7 +200,8 @@
           "publication_date": "2013",
           "id": "ru_sn2.9_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -199,7 +213,8 @@
           "publication_date": null,
           "id": "si_sn2.9_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -211,7 +226,8 @@
           "publication_date": null,
           "id": "th_sn2.9_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -223,7 +239,8 @@
           "publication_date": "1980",
           "id": "vi_sn2.9_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -235,7 +252,8 @@
           "publication_date": null,
           "id": "zh_sn2.9_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 5,

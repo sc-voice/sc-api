@@ -32,7 +32,8 @@
           "id": "dn25_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_dn25_shilabhadra",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -57,7 +59,8 @@
           "id": "dn25_translation-de-sabbamitta",
           "segmented": true,
           "title": "Das Löwengebrüll im Kloster der Dame Udumbarikā ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -70,12 +73,14 @@
           "id": "dn25_translation-en-sujato",
           "segmented": true,
           "title": "The Lion’s Roar at Udumbarikā’s Monastery ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": true
         },
         {
           "author": "T.W. & C.A.F. Rhys Davids",
           "author_short": "Rhys Davids",
           "author_uid": "tw-caf_rhysdavids",
+          "has_comment": false,
           "id": "en_dn25_tw-caf_rhysdavids",
           "is_root": false,
           "lang": "en",
@@ -95,7 +100,8 @@
           "publication_date": "2014",
           "id": "he_dn25_schwartz",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -107,7 +113,8 @@
           "publication_date": "1936",
           "id": "hi_dn25_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -119,7 +126,8 @@
           "publication_date": null,
           "id": "id_dn25_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -131,7 +139,8 @@
           "publication_date": null,
           "id": "it_dn25_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "kan",
@@ -143,7 +152,8 @@
           "publication_date": "2012",
           "id": "kan_dn25_srirangaraj",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -155,7 +165,8 @@
           "publication_date": null,
           "id": "my_dn25_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -167,7 +178,8 @@
           "publication_date": "2013",
           "id": "no_dn25_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -179,7 +191,8 @@
           "publication_date": "2006",
           "id": "pt_dn25_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -191,7 +204,8 @@
           "publication_date": null,
           "id": "ru_dn25_shapovalov",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -203,7 +217,8 @@
           "publication_date": null,
           "id": "si_dn25_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -215,7 +230,8 @@
           "publication_date": null,
           "id": "th_dn25_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -227,7 +243,8 @@
           "publication_date": null,
           "id": "vi_dn25_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -239,7 +256,8 @@
           "publication_date": null,
           "id": "zh_dn25_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 10,

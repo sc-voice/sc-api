@@ -29,7 +29,8 @@
           "id": "thag8.1_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -41,7 +42,8 @@
           "publication_date": "2000",
           "id": "de_thag8.1_sass",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -54,7 +56,8 @@
           "id": "thag8.1_translation-en-sujato",
           "segmented": true,
           "title": "Mahākaccāyana ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -66,7 +69,8 @@
           "publication_date": "2011",
           "id": "hu_thag8.1_siebenhofer",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -78,7 +82,8 @@
           "publication_date": null,
           "id": "id_thag8.1_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -90,7 +95,8 @@
           "publication_date": "1995",
           "id": "it_thag8.1_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "jpn",
@@ -102,7 +108,8 @@
           "publication_date": "2009–11",
           "id": "jpn_thag8.1_daikan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -114,7 +121,8 @@
           "publication_date": "2006",
           "id": "no_thag8.1_lie-stabell",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -126,7 +134,8 @@
           "publication_date": null,
           "id": "si_thag8.1_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -138,7 +147,8 @@
           "publication_date": null,
           "id": "si_thag8.1_gnanananda",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -150,7 +160,8 @@
           "publication_date": "2011",
           "id": "vi_thag8.1_indacanda",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 15,

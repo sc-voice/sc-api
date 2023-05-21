@@ -29,7 +29,8 @@
           "id": "thag14.2_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -41,7 +42,8 @@
           "publication_date": "2000",
           "id": "de_thag14.2_sass",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -54,7 +56,8 @@
           "id": "thag14.2_translation-en-sujato",
           "segmented": true,
           "title": "Godatta ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -66,7 +69,8 @@
           "publication_date": null,
           "id": "id_thag14.2_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -78,7 +82,8 @@
           "publication_date": null,
           "id": "it_thag14.2_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "jpn",
@@ -90,7 +95,8 @@
           "publication_date": "2009–11",
           "id": "jpn_thag14.2_daikan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -102,7 +108,8 @@
           "publication_date": "2006",
           "id": "no_thag14.2_lie-stabell",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -114,7 +121,8 @@
           "publication_date": null,
           "id": "si_thag14.2_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -126,7 +134,8 @@
           "publication_date": "2011",
           "id": "vi_thag14.2_indacanda",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 0,

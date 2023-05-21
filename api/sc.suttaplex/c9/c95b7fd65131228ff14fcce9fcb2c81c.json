@@ -32,7 +32,8 @@
           "id": "mn23_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn23_barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "cs_mn23_chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -69,7 +72,8 @@
           "id": "mn23_translation-de-sabbamitta",
           "segmented": true,
           "title": "Der Ameisenhaufen ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -81,7 +85,8 @@
           "publication_date": "2001",
           "id": "de_mn23_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -94,12 +99,14 @@
           "id": "mn23_translation-en-sujato",
           "segmented": true,
           "title": "The Ant-Hill ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "I.B. Horner",
           "author_short": "Horner",
           "author_uid": "horner",
+          "has_comment": false,
           "id": "en_mn23_horner",
           "is_root": false,
           "lang": "en",
@@ -119,7 +126,8 @@
           "publication_date": null,
           "id": "es_mn23_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -131,7 +139,8 @@
           "publication_date": null,
           "id": "fr_mn23_maes",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -143,7 +152,8 @@
           "publication_date": "1933",
           "id": "hi_mn23_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -155,7 +165,8 @@
           "publication_date": null,
           "id": "id_mn23_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -167,7 +178,8 @@
           "publication_date": "2007",
           "id": "it_mn23_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -179,7 +191,8 @@
           "publication_date": null,
           "id": "my_mn23_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -191,7 +204,8 @@
           "publication_date": "2013",
           "id": "no_mn23_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -203,7 +217,8 @@
           "publication_date": "2014",
           "id": "pt_mn23_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -216,7 +231,8 @@
           "id": "mn23_translation-ru-sv",
           "segmented": true,
           "title": "Муравейник ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -228,7 +244,8 @@
           "publication_date": null,
           "id": "ru_mn23_kupi-ka",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -240,7 +257,8 @@
           "publication_date": "2015",
           "id": "ru_mn23_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -252,7 +270,8 @@
           "publication_date": null,
           "id": "si_mn23_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -264,7 +283,8 @@
           "publication_date": null,
           "id": "sl_mn23_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -276,7 +296,8 @@
           "publication_date": "2014",
           "id": "sr_mn23_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sv",
@@ -288,7 +309,8 @@
           "publication_date": null,
           "id": "sv_mn23_jonhagen",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -300,7 +322,8 @@
           "publication_date": null,
           "id": "th_mn23_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -312,7 +335,8 @@
           "publication_date": null,
           "id": "vi_mn23_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -324,7 +348,8 @@
           "publication_date": null,
           "id": "zh_mn23_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 4,

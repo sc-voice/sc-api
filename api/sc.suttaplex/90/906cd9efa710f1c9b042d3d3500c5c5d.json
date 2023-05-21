@@ -32,7 +32,8 @@
           "id": "mn88_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn88_mahasthavya",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -56,7 +58,8 @@
           "publication_date": "2001",
           "id": "de_mn88_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -69,12 +72,14 @@
           "id": "mn88_translation-en-sujato",
           "segmented": true,
           "title": "The Imported Cloth ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Suddhāso Bhikkhu",
           "author_short": "Suddhāso",
           "author_uid": "suddhaso",
+          "has_comment": false,
           "id": "en_mn88_suddhaso",
           "is_root": false,
           "lang": "en",
@@ -88,6 +93,7 @@
           "author": "I.B. Horner",
           "author_short": "Horner",
           "author_uid": "horner",
+          "has_comment": false,
           "id": "en_mn88_horner",
           "is_root": false,
           "lang": "en",
@@ -107,7 +113,8 @@
           "publication_date": null,
           "id": "hi_mn88_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -119,7 +126,8 @@
           "publication_date": null,
           "id": "id_mn88_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -131,7 +139,8 @@
           "publication_date": "2007",
           "id": "it_mn88_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -143,7 +152,8 @@
           "publication_date": null,
           "id": "my_mn88_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -155,7 +165,8 @@
           "publication_date": "2013",
           "id": "no_mn88_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -167,7 +178,8 @@
           "publication_date": "2005",
           "id": "pt_mn88_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -179,7 +191,8 @@
           "publication_date": "2015",
           "id": "ru_mn88_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -191,7 +204,8 @@
           "publication_date": null,
           "id": "si_mn88_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -203,7 +217,8 @@
           "publication_date": null,
           "id": "sl_mn88_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -215,7 +230,8 @@
           "publication_date": "2014",
           "id": "sr_mn88_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -227,7 +243,8 @@
           "publication_date": null,
           "id": "th_mn88_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -239,7 +256,8 @@
           "publication_date": null,
           "id": "vi_mn88_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -251,7 +269,8 @@
           "publication_date": null,
           "id": "zh_mn88_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 1,

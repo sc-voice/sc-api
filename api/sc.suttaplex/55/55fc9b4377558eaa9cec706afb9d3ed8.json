@@ -29,7 +29,8 @@
           "id": "sn1.9_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn1.9_indragupta-bangish-ajit-sivak",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ca",
@@ -53,7 +55,8 @@
           "publication_date": null,
           "id": "ca_sn1.9_gea",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "id": "sn1.9_translation-de-sabbamitta",
           "segmented": true,
           "title": "Die Einbildung lieben ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -78,7 +82,8 @@
           "publication_date": "1925",
           "id": "de_sn1.9_geiger",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -91,12 +96,14 @@
           "id": "sn1.9_translation-en-sujato",
           "segmented": true,
           "title": "Fond of Conceit ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_sn1.9_bodhi",
           "is_root": false,
           "lang": "en",
@@ -116,7 +123,8 @@
           "publication_date": "1998",
           "id": "es_sn1.9_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -128,7 +136,8 @@
           "publication_date": "2009",
           "id": "hu_sn1.9_kolozsvari",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -140,7 +149,8 @@
           "publication_date": null,
           "id": "id_sn1.9_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -152,7 +162,8 @@
           "publication_date": null,
           "id": "it_sn1.9_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -164,7 +175,8 @@
           "publication_date": null,
           "id": "my_sn1.9_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -176,7 +188,8 @@
           "publication_date": "2015",
           "id": "no_sn1.9_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pl",
@@ -188,7 +201,8 @@
           "publication_date": null,
           "id": "pl_sn1.9_gabryszewski",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -200,7 +214,8 @@
           "publication_date": "2005",
           "id": "pt_sn1.9_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -212,7 +227,8 @@
           "publication_date": "2013",
           "id": "ru_sn1.9_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -224,7 +240,8 @@
           "publication_date": null,
           "id": "si_sn1.9_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -236,7 +253,8 @@
           "publication_date": null,
           "id": "th_sn1.9_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -248,7 +266,8 @@
           "publication_date": "1980",
           "id": "vi_sn1.9_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -260,7 +279,8 @@
           "publication_date": null,
           "id": "zh_sn1.9_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 2,

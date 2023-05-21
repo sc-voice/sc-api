@@ -32,7 +32,8 @@
           "id": "mn21_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn21_barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "cs_mn21_chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -68,7 +71,8 @@
           "publication_date": "2001",
           "id": "de_mn21_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -81,12 +85,14 @@
           "id": "mn21_translation-en-sujato",
           "segmented": true,
           "title": "The Simile of the Saw ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "I.B. Horner",
           "author_short": "Horner",
           "author_uid": "horner",
+          "has_comment": false,
           "id": "en_mn21_horner",
           "is_root": false,
           "lang": "en",
@@ -106,7 +112,8 @@
           "publication_date": null,
           "id": "es_mn21_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -118,7 +125,8 @@
           "publication_date": null,
           "id": "fr_mn21_maes",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -130,7 +138,8 @@
           "publication_date": "1933",
           "id": "hi_mn21_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -142,7 +151,8 @@
           "publication_date": "1989",
           "id": "hu_mn21_vekerdi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -154,7 +164,8 @@
           "publication_date": null,
           "id": "id_mn21_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -166,7 +177,8 @@
           "publication_date": "2007",
           "id": "it_mn21_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ko",
@@ -178,7 +190,8 @@
           "publication_date": "2013",
           "id": "ko_mn21_khemacara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "lt",
@@ -191,7 +204,8 @@
           "id": "mn21_translation-lt-piyadassi",
           "segmented": true,
           "title": "Palyginimas su pjūklu ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -203,7 +217,8 @@
           "publication_date": null,
           "id": "my_mn21_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "nl",
@@ -215,7 +230,8 @@
           "publication_date": null,
           "id": "nl_mn21_loosbroek",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -227,7 +243,8 @@
           "publication_date": "2013",
           "id": "no_mn21_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -239,7 +256,8 @@
           "publication_date": "2006",
           "id": "pt_mn21_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -252,7 +270,8 @@
           "id": "mn21_translation-ru-sv",
           "segmented": true,
           "title": "Пример с пилой ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -264,7 +283,8 @@
           "publication_date": null,
           "id": "ru_mn21_kupi-ka",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -276,7 +296,8 @@
           "publication_date": "2015",
           "id": "ru_mn21_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -288,7 +309,8 @@
           "publication_date": null,
           "id": "si_mn21_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -300,7 +322,8 @@
           "publication_date": null,
           "id": "sl_mn21_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -312,7 +335,8 @@
           "publication_date": "2014",
           "id": "sr_mn21_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -324,7 +348,8 @@
           "publication_date": null,
           "id": "th_mn21_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -336,7 +361,8 @@
           "publication_date": null,
           "id": "vi_mn21_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -348,7 +374,8 @@
           "publication_date": null,
           "id": "zh_mn21_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 4,

@@ -29,7 +29,8 @@
           "id": "an9.1_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_an9.1_sumangal-barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ca",
@@ -53,7 +55,8 @@
           "publication_date": null,
           "id": "ca_an9.1_font",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "id": "an9.1_translation-de-sabbamitta",
           "segmented": true,
           "title": "Erwachen ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -78,7 +82,8 @@
           "publication_date": "1907",
           "id": "de_an9.1_nyanatiloka",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -91,12 +96,14 @@
           "id": "an9.1_translation-en-sujato",
           "segmented": true,
           "title": "Awakening ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Thanissaro Bhikkhu",
           "author_short": "Thanissaro",
           "author_uid": "thanissaro",
+          "has_comment": false,
           "id": "en_an9.1_thanissaro",
           "is_root": false,
           "lang": "en",
@@ -116,7 +123,8 @@
           "publication_date": "2009",
           "id": "es_an9.1_isidatta",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -128,7 +136,8 @@
           "publication_date": null,
           "id": "fr_an9.1_canonpaliorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -140,7 +149,8 @@
           "publication_date": null,
           "id": "id_an9.1_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -152,7 +162,8 @@
           "publication_date": null,
           "id": "it_an9.1_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -164,7 +175,8 @@
           "publication_date": null,
           "id": "my_an9.1_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -176,7 +188,8 @@
           "publication_date": null,
           "id": "no_an9.1_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -188,7 +201,8 @@
           "publication_date": "2013",
           "id": "pt_an9.1_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -200,7 +214,8 @@
           "publication_date": "2013",
           "id": "ru_an9.1_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -212,7 +227,8 @@
           "publication_date": null,
           "id": "si_an9.1_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -224,7 +240,8 @@
           "publication_date": null,
           "id": "th_an9.1_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -236,7 +253,8 @@
           "publication_date": "1980–1981",
           "id": "vi_an9.1_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -248,7 +266,8 @@
           "publication_date": null,
           "id": "zh_an9.1_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 1,

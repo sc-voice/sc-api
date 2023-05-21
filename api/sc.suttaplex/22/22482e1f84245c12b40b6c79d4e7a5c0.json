@@ -29,7 +29,8 @@
           "id": "sn55.54_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn55.54_bangish-ajit-pragyadarshi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "sn55.54_translation-de-sabbamitta",
           "segmented": true,
           "title": "Krank ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1993",
           "id": "de_sn55.54_hecker",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,7 +83,8 @@
           "id": "sn55.54_translation-en-sujato",
           "segmented": true,
           "title": "Sick ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -92,7 +97,8 @@
           "id": "sn55.54_translation-fr-sekha",
           "segmented": true,
           "title": "Malade ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -104,7 +110,8 @@
           "publication_date": null,
           "id": "id_sn55.54_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "lt",
@@ -117,7 +124,8 @@
           "id": "sn55.54_translation-lt-piyadassi",
           "segmented": true,
           "title": "Sergantysis",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -129,7 +137,8 @@
           "publication_date": null,
           "id": "my_sn55.54_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -141,7 +150,8 @@
           "publication_date": "2019",
           "id": "no_sn55.54_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -153,7 +163,8 @@
           "publication_date": "2005",
           "id": "pt_sn55.54_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -165,7 +176,8 @@
           "publication_date": "2014",
           "id": "ru_sn55.54_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -177,7 +189,8 @@
           "publication_date": null,
           "id": "si_sn55.54_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -189,7 +202,8 @@
           "publication_date": null,
           "id": "th_sn55.54_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -201,7 +215,8 @@
           "publication_date": "1980",
           "id": "vi_sn55.54_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -213,7 +228,8 @@
           "publication_date": null,
           "id": "zh_sn55.54_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 1,

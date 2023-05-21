@@ -32,7 +32,8 @@
           "id": "mn32_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn32_barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "cs_mn32_chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -68,7 +71,8 @@
           "publication_date": "2001",
           "id": "de_mn32_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -81,12 +85,14 @@
           "id": "mn32_translation-en-sujato",
           "segmented": true,
           "title": "The Longer Discourse at Gosiṅga ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_mn32_bodhi",
           "is_root": false,
           "lang": "en",
@@ -100,6 +106,7 @@
           "author": "I.B. Horner",
           "author_short": "Horner",
           "author_uid": "horner",
+          "has_comment": false,
           "id": "en_mn32_horner",
           "is_root": false,
           "lang": "en",
@@ -119,7 +126,8 @@
           "publication_date": "2011",
           "id": "es_mn32_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -131,7 +139,8 @@
           "publication_date": null,
           "id": "fr_mn32_maes",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -143,7 +152,8 @@
           "publication_date": "1933",
           "id": "hi_mn32_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -155,7 +165,8 @@
           "publication_date": null,
           "id": "id_mn32_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -167,7 +178,8 @@
           "publication_date": "2007",
           "id": "it_mn32_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -179,7 +191,8 @@
           "publication_date": null,
           "id": "my_mn32_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -191,7 +204,8 @@
           "publication_date": "2013",
           "id": "no_mn32_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -203,7 +217,8 @@
           "publication_date": "2014",
           "id": "pt_mn32_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -216,7 +231,8 @@
           "id": "mn32_translation-ru-sv",
           "segmented": true,
           "title": "Большое наставление в Госинге ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -228,7 +244,8 @@
           "publication_date": "2013",
           "id": "ru_mn32_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -240,7 +257,8 @@
           "publication_date": null,
           "id": "si_mn32_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -252,7 +270,8 @@
           "publication_date": null,
           "id": "sl_mn32_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -264,7 +283,8 @@
           "publication_date": "2014",
           "id": "sr_mn32_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sv",
@@ -276,7 +296,8 @@
           "publication_date": null,
           "id": "sv_mn32_jonhagen",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -288,7 +309,8 @@
           "publication_date": null,
           "id": "th_mn32_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -300,7 +322,8 @@
           "publication_date": null,
           "id": "vi_mn32_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -312,7 +335,8 @@
           "publication_date": null,
           "id": "zh_mn32_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 4,

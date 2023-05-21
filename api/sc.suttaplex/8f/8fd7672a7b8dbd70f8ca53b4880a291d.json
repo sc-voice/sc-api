@@ -32,7 +32,8 @@
           "id": "dn26_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_dn26_shilabhadra",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -57,7 +59,8 @@
           "id": "dn26_translation-de-sabbamitta",
           "segmented": true,
           "title": "Der Rad-drehende Herrscher ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -69,7 +72,8 @@
           "publication_date": "1913",
           "id": "de_dn26_franke",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -82,12 +86,14 @@
           "id": "dn26_translation-en-sujato",
           "segmented": true,
           "title": "The Wheel-Turning Monarch ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": true
         },
         {
           "author": "T.W. & C.A.F. Rhys Davids",
           "author_short": "Rhys Davids",
           "author_uid": "tw-caf_rhysdavids",
+          "has_comment": false,
           "id": "en_dn26_tw-caf_rhysdavids",
           "is_root": false,
           "lang": "en",
@@ -107,7 +113,8 @@
           "publication_date": "1995",
           "id": "es_dn26_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "he",
@@ -119,7 +126,8 @@
           "publication_date": "2014",
           "id": "he_dn26_schwartz",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -131,7 +139,8 @@
           "publication_date": "1936",
           "id": "hi_dn26_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -143,7 +152,8 @@
           "publication_date": null,
           "id": "id_dn26_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -155,7 +165,8 @@
           "publication_date": null,
           "id": "it_dn26_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "kan",
@@ -167,7 +178,8 @@
           "publication_date": "2012",
           "id": "kan_dn26_srirangaraj",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -179,7 +191,8 @@
           "publication_date": null,
           "id": "my_dn26_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -191,7 +204,8 @@
           "publication_date": "2013",
           "id": "no_dn26_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -203,7 +217,8 @@
           "publication_date": "2006",
           "id": "pt_dn26_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -215,7 +230,8 @@
           "publication_date": null,
           "id": "si_dn26_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -227,7 +243,8 @@
           "publication_date": null,
           "id": "th_dn26_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -239,7 +256,8 @@
           "publication_date": null,
           "id": "vi_dn26_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -251,7 +269,8 @@
           "publication_date": null,
           "id": "zh_dn26_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 3,

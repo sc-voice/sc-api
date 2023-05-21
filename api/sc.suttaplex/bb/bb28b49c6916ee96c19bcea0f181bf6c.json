@@ -29,7 +29,8 @@
           "id": "sn35.11_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn35.11_gyanendriya",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "sn35.11_translation-de-sabbamitta",
           "segmented": true,
           "title": "Leiden außen in den drei Zeiten ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1993",
           "id": "de_sn35.11_hecker",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,7 +83,8 @@
           "id": "sn35.11_translation-en-sujato",
           "segmented": true,
           "title": "The Exterior as Suffering in the Three Times ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "es",
@@ -91,7 +96,8 @@
           "publication_date": null,
           "id": "es_sn35.11_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -103,7 +109,8 @@
           "publication_date": null,
           "id": "id_sn35.11_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "lt",
@@ -116,7 +123,8 @@
           "id": "sn35.11_translation-lt-piyadassi",
           "segmented": true,
           "title": "Išorinės jutimo sritys nepatenkinamos ir praeity, ir ateity",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -128,7 +136,8 @@
           "publication_date": null,
           "id": "my_sn35.11_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -140,7 +149,8 @@
           "publication_date": "2018",
           "id": "no_sn35.11_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -152,7 +162,8 @@
           "publication_date": "2012",
           "id": "ru_sn35.11_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -164,7 +175,8 @@
           "publication_date": null,
           "id": "si_sn35.11_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -176,7 +188,8 @@
           "publication_date": "1980",
           "id": "vi_sn35.11_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -188,7 +201,8 @@
           "publication_date": null,
           "id": "zh_sn35.11_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 3,

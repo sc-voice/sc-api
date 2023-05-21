@@ -29,7 +29,8 @@
           "id": "an1.394-574_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_an1.394-574_sumangal-barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "an1.394-574_translation-de-sabbamitta",
           "segmented": true,
           "title": "Noch ein Kapitel über ein Fingerschnippen ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1907",
           "id": "de_an1.394-574_nyanatiloka",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,7 +83,8 @@
           "id": "an1.394-574_translation-en-sujato",
           "segmented": true,
           "title": "Another Chapter on a Finger-Snap ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "es",
@@ -91,7 +96,8 @@
           "publication_date": "2012",
           "id": "es_an1.394-574_isidatta",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -104,7 +110,8 @@
           "id": "an1.394-574_translation-fr-sekha",
           "segmented": true,
           "title": "Une fraction de seconde",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -116,7 +123,8 @@
           "publication_date": null,
           "id": "fr_an1.394-574_buddhavacanaorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -128,7 +136,8 @@
           "publication_date": null,
           "id": "id_an1.394-574_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "jpn",
@@ -141,7 +150,8 @@
           "id": "an1.394-574_translation-jpn-kaz",
           "segmented": true,
           "title": "第二十九　続 指鳴らし（後弾指品） ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -153,7 +163,8 @@
           "publication_date": null,
           "id": "my_an1.394-574_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -165,7 +176,8 @@
           "publication_date": "2020",
           "id": "no_an1.394-574_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -178,7 +190,8 @@
           "id": "an1.394-574_translation-pt-laera-quaresma",
           "segmented": true,
           "title": "Outra Seção Sobre o Estalar dos Dedos",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -190,7 +203,8 @@
           "publication_date": "2013",
           "id": "ru_an1.394-574_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -202,7 +216,8 @@
           "publication_date": null,
           "id": "si_an1.394-574_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -214,7 +229,8 @@
           "publication_date": null,
           "id": "th_an1.394-574_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -226,7 +242,8 @@
           "publication_date": "1980–1981",
           "id": "vi_an1.394-574_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -238,7 +255,8 @@
           "publication_date": "2015",
           "id": "zh_an1.394-574_mahinda2",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 25,

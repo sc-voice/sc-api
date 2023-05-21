@@ -29,7 +29,8 @@
           "id": "an4.223_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_an4.223_indragupta-suman-bangish-ajit-jibana",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -54,7 +56,8 @@
           "id": "an4.223_translation-cs-ashinsarana",
           "segmented": true,
           "title": "",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -67,7 +70,8 @@
           "id": "an4.223_translation-de-sabbamitta",
           "segmented": true,
           "title": "Undankbar ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -79,7 +83,8 @@
           "publication_date": "1907",
           "id": "de_an4.223_nyanatiloka",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -92,7 +97,8 @@
           "id": "an4.223_translation-en-sujato",
           "segmented": true,
           "title": "Ungrateful ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -104,7 +110,8 @@
           "publication_date": null,
           "id": "id_an4.223_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -116,7 +123,8 @@
           "publication_date": null,
           "id": "my_an4.223_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -128,7 +136,8 @@
           "publication_date": "2013",
           "id": "ru_an4.223_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -140,7 +149,8 @@
           "publication_date": null,
           "id": "si_an4.223_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -152,7 +162,8 @@
           "publication_date": null,
           "id": "th_an4.223_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -164,7 +175,8 @@
           "publication_date": "1980–1981",
           "id": "vi_an4.223_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -176,7 +188,8 @@
           "publication_date": null,
           "id": "zh_an4.223_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 0,

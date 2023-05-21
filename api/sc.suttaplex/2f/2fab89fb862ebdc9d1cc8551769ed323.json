@@ -29,7 +29,8 @@
           "id": "an10.118_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_an10.118_pragyadarshi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "an10.118_translation-de-sabbamitta",
           "segmented": true,
           "title": "Das diesseitige Ufer ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1907",
           "id": "de_an10.118_nyanatiloka",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,12 +83,14 @@
           "id": "an10.118_translation-en-sujato",
           "segmented": true,
           "title": "The Near Shore ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "K. Nizamis",
           "author_short": "Nizamis",
           "author_uid": "nizamis",
+          "has_comment": false,
           "id": "en_an10.118_nizamis",
           "is_root": false,
           "lang": "en",
@@ -104,7 +110,8 @@
           "publication_date": "2014",
           "id": "es_an10.118_isidatta",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -116,7 +123,8 @@
           "publication_date": null,
           "id": "id_an10.118_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -128,7 +136,8 @@
           "publication_date": null,
           "id": "my_an10.118_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -140,7 +149,8 @@
           "publication_date": "2013",
           "id": "ru_an10.118_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -152,7 +162,8 @@
           "publication_date": null,
           "id": "si_an10.118_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -164,7 +175,8 @@
           "publication_date": null,
           "id": "th_an10.118_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -176,7 +188,8 @@
           "publication_date": "1980–1981",
           "id": "vi_an10.118_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -188,7 +201,8 @@
           "publication_date": null,
           "id": "zh_an10.118_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 65,

@@ -29,7 +29,8 @@
           "id": "thig1.1_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -42,7 +43,8 @@
           "id": "thig1.1_translation-de-sabbamitta",
           "segmented": true,
           "title": "Eine nicht namentlich genannte Nonne (1) ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "publication_date": "2000",
           "id": "de_thig1.1_sass",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -67,7 +70,8 @@
           "id": "thig1.1_translation-en-sujato",
           "segmented": true,
           "title": "An Unnamed Nun (1st) ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -80,12 +84,14 @@
           "id": "thig1.1_translation-en-soma",
           "segmented": true,
           "title": "An Unnamed Nun (1st) ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Thanissaro Bhikkhu",
           "author_short": "Thanissaro",
           "author_uid": "thanissaro",
+          "has_comment": false,
           "id": "en_thig1.1_thanissaro",
           "is_root": false,
           "lang": "en",
@@ -105,7 +111,8 @@
           "publication_date": null,
           "id": "fr_thig1.1_canonpaliorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -117,7 +124,8 @@
           "publication_date": "2008",
           "id": "hu_thig1.1_balint",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -129,7 +137,8 @@
           "publication_date": "2019",
           "id": "id_thig1.1_karniawan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -141,7 +150,8 @@
           "publication_date": "2020",
           "id": "id_thig1.1_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -153,7 +163,8 @@
           "publication_date": null,
           "id": "it_thig1.1_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "jpn",
@@ -165,7 +176,8 @@
           "publication_date": "2009–11",
           "id": "jpn_thig1.1_daikan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -177,7 +189,8 @@
           "publication_date": "2000",
           "id": "no_thig1.1_lie-stabell",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -189,7 +202,8 @@
           "publication_date": "2011",
           "id": "ru_thig1.1_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -201,7 +215,8 @@
           "publication_date": null,
           "id": "si_thig1.1_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -213,7 +228,8 @@
           "publication_date": "2011",
           "id": "vi_thig1.1_indacanda",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 1,

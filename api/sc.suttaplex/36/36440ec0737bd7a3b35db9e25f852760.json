@@ -29,7 +29,8 @@
           "id": "sn20.7_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn20.7_indragupta-bangish-ajit",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "sn20.7_translation-de-sabbamitta",
           "segmented": true,
           "title": "Der Trommelstift ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1967",
           "id": "de_sn20.7_nyanaponika",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,12 +83,14 @@
           "id": "sn20.7_translation-en-sujato",
           "segmented": true,
           "title": "The Drum Peg ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "C.A.F. Rhys Davids",
           "author_short": "C.A.F. Rhys Davids",
           "author_uid": "caf_rhysdavids",
+          "has_comment": false,
           "id": "en_sn20.7_caf_rhysdavids",
           "is_root": false,
           "lang": "en",
@@ -104,7 +110,8 @@
           "publication_date": null,
           "id": "es_sn20.7_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -116,7 +123,8 @@
           "publication_date": null,
           "id": "fr_sn20.7_canonpaliorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -128,7 +136,8 @@
           "publication_date": "2009",
           "id": "hu_sn20.7_fenyvesi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -140,7 +149,8 @@
           "publication_date": null,
           "id": "id_sn20.7_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -152,7 +162,8 @@
           "publication_date": "1999",
           "id": "it_sn20.7_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -164,7 +175,8 @@
           "publication_date": null,
           "id": "my_sn20.7_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -176,7 +188,8 @@
           "publication_date": "2016",
           "id": "no_sn20.7_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -188,7 +201,8 @@
           "publication_date": "2013",
           "id": "pt_sn20.7_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -200,7 +214,8 @@
           "publication_date": "2012",
           "id": "ru_sn20.7_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -212,7 +227,8 @@
           "publication_date": null,
           "id": "si_sn20.7_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sv",
@@ -224,7 +240,8 @@
           "publication_date": null,
           "id": "sv_sn20.7_jonhagen",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -236,7 +253,8 @@
           "publication_date": null,
           "id": "th_sn20.7_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -248,7 +266,8 @@
           "publication_date": "1980",
           "id": "vi_sn20.7_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -260,7 +279,8 @@
           "publication_date": null,
           "id": "zh_sn20.7_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 1,

@@ -29,7 +29,8 @@
           "id": "sn12.15_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn12.15_indragupta-bangish-ajit",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -53,7 +55,8 @@
           "publication_date": null,
           "id": "cs_sn12.15_gavesako-chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "id": "sn12.15_translation-de-sabbamitta",
           "segmented": true,
           "title": "Kaccānagotta ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -78,7 +82,8 @@
           "publication_date": "1925",
           "id": "de_sn12.15_geiger",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -91,12 +96,14 @@
           "id": "sn12.15_translation-en-sujato",
           "segmented": true,
           "title": "Kaccānagotta ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_sn12.15_bodhi",
           "is_root": false,
           "lang": "en",
@@ -110,6 +117,7 @@
           "author": "Suddhāso Bhikkhu",
           "author_short": "Suddhāso",
           "author_uid": "suddhaso",
+          "has_comment": false,
           "id": "en_sn12.15_suddhaso",
           "is_root": false,
           "lang": "en",
@@ -129,7 +137,8 @@
           "publication_date": "2009",
           "id": "es_sn12.15_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -141,7 +150,8 @@
           "publication_date": "2009",
           "id": "hu_sn12.15_mathe",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -153,7 +163,8 @@
           "publication_date": null,
           "id": "id_sn12.15_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -165,7 +176,8 @@
           "publication_date": null,
           "id": "it_sn12.15_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "lt",
@@ -178,7 +190,8 @@
           "id": "sn12.15_translation-lt-piyadassi",
           "segmented": true,
           "title": "Sutta Kačanagotai",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -190,7 +203,8 @@
           "publication_date": null,
           "id": "my_sn12.15_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -202,7 +216,8 @@
           "publication_date": "2016",
           "id": "no_sn12.15_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -214,7 +229,8 @@
           "publication_date": "2004",
           "id": "pt_sn12.15_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -226,7 +242,8 @@
           "publication_date": "2015",
           "id": "ru_sn12.15_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -238,7 +255,8 @@
           "publication_date": null,
           "id": "si_sn12.15_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -250,7 +268,8 @@
           "publication_date": null,
           "id": "th_sn12.15_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -262,7 +281,8 @@
           "publication_date": "1980",
           "id": "vi_sn12.15_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -274,7 +294,8 @@
           "publication_date": null,
           "id": "zh_sn12.15_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 5,

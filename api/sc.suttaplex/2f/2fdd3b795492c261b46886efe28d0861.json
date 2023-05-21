@@ -29,7 +29,8 @@
           "id": "sn22.14_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn22.14_indragupta-suman-adikalyan-sivak-rahul",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "sn22.14_translation-de-sabbamitta",
           "segmented": true,
           "title": "Ohne Selbst ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1967",
           "id": "de_sn22.14_nyanaponika",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,12 +83,14 @@
           "id": "sn22.14_translation-en-sujato",
           "segmented": true,
           "title": "Not-Self ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_sn22.14_bodhi",
           "is_root": false,
           "lang": "en",
@@ -104,7 +110,8 @@
           "publication_date": null,
           "id": "es_sn22.14_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -116,7 +123,8 @@
           "publication_date": "2009",
           "id": "hu_sn22.14_hadhazi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -128,7 +136,8 @@
           "publication_date": null,
           "id": "id_sn22.14_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "lt",
@@ -141,7 +150,8 @@
           "id": "sn22.14_translation-lt-piyadassi",
           "segmented": true,
           "title": "Sutta apie savasties nebuvimą",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -153,7 +163,8 @@
           "publication_date": null,
           "id": "my_sn22.14_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -165,7 +176,8 @@
           "publication_date": "2017",
           "id": "no_sn22.14_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -177,7 +189,8 @@
           "publication_date": "2014",
           "id": "pt_sn22.14_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -189,7 +202,8 @@
           "publication_date": "2012",
           "id": "ru_sn22.14_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -201,7 +215,8 @@
           "publication_date": null,
           "id": "si_sn22.14_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -213,7 +228,8 @@
           "publication_date": null,
           "id": "th_sn22.14_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -225,7 +241,8 @@
           "publication_date": "1980",
           "id": "vi_sn22.14_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -237,7 +254,8 @@
           "publication_date": null,
           "id": "zh_sn22.14_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 1,

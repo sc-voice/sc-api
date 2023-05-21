@@ -32,7 +32,8 @@
           "id": "mn18_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn18_barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "cs_mn18_gavesako-chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -68,7 +71,8 @@
           "publication_date": "2001",
           "id": "de_mn18_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -81,12 +85,14 @@
           "id": "mn18_translation-en-sujato",
           "segmented": true,
           "title": "The Honey-Cake ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Suddhāso Bhikkhu",
           "author_short": "Suddhāso",
           "author_uid": "suddhaso",
+          "has_comment": false,
           "id": "en_mn18_suddhaso",
           "is_root": false,
           "lang": "en",
@@ -97,9 +103,24 @@
           "title": "The Lump of Honey"
         },
         {
+          "author": "Nyanamoli Thera",
+          "author_short": "Nyanamoli",
+          "author_uid": "nyanamoli-thera",
+          "has_comment": false,
+          "id": "en_mn18_nyanamoli-thera",
+          "is_root": false,
+          "lang": "en",
+          "lang_name": "English",
+          "publication_date": "1977",
+          "segmented": false,
+          "volpage": null,
+          "title": "The Sweet Morsel"
+        },
+        {
           "author": "I.B. Horner",
           "author_short": "Horner",
           "author_uid": "horner",
+          "has_comment": false,
           "id": "en_mn18_horner",
           "is_root": false,
           "lang": "en",
@@ -119,7 +140,8 @@
           "publication_date": null,
           "id": "es_mn18_pachon",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -131,7 +153,8 @@
           "publication_date": null,
           "id": "fr_mn18_maes",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -143,7 +166,8 @@
           "publication_date": "1933",
           "id": "hi_mn18_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -155,7 +179,8 @@
           "publication_date": null,
           "id": "id_mn18_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -167,7 +192,8 @@
           "publication_date": "2007",
           "id": "it_mn18_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -179,7 +205,8 @@
           "publication_date": null,
           "id": "my_mn18_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -191,7 +218,8 @@
           "publication_date": "2013",
           "id": "no_mn18_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pl",
@@ -203,7 +231,8 @@
           "publication_date": null,
           "id": "pl_mn18_kowalewski",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -215,7 +244,8 @@
           "publication_date": "2012",
           "id": "pt_mn18_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -228,7 +258,8 @@
           "id": "mn18_translation-ru-sv",
           "segmented": true,
           "title": "Медовик ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -240,7 +271,8 @@
           "publication_date": null,
           "id": "ru_mn18_kupi-ka",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -252,7 +284,8 @@
           "publication_date": "2013",
           "id": "ru_mn18_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -264,7 +297,8 @@
           "publication_date": null,
           "id": "si_mn18_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -276,7 +310,8 @@
           "publication_date": null,
           "id": "sl_mn18_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -288,7 +323,8 @@
           "publication_date": "2014",
           "id": "sr_mn18_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -300,7 +336,8 @@
           "publication_date": null,
           "id": "th_mn18_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -312,7 +349,8 @@
           "publication_date": null,
           "id": "vi_mn18_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -324,7 +362,8 @@
           "publication_date": null,
           "id": "zh_mn18_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 7,

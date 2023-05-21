@@ -29,7 +29,8 @@
           "id": "an8.6_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_an8.6_sumangal-barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "an8.6_translation-de-sabbamitta",
           "segmented": true,
           "title": "Weltliche Gegebenheiten (2) ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1907",
           "id": "de_an8.6_nyanatiloka",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,12 +83,14 @@
           "id": "an8.6_translation-en-sujato",
           "segmented": true,
           "title": "Worldly Conditions (2nd) ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_an8.6_bodhi",
           "is_root": false,
           "lang": "en",
@@ -104,7 +110,8 @@
           "publication_date": "2012",
           "id": "es_an8.6_nandisena",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -117,7 +124,8 @@
           "id": "an8.6_translation-fr-noeismet",
           "segmented": true,
           "title": "Les Conditions Mondaines (2ème)",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -129,7 +137,8 @@
           "publication_date": "2008",
           "id": "hu_an8.6_nyitrai",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -141,7 +150,8 @@
           "publication_date": null,
           "id": "id_an8.6_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -153,7 +163,8 @@
           "publication_date": null,
           "id": "it_an8.6_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -165,7 +176,8 @@
           "publication_date": null,
           "id": "my_an8.6_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "nl",
@@ -177,7 +189,8 @@
           "publication_date": null,
           "id": "nl_an8.6_loosbroek",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -189,7 +202,8 @@
           "publication_date": "2007",
           "id": "pt_an8.6_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -201,7 +215,8 @@
           "publication_date": "2013",
           "id": "ru_an8.6_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -213,7 +228,8 @@
           "publication_date": null,
           "id": "si_an8.6_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -225,7 +241,8 @@
           "publication_date": null,
           "id": "sl_an8.6_hiriko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -237,7 +254,8 @@
           "publication_date": null,
           "id": "th_an8.6_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -249,7 +267,8 @@
           "publication_date": "1980–1981",
           "id": "vi_an8.6_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -261,7 +280,8 @@
           "publication_date": null,
           "id": "zh_an8.6_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 1,

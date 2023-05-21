@@ -29,7 +29,8 @@
           "id": "sn56.22_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn56.22_bangish-ajit-pragyadarshi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "sn56.22_translation-de-sabbamitta",
           "segmented": true,
           "title": "Beim Dorf Koṭi (2) ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1993",
           "id": "de_sn56.22_hecker",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,12 +83,14 @@
           "id": "sn56.22_translation-en-sujato",
           "segmented": true,
           "title": "At the Village of Koṭi (2nd) ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_sn56.22_bodhi",
           "is_root": false,
           "lang": "en",
@@ -105,7 +111,8 @@
           "id": "sn56.22_translation-fr-sekha",
           "segmented": true,
           "title": "À Kotigama ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -117,7 +124,8 @@
           "publication_date": null,
           "id": "fr_sn56.22_buddhavacanaorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -129,7 +137,8 @@
           "publication_date": null,
           "id": "id_sn56.22_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -141,7 +150,8 @@
           "publication_date": null,
           "id": "my_sn56.22_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -153,7 +163,8 @@
           "publication_date": "2019",
           "id": "no_sn56.22_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -165,7 +176,8 @@
           "publication_date": "2013",
           "id": "ru_sn56.22_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -177,7 +189,8 @@
           "publication_date": null,
           "id": "si_sn56.22_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -189,7 +202,8 @@
           "publication_date": null,
           "id": "th_sn56.22_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -201,7 +215,8 @@
           "publication_date": "1980",
           "id": "vi_sn56.22_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -213,7 +228,8 @@
           "publication_date": null,
           "id": "zh_sn56.22_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 4,

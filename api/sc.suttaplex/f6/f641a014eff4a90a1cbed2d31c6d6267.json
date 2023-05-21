@@ -32,7 +32,8 @@
           "id": "mn28_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn28_barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ca",
@@ -56,7 +58,8 @@
           "publication_date": "2012",
           "id": "ca_mn28_jambudipa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -68,7 +71,8 @@
           "publication_date": null,
           "id": "cs_mn28_chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -80,7 +84,8 @@
           "publication_date": "2001",
           "id": "de_mn28_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -93,12 +98,14 @@
           "id": "mn28_translation-en-sujato",
           "segmented": true,
           "title": "The Longer Simile of the Elephant’s Footprint ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_mn28_bodhi",
           "is_root": false,
           "lang": "en",
@@ -112,6 +119,7 @@
           "author": "Suddhāso Bhikkhu",
           "author_short": "Suddhāso",
           "author_uid": "suddhaso",
+          "has_comment": false,
           "id": "en_mn28_suddhaso",
           "is_root": false,
           "lang": "en",
@@ -125,6 +133,7 @@
           "author": "I.B. Horner",
           "author_short": "Horner",
           "author_uid": "horner",
+          "has_comment": false,
           "id": "en_mn28_horner",
           "is_root": false,
           "lang": "en",
@@ -144,7 +153,8 @@
           "publication_date": null,
           "id": "es_mn28_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -156,7 +166,8 @@
           "publication_date": null,
           "id": "fr_mn28_maes",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -168,7 +179,8 @@
           "publication_date": "1933",
           "id": "hi_mn28_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -180,7 +192,8 @@
           "publication_date": "2009",
           "id": "hu_mn28_fenyvesi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -192,7 +205,8 @@
           "publication_date": null,
           "id": "id_mn28_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -204,7 +218,8 @@
           "publication_date": "2007",
           "id": "it_mn28_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -216,7 +231,8 @@
           "publication_date": null,
           "id": "my_mn28_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -228,7 +244,8 @@
           "publication_date": "2013",
           "id": "no_mn28_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -240,7 +257,8 @@
           "publication_date": "2014",
           "id": "pt_mn28_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -253,7 +271,8 @@
           "id": "mn28_translation-ru-sv",
           "segmented": true,
           "title": "Большой пример со следами слона ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -265,7 +284,8 @@
           "publication_date": "2014",
           "id": "ru_mn28_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -277,7 +297,8 @@
           "publication_date": null,
           "id": "si_mn28_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -289,7 +310,8 @@
           "publication_date": null,
           "id": "sl_mn28_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -301,7 +323,8 @@
           "publication_date": "2014",
           "id": "sr_mn28_kobac",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -313,7 +336,8 @@
           "publication_date": null,
           "id": "th_mn28_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -325,7 +349,8 @@
           "publication_date": null,
           "id": "vi_mn28_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -337,7 +362,8 @@
           "publication_date": null,
           "id": "zh_mn28_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 6,

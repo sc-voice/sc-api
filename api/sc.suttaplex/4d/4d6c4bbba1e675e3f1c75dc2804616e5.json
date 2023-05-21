@@ -32,7 +32,8 @@
           "id": "mn5_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn5_barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "cs_mn5_gavesako-chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -68,7 +71,8 @@
           "publication_date": "2001",
           "id": "de_mn5_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -81,12 +85,14 @@
           "id": "mn5_translation-en-sujato",
           "segmented": true,
           "title": "Unblemished ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Suddhāso Bhikkhu",
           "author_short": "Suddhāso",
           "author_uid": "suddhaso",
+          "has_comment": false,
           "id": "en_mn5_suddhaso",
           "is_root": false,
           "lang": "en",
@@ -100,6 +106,7 @@
           "author": "I.B. Horner",
           "author_short": "Horner",
           "author_uid": "horner",
+          "has_comment": false,
           "id": "en_mn5_horner",
           "is_root": false,
           "lang": "en",
@@ -119,7 +126,8 @@
           "publication_date": null,
           "id": "es_mn5_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -131,7 +139,8 @@
           "publication_date": null,
           "id": "fr_mn5_maes",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -143,7 +152,8 @@
           "publication_date": "1933",
           "id": "hi_mn5_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -155,7 +165,8 @@
           "publication_date": "2009",
           "id": "hu_mn5_anatta",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -167,7 +178,8 @@
           "publication_date": null,
           "id": "id_mn5_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -179,7 +191,8 @@
           "publication_date": "2007",
           "id": "it_mn5_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -191,7 +204,8 @@
           "publication_date": null,
           "id": "my_mn5_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -203,7 +217,8 @@
           "publication_date": "2013",
           "id": "no_mn5_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pl",
@@ -216,7 +231,8 @@
           "id": "mn5_translation-pl-hardao",
           "segmented": true,
           "title": "Mowa o braku splamień ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -228,7 +244,8 @@
           "publication_date": "2008",
           "id": "pt_mn5_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -241,7 +258,8 @@
           "id": "mn5_translation-ru-sv",
           "segmented": true,
           "title": "Анангана-сутта: Без изъянов ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -253,7 +271,8 @@
           "publication_date": null,
           "id": "ru_mn5_kupi-ka",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -265,7 +284,8 @@
           "publication_date": "2015",
           "id": "ru_mn5_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -277,7 +297,8 @@
           "publication_date": null,
           "id": "si_mn5_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -289,7 +310,8 @@
           "publication_date": null,
           "id": "sl_mn5_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -301,7 +323,8 @@
           "publication_date": "2014",
           "id": "sr_mn5_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -313,7 +336,8 @@
           "publication_date": null,
           "id": "th_mn5_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -325,7 +349,8 @@
           "publication_date": null,
           "id": "vi_mn5_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -337,7 +362,8 @@
           "publication_date": null,
           "id": "zh_mn5_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 3,

@@ -32,7 +32,8 @@
           "id": "dn16_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_dn16_shilabhadra",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "cs_dn16_rozehnal-chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -69,7 +72,8 @@
           "id": "dn16_translation-de-sabbamitta",
           "segmented": true,
           "title": "Die große Lehrrede vom Erlöschen des Buddha ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -81,7 +85,8 @@
           "publication_date": "1913",
           "id": "de_dn16_franke",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -94,12 +99,14 @@
           "id": "dn16_translation-en-sujato",
           "segmented": true,
           "title": "The Great Discourse on the Buddha’s Extinguishment ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Ānandajoti",
           "author_short": "Ānandajoti",
           "author_uid": "anandajoti",
+          "has_comment": false,
           "id": "en_dn16_anandajoti",
           "is_root": false,
           "lang": "en",
@@ -119,7 +126,8 @@
           "publication_date": null,
           "id": "es_dn16_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -131,7 +139,8 @@
           "publication_date": null,
           "id": "fr_dn16_canonpaliorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "he",
@@ -143,7 +152,8 @@
           "publication_date": "2014",
           "id": "he_dn16_schwartz",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -155,7 +165,8 @@
           "publication_date": "1936",
           "id": "hi_dn16_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -167,7 +178,8 @@
           "publication_date": "2013",
           "id": "hu_dn16_vekerdi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -179,7 +191,8 @@
           "publication_date": null,
           "id": "id_dn16_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -191,7 +204,8 @@
           "publication_date": null,
           "id": "it_dn16_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "kan",
@@ -203,7 +217,8 @@
           "publication_date": "2012",
           "id": "kan_dn16_srirangaraj",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -215,7 +230,8 @@
           "publication_date": null,
           "id": "my_dn16_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "nl",
@@ -227,7 +243,8 @@
           "publication_date": null,
           "id": "nl_dn16_loosbroek",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -239,7 +256,8 @@
           "publication_date": "2013",
           "id": "no_dn16_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -251,7 +269,8 @@
           "publication_date": "2011",
           "id": "pt_dn16_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ro",
@@ -263,7 +282,8 @@
           "publication_date": null,
           "id": "ro_dn16_busoi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -275,7 +295,8 @@
           "publication_date": null,
           "id": "ru_dn16_dorje",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -287,7 +308,8 @@
           "publication_date": null,
           "id": "si_dn16_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -299,7 +321,8 @@
           "publication_date": null,
           "id": "sl_dn16_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -312,7 +335,8 @@
           "id": "dn16_translation-sr-brankokovacevic",
           "segmented": true,
           "title": "Dugi govor o konačnom oslobođenju ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -324,7 +348,8 @@
           "publication_date": null,
           "id": "sr_dn16_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sv",
@@ -336,7 +361,8 @@
           "publication_date": null,
           "id": "sv_dn16_jonhagen",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -348,7 +374,8 @@
           "publication_date": null,
           "id": "th_dn16_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -360,7 +387,8 @@
           "publication_date": "1987",
           "id": "vi_dn16_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -372,7 +400,8 @@
           "publication_date": null,
           "id": "zh_dn16_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -384,7 +413,8 @@
           "publication_date": null,
           "id": "zh_dn16_pachow",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 150,

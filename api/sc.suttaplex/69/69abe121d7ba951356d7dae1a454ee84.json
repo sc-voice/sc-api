@@ -32,7 +32,8 @@
           "id": "mn9_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn9_barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ca",
@@ -56,7 +58,8 @@
           "publication_date": "2012",
           "id": "ca_mn9_jambudipa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -68,7 +71,8 @@
           "publication_date": null,
           "id": "cs_mn9_gavesako-chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -80,7 +84,8 @@
           "publication_date": "2001",
           "id": "de_mn9_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -93,12 +98,14 @@
           "id": "mn9_translation-en-sujato",
           "segmented": true,
           "title": "Right View ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_mn9_bodhi",
           "is_root": false,
           "lang": "en",
@@ -112,6 +119,7 @@
           "author": "Suddhāso Bhikkhu",
           "author_short": "Suddhāso",
           "author_uid": "suddhaso",
+          "has_comment": false,
           "id": "en_mn9_suddhaso",
           "is_root": false,
           "lang": "en",
@@ -125,6 +133,7 @@
           "author": "I.B. Horner",
           "author_short": "Horner",
           "author_uid": "horner",
+          "has_comment": false,
           "id": "en_mn9_horner",
           "is_root": false,
           "lang": "en",
@@ -144,7 +153,8 @@
           "publication_date": "2011",
           "id": "es_mn9_ahitapunno",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -156,7 +166,8 @@
           "publication_date": null,
           "id": "fr_mn9_maes",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -168,7 +179,8 @@
           "publication_date": null,
           "id": "fr_mn9_buddhavacanaorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -180,7 +192,8 @@
           "publication_date": "1933",
           "id": "hi_mn9_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -192,7 +205,8 @@
           "publication_date": "2009",
           "id": "hu_mn9_anatta",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -204,7 +218,8 @@
           "publication_date": null,
           "id": "id_mn9_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -216,7 +231,8 @@
           "publication_date": "2007",
           "id": "it_mn9_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ko",
@@ -228,7 +244,8 @@
           "publication_date": "2013",
           "id": "ko_mn9_khemacara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "lt",
@@ -241,7 +258,8 @@
           "id": "mn9_translation-lt-piyadassi",
           "segmented": true,
           "title": "Apie teisingą požiūrį ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -253,7 +271,8 @@
           "publication_date": null,
           "id": "my_mn9_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -265,7 +284,8 @@
           "publication_date": "2013",
           "id": "no_mn9_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pl",
@@ -278,7 +298,8 @@
           "id": "mn9_translation-pl-hardao",
           "segmented": true,
           "title": "Mowa o Właściwym Poglądzie ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -290,7 +311,8 @@
           "publication_date": "2014",
           "id": "pt_mn9_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -303,7 +325,8 @@
           "id": "mn9_translation-ru-sv",
           "segmented": true,
           "title": "Правильные воззрения ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -315,7 +338,8 @@
           "publication_date": "2015",
           "id": "ru_mn9_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -327,7 +351,8 @@
           "publication_date": null,
           "id": "si_mn9_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -339,7 +364,8 @@
           "publication_date": null,
           "id": "sl_mn9_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -351,7 +377,8 @@
           "publication_date": "2014",
           "id": "sr_mn9_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -363,7 +390,8 @@
           "publication_date": null,
           "id": "th_mn9_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -375,7 +403,8 @@
           "publication_date": null,
           "id": "vi_mn9_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -387,7 +416,8 @@
           "publication_date": null,
           "id": "zh_mn9_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 7,

@@ -29,7 +29,8 @@
           "id": "sn54.6_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn54.6_bangish-ajit-pragyadarshi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "sn54.6_translation-de-sabbamitta",
           "segmented": true,
           "title": "Mit Ariṭṭha ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1993",
           "id": "de_sn54.6_hecker",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,7 +83,8 @@
           "id": "sn54.6_translation-en-sujato",
           "segmented": true,
           "title": "With Ariṭṭha ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "es",
@@ -91,7 +96,8 @@
           "publication_date": null,
           "id": "es_sn54.6_isidatta",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -104,7 +110,8 @@
           "id": "sn54.6_translation-fr-sekha",
           "segmented": true,
           "title": "Arittha ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -116,7 +123,8 @@
           "publication_date": null,
           "id": "id_sn54.6_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -128,7 +136,8 @@
           "publication_date": null,
           "id": "it_sn54.6_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -140,7 +149,8 @@
           "publication_date": null,
           "id": "my_sn54.6_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -152,7 +162,8 @@
           "publication_date": "2019",
           "id": "no_sn54.6_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pl",
@@ -164,7 +175,8 @@
           "publication_date": null,
           "id": "pl_sn54.6_jagodzinski",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -176,7 +188,8 @@
           "publication_date": "2012",
           "id": "ru_sn54.6_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -188,7 +201,8 @@
           "publication_date": null,
           "id": "si_sn54.6_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -200,7 +214,8 @@
           "publication_date": null,
           "id": "th_sn54.6_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -212,7 +227,8 @@
           "publication_date": "1980",
           "id": "vi_sn54.6_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -224,7 +240,8 @@
           "publication_date": null,
           "id": "zh_sn54.6_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 1,

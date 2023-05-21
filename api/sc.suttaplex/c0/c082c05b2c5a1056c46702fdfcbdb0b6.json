@@ -32,7 +32,8 @@
           "id": "dn17_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_dn17_shilabhadra",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -57,7 +59,8 @@
           "id": "dn17_translation-de-sabbamitta",
           "segmented": true,
           "title": "Der König Mahāsudassana ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -70,12 +73,14 @@
           "id": "dn17_translation-en-sujato",
           "segmented": true,
           "title": "King Mahāsudassana ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": true
         },
         {
           "author": "T.W. Rhys Davids",
           "author_short": "T.W. Rhys Davids",
           "author_uid": "tw_rhysdavids",
+          "has_comment": false,
           "id": "en_dn17_tw_rhysdavids",
           "is_root": false,
           "lang": "en",
@@ -95,7 +100,8 @@
           "publication_date": "2014",
           "id": "he_dn17_schwartz",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -107,7 +113,8 @@
           "publication_date": "1936",
           "id": "hi_dn17_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -119,7 +126,8 @@
           "publication_date": null,
           "id": "id_dn17_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -131,7 +139,8 @@
           "publication_date": null,
           "id": "it_dn17_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "kan",
@@ -143,7 +152,8 @@
           "publication_date": "2012",
           "id": "kan_dn17_srirangaraj",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -155,7 +165,8 @@
           "publication_date": null,
           "id": "my_dn17_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -167,7 +178,8 @@
           "publication_date": "2013",
           "id": "no_dn17_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -179,7 +191,8 @@
           "publication_date": "2006",
           "id": "pt_dn17_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -191,7 +204,8 @@
           "publication_date": null,
           "id": "si_dn17_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -204,7 +218,8 @@
           "id": "dn17_translation-sr-brankokovacevic",
           "segmented": true,
           "title": "Kralj Mahasudassana ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -216,7 +231,8 @@
           "publication_date": null,
           "id": "th_dn17_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -228,7 +244,8 @@
           "publication_date": null,
           "id": "vi_dn17_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -240,7 +257,8 @@
           "publication_date": null,
           "id": "zh_dn17_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 16,

@@ -32,7 +32,8 @@
           "id": "mn149_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn149_chowdhury",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ca",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "ca_mn149_gea",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -68,7 +71,8 @@
           "publication_date": null,
           "id": "cs_mn149_chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -80,7 +84,8 @@
           "publication_date": "2001",
           "id": "de_mn149_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -93,12 +98,14 @@
           "id": "mn149_translation-en-sujato",
           "segmented": true,
           "title": "The Great Discourse on the Six Sense Fields ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_mn149_bodhi",
           "is_root": false,
           "lang": "en",
@@ -112,6 +119,7 @@
           "author": "Suddhāso Bhikkhu",
           "author_short": "Suddhāso",
           "author_uid": "suddhaso",
+          "has_comment": false,
           "id": "en_mn149_suddhaso",
           "is_root": false,
           "lang": "en",
@@ -131,7 +139,8 @@
           "publication_date": "1995",
           "id": "es_mn149_jose",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -143,7 +152,8 @@
           "publication_date": null,
           "id": "hi_mn149_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -155,7 +165,8 @@
           "publication_date": null,
           "id": "id_mn149_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -167,7 +178,8 @@
           "publication_date": "2007",
           "id": "it_mn149_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ko",
@@ -179,7 +191,8 @@
           "publication_date": "2013",
           "id": "ko_mn149_khemacara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -191,7 +204,8 @@
           "publication_date": null,
           "id": "my_mn149_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "nl",
@@ -203,7 +217,8 @@
           "publication_date": null,
           "id": "nl_mn149_loosbroek",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -215,7 +230,8 @@
           "publication_date": "2013",
           "id": "no_mn149_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -227,7 +243,8 @@
           "publication_date": "2008",
           "id": "pt_mn149_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -239,7 +256,8 @@
           "publication_date": "2016",
           "id": "ru_mn149_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -251,7 +269,8 @@
           "publication_date": null,
           "id": "si_mn149_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -263,7 +282,8 @@
           "publication_date": null,
           "id": "th_mn149_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -275,7 +295,8 @@
           "publication_date": null,
           "id": "vi_mn149_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -287,7 +308,8 @@
           "publication_date": null,
           "id": "zh_mn149_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 2,

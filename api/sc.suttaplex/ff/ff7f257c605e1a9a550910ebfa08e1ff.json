@@ -29,7 +29,8 @@
           "id": "an2.98-117_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_an2.98-117_sumangal-barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ca",
@@ -53,7 +55,8 @@
           "publication_date": null,
           "id": "ca_an2.98-117_gea",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -65,7 +68,8 @@
           "publication_date": null,
           "id": "cs_an2.98-117_gavesako-chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -78,7 +82,8 @@
           "id": "an2.98-117_translation-de-sabbamitta",
           "segmented": true,
           "title": "Toren ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -90,7 +95,8 @@
           "publication_date": "1907",
           "id": "de_an2.98-117_nyanatiloka",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -103,12 +109,14 @@
           "id": "an2.98-117_translation-en-sujato",
           "segmented": true,
           "title": "Fools ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Thanissaro Bhikkhu",
           "author_short": "Thanissaro",
           "author_uid": "thanissaro",
+          "has_comment": false,
           "id": "en_an2.98-117_thanissaro",
           "is_root": false,
           "lang": "en",
@@ -128,7 +136,8 @@
           "publication_date": "2012",
           "id": "es_an2.98-117_isidatta",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -140,7 +149,8 @@
           "publication_date": null,
           "id": "fr_an2.98-117_buddhavacanaorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -152,7 +162,8 @@
           "publication_date": null,
           "id": "id_an2.98-117_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "jpn",
@@ -165,7 +176,8 @@
           "id": "an2.98-117_translation-jpn-kaz",
           "segmented": true,
           "title": "第十　愚か者　（愚人品） ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -177,7 +189,8 @@
           "publication_date": null,
           "id": "my_an2.98-117_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -189,7 +202,8 @@
           "publication_date": "2020",
           "id": "no_an2.98-117_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -202,7 +216,8 @@
           "id": "an2.98-117_translation-pt-laera-quaresma",
           "segmented": true,
           "title": "Tolos",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -214,7 +229,8 @@
           "publication_date": "2013",
           "id": "ru_an2.98-117_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -226,7 +242,8 @@
           "publication_date": null,
           "id": "si_an2.98-117_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -238,7 +255,8 @@
           "publication_date": null,
           "id": "th_an2.98-117_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -250,7 +268,8 @@
           "publication_date": "1980–1981",
           "id": "vi_an2.98-117_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 2,

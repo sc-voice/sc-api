@@ -29,7 +29,8 @@
           "id": "thig13.5_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -42,7 +43,8 @@
           "id": "thig13.5_translation-de-sabbamitta",
           "segmented": true,
           "title": "Subhā, die Tochter des Schmieds ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "publication_date": "2000",
           "id": "de_thig13.5_sass",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -67,7 +70,8 @@
           "id": "thig13.5_translation-en-sujato",
           "segmented": true,
           "title": "Subhā, the Smith’s Daughter ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -80,12 +84,14 @@
           "id": "thig13.5_translation-en-soma",
           "segmented": true,
           "title": "Subhā, the Smith’s Daughter ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Thanissaro Bhikkhu",
           "author_short": "Thanissaro",
           "author_uid": "thanissaro",
+          "has_comment": false,
           "id": "en_thig13.5_thanissaro",
           "is_root": false,
           "lang": "en",
@@ -105,7 +111,8 @@
           "publication_date": null,
           "id": "fr_thig13.5_canonpaliorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -117,7 +124,8 @@
           "publication_date": "2019",
           "id": "id_thig13.5_karniawan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -129,7 +137,8 @@
           "publication_date": "2020",
           "id": "id_thig13.5_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -141,7 +150,8 @@
           "publication_date": null,
           "id": "it_thig13.5_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "jpn",
@@ -153,7 +163,8 @@
           "publication_date": "2009–11",
           "id": "jpn_thig13.5_daikan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -165,7 +176,8 @@
           "publication_date": "2000",
           "id": "no_thig13.5_lie-stabell",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -177,7 +189,8 @@
           "publication_date": "2011",
           "id": "ru_thig13.5_bs",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -189,7 +202,8 @@
           "publication_date": null,
           "id": "si_thig13.5_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -201,7 +215,8 @@
           "publication_date": null,
           "id": "si_thig13.5_gnanananda",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -213,7 +228,8 @@
           "publication_date": "2011",
           "id": "vi_thig13.5_indacanda",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 0,

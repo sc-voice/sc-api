@@ -32,7 +32,8 @@
           "id": "dn1_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_dn1_shilabhadra",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "cs_dn1_chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -69,7 +72,8 @@
           "id": "dn1_translation-de-sabbamitta",
           "segmented": true,
           "title": "Das oberste Netz ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -81,7 +85,8 @@
           "publication_date": "1913",
           "id": "de_dn1_franke",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -94,12 +99,14 @@
           "id": "dn1_translation-en-sujato",
           "segmented": true,
           "title": "The Prime Net ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_dn1_bodhi",
           "is_root": false,
           "lang": "en",
@@ -119,7 +126,8 @@
           "publication_date": null,
           "id": "es_dn1_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "he",
@@ -131,7 +139,8 @@
           "publication_date": "2014",
           "id": "he_dn1_schwartz",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -143,7 +152,8 @@
           "publication_date": "1936",
           "id": "hi_dn1_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -155,7 +165,8 @@
           "publication_date": "2009",
           "id": "hu_dn1_pressing",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -167,7 +178,8 @@
           "publication_date": null,
           "id": "id_dn1_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -179,7 +191,8 @@
           "publication_date": null,
           "id": "it_dn1_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "kan",
@@ -191,7 +204,8 @@
           "publication_date": "2012",
           "id": "kan_dn1_srirangaraj",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -203,7 +217,8 @@
           "publication_date": null,
           "id": "my_dn1_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -215,7 +230,8 @@
           "publication_date": "2013",
           "id": "no_dn1_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -227,7 +243,8 @@
           "publication_date": "2013",
           "id": "pt_dn1_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -239,7 +256,8 @@
           "publication_date": null,
           "id": "ru_dn1_syrkina",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -251,7 +269,8 @@
           "publication_date": null,
           "id": "si_dn1_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -264,7 +283,8 @@
           "id": "dn1_translation-sr-brankokovacevic",
           "segmented": true,
           "title": "Najobuhvatnija mreža gledišta ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -276,7 +296,8 @@
           "publication_date": null,
           "id": "th_dn1_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -288,7 +309,8 @@
           "publication_date": null,
           "id": "vi_dn1_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -300,7 +322,8 @@
           "publication_date": null,
           "id": "zh_dn1_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 25,

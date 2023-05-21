@@ -32,7 +32,8 @@
           "id": "mn7_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn7_barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "cs_mn7_gavesako-chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -69,7 +72,8 @@
           "id": "mn7_translation-de-sabbamitta",
           "segmented": true,
           "title": "Das Gleichnis vom Tuch ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -81,7 +85,8 @@
           "publication_date": "2001",
           "id": "de_mn7_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -94,12 +99,14 @@
           "id": "mn7_translation-en-sujato",
           "segmented": true,
           "title": "The Simile of the Cloth ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_mn7_bodhi",
           "is_root": false,
           "lang": "en",
@@ -113,6 +120,7 @@
           "author": "Suddhāso Bhikkhu",
           "author_short": "Suddhāso",
           "author_uid": "suddhaso",
+          "has_comment": false,
           "id": "en_mn7_suddhaso",
           "is_root": false,
           "lang": "en",
@@ -126,6 +134,7 @@
           "author": "I.B. Horner",
           "author_short": "Horner",
           "author_uid": "horner",
+          "has_comment": false,
           "id": "en_mn7_horner",
           "is_root": false,
           "lang": "en",
@@ -145,7 +154,8 @@
           "publication_date": "2008",
           "id": "es_mn7_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -157,7 +167,8 @@
           "publication_date": null,
           "id": "fr_mn7_maes",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "he",
@@ -169,7 +180,8 @@
           "publication_date": "2004",
           "id": "he_mn7_schwartz",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -181,7 +193,8 @@
           "publication_date": "1933",
           "id": "hi_mn7_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -193,7 +206,8 @@
           "publication_date": "2009",
           "id": "hu_mn7_koteles",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -205,7 +219,8 @@
           "publication_date": null,
           "id": "id_mn7_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -217,7 +232,8 @@
           "publication_date": "2007",
           "id": "it_mn7_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ko",
@@ -229,7 +245,8 @@
           "publication_date": "2013",
           "id": "ko_mn7_khemacara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "lt",
@@ -242,7 +259,8 @@
           "id": "mn7_translation-lt-piyadassi",
           "segmented": true,
           "title": "Palyginimas su drobe ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -254,7 +272,8 @@
           "publication_date": null,
           "id": "my_mn7_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "nl",
@@ -266,7 +285,8 @@
           "publication_date": null,
           "id": "nl_mn7_loosbroek",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -278,7 +298,8 @@
           "publication_date": "2013",
           "id": "no_mn7_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pl",
@@ -291,7 +312,8 @@
           "id": "mn7_translation-pl-hardao",
           "segmented": true,
           "title": "Mowa o szacie ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -303,7 +325,8 @@
           "publication_date": "2014",
           "id": "pt_mn7_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -316,7 +339,8 @@
           "id": "mn7_translation-ru-sv",
           "segmented": true,
           "title": "Пример с тканью ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -328,7 +352,8 @@
           "publication_date": "2015",
           "id": "ru_mn7_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -340,7 +365,8 @@
           "publication_date": null,
           "id": "si_mn7_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -352,7 +378,8 @@
           "publication_date": null,
           "id": "sl_mn7_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -364,7 +391,8 @@
           "publication_date": "2014",
           "id": "sr_mn7_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ta",
@@ -376,7 +404,8 @@
           "publication_date": null,
           "id": "ta_mn7_arasu",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -388,7 +417,8 @@
           "publication_date": null,
           "id": "th_mn7_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -400,7 +430,8 @@
           "publication_date": null,
           "id": "vi_mn7_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -412,7 +443,8 @@
           "publication_date": null,
           "id": "zh_mn7_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 5,

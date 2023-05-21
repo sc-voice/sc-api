@@ -29,7 +29,8 @@
           "id": "an5.148_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_an5.148_pragyadarshi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "an5.148_translation-de-sabbamitta",
           "segmented": true,
           "title": "Gaben eines guten Menschen ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1907",
           "id": "de_an5.148_nyanatiloka",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,12 +83,14 @@
           "id": "an5.148_translation-en-sujato",
           "segmented": true,
           "title": "Gifts of a Good Person ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Thanissaro Bhikkhu",
           "author_short": "Thanissaro",
           "author_uid": "thanissaro",
+          "has_comment": false,
           "id": "en_an5.148_thanissaro",
           "is_root": false,
           "lang": "en",
@@ -104,7 +110,8 @@
           "publication_date": "2014",
           "id": "es_an5.148_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -116,7 +123,8 @@
           "publication_date": null,
           "id": "fr_an5.148_buddhavacanaorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -128,7 +136,8 @@
           "publication_date": null,
           "id": "id_an5.148_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -140,7 +149,8 @@
           "publication_date": null,
           "id": "my_an5.148_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -152,7 +162,8 @@
           "publication_date": "2007",
           "id": "pt_an5.148_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -164,7 +175,8 @@
           "publication_date": "2014",
           "id": "ru_an5.148_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -176,7 +188,8 @@
           "publication_date": null,
           "id": "si_an5.148_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -188,7 +201,8 @@
           "publication_date": null,
           "id": "th_an5.148_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -200,7 +214,8 @@
           "publication_date": "1980–1981",
           "id": "vi_an5.148_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -212,7 +227,8 @@
           "publication_date": null,
           "id": "zh_an5.148_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 1,

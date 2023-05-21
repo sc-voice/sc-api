@@ -32,7 +32,8 @@
           "id": "mn79_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn79_mahasthavya",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -56,7 +58,8 @@
           "publication_date": "2001",
           "id": "de_mn79_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -69,12 +72,14 @@
           "id": "mn79_translation-en-sujato",
           "segmented": true,
           "title": "The Shorter Discourse With Sakuludāyī ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "I.B. Horner",
           "author_short": "Horner",
           "author_uid": "horner",
+          "has_comment": false,
           "id": "en_mn79_horner",
           "is_root": false,
           "lang": "en",
@@ -94,7 +99,8 @@
           "publication_date": "2004",
           "id": "es_mn79_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -106,7 +112,8 @@
           "publication_date": "1933",
           "id": "hi_mn79_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -118,7 +125,8 @@
           "publication_date": null,
           "id": "id_mn79_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -130,7 +138,8 @@
           "publication_date": "2007",
           "id": "it_mn79_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -142,7 +151,8 @@
           "publication_date": null,
           "id": "my_mn79_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "nl",
@@ -154,7 +164,8 @@
           "publication_date": "2008",
           "id": "nl_mn79_dhammajoti",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -166,7 +177,8 @@
           "publication_date": "2013",
           "id": "no_mn79_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -178,7 +190,8 @@
           "publication_date": "2006",
           "id": "pt_mn79_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -190,7 +203,8 @@
           "publication_date": "2015",
           "id": "ru_mn79_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -202,7 +216,8 @@
           "publication_date": null,
           "id": "si_mn79_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -214,7 +229,8 @@
           "publication_date": null,
           "id": "sl_mn79_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -226,7 +242,8 @@
           "publication_date": "2014",
           "id": "sr_mn79_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -238,7 +255,8 @@
           "publication_date": null,
           "id": "th_mn79_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -250,7 +268,8 @@
           "publication_date": null,
           "id": "vi_mn79_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -262,7 +281,8 @@
           "publication_date": null,
           "id": "zh_mn79_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 37,

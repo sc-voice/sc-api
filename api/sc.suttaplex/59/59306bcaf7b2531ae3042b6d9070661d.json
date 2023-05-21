@@ -29,7 +29,8 @@
           "id": "thig6.4_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -42,7 +43,8 @@
           "id": "thig6.4_translation-de-sabbamitta",
           "segmented": true,
           "title": "Sujātā ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "publication_date": "2000",
           "id": "de_thig6.4_sass",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -67,7 +70,8 @@
           "id": "thig6.4_translation-en-sujato",
           "segmented": true,
           "title": "Sujātā ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -80,12 +84,14 @@
           "id": "thig6.4_translation-en-soma",
           "segmented": true,
           "title": "Sujātā ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Dr. Hellmuth Hecker, Ayya Khema",
           "author_short": "Hecker …",
           "author_uid": "hecker-khema",
+          "has_comment": false,
           "id": "en_thig6.4_hecker-khema",
           "is_root": false,
           "lang": "en",
@@ -105,7 +111,8 @@
           "publication_date": "2019",
           "id": "id_thig6.4_karniawan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -117,7 +124,8 @@
           "publication_date": "2020",
           "id": "id_thig6.4_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -129,7 +137,8 @@
           "publication_date": null,
           "id": "it_thig6.4_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "jpn",
@@ -141,7 +150,8 @@
           "publication_date": "2009–11",
           "id": "jpn_thig6.4_daikan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -153,7 +163,8 @@
           "publication_date": "2000",
           "id": "no_thig6.4_lie-stabell",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -165,7 +176,8 @@
           "publication_date": null,
           "id": "si_thig6.4_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -177,7 +189,8 @@
           "publication_date": null,
           "id": "si_thig6.4_gnanananda",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -189,7 +202,8 @@
           "publication_date": "2011",
           "id": "vi_thig6.4_indacanda",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 0,

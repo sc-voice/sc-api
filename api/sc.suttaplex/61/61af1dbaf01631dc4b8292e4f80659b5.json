@@ -32,7 +32,8 @@
           "id": "mn145_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn145_chowdhury",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -57,7 +59,8 @@
           "id": "mn145_translation-de-sabbamitta",
           "segmented": true,
           "title": "Rat an Puṇṇa ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -69,7 +72,8 @@
           "publication_date": "2001",
           "id": "de_mn145_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -82,7 +86,8 @@
           "id": "mn145_translation-en-sujato",
           "segmented": true,
           "title": "Advice to Puṇṇa ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "es",
@@ -94,7 +99,8 @@
           "publication_date": null,
           "id": "es_mn145_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -106,7 +112,8 @@
           "publication_date": null,
           "id": "hi_mn145_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -118,7 +125,8 @@
           "publication_date": null,
           "id": "id_mn145_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -130,7 +138,8 @@
           "publication_date": "2007",
           "id": "it_mn145_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -142,7 +151,8 @@
           "publication_date": null,
           "id": "my_mn145_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -154,7 +164,8 @@
           "publication_date": "2013",
           "id": "no_mn145_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -166,7 +177,8 @@
           "publication_date": "2013",
           "id": "pt_mn145_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -178,7 +190,8 @@
           "publication_date": "2016",
           "id": "ru_mn145_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -190,7 +203,8 @@
           "publication_date": null,
           "id": "si_mn145_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -202,7 +216,8 @@
           "publication_date": "2014",
           "id": "sr_mn145_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -214,7 +229,8 @@
           "publication_date": null,
           "id": "th_mn145_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -226,7 +242,8 @@
           "publication_date": null,
           "id": "vi_mn145_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -238,7 +255,8 @@
           "publication_date": null,
           "id": "zh_mn145_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 6,

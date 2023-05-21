@@ -32,7 +32,8 @@
           "id": "dn32_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_dn32_shilabhadra",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -57,7 +59,8 @@
           "id": "dn32_translation-de-sabbamitta",
           "segmented": true,
           "title": "Der Āṭānāṭiya-Schutz ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -70,12 +73,14 @@
           "id": "dn32_translation-en-sujato",
           "segmented": true,
           "title": "The Āṭānāṭiya Protection ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Ānandajoti",
           "author_short": "Ānandajoti",
           "author_uid": "anandajoti",
+          "has_comment": false,
           "id": "en_dn32_anandajoti",
           "is_root": false,
           "lang": "en",
@@ -95,7 +100,8 @@
           "publication_date": "1999",
           "id": "es_dn32_pachon",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "he",
@@ -107,7 +113,8 @@
           "publication_date": "2014",
           "id": "he_dn32_schwartz",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -119,7 +126,8 @@
           "publication_date": "1936",
           "id": "hi_dn32_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -131,7 +139,8 @@
           "publication_date": null,
           "id": "id_dn32_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -143,7 +152,8 @@
           "publication_date": "1999",
           "id": "it_dn32_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "kan",
@@ -155,7 +165,8 @@
           "publication_date": "2012",
           "id": "kan_dn32_srirangaraj",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -167,7 +178,8 @@
           "publication_date": null,
           "id": "my_dn32_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -179,7 +191,8 @@
           "publication_date": "2013",
           "id": "no_dn32_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -191,7 +204,8 @@
           "publication_date": "2009",
           "id": "pt_dn32_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -203,7 +217,8 @@
           "publication_date": null,
           "id": "si_dn32_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -215,7 +230,8 @@
           "publication_date": null,
           "id": "th_dn32_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -227,7 +243,8 @@
           "publication_date": null,
           "id": "vi_dn32_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -239,7 +256,8 @@
           "publication_date": null,
           "id": "zh_dn32_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 10,

@@ -29,7 +29,8 @@
           "id": "sn55.4_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn55.4_bangish-ajit-pragyadarshi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "sn55.4_translation-de-sabbamitta",
           "segmented": true,
           "title": "Mit Sāriputta (1) ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1993",
           "id": "de_sn55.4_hecker",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,7 +83,8 @@
           "id": "sn55.4_translation-en-sujato",
           "segmented": true,
           "title": "With Sāriputta (1st) ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -92,7 +97,8 @@
           "id": "sn55.4_translation-fr-sekha",
           "segmented": true,
           "title": "Avec Saripoutta (1) ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -104,7 +110,8 @@
           "publication_date": null,
           "id": "id_sn55.4_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -116,7 +123,8 @@
           "publication_date": null,
           "id": "my_sn55.4_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -128,7 +136,8 @@
           "publication_date": "2019",
           "id": "no_sn55.4_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -140,7 +149,8 @@
           "publication_date": "2011",
           "id": "ru_sn55.4_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -152,7 +162,8 @@
           "publication_date": null,
           "id": "si_sn55.4_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -164,7 +175,8 @@
           "publication_date": null,
           "id": "th_sn55.4_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -176,7 +188,8 @@
           "publication_date": "1980",
           "id": "vi_sn55.4_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -188,7 +201,8 @@
           "publication_date": null,
           "id": "zh_sn55.4_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 1,

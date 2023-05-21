@@ -29,7 +29,8 @@
           "id": "an3.86_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_an3.86_sumangal-barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "an3.86_translation-de-sabbamitta",
           "segmented": true,
           "title": "Schulung (1) ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1907",
           "id": "de_an3.86_nyanatiloka",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,12 +83,14 @@
           "id": "an3.86_translation-en-sujato",
           "segmented": true,
           "title": "Training (1st) ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Thanissaro Bhikkhu",
           "author_short": "Thanissaro",
           "author_uid": "thanissaro",
+          "has_comment": false,
           "id": "en_an3.86_thanissaro",
           "is_root": false,
           "lang": "en",
@@ -104,7 +110,8 @@
           "publication_date": "2012",
           "id": "es_an3.86_isidatta",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -116,7 +123,8 @@
           "publication_date": null,
           "id": "id_an3.86_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -128,7 +136,8 @@
           "publication_date": null,
           "id": "my_an3.86_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -140,7 +149,8 @@
           "publication_date": "2013",
           "id": "pt_an3.86_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -152,7 +162,8 @@
           "publication_date": "2014",
           "id": "ru_an3.86_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -164,7 +175,8 @@
           "publication_date": null,
           "id": "si_an3.86_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -176,7 +188,8 @@
           "publication_date": null,
           "id": "th_an3.86_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -188,7 +201,8 @@
           "publication_date": "1980–1981",
           "id": "vi_an3.86_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -200,7 +214,8 @@
           "publication_date": null,
           "id": "zh_an3.86_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 3,

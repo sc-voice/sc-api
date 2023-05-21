@@ -29,7 +29,8 @@
           "id": "sn22.106_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn22.106_indragupta-suman-adikalyan-sivak-rahul",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "sn22.106_translation-de-sabbamitta",
           "segmented": true,
           "title": "Muss vollständig verstanden werden ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1967",
           "id": "de_sn22.106_nyanaponika",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,7 +83,8 @@
           "id": "sn22.106_translation-en-sujato",
           "segmented": true,
           "title": "Should Be Completely Understood ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "es",
@@ -91,7 +96,8 @@
           "publication_date": "2010",
           "id": "es_sn22.106_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -103,7 +109,8 @@
           "publication_date": null,
           "id": "id_sn22.106_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -115,7 +122,8 @@
           "publication_date": null,
           "id": "my_sn22.106_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -127,7 +135,8 @@
           "publication_date": "2017",
           "id": "no_sn22.106_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -139,7 +148,8 @@
           "publication_date": "2004",
           "id": "pt_sn22.106_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -151,7 +161,8 @@
           "publication_date": "2012",
           "id": "ru_sn22.106_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -163,7 +174,8 @@
           "publication_date": null,
           "id": "si_sn22.106_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -175,7 +187,8 @@
           "publication_date": null,
           "id": "th_sn22.106_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -187,7 +200,8 @@
           "publication_date": "1980",
           "id": "vi_sn22.106_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -199,7 +213,8 @@
           "publication_date": null,
           "id": "zh_sn22.106_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 2,

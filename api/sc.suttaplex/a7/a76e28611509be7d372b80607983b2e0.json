@@ -32,7 +32,8 @@
           "id": "dn30_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_dn30_shilabhadra",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -57,7 +59,8 @@
           "id": "dn30_translation-de-sabbamitta",
           "segmented": true,
           "title": "Die Kennzeichen eines großen Mannes ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -70,12 +73,14 @@
           "id": "dn30_translation-en-sujato",
           "segmented": true,
           "title": "The Marks of a Great Man ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": true
         },
         {
           "author": "T.W. & C.A.F. Rhys Davids",
           "author_short": "Rhys Davids",
           "author_uid": "tw-caf_rhysdavids",
+          "has_comment": false,
           "id": "en_dn30_tw-caf_rhysdavids",
           "is_root": false,
           "lang": "en",
@@ -95,7 +100,8 @@
           "publication_date": "2014",
           "id": "he_dn30_schwartz",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -107,7 +113,8 @@
           "publication_date": "1936",
           "id": "hi_dn30_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -119,7 +126,8 @@
           "publication_date": null,
           "id": "id_dn30_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -131,7 +139,8 @@
           "publication_date": null,
           "id": "it_dn30_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "kan",
@@ -143,7 +152,8 @@
           "publication_date": "2012",
           "id": "kan_dn30_srirangaraj",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -155,7 +165,8 @@
           "publication_date": null,
           "id": "my_dn30_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -167,7 +178,8 @@
           "publication_date": "2013",
           "id": "no_dn30_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -179,7 +191,8 @@
           "publication_date": "2005",
           "id": "pt_dn30_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -191,7 +204,8 @@
           "publication_date": null,
           "id": "si_dn30_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -203,7 +217,8 @@
           "publication_date": null,
           "id": "th_dn30_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -215,7 +230,8 @@
           "publication_date": null,
           "id": "vi_dn30_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -227,7 +243,8 @@
           "publication_date": null,
           "id": "zh_dn30_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 6,

@@ -29,7 +29,8 @@
           "id": "sn20.6_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn20.6_indragupta-bangish-ajit",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "sn20.6_translation-de-sabbamitta",
           "segmented": true,
           "title": "Die Bogenschützen ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1967",
           "id": "de_sn20.6_nyanaponika",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,7 +83,8 @@
           "id": "sn20.6_translation-en-sujato",
           "segmented": true,
           "title": "The Archers ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -91,7 +96,8 @@
           "publication_date": "2011",
           "id": "hu_sn20.6_fenyvesi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -103,7 +109,8 @@
           "publication_date": null,
           "id": "id_sn20.6_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -115,7 +122,8 @@
           "publication_date": "1999",
           "id": "it_sn20.6_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -127,7 +135,8 @@
           "publication_date": null,
           "id": "my_sn20.6_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -139,7 +148,8 @@
           "publication_date": "2016",
           "id": "no_sn20.6_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -151,7 +161,8 @@
           "publication_date": "2013",
           "id": "ru_sn20.6_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -163,7 +174,8 @@
           "publication_date": null,
           "id": "si_sn20.6_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -175,7 +187,8 @@
           "publication_date": null,
           "id": "th_sn20.6_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -187,7 +200,8 @@
           "publication_date": "1980",
           "id": "vi_sn20.6_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -199,7 +213,8 @@
           "publication_date": null,
           "id": "zh_sn20.6_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 1,

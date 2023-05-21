@@ -29,7 +29,8 @@
           "id": "sn36.6_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn36.6_gyanendriya",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ca",
@@ -53,7 +55,8 @@
           "publication_date": null,
           "id": "ca_sn36.6_font",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -65,7 +68,8 @@
           "publication_date": null,
           "id": "cs_sn36.6_gavesako-chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -78,7 +82,8 @@
           "id": "sn36.6_translation-de-sabbamitta",
           "segmented": true,
           "title": "Ein Pfeil ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -90,7 +95,8 @@
           "publication_date": "1993",
           "id": "de_sn36.6_hecker",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -103,12 +109,14 @@
           "id": "sn36.6_translation-en-sujato",
           "segmented": true,
           "title": "An Arrow ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_sn36.6_bodhi",
           "is_root": false,
           "lang": "en",
@@ -122,6 +130,7 @@
           "author": "Suddhāso Bhikkhu",
           "author_short": "Suddhāso",
           "author_uid": "suddhaso",
+          "has_comment": false,
           "id": "en_sn36.6_suddhaso",
           "is_root": false,
           "lang": "en",
@@ -141,7 +150,8 @@
           "publication_date": "2014",
           "id": "es_sn36.6_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "es",
@@ -153,7 +163,8 @@
           "publication_date": null,
           "id": "es_sn36.6_font",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -165,7 +176,8 @@
           "publication_date": null,
           "id": "fr_sn36.6_canonpaliorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -177,7 +189,8 @@
           "publication_date": null,
           "id": "id_sn36.6_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -189,7 +202,8 @@
           "publication_date": null,
           "id": "it_sn36.6_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "lt",
@@ -202,7 +216,8 @@
           "id": "sn36.6_translation-lt-piyadassi",
           "segmented": true,
           "title": "Strėlė ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -214,7 +229,8 @@
           "publication_date": null,
           "id": "my_sn36.6_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -226,7 +242,8 @@
           "publication_date": "2018",
           "id": "no_sn36.6_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -238,7 +255,8 @@
           "publication_date": "2004",
           "id": "pt_sn36.6_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -250,7 +268,8 @@
           "publication_date": "2013",
           "id": "ru_sn36.6_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -262,7 +281,8 @@
           "publication_date": null,
           "id": "si_sn36.6_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -274,7 +294,8 @@
           "publication_date": null,
           "id": "sl_sn36.6_hiriko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -286,7 +307,8 @@
           "publication_date": null,
           "id": "th_sn36.6_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -298,7 +320,8 @@
           "publication_date": "1980",
           "id": "vi_sn36.6_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -310,7 +333,8 @@
           "publication_date": null,
           "id": "zh_sn36.6_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 1,

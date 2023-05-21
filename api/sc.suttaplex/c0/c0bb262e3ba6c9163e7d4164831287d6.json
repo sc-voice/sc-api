@@ -29,7 +29,8 @@
           "id": "sn4.7_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn4.7_indragupta-bangish-ajit-sivak",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ca",
@@ -53,7 +55,8 @@
           "publication_date": null,
           "id": "ca_sn4.7_gea",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "id": "sn4.7_translation-de-sabbamitta",
           "segmented": true,
           "title": "Schlafen ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -78,7 +82,8 @@
           "publication_date": "1925",
           "id": "de_sn4.7_geiger",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -91,12 +96,14 @@
           "id": "sn4.7_translation-en-sujato",
           "segmented": true,
           "title": "Sleeping ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_sn4.7_bodhi",
           "is_root": false,
           "lang": "en",
@@ -116,7 +123,8 @@
           "publication_date": "2015",
           "id": "es_sn4.7_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -128,7 +136,8 @@
           "publication_date": null,
           "id": "id_sn4.7_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -140,7 +149,8 @@
           "publication_date": null,
           "id": "it_sn4.7_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -152,7 +162,8 @@
           "publication_date": null,
           "id": "my_sn4.7_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -164,7 +175,8 @@
           "publication_date": "2015",
           "id": "no_sn4.7_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -176,7 +188,8 @@
           "publication_date": "2013",
           "id": "ru_sn4.7_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -188,7 +201,8 @@
           "publication_date": null,
           "id": "si_sn4.7_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -200,7 +214,8 @@
           "publication_date": null,
           "id": "th_sn4.7_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -212,7 +227,8 @@
           "publication_date": "1980",
           "id": "vi_sn4.7_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -224,7 +240,8 @@
           "publication_date": null,
           "id": "zh_sn4.7_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 10,

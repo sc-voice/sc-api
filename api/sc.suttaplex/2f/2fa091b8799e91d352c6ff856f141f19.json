@@ -10,7 +10,7 @@
       "volpages": " PTS (1st ed) 1.176, PTS (1st ed) 1.177",
       "alt_volpages": " PTS (2nd ed) 1.378, PTS (2nd ed) 1.379, PTS (2nd ed) 1.380, PTS (2nd ed) 1.381",
       "uid": "sn7.14",
-      "blurb": "A brahmin is shabby clothes has been kicked out of his home by ungrateful sons. The Buddha gives him a verse to recite in the village council, comparing his faithless sons to his trusty wooden staff. Ashamed, the sons take back their father, bathe and dress him.",
+      "blurb": "A brahmin in shabby clothes has been kicked out of his home by ungrateful sons. The Buddha gives him a verse to recite in the village council, comparing his faithless sons to his trusty wooden staff. Ashamed, the sons take back their father, bathe and dress him.",
       "difficulty": null,
       "original_title": "Mahāsālasutta",
       "root_lang": "pli",
@@ -29,7 +29,8 @@
           "id": "sn7.14_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn7.14_indragupta-bangish-ajit-sivak",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ca",
@@ -53,7 +55,8 @@
           "publication_date": null,
           "id": "ca_sn7.14_gea",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "id": "sn7.14_translation-de-sabbamitta",
           "segmented": true,
           "title": "Ein gutsituierter Brahmane ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -78,7 +82,8 @@
           "publication_date": "1925",
           "id": "de_sn7.14_geiger",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -91,7 +96,8 @@
           "id": "sn7.14_translation-en-sujato",
           "segmented": true,
           "title": "A well-to-do brahmin ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "es",
@@ -103,7 +109,8 @@
           "publication_date": "2015",
           "id": "es_sn7.14_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -115,7 +122,8 @@
           "publication_date": null,
           "id": "id_sn7.14_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -127,7 +135,8 @@
           "publication_date": "1999",
           "id": "it_sn7.14_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -139,7 +148,8 @@
           "publication_date": null,
           "id": "my_sn7.14_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -151,7 +161,8 @@
           "publication_date": "2015",
           "id": "no_sn7.14_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -163,7 +174,8 @@
           "publication_date": "2005",
           "id": "pt_sn7.14_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -175,7 +187,8 @@
           "publication_date": "2013",
           "id": "ru_sn7.14_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -187,7 +200,8 @@
           "publication_date": null,
           "id": "si_sn7.14_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -199,7 +213,8 @@
           "publication_date": null,
           "id": "th_sn7.14_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -211,7 +226,8 @@
           "publication_date": "1980",
           "id": "vi_sn7.14_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -223,7 +239,8 @@
           "publication_date": null,
           "id": "zh_sn7.14_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 3,

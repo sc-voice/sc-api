@@ -32,7 +32,8 @@
           "id": "mn19_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn19_barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "cs_mn19_gavesako-chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -69,7 +72,8 @@
           "id": "mn19_translation-de-sabbamitta",
           "segmented": true,
           "title": "Zwei Arten von Gedanken ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -81,7 +85,8 @@
           "publication_date": "2001",
           "id": "de_mn19_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -94,12 +99,14 @@
           "id": "mn19_translation-en-sujato",
           "segmented": true,
           "title": "Two Kinds of Thought ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_mn19_bodhi",
           "is_root": false,
           "lang": "en",
@@ -113,6 +120,7 @@
           "author": "Suddhāso Bhikkhu",
           "author_short": "Suddhāso",
           "author_uid": "suddhaso",
+          "has_comment": false,
           "id": "en_mn19_suddhaso",
           "is_root": false,
           "lang": "en",
@@ -126,6 +134,7 @@
           "author": "I.B. Horner",
           "author_short": "Horner",
           "author_uid": "horner",
+          "has_comment": false,
           "id": "en_mn19_horner",
           "is_root": false,
           "lang": "en",
@@ -145,7 +154,8 @@
           "publication_date": "2006",
           "id": "es_mn19_jose",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fi",
@@ -157,7 +167,8 @@
           "publication_date": "2020",
           "id": "fi_mn19_lamminaho",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -169,7 +180,8 @@
           "publication_date": null,
           "id": "fr_mn19_maes",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -181,7 +193,8 @@
           "publication_date": null,
           "id": "fr_mn19_buddhavacanaorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -193,7 +206,8 @@
           "publication_date": "1933",
           "id": "hi_mn19_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -205,7 +219,8 @@
           "publication_date": "2010",
           "id": "hu_mn19_sandor",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -217,7 +232,8 @@
           "publication_date": null,
           "id": "id_mn19_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -229,7 +245,8 @@
           "publication_date": "2007",
           "id": "it_mn19_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ko",
@@ -241,7 +258,8 @@
           "publication_date": "2013",
           "id": "ko_mn19_khemacara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "lt",
@@ -254,7 +272,8 @@
           "id": "mn19_translation-lt-piyadassi",
           "segmented": true,
           "title": "Dvejų rūšių mintys ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -266,7 +285,8 @@
           "publication_date": null,
           "id": "my_mn19_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "nl",
@@ -278,7 +298,8 @@
           "publication_date": "2008",
           "id": "nl_mn19_dhammajoti",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "nl",
@@ -290,7 +311,8 @@
           "publication_date": null,
           "id": "nl_mn19_loosbroek",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -302,7 +324,8 @@
           "publication_date": "2013",
           "id": "no_mn19_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -314,7 +337,8 @@
           "publication_date": "2006",
           "id": "pt_mn19_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ro",
@@ -326,7 +350,8 @@
           "publication_date": "2019",
           "id": "ro_mn19_dhammadharo",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -339,7 +364,8 @@
           "id": "mn19_translation-ru-sv",
           "segmented": true,
           "title": "Два типа мыслей ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -351,7 +377,8 @@
           "publication_date": "2013",
           "id": "ru_mn19_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -363,7 +390,8 @@
           "publication_date": null,
           "id": "si_mn19_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -375,7 +403,8 @@
           "publication_date": null,
           "id": "sl_mn19_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -387,7 +416,8 @@
           "publication_date": "2014",
           "id": "sr_mn19_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -399,7 +429,8 @@
           "publication_date": null,
           "id": "th_mn19_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -411,7 +442,8 @@
           "publication_date": null,
           "id": "vi_mn19_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -423,7 +455,8 @@
           "publication_date": null,
           "id": "zh_mn19_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 2,

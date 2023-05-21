@@ -29,7 +29,8 @@
           "id": "thig3.7_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -42,7 +43,8 @@
           "id": "thig3.7_translation-de-sabbamitta",
           "segmented": true,
           "title": "Selā ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "publication_date": "2000",
           "id": "de_thig3.7_sass",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -67,7 +70,8 @@
           "id": "thig3.7_translation-en-sujato",
           "segmented": true,
           "title": "Selā ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -80,7 +84,8 @@
           "id": "thig3.7_translation-en-soma",
           "segmented": true,
           "title": "Selā ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -92,7 +97,8 @@
           "publication_date": "2008",
           "id": "hu_thig3.7_balint",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -104,7 +110,8 @@
           "publication_date": "2019",
           "id": "id_thig3.7_karniawan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -116,7 +123,8 @@
           "publication_date": "2020",
           "id": "id_thig3.7_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "jpn",
@@ -128,7 +136,8 @@
           "publication_date": "2009–11",
           "id": "jpn_thig3.7_daikan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -140,7 +149,8 @@
           "publication_date": "2000",
           "id": "no_thig3.7_lie-stabell",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -152,7 +162,8 @@
           "publication_date": null,
           "id": "si_thig3.7_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -164,7 +175,8 @@
           "publication_date": "2011",
           "id": "vi_thig3.7_indacanda",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 1,

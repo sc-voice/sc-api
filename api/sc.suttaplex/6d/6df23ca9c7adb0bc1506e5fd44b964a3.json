@@ -32,7 +32,8 @@
           "id": "mn52_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn52_mahasthavya",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "cs_mn52_chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -69,7 +72,8 @@
           "id": "mn52_translation-de-sabbamitta",
           "segmented": true,
           "title": "Der Mann aus der Stadt Aṭṭhaka ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -81,7 +85,8 @@
           "publication_date": "2001",
           "id": "de_mn52_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -94,12 +99,14 @@
           "id": "mn52_translation-en-sujato",
           "segmented": true,
           "title": "The Man From the City of Aṭṭhaka ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_mn52_bodhi",
           "is_root": false,
           "lang": "en",
@@ -113,6 +120,7 @@
           "author": "Suddhāso Bhikkhu",
           "author_short": "Suddhāso",
           "author_uid": "suddhaso",
+          "has_comment": false,
           "id": "en_mn52_suddhaso",
           "is_root": false,
           "lang": "en",
@@ -126,6 +134,7 @@
           "author": "I.B. Horner",
           "author_short": "Horner",
           "author_uid": "horner",
+          "has_comment": false,
           "id": "en_mn52_horner",
           "is_root": false,
           "lang": "en",
@@ -145,7 +154,8 @@
           "publication_date": null,
           "id": "es_mn52_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -157,7 +167,8 @@
           "publication_date": "1933",
           "id": "hi_mn52_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -169,7 +180,8 @@
           "publication_date": "2009",
           "id": "hu_mn52_fenyvesi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -181,7 +193,8 @@
           "publication_date": null,
           "id": "id_mn52_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -193,7 +206,8 @@
           "publication_date": "2007",
           "id": "it_mn52_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -205,7 +219,8 @@
           "publication_date": null,
           "id": "my_mn52_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -217,7 +232,8 @@
           "publication_date": "2013",
           "id": "no_mn52_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -229,7 +245,8 @@
           "publication_date": "2007",
           "id": "pt_mn52_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -241,7 +258,8 @@
           "publication_date": "2015",
           "id": "ru_mn52_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -253,7 +271,8 @@
           "publication_date": null,
           "id": "si_mn52_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -265,7 +284,8 @@
           "publication_date": null,
           "id": "sl_mn52_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -277,7 +297,8 @@
           "publication_date": "2014",
           "id": "sr_mn52_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -289,7 +310,8 @@
           "publication_date": null,
           "id": "th_mn52_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -301,7 +323,8 @@
           "publication_date": null,
           "id": "vi_mn52_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -313,7 +336,8 @@
           "publication_date": null,
           "id": "zh_mn52_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 6,

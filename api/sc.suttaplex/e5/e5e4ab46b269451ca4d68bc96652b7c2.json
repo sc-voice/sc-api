@@ -32,7 +32,8 @@
           "id": "dn24_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_dn24_shilabhadra",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -57,7 +59,8 @@
           "id": "dn24_translation-de-sabbamitta",
           "segmented": true,
           "title": "Über Pāṭikaputta ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -70,12 +73,14 @@
           "id": "dn24_translation-en-sujato",
           "segmented": true,
           "title": "About Pāṭikaputta ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": true
         },
         {
           "author": "T.W. Rhys Davids",
           "author_short": "T.W. Rhys Davids",
           "author_uid": "tw_rhysdavids",
+          "has_comment": false,
           "id": "en_dn24_tw_rhysdavids",
           "is_root": false,
           "lang": "en",
@@ -95,7 +100,8 @@
           "publication_date": "2014",
           "id": "he_dn24_schwartz",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -107,7 +113,8 @@
           "publication_date": "1936",
           "id": "hi_dn24_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -119,7 +126,8 @@
           "publication_date": null,
           "id": "id_dn24_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -131,7 +139,8 @@
           "publication_date": null,
           "id": "it_dn24_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "kan",
@@ -143,7 +152,8 @@
           "publication_date": "2012",
           "id": "kan_dn24_srirangaraj",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -155,7 +165,8 @@
           "publication_date": null,
           "id": "my_dn24_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -167,7 +178,8 @@
           "publication_date": "2013",
           "id": "no_dn24_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -179,7 +191,8 @@
           "publication_date": "2006",
           "id": "pt_dn24_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -191,7 +204,8 @@
           "publication_date": null,
           "id": "si_dn24_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -203,7 +217,8 @@
           "publication_date": null,
           "id": "th_dn24_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -215,7 +230,8 @@
           "publication_date": null,
           "id": "vi_dn24_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -227,7 +243,8 @@
           "publication_date": null,
           "id": "zh_dn24_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 5,

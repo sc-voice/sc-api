@@ -32,7 +32,8 @@
           "id": "dn29_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_dn29_shilabhadra",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -57,7 +59,8 @@
           "id": "dn29_translation-de-sabbamitta",
           "segmented": true,
           "title": "Eine beeindruckende Lehrrede ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -70,12 +73,14 @@
           "id": "dn29_translation-en-sujato",
           "segmented": true,
           "title": "An Impressive Discourse ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": true
         },
         {
           "author": "T.W. & C.A.F. Rhys Davids",
           "author_short": "Rhys Davids",
           "author_uid": "tw-caf_rhysdavids",
+          "has_comment": false,
           "id": "en_dn29_tw-caf_rhysdavids",
           "is_root": false,
           "lang": "en",
@@ -95,7 +100,8 @@
           "publication_date": "1995",
           "id": "es_dn29_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "he",
@@ -107,7 +113,8 @@
           "publication_date": "2014",
           "id": "he_dn29_schwartz",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -119,7 +126,8 @@
           "publication_date": "1936",
           "id": "hi_dn29_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -131,7 +139,8 @@
           "publication_date": null,
           "id": "id_dn29_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -143,7 +152,8 @@
           "publication_date": null,
           "id": "it_dn29_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "kan",
@@ -155,7 +165,8 @@
           "publication_date": "2012",
           "id": "kan_dn29_srirangaraj",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -167,7 +178,8 @@
           "publication_date": null,
           "id": "my_dn29_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -179,7 +191,8 @@
           "publication_date": "2013",
           "id": "no_dn29_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -191,7 +204,8 @@
           "publication_date": "2006",
           "id": "pt_dn29_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -203,7 +217,8 @@
           "publication_date": null,
           "id": "ru_dn29_shapovalov",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -215,7 +230,8 @@
           "publication_date": null,
           "id": "si_dn29_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -227,7 +243,8 @@
           "publication_date": null,
           "id": "th_dn29_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -239,7 +256,8 @@
           "publication_date": null,
           "id": "vi_dn29_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -251,7 +269,8 @@
           "publication_date": null,
           "id": "zh_dn29_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 10,

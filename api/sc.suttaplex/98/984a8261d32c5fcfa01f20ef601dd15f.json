@@ -32,7 +32,8 @@
           "id": "dn8_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_dn8_shilabhadra",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -56,7 +58,8 @@
           "publication_date": "1913",
           "id": "de_dn8_franke",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -69,12 +72,14 @@
           "id": "dn8_translation-en-sujato",
           "segmented": true,
           "title": "The Longer Discourse on the Lion’s Roar ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": true
         },
         {
           "author": "T.W. Rhys Davids",
           "author_short": "T.W. Rhys Davids",
           "author_uid": "tw_rhysdavids",
+          "has_comment": false,
           "id": "en_dn8_tw_rhysdavids",
           "is_root": false,
           "lang": "en",
@@ -94,7 +99,8 @@
           "publication_date": "2014",
           "id": "he_dn8_schwartz",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -106,7 +112,8 @@
           "publication_date": "1936",
           "id": "hi_dn8_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -118,7 +125,8 @@
           "publication_date": null,
           "id": "id_dn8_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -130,7 +138,8 @@
           "publication_date": null,
           "id": "it_dn8_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "kan",
@@ -142,7 +151,8 @@
           "publication_date": "2012",
           "id": "kan_dn8_srirangaraj",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -154,7 +164,8 @@
           "publication_date": null,
           "id": "my_dn8_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -166,7 +177,8 @@
           "publication_date": "2013",
           "id": "no_dn8_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -178,7 +190,8 @@
           "publication_date": "2008",
           "id": "pt_dn8_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -190,7 +203,8 @@
           "publication_date": null,
           "id": "si_dn8_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -203,7 +217,8 @@
           "id": "dn8_translation-sr-brankokovacevic",
           "segmented": true,
           "title": "Veliki lavlji rik ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -215,7 +230,8 @@
           "publication_date": null,
           "id": "th_dn8_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -227,7 +243,8 @@
           "publication_date": null,
           "id": "vi_dn8_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -239,7 +256,8 @@
           "publication_date": null,
           "id": "zh_dn8_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 48,

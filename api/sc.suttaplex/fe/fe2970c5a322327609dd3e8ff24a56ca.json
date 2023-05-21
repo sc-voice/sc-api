@@ -29,7 +29,8 @@
           "id": "sn56.11_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn56.11_bangish-ajit-pragyadarshi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ca",
@@ -53,7 +55,8 @@
           "publication_date": null,
           "id": "ca_sn56.11_font",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -65,7 +68,8 @@
           "publication_date": null,
           "id": "cs_sn56.11_marx",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -78,7 +82,8 @@
           "id": "sn56.11_translation-de-sabbamitta",
           "segmented": true,
           "title": "Das Rad des Dhamma ins Rollen bringen ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -90,7 +95,8 @@
           "publication_date": "1993",
           "id": "de_sn56.11_hecker",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -103,12 +109,14 @@
           "id": "sn56.11_translation-en-sujato",
           "segmented": true,
           "title": "Rolling Forth the Wheel of Dhamma ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_sn56.11_bodhi",
           "is_root": false,
           "lang": "en",
@@ -128,7 +136,8 @@
           "publication_date": "2008–14",
           "id": "es_sn56.11_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fi",
@@ -140,7 +149,8 @@
           "publication_date": null,
           "id": "fi_sn56.11_tae-hye",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -153,7 +163,8 @@
           "id": "sn56.11_translation-fr-sekha",
           "segmented": true,
           "title": "La mise en mouvement de la roue du Dhamma ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -166,7 +177,8 @@
           "id": "sn56.11_translation-fr-noeismet",
           "segmented": true,
           "title": "La mise en mouvement de la roue du Dhamma ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "he",
@@ -178,7 +190,8 @@
           "publication_date": "2004",
           "id": "he_sn56.11_schwartz",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -190,7 +203,8 @@
           "publication_date": "1989",
           "id": "hu_sn56.11_vekerdi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -202,7 +216,8 @@
           "publication_date": null,
           "id": "id_sn56.11_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -214,7 +229,8 @@
           "publication_date": null,
           "id": "it_sn56.11_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "lt",
@@ -227,7 +243,8 @@
           "id": "sn56.11_translation-lt-piyadassi",
           "segmented": true,
           "title": "Dhammos rato įsukimas",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -239,7 +256,8 @@
           "publication_date": null,
           "id": "my_sn56.11_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "nl",
@@ -251,7 +269,8 @@
           "publication_date": "2008",
           "id": "nl_sn56.11_dhammajoti",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "nl",
@@ -263,7 +282,8 @@
           "publication_date": null,
           "id": "nl_sn56.11_loosbroek",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "nl",
@@ -275,7 +295,8 @@
           "publication_date": null,
           "id": "nl_sn56.11_dubois",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -287,7 +308,8 @@
           "publication_date": "2019",
           "id": "no_sn56.11_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -299,7 +321,8 @@
           "publication_date": "2008",
           "id": "pt_sn56.11_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -311,7 +334,8 @@
           "publication_date": "2014",
           "id": "ru_sn56.11_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -323,7 +347,8 @@
           "publication_date": null,
           "id": "si_sn56.11_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -335,7 +360,8 @@
           "publication_date": null,
           "id": "sl_sn56.11_hiriko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sv",
@@ -347,7 +373,8 @@
           "publication_date": null,
           "id": "sv_sn56.11_jonhagen",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ta",
@@ -359,7 +386,8 @@
           "publication_date": null,
           "id": "ta_sn56.11_natarajan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -371,7 +399,8 @@
           "publication_date": null,
           "id": "th_sn56.11_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -383,7 +412,8 @@
           "publication_date": "1980",
           "id": "vi_sn56.11_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -395,7 +425,8 @@
           "publication_date": null,
           "id": "zh_sn56.11_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -407,7 +438,8 @@
           "publication_date": null,
           "id": "zh_sn56.11_guabo",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -419,7 +451,8 @@
           "publication_date": null,
           "id": "zh_sn56.11_lu",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 23,

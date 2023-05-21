@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Accomplishment in Proper Attention (1st) ",
+      "translated_title": "Accomplishment in Rational Attention (1st) ",
       "translations": [
         {
           "lang": "pli",
@@ -29,7 +29,8 @@
           "id": "sn45.55_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn45.55_bangish-ajit-pragyadarshi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "sn45.55_translation-de-sabbamitta",
           "segmented": true,
           "title": "Vervollkommnung in gründlicher Aufmerksamkeit ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1993",
           "id": "de_sn45.55_hecker",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -78,13 +82,15 @@
           "publication_date": null,
           "id": "sn45.55_translation-en-sujato",
           "segmented": true,
-          "title": "Accomplishment in Proper Attention (1st) ",
-          "volpage": null
+          "title": "Accomplishment in Rational Attention (1st) ",
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_sn45.55_bodhi",
           "is_root": false,
           "lang": "en",
@@ -104,7 +110,8 @@
           "publication_date": null,
           "id": "es_sn45.55_isidatta",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -116,7 +123,8 @@
           "publication_date": null,
           "id": "id_sn45.55_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -128,7 +136,8 @@
           "publication_date": null,
           "id": "my_sn45.55_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -140,7 +149,8 @@
           "publication_date": "2018",
           "id": "no_sn45.55_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -152,7 +162,8 @@
           "publication_date": "2012",
           "id": "ru_sn45.55_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -164,7 +175,8 @@
           "publication_date": null,
           "id": "si_sn45.55_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -176,7 +188,8 @@
           "publication_date": null,
           "id": "th_sn45.55_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -188,7 +201,8 @@
           "publication_date": "1980",
           "id": "vi_sn45.55_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -200,7 +214,8 @@
           "publication_date": null,
           "id": "zh_sn45.55_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 1,

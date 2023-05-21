@@ -32,7 +32,8 @@
           "id": "dn2_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_dn2_shilabhadra",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -57,7 +59,8 @@
           "id": "dn2_translation-de-sabbamitta",
           "segmented": true,
           "title": "Die Früchte des Asketenlebens ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -69,7 +72,8 @@
           "publication_date": "1913",
           "id": "de_dn2_franke",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -82,12 +86,14 @@
           "id": "dn2_translation-en-sujato",
           "segmented": true,
           "title": "The Fruits of the Ascetic Life ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_dn2_bodhi",
           "is_root": false,
           "lang": "en",
@@ -107,7 +113,8 @@
           "publication_date": null,
           "id": "es_dn2_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -119,7 +126,8 @@
           "publication_date": null,
           "id": "fr_dn2_canonpaliorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "he",
@@ -131,7 +139,8 @@
           "publication_date": "2014",
           "id": "he_dn2_schwartz",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -143,7 +152,8 @@
           "publication_date": "1936",
           "id": "hi_dn2_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hr",
@@ -155,7 +165,8 @@
           "publication_date": null,
           "id": "hr_dn2_veljacic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -167,7 +178,8 @@
           "publication_date": "2009",
           "id": "hu_dn2_szeman-csimma",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -179,7 +191,8 @@
           "publication_date": null,
           "id": "id_dn2_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -191,7 +204,8 @@
           "publication_date": null,
           "id": "it_dn2_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "kan",
@@ -203,7 +217,8 @@
           "publication_date": "2012",
           "id": "kan_dn2_srirangaraj",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "lt",
@@ -216,7 +231,8 @@
           "id": "dn2_translation-lt-piyadassi",
           "segmented": true,
           "title": "Atsiskyrimo vaisiai ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -228,7 +244,8 @@
           "publication_date": null,
           "id": "my_dn2_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "nl",
@@ -240,7 +257,8 @@
           "publication_date": null,
           "id": "nl_dn2_buddho",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -252,7 +270,8 @@
           "publication_date": "2013",
           "id": "no_dn2_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -264,7 +283,8 @@
           "publication_date": "2013",
           "id": "pt_dn2_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ro",
@@ -276,7 +296,8 @@
           "publication_date": null,
           "id": "ro_dn2_busoi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -288,7 +309,8 @@
           "publication_date": null,
           "id": "ru_dn2_syrkina",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -300,7 +322,8 @@
           "publication_date": null,
           "id": "si_dn2_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -313,7 +336,8 @@
           "id": "dn2_translation-sr-brankokovacevic",
           "segmented": true,
           "title": "Govor o plodovima asketskog života ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -325,7 +349,8 @@
           "publication_date": null,
           "id": "sr_dn2_veljacic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -337,7 +362,8 @@
           "publication_date": null,
           "id": "th_dn2_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -349,7 +375,8 @@
           "publication_date": null,
           "id": "vi_dn2_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -361,7 +388,8 @@
           "publication_date": null,
           "id": "zh_dn2_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 92,

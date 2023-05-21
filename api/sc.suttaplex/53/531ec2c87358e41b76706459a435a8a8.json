@@ -32,7 +32,8 @@
           "id": "mn20_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn20_barua",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "cs_mn20_chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -69,7 +72,8 @@
           "id": "mn20_translation-de-sabbamitta",
           "segmented": true,
           "title": "Wie man das Denken anhält ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -81,7 +85,8 @@
           "publication_date": "2001",
           "id": "de_mn20_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -94,12 +99,14 @@
           "id": "mn20_translation-en-sujato",
           "segmented": true,
           "title": "How to Stop Thinking ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
+          "has_comment": false,
           "id": "en_mn20_bodhi",
           "is_root": false,
           "lang": "en",
@@ -113,6 +120,7 @@
           "author": "Suddhāso Bhikkhu",
           "author_short": "Suddhāso",
           "author_uid": "suddhaso",
+          "has_comment": false,
           "id": "en_mn20_suddhaso",
           "is_root": false,
           "lang": "en",
@@ -126,6 +134,7 @@
           "author": "I.B. Horner",
           "author_short": "Horner",
           "author_uid": "horner",
+          "has_comment": false,
           "id": "en_mn20_horner",
           "is_root": false,
           "lang": "en",
@@ -145,7 +154,8 @@
           "publication_date": "2010",
           "id": "es_mn20_garcia",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -157,7 +167,8 @@
           "publication_date": null,
           "id": "fr_mn20_maes",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -169,7 +180,8 @@
           "publication_date": "1933",
           "id": "hi_mn20_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -181,7 +193,8 @@
           "publication_date": "1989",
           "id": "hu_mn20_vekerdi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -193,7 +206,8 @@
           "publication_date": null,
           "id": "id_mn20_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -205,7 +219,8 @@
           "publication_date": "2007",
           "id": "it_mn20_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ko",
@@ -217,7 +232,8 @@
           "publication_date": "2013",
           "id": "ko_mn20_khemacara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "lt",
@@ -230,7 +246,8 @@
           "id": "mn20_translation-lt-piyadassi",
           "segmented": true,
           "title": "Apie minčių nuraminimą ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -242,7 +259,8 @@
           "publication_date": null,
           "id": "my_mn20_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "nl",
@@ -254,7 +272,8 @@
           "publication_date": "2008",
           "id": "nl_mn20_dhammajoti",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -266,7 +285,8 @@
           "publication_date": "2013",
           "id": "no_mn20_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pl",
@@ -278,7 +298,8 @@
           "publication_date": null,
           "id": "pl_mn20_lucjan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -290,7 +311,8 @@
           "publication_date": "2006",
           "id": "pt_mn20_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ro",
@@ -302,7 +324,8 @@
           "publication_date": null,
           "id": "ro_mn20_busoi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -315,7 +338,8 @@
           "id": "mn20_translation-ru-sv",
           "segmented": true,
           "title": "Устранение отвлекающих мыслей ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -327,7 +351,8 @@
           "publication_date": "2013",
           "id": "ru_mn20_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -339,7 +364,8 @@
           "publication_date": null,
           "id": "si_mn20_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -351,7 +377,8 @@
           "publication_date": null,
           "id": "sl_mn20_bozic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -363,7 +390,8 @@
           "publication_date": "2014",
           "id": "sr_mn20_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -375,7 +403,8 @@
           "publication_date": null,
           "id": "th_mn20_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -387,7 +416,8 @@
           "publication_date": null,
           "id": "vi_mn20_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -399,7 +429,8 @@
           "publication_date": null,
           "id": "zh_mn20_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 5,

@@ -29,7 +29,8 @@
           "id": "sn2.19_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn2.19_indragupta-bangish-ajit-sivak",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ca",
@@ -53,7 +55,8 @@
           "publication_date": null,
           "id": "ca_sn2.19_gea",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "id": "sn2.19_translation-de-sabbamitta",
           "segmented": true,
           "title": "Mit Uttara ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -78,7 +82,8 @@
           "publication_date": "1925",
           "id": "de_sn2.19_geiger",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -91,7 +96,8 @@
           "id": "sn2.19_translation-en-sujato",
           "segmented": true,
           "title": "With Uttara ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "es",
@@ -103,7 +109,8 @@
           "publication_date": "2015",
           "id": "es_sn2.19_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -115,7 +122,8 @@
           "publication_date": "2009",
           "id": "hu_sn2.19_z_kovacs",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -127,7 +135,8 @@
           "publication_date": null,
           "id": "id_sn2.19_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -139,7 +148,8 @@
           "publication_date": null,
           "id": "it_sn2.19_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "lt",
@@ -152,7 +162,8 @@
           "id": "sn2.19_translation-lt-piyadassi",
           "segmented": true,
           "title": "Su Uttara",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -164,7 +175,8 @@
           "publication_date": null,
           "id": "my_sn2.19_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -176,7 +188,8 @@
           "publication_date": "2015",
           "id": "no_sn2.19_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -189,7 +202,8 @@
           "id": "sn2.19_translation-pt-laera-quaresma",
           "segmented": true,
           "title": "Com Uttara",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -201,7 +215,8 @@
           "publication_date": "2013",
           "id": "ru_sn2.19_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -213,7 +228,8 @@
           "publication_date": null,
           "id": "si_sn2.19_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -225,7 +241,8 @@
           "publication_date": null,
           "id": "th_sn2.19_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -237,7 +254,8 @@
           "publication_date": "1980",
           "id": "vi_sn2.19_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -249,7 +267,8 @@
           "publication_date": null,
           "id": "zh_sn2.19_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 9,

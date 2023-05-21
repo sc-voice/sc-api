@@ -32,7 +32,8 @@
           "id": "mn144_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_mn144_chowdhury",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -57,7 +59,8 @@
           "id": "mn144_translation-de-sabbamitta",
           "segmented": true,
           "title": "Rat an Channa ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -69,7 +72,8 @@
           "publication_date": "2001",
           "id": "de_mn144_mettiko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -82,7 +86,8 @@
           "id": "mn144_translation-en-sujato",
           "segmented": true,
           "title": "Advice to Channa ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "es",
@@ -94,7 +99,8 @@
           "publication_date": null,
           "id": "es_mn144_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -106,7 +112,8 @@
           "publication_date": null,
           "id": "fr_mn144_maes",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -118,7 +125,8 @@
           "publication_date": null,
           "id": "hi_mn144_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -130,7 +138,8 @@
           "publication_date": "2009",
           "id": "hu_mn144_fenyvesi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -142,7 +151,8 @@
           "publication_date": null,
           "id": "id_mn144_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -154,7 +164,8 @@
           "publication_date": "2007",
           "id": "it_mn144_lorenzo-morniroli-federici",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -166,7 +177,8 @@
           "publication_date": null,
           "id": "my_mn144_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -178,7 +190,8 @@
           "publication_date": "2013",
           "id": "no_mn144_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -190,7 +203,8 @@
           "publication_date": "2008",
           "id": "pt_mn144_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -202,7 +216,8 @@
           "publication_date": "2016",
           "id": "ru_mn144_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -214,7 +229,8 @@
           "publication_date": null,
           "id": "si_mn144_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -226,7 +242,8 @@
           "publication_date": "2014",
           "id": "sr_mn144_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -238,7 +255,8 @@
           "publication_date": null,
           "id": "th_mn144_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -250,7 +268,8 @@
           "publication_date": null,
           "id": "vi_mn144_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -262,7 +281,8 @@
           "publication_date": null,
           "id": "zh_mn144_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 2,

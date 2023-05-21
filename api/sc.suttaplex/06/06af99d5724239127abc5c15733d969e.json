@@ -29,7 +29,8 @@
           "id": "thig1.17_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -42,7 +43,8 @@
           "id": "thig1.17_translation-de-sabbamitta",
           "segmented": true,
           "title": "Dhammā ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "publication_date": "2000",
           "id": "de_thig1.17_sass",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -67,7 +70,8 @@
           "id": "thig1.17_translation-en-sujato",
           "segmented": true,
           "title": "Dhammā ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -80,12 +84,14 @@
           "id": "thig1.17_translation-en-soma",
           "segmented": true,
           "title": "Dhammā ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Thanissaro Bhikkhu",
           "author_short": "Thanissaro",
           "author_uid": "thanissaro",
+          "has_comment": false,
           "id": "en_thig1.17_thanissaro",
           "is_root": false,
           "lang": "en",
@@ -105,7 +111,8 @@
           "publication_date": null,
           "id": "fr_thig1.17_canonpaliorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -117,7 +124,8 @@
           "publication_date": "2008",
           "id": "hu_thig1.17_balint",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -129,7 +137,8 @@
           "publication_date": "2019",
           "id": "id_thig1.17_karniawan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -141,7 +150,8 @@
           "publication_date": "2020",
           "id": "id_thig1.17_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -153,7 +163,8 @@
           "publication_date": null,
           "id": "it_thig1.17_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "jpn",
@@ -165,7 +176,8 @@
           "publication_date": "2009–11",
           "id": "jpn_thig1.17_daikan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "nl",
@@ -177,7 +189,8 @@
           "publication_date": null,
           "id": "nl_thig1.17_loosbroek",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -189,7 +202,8 @@
           "publication_date": "2000",
           "id": "no_thig1.17_lie-stabell",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -201,7 +215,8 @@
           "publication_date": "2011",
           "id": "ru_thig1.17_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -213,7 +228,8 @@
           "publication_date": null,
           "id": "si_thig1.17_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -225,7 +241,8 @@
           "publication_date": "2011",
           "id": "vi_thig1.17_indacanda",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 0,

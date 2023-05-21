@@ -29,7 +29,8 @@
           "id": "sn55.3_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn55.3_bangish-ajit-pragyadarshi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "sn55.3_translation-de-sabbamitta",
           "segmented": true,
           "title": "Mit Dīghāvu ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1993",
           "id": "de_sn55.3_hecker",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,12 +83,14 @@
           "id": "sn55.3_translation-en-sujato",
           "segmented": true,
           "title": "With Dīghāvu ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Frank Lee Woodward",
           "author_short": "Woodward",
           "author_uid": "woodward",
+          "has_comment": false,
           "id": "en_sn55.3_woodward",
           "is_root": false,
           "lang": "en",
@@ -104,7 +110,8 @@
           "publication_date": "2015",
           "id": "es_sn55.3_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -117,7 +124,8 @@
           "id": "sn55.3_translation-fr-sekha",
           "segmented": true,
           "title": "Le disciple laïc Dighavou ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -129,7 +137,8 @@
           "publication_date": null,
           "id": "id_sn55.3_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -141,7 +150,8 @@
           "publication_date": null,
           "id": "my_sn55.3_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -153,7 +163,8 @@
           "publication_date": "2019",
           "id": "no_sn55.3_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -165,7 +176,8 @@
           "publication_date": "2013",
           "id": "pt_sn55.3_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -177,7 +189,8 @@
           "publication_date": "2014",
           "id": "ru_sn55.3_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -189,7 +202,8 @@
           "publication_date": null,
           "id": "si_sn55.3_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -201,7 +215,8 @@
           "publication_date": null,
           "id": "th_sn55.3_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -213,7 +228,8 @@
           "publication_date": "1980",
           "id": "vi_sn55.3_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -225,7 +241,8 @@
           "publication_date": null,
           "id": "zh_sn55.3_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 1,

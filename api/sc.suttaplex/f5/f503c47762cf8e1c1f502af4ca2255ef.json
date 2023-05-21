@@ -32,7 +32,8 @@
           "id": "dn22_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_dn22_shilabhadra",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -56,7 +58,8 @@
           "publication_date": null,
           "id": "cs_dn22_chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -69,7 +72,8 @@
           "id": "dn22_translation-de-sabbamitta",
           "segmented": true,
           "title": "Die längere Lehrrede über Achtsamkeitsmeditation ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -81,7 +85,8 @@
           "publication_date": "2005",
           "id": "de_dn22_vri",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -94,12 +99,14 @@
           "id": "dn22_translation-en-sujato",
           "segmented": true,
           "title": "The Longer Discourse on Mindfulness Meditation ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Ānandajoti",
           "author_short": "Ānandajoti",
           "author_uid": "anandajoti",
+          "has_comment": false,
           "id": "en_dn22_anandajoti",
           "is_root": false,
           "lang": "en",
@@ -119,7 +126,8 @@
           "publication_date": null,
           "id": "es_dn22_baron",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fa",
@@ -131,7 +139,8 @@
           "publication_date": "1993",
           "id": "fa_dn22_vri",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -143,7 +152,8 @@
           "publication_date": null,
           "id": "fr_dn22_canonpaliorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "he",
@@ -155,7 +165,8 @@
           "publication_date": "2014",
           "id": "he_dn22_schwartz",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -167,7 +178,8 @@
           "publication_date": "1936",
           "id": "hi_dn22_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hu",
@@ -179,7 +191,8 @@
           "publication_date": "2009",
           "id": "hu_dn22_pressing",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -191,7 +204,8 @@
           "publication_date": null,
           "id": "id_dn22_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -203,7 +217,8 @@
           "publication_date": null,
           "id": "it_dn22_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "kan",
@@ -215,7 +230,8 @@
           "publication_date": "2012",
           "id": "kan_dn22_srirangaraj",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -227,7 +243,8 @@
           "publication_date": null,
           "id": "my_dn22_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "nl",
@@ -239,7 +256,8 @@
           "publication_date": null,
           "id": "nl_dn22_vri",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "nl",
@@ -251,7 +269,8 @@
           "publication_date": null,
           "id": "nl_dn22_dubois",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -263,7 +282,8 @@
           "publication_date": "2013",
           "id": "no_dn22_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -275,7 +295,8 @@
           "publication_date": "2014",
           "id": "pt_dn22_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ro",
@@ -287,7 +308,8 @@
           "publication_date": "2000",
           "id": "ro_dn22_busoi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -299,7 +321,8 @@
           "publication_date": null,
           "id": "ru_dn22_ivakhnenko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -311,7 +334,8 @@
           "publication_date": null,
           "id": "si_dn22_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sl",
@@ -323,7 +347,8 @@
           "publication_date": null,
           "id": "sl_dn22_hiriko",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -335,7 +360,8 @@
           "publication_date": null,
           "id": "sr_dn22_kovacevic",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -347,7 +373,8 @@
           "publication_date": null,
           "id": "th_dn22_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -359,7 +386,8 @@
           "publication_date": null,
           "id": "vi_dn22_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -371,7 +399,8 @@
           "publication_date": null,
           "id": "zh_dn22_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 27,

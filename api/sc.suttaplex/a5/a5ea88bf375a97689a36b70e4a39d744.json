@@ -29,7 +29,8 @@
           "id": "an4.197_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_an4.197_indragupta-suman-bangish-ajit-jibana",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -54,7 +56,8 @@
           "id": "an4.197_translation-cs-ashinsarana",
           "segmented": true,
           "title": "",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -67,7 +70,8 @@
           "id": "an4.197_translation-de-sabbamitta",
           "segmented": true,
           "title": "Die Königin Mallikā ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -79,7 +83,8 @@
           "publication_date": "1907",
           "id": "de_an4.197_nyanatiloka",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -92,7 +97,8 @@
           "id": "an4.197_translation-en-sujato",
           "segmented": true,
           "title": "Queen Mallikā ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "es",
@@ -104,7 +110,8 @@
           "publication_date": "2014",
           "id": "es_an4.197_isidatta",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -116,7 +123,8 @@
           "publication_date": null,
           "id": "fr_an4.197_buddhavacanaorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -128,7 +136,8 @@
           "publication_date": null,
           "id": "id_an4.197_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -140,7 +149,8 @@
           "publication_date": null,
           "id": "my_an4.197_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -152,7 +162,8 @@
           "publication_date": "2014",
           "id": "ru_an4.197_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -164,7 +175,8 @@
           "publication_date": null,
           "id": "si_an4.197_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -176,7 +188,8 @@
           "publication_date": null,
           "id": "th_an4.197_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -188,7 +201,8 @@
           "publication_date": "1980–1981",
           "id": "vi_an4.197_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -200,7 +214,8 @@
           "publication_date": null,
           "id": "zh_an4.197_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 0,

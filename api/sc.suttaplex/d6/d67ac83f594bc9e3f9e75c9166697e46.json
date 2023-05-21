@@ -29,7 +29,8 @@
           "id": "thig4.1_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "cs",
@@ -41,7 +42,8 @@
           "publication_date": "1987",
           "id": "cs_thig4.1_chromovsky",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "thig4.1_translation-de-sabbamitta",
           "segmented": true,
           "title": "Bhaddā, die Tochter Kapilas ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "2000",
           "id": "de_thig4.1_sass",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,7 +83,8 @@
           "id": "thig4.1_translation-en-sujato",
           "segmented": true,
           "title": "Bhaddā Daughter of Kapila ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": true
         },
         {
           "lang": "en",
@@ -92,12 +97,14 @@
           "id": "thig4.1_translation-en-soma",
           "segmented": true,
           "title": "Bhaddā Daughter of Kapila ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "author": "Dr. Hellmuth Hecker, Ayya Khema",
           "author_short": "Hecker …",
           "author_uid": "hecker-khema",
+          "has_comment": false,
           "id": "en_thig4.1_hecker-khema",
           "is_root": false,
           "lang": "en",
@@ -117,7 +124,8 @@
           "publication_date": "2008",
           "id": "hu_thig4.1_balint",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -129,7 +137,8 @@
           "publication_date": "2019",
           "id": "id_thig4.1_karniawan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -141,7 +150,8 @@
           "publication_date": "2020",
           "id": "id_thig4.1_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -153,7 +163,8 @@
           "publication_date": "1987",
           "id": "it_thig4.1_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "jpn",
@@ -165,7 +176,8 @@
           "publication_date": "2009–11",
           "id": "jpn_thig4.1_daikan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -177,7 +189,8 @@
           "publication_date": "2000",
           "id": "no_thig4.1_lie-stabell",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -189,7 +202,8 @@
           "publication_date": "2011",
           "id": "ru_thig4.1_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -201,7 +215,8 @@
           "publication_date": null,
           "id": "si_thig4.1_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -213,7 +228,8 @@
           "publication_date": "2011",
           "id": "vi_thig4.1_indacanda",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 17,

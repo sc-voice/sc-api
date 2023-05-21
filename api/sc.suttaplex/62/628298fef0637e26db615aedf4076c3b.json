@@ -32,7 +32,8 @@
           "id": "dn20_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -44,7 +45,8 @@
           "publication_date": null,
           "id": "bn_dn20_shilabhadra",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -57,7 +59,8 @@
           "id": "dn20_translation-de-sabbamitta",
           "segmented": true,
           "title": "Die große Zusammenkunft ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -70,12 +73,14 @@
           "id": "dn20_translation-en-sujato",
           "segmented": true,
           "title": "The Great Congregation ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Ānandajoti",
           "author_short": "Ānandajoti",
           "author_uid": "anandajoti",
+          "has_comment": false,
           "id": "en_dn20_anandajoti",
           "is_root": false,
           "lang": "en",
@@ -95,7 +100,8 @@
           "publication_date": null,
           "id": "fr_dn20_canonpaliorg",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "he",
@@ -107,7 +113,8 @@
           "publication_date": "2014",
           "id": "he_dn20_schwartz",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "hi",
@@ -119,7 +126,8 @@
           "publication_date": "1936",
           "id": "hi_dn20_sankrityayan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -131,7 +139,8 @@
           "publication_date": null,
           "id": "id_dn20_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "it",
@@ -143,7 +152,8 @@
           "publication_date": null,
           "id": "it_dn20_alfano",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "kan",
@@ -155,7 +165,8 @@
           "publication_date": "2012",
           "id": "kan_dn20_srirangaraj",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -167,7 +178,8 @@
           "publication_date": null,
           "id": "my_dn20_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -179,7 +191,8 @@
           "publication_date": "2013",
           "id": "no_dn20_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "pt",
@@ -191,7 +204,8 @@
           "publication_date": "2006",
           "id": "pt_dn20_beisert",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -203,7 +217,8 @@
           "publication_date": null,
           "id": "si_dn20_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "sr",
@@ -216,7 +231,8 @@
           "id": "dn20_translation-sr-brankokovacevic",
           "segmented": true,
           "title": "Veliko okupljanje ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -228,7 +244,8 @@
           "publication_date": null,
           "id": "th_dn20_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -240,7 +257,8 @@
           "publication_date": null,
           "id": "vi_dn20_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -252,7 +270,8 @@
           "publication_date": null,
           "id": "zh_dn20_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 24,

@@ -29,7 +29,8 @@
           "id": "thag1.71_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -41,7 +42,8 @@
           "publication_date": "2000",
           "id": "de_thag1.71_sass",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -54,7 +56,8 @@
           "id": "thag1.71_translation-en-sujato",
           "segmented": true,
           "title": "Vacchapāla ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -66,7 +69,8 @@
           "publication_date": null,
           "id": "id_thag1.71_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "jpn",
@@ -78,7 +82,8 @@
           "publication_date": "2009–11",
           "id": "jpn_thag1.71_daikan",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -90,7 +95,8 @@
           "publication_date": "2006",
           "id": "no_thag1.71_lie-stabell",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -102,7 +108,8 @@
           "publication_date": null,
           "id": "si_thag1.71_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -114,7 +121,8 @@
           "publication_date": "2011",
           "id": "vi_thag1.71_indacanda",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 0,

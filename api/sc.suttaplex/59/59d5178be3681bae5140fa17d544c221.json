@@ -29,7 +29,8 @@
           "id": "sn50.13-22_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_sn50.13-22_bangish-ajit-pragyadarshi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "sn50.13-22_translation-de-sabbamitta",
           "segmented": true,
           "title": "Das Kapitel über Beflissenheit ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -67,7 +70,8 @@
           "id": "sn50.13-22_translation-en-sujato",
           "segmented": true,
           "title": "Diligence ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -79,7 +83,8 @@
           "publication_date": null,
           "id": "id_sn50.13-22_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "no",
@@ -91,7 +96,8 @@
           "publication_date": "2019",
           "id": "no_sn50.13-22_lie",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -103,7 +109,8 @@
           "publication_date": "2012",
           "id": "ru_sn50.13-22_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -115,7 +122,8 @@
           "publication_date": null,
           "id": "si_sn50.13-22_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "vi",
@@ -127,7 +135,8 @@
           "publication_date": "1980",
           "id": "vi_sn50.13-22_minh_chau",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -139,7 +148,8 @@
           "publication_date": null,
           "id": "zh_sn50.13-22_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 0,

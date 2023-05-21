@@ -29,7 +29,8 @@
           "id": "an11.30-69_root-pli-ms",
           "segmented": true,
           "title": null,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "bn",
@@ -41,7 +42,8 @@
           "publication_date": "2018",
           "id": "bn_an11.30-69_pragyadarshi",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -54,7 +56,8 @@
           "id": "an11.30-69_translation-de-sabbamitta",
           "segmented": true,
           "title": "Lehrreden ohne Titel über einen Kuhhirten (2) ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -66,7 +69,8 @@
           "publication_date": "1907",
           "id": "de_an11.30-69_nyanatiloka",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "en",
@@ -79,7 +83,8 @@
           "id": "an11.30-69_translation-en-sujato",
           "segmented": true,
           "title": "Untitled Discourses on the Ear, Etc. ",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "fr",
@@ -92,7 +97,8 @@
           "id": "an11.30-69_translation-fr-sekha",
           "segmented": true,
           "title": "",
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",
@@ -104,7 +110,8 @@
           "publication_date": null,
           "id": "id_an11.30-69_anggara",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "my",
@@ -116,7 +123,8 @@
           "publication_date": null,
           "id": "my_an11.30-69_pmt",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -128,7 +136,8 @@
           "publication_date": "2014",
           "id": "ru_an11.30-69_sv",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -140,7 +149,8 @@
           "publication_date": null,
           "id": "si_an11.30-69_zoysa",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "th",
@@ -152,7 +162,8 @@
           "publication_date": null,
           "id": "th_an11.30-69_siam_rath",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "zh",
@@ -164,7 +175,8 @@
           "publication_date": null,
           "id": "zh_an11.30-69_zhuang",
           "segmented": false,
-          "volpage": null
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 0,
