@@ -109,7 +109,7 @@
           "publication_date": null,
           "id": "sn15.10_translation-lt-piyadassi",
           "segmented": true,
-          "title": "Pirmas skyrius",
+          "title": "Asmuo",
           "volpage": null,
           "has_comment": false
         },
@@ -207,7 +207,8 @@
       ],
       "parallel_count": 19,
       "biblio": null,
-      "priority_author_uid": "sujato"
+      "priority_author_uid": "sujato",
+      "verseNo": ""
     }
   ]
 }

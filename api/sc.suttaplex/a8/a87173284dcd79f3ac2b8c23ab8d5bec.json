@@ -140,6 +140,20 @@
           "has_comment": false
         },
         {
+          "lang": "lt",
+          "lang_name": "Lietuvių Kalba",
+          "is_root": false,
+          "author": "Sayalay Piyadassi",
+          "author_short": "piyadassi",
+          "author_uid": "piyadassi",
+          "publication_date": null,
+          "id": "sn22.26_translation-lt-piyadassi",
+          "segmented": true,
+          "title": "Saldybė",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "my",
           "lang_name": "မြန်မာဘာသာ",
           "is_root": false,
@@ -246,7 +260,8 @@
       ],
       "parallel_count": 2,
       "biblio": null,
-      "priority_author_uid": "sujato"
+      "priority_author_uid": "sujato",
+      "verseNo": ""
     }
   ]
 }

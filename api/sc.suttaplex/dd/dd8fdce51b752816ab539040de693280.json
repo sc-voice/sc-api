@@ -130,6 +130,20 @@
           "title": "Great Discourse on the Establishment of Mindfulness"
         },
         {
+          "author": "Nyanamoli Thera",
+          "author_short": "Nyanamoli",
+          "author_uid": "nyanamoli-thera",
+          "has_comment": false,
+          "id": "en_mn10_nyanamoli-thera",
+          "is_root": false,
+          "lang": "en",
+          "lang_name": "English",
+          "publication_date": "1977",
+          "segmented": false,
+          "volpage": null,
+          "title": "The Foundations of Mindfulness"
+        },
+        {
           "author": "I.B. Horner",
           "author_short": "Horner",
           "author_uid": "horner",
@@ -461,7 +475,8 @@
       ],
       "parallel_count": 13,
       "biblio": null,
-      "priority_author_uid": "sujato"
+      "priority_author_uid": "sujato",
+      "verseNo": ""
     }
   ]
 }

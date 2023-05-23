@@ -109,7 +109,7 @@
           "publication_date": null,
           "id": "sn49.1-12_translation-lt-piyadassi",
           "segmented": true,
-          "title": "Skyrius apie Gangą ir kitas upes",
+          "title": "Rytai ir taip toliau",
           "volpage": null,
           "has_comment": false
         },
@@ -220,7 +220,8 @@
       ],
       "parallel_count": 5,
       "biblio": null,
-      "priority_author_uid": "sujato"
+      "priority_author_uid": "sujato",
+      "verseNo": ""
     }
   ]
 }

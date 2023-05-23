@@ -149,7 +149,7 @@
           "publication_date": null,
           "id": "an7.49_translation-lt-piyadassi",
           "segmented": true,
-          "title": "Antra sutta apie suvokimus",
+          "title": "Antroji sutta apie suvokimus",
           "volpage": null,
           "has_comment": false
         },
@@ -247,7 +247,8 @@
       ],
       "parallel_count": 0,
       "biblio": null,
-      "priority_author_uid": "sujato"
+      "priority_author_uid": "sujato",
+      "verseNo": ""
     }
   ]
 }

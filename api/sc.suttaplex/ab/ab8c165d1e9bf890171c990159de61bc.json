@@ -175,7 +175,7 @@
           "publication_date": null,
           "id": "an5.161_translation-lt-piyadassi",
           "segmented": true,
-          "title": "Pirma sutta apie tai, kaip atsikratyti pykčio",
+          "title": "Pirmoji sutta apie tai, kaip atsikratyti pykčio",
           "volpage": null,
           "has_comment": false
         },
@@ -312,7 +312,8 @@
       ],
       "parallel_count": 0,
       "biblio": null,
-      "priority_author_uid": "sujato"
+      "priority_author_uid": "sujato",
+      "verseNo": ""
     }
   ]
 }
