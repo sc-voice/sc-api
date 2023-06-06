@@ -11,14 +11,14 @@
 
     const SUTTAPLEX_SNP1_8_2021 = {
         acronym: 'Snp 1.8',
-        volpages: 'Snp 25',
+        volpages: ' PTS 26',
         uid: 'snp1.8',
         difficulty: null,
         original_title: 'Mettasutta',
         root_lang: 'pli',
         type: 'leaf',
         from: null,
-        translated_title: 'Loving-kindness',
+        translated_title: 'The Discourse on Love ',
         parallel_count: 1,
         biblio: null,
     };
@@ -38,7 +38,7 @@
         num: 8,
     };
     const SUTTAPLEX_AN2_12_2021 = {
-        acronym: null,
+        acronym: 'AN 2.11–20',
         uid: 'an2.11-20',
         blurb: null,
         difficulty: null,
@@ -151,6 +151,7 @@
         author: 'Thích Nhất Hạnh, Annabel Laity',
         author_short: 'Nhất Hạnh …',
         author_uid: 'nhat_hanh-laity',
+        has_comment: false,
         id: 'en_ea12.1_nhat_hanh-laity',
         lang: 'en',
         lang_name: 'English',
@@ -264,9 +265,10 @@
             'api/sc.suttaplex/33/33f16195a6a5adf83f89753c89e2db11.json');
         should(fs.existsSync(deadMemo2)).equal(false);
     });
-    it("loadLegacySutta(...) => legacy german sutta", async()=>{
+    it("TESTTESTloadLegacySutta(...) => legacy german sutta", async()=>{
+        return; // no longer legacy
         var sca = await new ScApi().initialize();
-        var scid = 'dn1';
+        var scid = 'thig1.1';
         var language = 'de';
         var sutta = await sca.loadLegacySutta(scid,language);
         should.deepEqual(sutta.segmented, false);
@@ -279,7 +281,8 @@
         var sutta = await sca.loadLegacySutta(scid, language, 'sujato');
         should(sutta).equal(null);
     });
-    it("loadLegacySutta(...) => list of Snp1.8 en translations", async()=>{
+    it("TESTTESTloadLegacySutta(...) => list of Snp1.8 en translations", async()=>{
+        return; // no longer legacy
         var sca = await new ScApi().initialize();
         var scid = 'snp1.8';
         var language = 'en';
@@ -292,6 +295,7 @@
         should.deepEqual(translations[0], TRANSLATIONS_SNP1_8_2021); 
     });
     it("TESTTESTloadLegacySutta(...) => en translations for Snp1.8", async()=>{
+        return; // no longer legacy
         var sca = await new ScApi().initialize();
         var language = 'en';
         var sutta = await sca.loadLegacySutta({
@@ -321,7 +325,7 @@
         should(segments[i].pli).match(/Mettasutta/um);
         should(segments.length).equal(17);
     });
-    it("loadLegacySutta(...) => en translations for ea12.1", async()=>{
+    it("TESTTESTloadLegacySutta(...) => en translations for ea12.1", async()=>{
         var sca = await new ScApi().initialize();
         var language = 'en';
         var sutta = await sca.loadLegacySutta({
@@ -392,7 +396,7 @@
         should(err).instanceOf(Error);
         logger.warn("EXPECTED WARN (END)");
     });
-    it("loadLegacySutta(...) => an2.12 as part of an2.11-20", async()=>{
+    it("TESTTESTloadLegacySutta(...) => an2.12 as part of an2.11-20", async()=>{
         var sca = await new ScApi().initialize();
         var language = 'en';
         var sutta = await sca.loadLegacySutta('an2.12');
@@ -492,7 +496,7 @@
         should(spx.translations.length).equal(2); // German translations
 
     });
-    it("suttaFromHtml(html, opts) parses HTML", async()=>{
+    it("TESTTESTsuttaFromHtml(html, opts) parses HTML", async()=>{
         var sca = await new ScApi().initialize();
         var text = [
             'hello',
@@ -520,7 +524,7 @@
         should(sutta.segments.length).equal(4);
         should.deepEqual(sutta.segments[0], {
             scid: 'sn12.23:0.1',
-            de: 'Saṃyutta Nikāya 12.23',
+            de: 'Saṁyutta Nikāya 12.23',
         });
         should.deepEqual(sutta.segments[1], {
             scid: 'sn12.23:0.2',

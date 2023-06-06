@@ -8,12 +8,12 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "log-instance": "^0.2.5",
-    "memo-again": "^0.3.11",
+    "log-instance": "^1.4.0",
+    "memo-again": "^0.7.0",
     "merkle-json": "^1.1.4"
   },
   "devDependencies": {
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "should": "^11.2.0"
   },
   "scripts": {
