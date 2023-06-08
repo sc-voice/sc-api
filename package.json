@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "log-instance": "^1.4.0",
+    "log-instance": "^1.5.0",
     "memo-again": "^0.7.0",
     "merkle-json": "^1.1.4"
   },
