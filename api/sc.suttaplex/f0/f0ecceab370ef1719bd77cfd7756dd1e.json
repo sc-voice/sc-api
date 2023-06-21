@@ -60,7 +60,7 @@
           "segmented": true,
           "title": "Mit Ambaṭṭha ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "de",
@@ -187,7 +187,7 @@
           "is_root": false,
           "author": null,
           "author_short": null,
-          "author_uid": "my",
+          "author_uid": null,
           "publication_date": null,
           "id": "dn3_translation-my-my-team",
           "segmented": true,

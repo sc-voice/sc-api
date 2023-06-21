@@ -206,6 +206,20 @@
           "has_comment": false
         },
         {
+          "lang": "pl",
+          "lang_name": "Polski",
+          "is_root": false,
+          "author": "Piotr Jagodziński",
+          "author_short": "hardao",
+          "author_uid": "hardao",
+          "publication_date": null,
+          "id": "an4.62_translation-pl-hardao",
+          "segmented": true,
+          "title": "Mowa o niezadłużonym ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "ru",
           "lang_name": "ру́сский язы́к",
           "is_root": false,

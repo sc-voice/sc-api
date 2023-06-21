@@ -167,6 +167,20 @@
           "has_comment": false
         },
         {
+          "lang": "pl",
+          "lang_name": "Polski",
+          "is_root": false,
+          "author": "Piotr Marcinów",
+          "author_short": "marcinow",
+          "author_uid": "marcinow",
+          "publication_date": null,
+          "id": "sn56.8_translation-pl-marcinow",
+          "segmented": true,
+          "title": "Myśl ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "pt",
           "lang_name": "Português",
           "is_root": false,

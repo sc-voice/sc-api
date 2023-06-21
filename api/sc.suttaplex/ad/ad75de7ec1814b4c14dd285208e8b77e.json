@@ -208,6 +208,20 @@
           "has_comment": false
         },
         {
+          "lang": "sr",
+          "lang_name": "Srpski",
+          "is_root": false,
+          "author": "Branislav Kovačević",
+          "author_short": "brankokovacevic",
+          "author_uid": "brankokovacevic",
+          "publication_date": null,
+          "id": "dn28_translation-sr-brankokovacevic",
+          "segmented": true,
+          "title": "Ono što uliva poverenje ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "th",
           "lang_name": "ไทย",
           "is_root": false,

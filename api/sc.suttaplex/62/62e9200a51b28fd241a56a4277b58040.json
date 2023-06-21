@@ -193,6 +193,20 @@
           "has_comment": false
         },
         {
+          "lang": "pl",
+          "lang_name": "Polski",
+          "is_root": false,
+          "author": "Piotr Jagodziński",
+          "author_short": "hardao",
+          "author_uid": "hardao",
+          "publication_date": null,
+          "id": "sn47.19_translation-pl-hardao",
+          "segmented": true,
+          "title": "Mowa wygłoszona w Sedaka ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "pt",
           "lang_name": "Português",
           "is_root": false,
