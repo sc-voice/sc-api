@@ -89,20 +89,6 @@
           "has_comment": false
         },
         {
-          "author": "I.B. Horner",
-          "author_short": "Horner",
-          "author_uid": "horner",
-          "has_comment": false,
-          "id": "en_mn30_horner",
-          "is_root": false,
-          "lang": "en",
-          "lang_name": "English",
-          "publication_date": "1954–9",
-          "segmented": false,
-          "volpage": null,
-          "title": "Lesser Discourse on the Simile of the Pith"
-        },
-        {
           "author": "Nyanamoli Thera",
           "author_short": "Nyanamoli",
           "author_uid": "nyanamoli-thera",
@@ -115,6 +101,20 @@
           "segmented": false,
           "volpage": null,
           "title": "The Simile of Heartwood 2"
+        },
+        {
+          "author": "I.B. Horner",
+          "author_short": "Horner",
+          "author_uid": "horner",
+          "has_comment": false,
+          "id": "en_mn30_horner",
+          "is_root": false,
+          "lang": "en",
+          "lang_name": "English",
+          "publication_date": "1954–9",
+          "segmented": false,
+          "volpage": null,
+          "title": "Lesser Discourse on the Simile of the Pith"
         },
         {
           "lang": "es",

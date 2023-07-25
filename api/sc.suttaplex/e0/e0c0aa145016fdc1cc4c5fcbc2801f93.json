@@ -102,20 +102,6 @@
           "has_comment": false
         },
         {
-          "author": "I.B. Horner",
-          "author_short": "Horner",
-          "author_uid": "horner",
-          "has_comment": false,
-          "id": "en_mn61_horner",
-          "is_root": false,
-          "lang": "en",
-          "lang_name": "English",
-          "publication_date": "1954–9",
-          "segmented": false,
-          "volpage": null,
-          "title": "Discourse on an Exhortation to Rāhula at Ambalaṭṭhikā"
-        },
-        {
           "author": "Nyanamoli Thera",
           "author_short": "Nyanamoli",
           "author_uid": "nyanamoli-thera",
@@ -128,6 +114,20 @@
           "segmented": false,
           "volpage": null,
           "title": "To Rāhula at Ambalaṭṭhika"
+        },
+        {
+          "author": "I.B. Horner",
+          "author_short": "Horner",
+          "author_uid": "horner",
+          "has_comment": false,
+          "id": "en_mn61_horner",
+          "is_root": false,
+          "lang": "en",
+          "lang_name": "English",
+          "publication_date": "1954–9",
+          "segmented": false,
+          "volpage": null,
+          "title": "Discourse on an Exhortation to Rāhula at Ambalaṭṭhikā"
         },
         {
           "lang": "es",
