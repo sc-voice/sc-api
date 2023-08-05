@@ -101,6 +101,20 @@
           "has_comment": false
         },
         {
+          "lang": "en",
+          "lang_name": "English",
+          "is_root": false,
+          "author": "Kovilo Bhikkhu",
+          "author_short": "kovilo",
+          "author_uid": "kovilo",
+          "publication_date": null,
+          "id": "an4.1_translation-en-kovilo",
+          "segmented": true,
+          "title": "Understood ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
