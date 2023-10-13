@@ -100,7 +100,7 @@
           "segmented": true,
           "title": "The Longer Discourse on the Cowherd ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Nyanamoli Thera",
@@ -356,7 +356,7 @@
       "parallel_count": 43,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": null
     }
   ]
 }

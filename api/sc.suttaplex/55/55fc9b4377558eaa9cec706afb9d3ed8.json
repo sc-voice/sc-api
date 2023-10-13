@@ -244,6 +244,20 @@
           "has_comment": false
         },
         {
+          "lang": "sr",
+          "lang_name": "Srpski",
+          "is_root": false,
+          "author": "Branislav Kovačević",
+          "author_short": "brankokovacevic",
+          "author_uid": "brankokovacevic",
+          "publication_date": null,
+          "id": "sn1.9_translation-sr-brankokovacevic",
+          "segmented": true,
+          "title": "Skloni obmani ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "th",
           "lang_name": "ไทย",
           "is_root": false,
@@ -286,7 +300,7 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": null
     }
   ]
 }

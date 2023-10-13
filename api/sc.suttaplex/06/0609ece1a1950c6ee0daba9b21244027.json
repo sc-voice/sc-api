@@ -86,7 +86,7 @@
           "segmented": true,
           "title": "The Longer Discourse at Gosiṅga ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -342,7 +342,7 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": null
     }
   ]
 }

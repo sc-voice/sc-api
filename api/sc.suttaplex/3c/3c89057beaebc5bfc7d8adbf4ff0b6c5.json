@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Khadiravaniya ",
+      "translated_title": "Revata of the Acacia Wood ",
       "translations": [
         {
           "lang": "pli",
@@ -69,7 +69,7 @@
           "publication_date": null,
           "id": "thag1.42_translation-en-sujato",
           "segmented": true,
-          "title": "Khadiravaniya ",
+          "title": "Revata of the Acacia Wood ",
           "volpage": null,
           "has_comment": false
         },
@@ -142,7 +142,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 42"
+      "verseNo": null
     }
   ]
 }

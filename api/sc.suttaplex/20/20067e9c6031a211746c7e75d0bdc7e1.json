@@ -99,7 +99,7 @@
           "segmented": true,
           "title": "The Shorter Discourse With Saccaka ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Suddhāso Bhikkhu",
@@ -355,7 +355,7 @@
       "parallel_count": 12,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": null
     }
   ]
 }

@@ -357,6 +357,20 @@
           "lang_name": "Srpski",
           "is_root": false,
           "author": "Branislav Kovačević",
+          "author_short": "brankokovacevic",
+          "author_uid": "brankokovacevic",
+          "publication_date": null,
+          "id": "mn11_translation-sr-brankokovacevic",
+          "segmented": true,
+          "title": "Kratki govor o lavljem riku ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "sr",
+          "lang_name": "Srpski",
+          "is_root": false,
+          "author": "Branislav Kovačević",
           "author_short": "Kovačević",
           "author_uid": "kovacevic",
           "publication_date": "2014",
@@ -408,7 +422,7 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": null
     }
   ]
 }
