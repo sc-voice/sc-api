@@ -222,6 +222,19 @@
           "has_comment": false
         },
         {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "関西パーリ語実習会",
+          "author_short": "関西パーリ語実習会",
+          "author_uid": "kansai",
+          "publication_date": "2023",
+          "id": "jpn_mn8_kansai",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "ko",
           "lang_name": "한국어/조선말",
           "is_root": false,

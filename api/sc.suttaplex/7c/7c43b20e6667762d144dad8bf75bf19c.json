@@ -86,7 +86,7 @@
           "segmented": true,
           "title": "The People of Sālā ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -191,6 +191,19 @@
           "author_uid": "lorenzo-morniroli-federici",
           "publication_date": "2007",
           "id": "it_mn41_lorenzo-morniroli-federici",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "関西パーリ語実習会",
+          "author_short": "関西パーリ語実習会",
+          "author_uid": "kansai",
+          "publication_date": "2023",
+          "id": "jpn_mn41_kansai",
           "segmented": false,
           "volpage": null,
           "has_comment": false

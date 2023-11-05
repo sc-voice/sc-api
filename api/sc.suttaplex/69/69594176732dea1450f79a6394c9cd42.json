@@ -86,7 +86,7 @@
           "segmented": true,
           "title": "The People of Verañja ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "I.B. Horner",
@@ -150,6 +150,19 @@
           "author_uid": "anggara",
           "publication_date": null,
           "id": "id_mn42_anggara",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "関西パーリ語実習会",
+          "author_short": "関西パーリ語実習会",
+          "author_uid": "kansai",
+          "publication_date": "2023",
+          "id": "jpn_mn42_kansai",
           "segmented": false,
           "volpage": null,
           "has_comment": false
