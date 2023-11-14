@@ -160,6 +160,19 @@
         is_root: false,
         publication_date: null,
         volpage: null,
+    },{ 
+      "author": "Charles Patton",
+      "author_short": "Patton",
+      "author_uid": "patton",
+      "has_comment": false,
+      "id": "en_ea12.1_patton",
+      "is_root": false,
+      "lang": "en",
+      "lang_name": "English",
+      "publication_date": null,
+      "segmented": false,
+      "title": "The Four Stations of Mind",
+      "volpage": null,
     }];
     const TRANSLATIONS_EA12_1 = [{
         author: 'Thích Nhất Hạnh, Annabel Laity',
