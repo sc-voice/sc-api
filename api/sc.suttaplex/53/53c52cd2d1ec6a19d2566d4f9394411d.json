@@ -55,7 +55,7 @@
           "publication_date": null,
           "id": "an3.122_translation-de-sabbamitta",
           "segmented": true,
-          "title": "Urteilskraft ",
+          "title": "Abgeklärtheit ",
           "volpage": null,
           "has_comment": false
         },
@@ -109,6 +109,19 @@
           "author_uid": "anggara",
           "publication_date": null,
           "id": "id_an3.122_anggara",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "関西パーリ語実習会",
+          "author_short": "関西パーリ語実習会",
+          "author_uid": "kansai",
+          "publication_date": "2023",
+          "id": "jpn_an3.122_kansai",
           "segmented": false,
           "volpage": null,
           "has_comment": false

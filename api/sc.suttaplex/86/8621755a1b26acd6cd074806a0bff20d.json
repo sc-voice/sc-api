@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "The Deathless ",
+      "translated_title": "Freedom From Death ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": null,
           "id": "an9.54_translation-en-sujato",
           "segmented": true,
-          "title": "The Deathless ",
+          "title": "Freedom From Death ",
           "volpage": null,
           "has_comment": false
         },
@@ -108,6 +108,19 @@
           "author_uid": "anggara",
           "publication_date": null,
           "id": "id_an9.54_anggara",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "関西パーリ語実習会",
+          "author_short": "関西パーリ語実習会",
+          "author_uid": "kansai",
+          "publication_date": "2023",
+          "id": "jpn_an9.54_kansai",
           "segmented": false,
           "volpage": null,
           "has_comment": false

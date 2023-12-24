@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "A Personal Witness ",
+      "translated_title": "A Direct Witness ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": null,
           "id": "an9.43_translation-en-sujato",
           "segmented": true,
-          "title": "A Personal Witness ",
+          "title": "A Direct Witness ",
           "volpage": null,
           "has_comment": false
         },
@@ -135,6 +135,19 @@
           "author_uid": "alfano",
           "publication_date": null,
           "id": "it_an9.43_alfano",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "jpn",
+          "lang_name": "日本語",
+          "is_root": false,
+          "author": "関西パーリ語実習会",
+          "author_short": "関西パーリ語実習会",
+          "author_uid": "kansai",
+          "publication_date": "2023",
+          "id": "jpn_an9.43_kansai",
           "segmented": false,
           "volpage": null,
           "has_comment": false
