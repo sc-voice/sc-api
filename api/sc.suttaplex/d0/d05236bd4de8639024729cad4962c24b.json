@@ -37,7 +37,7 @@
         },
         {
           "lang": "bn",
-          "lang_name": "Bengali",
+          "lang_name": "বাংলা",
           "is_root": false,
           "author": "ড. বেণীমাধব বড়ুয়া",
           "author_short": "বড়ুয়া",
@@ -274,7 +274,7 @@
         },
         {
           "lang": "ru",
-          "lang_name": "ру́сский язы́к",
+          "lang_name": "Русский",
           "is_root": false,
           "author": "SV theravada.ru",
           "author_short": "sv",
@@ -288,7 +288,7 @@
         },
         {
           "lang": "ru",
-          "lang_name": "ру́сский язы́к",
+          "lang_name": "Русский",
           "is_root": false,
           "author": "SV",
           "author_short": "SV",
@@ -381,7 +381,7 @@
       "parallel_count": 30,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": null
     }
   ]
 }

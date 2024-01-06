@@ -37,7 +37,7 @@
         },
         {
           "lang": "bn",
-          "lang_name": "Bengali",
+          "lang_name": "বাংলা",
           "is_root": false,
           "author": "ধর্মাধার মহাস্থবির",
           "author_short": "ধর্মাধার",
@@ -158,7 +158,7 @@
         },
         {
           "lang": "hr",
-          "lang_name": "hrvatski",
+          "lang_name": "Hrvatski",
           "is_root": false,
           "author": "Čedomil Veljačić",
           "author_short": "Veljačić",
@@ -276,7 +276,7 @@
         },
         {
           "lang": "ru",
-          "lang_name": "ру́сский язы́к",
+          "lang_name": "Русский",
           "is_root": false,
           "author": "SV theravada.ru",
           "author_short": "sv",
@@ -290,7 +290,7 @@
         },
         {
           "lang": "ru",
-          "lang_name": "ру́сский язы́к",
+          "lang_name": "Русский",
           "is_root": false,
           "author": "SV",
           "author_short": "SV",
@@ -383,7 +383,7 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": null
     }
   ]
 }

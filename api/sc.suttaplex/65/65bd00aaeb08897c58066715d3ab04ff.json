@@ -37,7 +37,7 @@
         },
         {
           "lang": "bn",
-          "lang_name": "Bengali",
+          "lang_name": "বাংলা",
           "is_root": false,
           "author": "ড. বেণীমাধব বড়ুয়া",
           "author_short": "বড়ুয়া",
@@ -154,6 +154,20 @@
           "publication_date": null,
           "id": "es_mn4_pachon",
           "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Noé Ismet",
+          "author_short": "noeismet",
+          "author_uid": "noeismet",
+          "publication_date": null,
+          "id": "mn4_translation-fr-noeismet",
+          "segmented": true,
+          "title": "La peur et l’effroi ",
           "volpage": null,
           "has_comment": false
         },
@@ -303,7 +317,7 @@
         },
         {
           "lang": "ru",
-          "lang_name": "ру́сский язы́к",
+          "lang_name": "Русский",
           "is_root": false,
           "author": "SV theravada.ru",
           "author_short": "sv",
@@ -317,7 +331,7 @@
         },
         {
           "lang": "ru",
-          "lang_name": "ру́сский язы́к",
+          "lang_name": "Русский",
           "is_root": false,
           "author": "SV",
           "author_short": "SV",
@@ -424,7 +438,7 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": null
     }
   ]
 }

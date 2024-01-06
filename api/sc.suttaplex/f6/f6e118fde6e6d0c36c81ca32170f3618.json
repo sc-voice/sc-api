@@ -181,7 +181,7 @@
         },
         {
           "lang": "ru",
-          "lang_name": "ру́сский язы́к",
+          "lang_name": "Русский",
           "is_root": false,
           "author": "Б.С.",
           "author_short": "Б.С.",
@@ -235,7 +235,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  338–365"
+      "verseNo": null
     }
   ]
 }

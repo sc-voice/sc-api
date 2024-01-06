@@ -37,7 +37,7 @@
         },
         {
           "lang": "bn",
-          "lang_name": "Bengali",
+          "lang_name": "বাংলা",
           "is_root": false,
           "author": "ড. বেণীমাধব বড়ুয়া",
           "author_short": "বড়ুয়া",
@@ -58,6 +58,20 @@
           "publication_date": null,
           "id": "cs_mn29_chromovsky",
           "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "publication_date": null,
+          "id": "mn29_translation-de-sabbamitta",
+          "segmented": true,
+          "title": "Das längere Gleichnis vom Kernholz ",
           "volpage": null,
           "has_comment": false
         },
@@ -289,7 +303,7 @@
         },
         {
           "lang": "ru",
-          "lang_name": "ру́сский язы́к",
+          "lang_name": "Русский",
           "is_root": false,
           "author": "SV theravada.ru",
           "author_short": "sv",
@@ -303,7 +317,7 @@
         },
         {
           "lang": "ru",
-          "lang_name": "ру́сский язы́к",
+          "lang_name": "Русский",
           "is_root": false,
           "author": "баян купи-ка",
           "author_short": "купи-ка",
@@ -316,7 +330,7 @@
         },
         {
           "lang": "ru",
-          "lang_name": "ру́сский язы́к",
+          "lang_name": "Русский",
           "is_root": false,
           "author": "SV",
           "author_short": "SV",
@@ -409,7 +423,7 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": null
     }
   ]
 }

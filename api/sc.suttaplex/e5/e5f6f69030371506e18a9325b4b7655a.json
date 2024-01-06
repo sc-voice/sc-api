@@ -140,7 +140,7 @@
         },
         {
           "lang": "ru",
-          "lang_name": "ру́сский язы́к",
+          "lang_name": "Русский",
           "is_root": false,
           "author": "SV",
           "author_short": "SV",
@@ -181,7 +181,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 26"
+      "verseNo": null
     }
   ]
 }

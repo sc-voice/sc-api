@@ -37,7 +37,7 @@
         },
         {
           "lang": "bn",
-          "lang_name": "Bengali",
+          "lang_name": "বাংলা",
           "is_root": false,
           "author": "ধর্মাধার মহাস্থবির",
           "author_short": "ধর্মাধার",
@@ -196,7 +196,7 @@
         },
         {
           "lang": "ru",
-          "lang_name": "ру́сский язы́к",
+          "lang_name": "Русский",
           "is_root": false,
           "author": "SV theravada.ru",
           "author_short": "sv",
@@ -210,7 +210,7 @@
         },
         {
           "lang": "ru",
-          "lang_name": "ру́сский язы́к",
+          "lang_name": "Русский",
           "is_root": false,
           "author": "Yu Kan",
           "author_short": "Yu Kan",
@@ -223,7 +223,7 @@
         },
         {
           "lang": "ru",
-          "lang_name": "ру́сский язы́к",
+          "lang_name": "Русский",
           "is_root": false,
           "author": "SV",
           "author_short": "SV",
@@ -249,7 +249,7 @@
         },
         {
           "lang": "sk",
-          "lang_name": "slovenčina",
+          "lang_name": "Slovenčina",
           "is_root": false,
           "author": "KB",
           "author_short": "KB",
@@ -329,7 +329,7 @@
       "parallel_count": 7,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": null
     }
   ]
 }

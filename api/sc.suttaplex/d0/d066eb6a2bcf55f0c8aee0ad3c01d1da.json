@@ -34,7 +34,7 @@
         },
         {
           "lang": "bn",
-          "lang_name": "Bengali",
+          "lang_name": "বাংলা",
           "is_root": false,
           "author": "প্রজ্ঞাদর্শী ভিক্ষু",
           "author_short": "প্রজ্ঞাদর্শী",
@@ -55,7 +55,7 @@
           "publication_date": null,
           "id": "an5.26_translation-de-sabbamitta",
           "segmented": true,
-          "title": "Gelegenheiten zur Befreiung ",
+          "title": "Gelegenheiten für Freiheit ",
           "volpage": null,
           "has_comment": false
         },
@@ -154,7 +154,7 @@
         },
         {
           "lang": "ru",
-          "lang_name": "ру́сский язы́к",
+          "lang_name": "Русский",
           "is_root": false,
           "author": "SV",
           "author_short": "SV",
@@ -221,7 +221,7 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": null
     }
   ]
 }

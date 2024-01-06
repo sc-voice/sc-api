@@ -114,7 +114,7 @@
         },
         {
           "lang": "ru",
-          "lang_name": "ру́сский язы́к",
+          "lang_name": "Русский",
           "is_root": false,
           "author": "баян купи-ка",
           "author_short": "купи-ка",
@@ -168,7 +168,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 5"
+      "verseNo": null
     }
   ]
 }

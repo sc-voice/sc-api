@@ -37,7 +37,7 @@
         },
         {
           "lang": "bn",
-          "lang_name": "Bengali",
+          "lang_name": "বাংলা",
           "is_root": false,
           "author": "Bhikkhu Shilabhadra",
           "author_short": "Shilabhadra",
@@ -131,7 +131,7 @@
         },
         {
           "lang": "fa",
-          "lang_name": "Farsi",
+          "lang_name": "فارسی",
           "is_root": false,
           "author": "Vipassana Research Institute",
           "author_short": "VRI",
@@ -157,7 +157,7 @@
         },
         {
           "lang": "he",
-          "lang_name": "Hebrew",
+          "lang_name": "עִבְֿרִיתּ",
           "is_root": false,
           "author": "Shai Schwartz",
           "author_short": "Schwartz",
@@ -326,7 +326,7 @@
         },
         {
           "lang": "ru",
-          "lang_name": "ру́сский язы́к",
+          "lang_name": "Русский",
           "is_root": false,
           "author": "Д. А. Ивахненко",
           "author_short": "Ивахненко",
@@ -433,7 +433,7 @@
       "parallel_count": 27,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": null
     }
   ]
 }

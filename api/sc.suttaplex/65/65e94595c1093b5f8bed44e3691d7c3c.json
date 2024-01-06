@@ -37,7 +37,7 @@
         },
         {
           "lang": "bn",
-          "lang_name": "Bengali",
+          "lang_name": "বাংলা",
           "is_root": false,
           "author": "ড. বেণীমাধব বড়ুয়া",
           "author_short": "বড়ুয়া",
@@ -225,7 +225,7 @@
         },
         {
           "lang": "he",
-          "lang_name": "Hebrew",
+          "lang_name": "עִבְֿרִיתּ",
           "is_root": false,
           "author": "Shai Schwartz",
           "author_short": "Schwartz",
@@ -396,7 +396,7 @@
         },
         {
           "lang": "ru",
-          "lang_name": "ру́сский язы́к",
+          "lang_name": "Русский",
           "is_root": false,
           "author": "SV theravada.ru",
           "author_short": "sv",
@@ -410,7 +410,7 @@
         },
         {
           "lang": "ru",
-          "lang_name": "ру́сский язы́к",
+          "lang_name": "Русский",
           "is_root": false,
           "author": "SV",
           "author_short": "SV",
@@ -543,7 +543,7 @@
       "parallel_count": 20,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": null
     }
   ]
 }
