@@ -338,6 +338,19 @@
           "has_comment": false
         },
         {
+          "lang": "sl",
+          "lang_name": "Slovenščina",
+          "is_root": false,
+          "author": "Bojan Božič",
+          "author_short": "Božič",
+          "author_uid": "bojan",
+          "publication_date": "2024",
+          "id": "sl_dn16_bojan",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "sr",
           "lang_name": "Srpski",
           "is_root": false,
