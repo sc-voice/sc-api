@@ -19,7 +19,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "About King Makhādeva ",
+      "translated_title": "About King Maghadeva ",
       "translations": [
         {
           "lang": "pli",
@@ -71,9 +71,9 @@
           "publication_date": null,
           "id": "mn83_translation-en-sujato",
           "segmented": true,
-          "title": "About King Makhādeva ",
+          "title": "About King Maghadeva ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "I.B. Horner",
