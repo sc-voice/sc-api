@@ -70,7 +70,7 @@
           "segmented": true,
           "title": "Eine große Hilfe ",
           "volpage": null,
-          "has_comment": true
+          "has_comment": false
         },
         {
           "lang": "de",
@@ -142,7 +142,7 @@
         },
         {
           "lang": "id",
-          "lang_name": "Indonesian",
+          "lang_name": "Bahasa Indonesia",
           "is_root": false,
           "author": "Indra Anggara",
           "author_short": "Anggara",

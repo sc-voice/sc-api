@@ -156,7 +156,7 @@
         },
         {
           "lang": "id",
-          "lang_name": "Indonesian",
+          "lang_name": "Bahasa Indonesia",
           "is_root": false,
           "author": "Indra Anggara",
           "author_short": "Anggara",
@@ -365,7 +365,7 @@
           "has_comment": false
         }
       ],
-      "parallel_count": 5,
+      "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
       "verseNo": ""

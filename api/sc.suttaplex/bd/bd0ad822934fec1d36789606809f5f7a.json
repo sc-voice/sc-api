@@ -128,7 +128,7 @@
         },
         {
           "lang": "id",
-          "lang_name": "Indonesian",
+          "lang_name": "Bahasa Indonesia",
           "is_root": false,
           "author": "Indra Anggara",
           "author_short": "Anggara",
@@ -162,6 +162,20 @@
           "publication_date": null,
           "id": "my_an3.6_pmt",
           "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "pt",
+          "lang_name": "Português",
+          "is_root": false,
+          "author": "Laera et al.",
+          "author_short": "laera",
+          "author_uid": "laera",
+          "publication_date": null,
+          "id": "an3.6_translation-pt-laera-quaresma",
+          "segmented": true,
+          "title": "Inábel ",
           "volpage": null,
           "has_comment": false
         },
