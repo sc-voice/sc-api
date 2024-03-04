@@ -60,19 +60,6 @@
           "has_comment": false
         },
         {
-          "lang": "de",
-          "lang_name": "Deutsch",
-          "is_root": false,
-          "author": "Wilhelm Geiger",
-          "author_short": "Geiger",
-          "author_uid": "geiger",
-          "publication_date": "1925",
-          "id": "de_sn12.93-213_geiger",
-          "segmented": false,
-          "volpage": null,
-          "has_comment": false
-        },
-        {
           "lang": "en",
           "lang_name": "English",
           "is_root": false,

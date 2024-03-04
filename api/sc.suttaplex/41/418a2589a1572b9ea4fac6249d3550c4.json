@@ -60,6 +60,19 @@
           "has_comment": false
         },
         {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Dr. Hellmuth Hecker",
+          "author_short": "Hecker",
+          "author_uid": "hecker",
+          "publication_date": "1993",
+          "id": "de_sn50.67-76_hecker",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "en",
           "lang_name": "English",
           "is_root": false,
