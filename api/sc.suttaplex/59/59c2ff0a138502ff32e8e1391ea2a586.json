@@ -180,6 +180,20 @@
           "has_comment": false
         },
         {
+          "lang": "pl",
+          "lang_name": "Polski",
+          "is_root": false,
+          "author": "Piotr Jagodziński",
+          "author_short": "hardao",
+          "author_uid": "hardao",
+          "publication_date": null,
+          "id": "sn15.5_translation-pl-hardao",
+          "segmented": true,
+          "title": "Mowa o górze ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "ru",
           "lang_name": "Русский",
           "is_root": false,
