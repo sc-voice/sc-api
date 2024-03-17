@@ -166,6 +166,20 @@
           "has_comment": false
         },
         {
+          "lang": "pl",
+          "lang_name": "Polski",
+          "is_root": false,
+          "author": "Piotr Jagodziński",
+          "author_short": "hardao",
+          "author_uid": "hardao",
+          "publication_date": null,
+          "id": "an10.48_translation-pl-hardao",
+          "segmented": true,
+          "title": "Mowa o powtórzeniach dla tego, który wywędrował ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "pt",
           "lang_name": "Português",
           "is_root": false,
