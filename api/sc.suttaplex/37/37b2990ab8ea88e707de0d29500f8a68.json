@@ -389,6 +389,19 @@
           "has_comment": false
         },
         {
+          "lang": "tr",
+          "lang_name": "Türkçe",
+          "is_root": false,
+          "author": "Cem Şen",
+          "author_short": "Cem Şen",
+          "author_uid": "cemsen",
+          "publication_date": "2024",
+          "id": "tr_sn22.59_cemsen",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "vi",
           "lang_name": "Tiếng Việt",
           "is_root": false,
