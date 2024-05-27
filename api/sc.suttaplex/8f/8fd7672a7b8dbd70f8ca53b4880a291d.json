@@ -117,20 +117,6 @@
           "has_comment": false
         },
         {
-          "lang": "fr",
-          "lang_name": "Français",
-          "is_root": false,
-          "author": "Noé Ismet",
-          "author_short": "noeismet",
-          "author_uid": "noeismet",
-          "publication_date": "2022",
-          "id": "dn26_translation-fr-noeismet",
-          "segmented": true,
-          "title": "Le monarque qui tourne la roue ",
-          "volpage": null,
-          "has_comment": false
-        },
-        {
           "lang": "he",
           "lang_name": "עִבְֿרִיתּ",
           "is_root": false,

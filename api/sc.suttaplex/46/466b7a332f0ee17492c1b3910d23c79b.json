@@ -100,20 +100,6 @@
           "has_comment": false
         },
         {
-          "lang": "fr",
-          "lang_name": "Français",
-          "is_root": false,
-          "author": "Noé Ismet",
-          "author_short": "noeismet",
-          "author_uid": "noeismet",
-          "publication_date": "2022",
-          "id": "sn15.2_translation-fr-noeismet",
-          "segmented": true,
-          "title": "La Terre ",
-          "volpage": null,
-          "has_comment": false
-        },
-        {
           "lang": "id",
           "lang_name": "Bahasa Indonesia",
           "is_root": false,
