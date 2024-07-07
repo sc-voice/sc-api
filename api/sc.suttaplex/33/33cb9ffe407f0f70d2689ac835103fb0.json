@@ -246,19 +246,6 @@
           "has_comment": false
         },
         {
-          "lang": "ru",
-          "lang_name": "Русский",
-          "is_root": false,
-          "author": "SV",
-          "author_short": "SV",
-          "author_uid": "sv",
-          "publication_date": "2013",
-          "id": "ru_sn1.15_sv",
-          "segmented": false,
-          "volpage": null,
-          "has_comment": false
-        },
-        {
           "lang": "si",
           "lang_name": "සිංහල",
           "is_root": false,

@@ -221,6 +221,20 @@
           "has_comment": false
         },
         {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "A. Y. Syrkin",
+          "author_short": "syrkin",
+          "author_uid": "syrkin",
+          "publication_date": "2024",
+          "id": "dn32_translation-ru-syrkin",
+          "segmented": true,
+          "title": "Атанатия Сутта ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "si",
           "lang_name": "සිංහල",
           "is_root": false,
