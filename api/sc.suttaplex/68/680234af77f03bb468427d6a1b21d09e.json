@@ -19,7 +19,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "The Analysis of a Recitation Passage ",
+      "translated_title": "A Passage for Recitation and its Analysis ",
       "translations": [
         {
           "lang": "pli",
@@ -71,9 +71,9 @@
           "publication_date": "2018",
           "id": "mn138_translation-en-sujato",
           "segmented": true,
-          "title": "The Analysis of a Recitation Passage ",
+          "title": "A Passage for Recitation and its Analysis ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
