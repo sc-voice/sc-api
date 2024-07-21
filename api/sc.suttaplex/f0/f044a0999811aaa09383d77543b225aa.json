@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Pārāsariya (1st) ",
+      "translated_title": "Pārāpariya (1st) ",
       "translations": [
         {
           "lang": "pli",
@@ -69,9 +69,9 @@
           "publication_date": "2014",
           "id": "thag1.116_translation-en-sujato",
           "segmented": true,
-          "title": "Pārāsariya (1st) ",
+          "title": "Pārāpariya (1st) ",
           "volpage": null,
-          "has_comment": true
+          "has_comment": false
         },
         {
           "lang": "id",

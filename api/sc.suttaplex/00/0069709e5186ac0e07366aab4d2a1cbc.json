@@ -237,20 +237,6 @@
           "lang": "ru",
           "lang_name": "Русский",
           "is_root": false,
-          "author": "SV theravada.ru",
-          "author_short": "sv",
-          "author_uid": "sv",
-          "publication_date": "2023",
-          "id": "mn85_translation-ru-sv",
-          "segmented": true,
-          "title": "К принцу Бодхи ",
-          "volpage": null,
-          "has_comment": false
-        },
-        {
-          "lang": "ru",
-          "lang_name": "Русский",
-          "is_root": false,
           "author": "SV",
           "author_short": "SV",
           "author_uid": "sv",
@@ -339,7 +325,7 @@
           "has_comment": false
         }
       ],
-      "parallel_count": 135,
+      "parallel_count": 126,
       "biblio": null,
       "priority_author_uid": "sujato",
       "verseNo": ""

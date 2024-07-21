@@ -248,15 +248,14 @@
           "lang": "ru",
           "lang_name": "Русский",
           "is_root": false,
-          "author": "SV theravada.ru",
-          "author_short": "sv",
+          "author": "SV",
+          "author_short": "SV",
           "author_uid": "sv",
-          "publication_date": "2024",
-          "id": "sn1.1_translation-ru-sv",
-          "segmented": true,
-          "title": "Пересечение наводнения ",
+          "publication_date": "2013",
+          "id": "ru_sn1.1_sv",
+          "segmented": false,
           "volpage": null,
-          "has_comment": true
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -294,19 +293,6 @@
           "author_uid": "siam_rath",
           "publication_date": null,
           "id": "th_sn1.1_siam_rath",
-          "segmented": false,
-          "volpage": null,
-          "has_comment": false
-        },
-        {
-          "lang": "tr",
-          "lang_name": "Türkçe",
-          "is_root": false,
-          "author": "Ufuk Çakmakçı",
-          "author_short": "Ufuk Çakmakçı",
-          "author_uid": "ufukcakmakci",
-          "publication_date": "2024",
-          "id": "tr_sn1.1_ufukcakmakci",
           "segmented": false,
           "volpage": null,
           "has_comment": false

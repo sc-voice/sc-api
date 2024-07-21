@@ -86,7 +86,7 @@
           "segmented": true,
           "title": "The Shorter Discourse on Emptiness ",
           "volpage": null,
-          "has_comment": true
+          "has_comment": false
         },
         {
           "author": "Nyanamoli Thera",
@@ -124,19 +124,6 @@
           "author_uid": "maes",
           "publication_date": null,
           "id": "fr_mn121_maes",
-          "segmented": false,
-          "volpage": null,
-          "has_comment": false
-        },
-        {
-          "lang": "fr",
-          "lang_name": "Français",
-          "is_root": false,
-          "author": "Claude Le Ninan, Chandhana Le Ninan",
-          "author_short": "leninan",
-          "author_uid": "leninan",
-          "publication_date": "2023",
-          "id": "fr_mn121_leninan",
           "segmented": false,
           "volpage": null,
           "has_comment": false
@@ -268,20 +255,6 @@
           "publication_date": "2010",
           "id": "pt_mn121_beisert",
           "segmented": false,
-          "volpage": null,
-          "has_comment": false
-        },
-        {
-          "lang": "ru",
-          "lang_name": "Русский",
-          "is_root": false,
-          "author": "SV theravada.ru",
-          "author_short": "sv",
-          "author_uid": "sv",
-          "publication_date": "2023",
-          "id": "mn121_translation-ru-sv",
-          "segmented": true,
-          "title": "Малое наставление о пустотности ",
           "volpage": null,
           "has_comment": false
         },

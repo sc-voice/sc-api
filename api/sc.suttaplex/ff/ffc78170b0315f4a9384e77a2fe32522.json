@@ -73,7 +73,7 @@
           "segmented": true,
           "title": "With Anuruddha ",
           "volpage": null,
-          "has_comment": true
+          "has_comment": false
         },
         {
           "author": "Nyanamoli Thera",
@@ -190,20 +190,6 @@
           "publication_date": "2006",
           "id": "pt_mn127_beisert",
           "segmented": false,
-          "volpage": null,
-          "has_comment": false
-        },
-        {
-          "lang": "ru",
-          "lang_name": "Русский",
-          "is_root": false,
-          "author": "SV theravada.ru",
-          "author_short": "sv",
-          "author_uid": "sv",
-          "publication_date": "2023",
-          "id": "mn127_translation-ru-sv",
-          "segmented": true,
-          "title": "Ануруддха ",
           "volpage": null,
           "has_comment": false
         },

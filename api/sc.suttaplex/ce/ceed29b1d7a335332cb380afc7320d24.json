@@ -117,6 +117,20 @@
           "has_comment": false
         },
         {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Noé Ismet",
+          "author_short": "noeismet",
+          "author_uid": "noeismet",
+          "publication_date": "2022",
+          "id": "dn31_translation-fr-noeismet",
+          "segmented": true,
+          "title": "Conseil à Sigālaka ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "he",
           "lang_name": "עִבְֿרִיתּ",
           "is_root": false,
@@ -406,7 +420,7 @@
           "has_comment": false
         }
       ],
-      "parallel_count": 19,
+      "parallel_count": 17,
       "biblio": null,
       "priority_author_uid": "sujato",
       "verseNo": ""

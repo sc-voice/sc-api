@@ -87,7 +87,7 @@
           "segmented": true,
           "title": "Advice to Channa ",
           "volpage": null,
-          "has_comment": true
+          "has_comment": false
         },
         {
           "lang": "es",
@@ -216,20 +216,6 @@
           "publication_date": "2008",
           "id": "pt_mn144_beisert",
           "segmented": false,
-          "volpage": null,
-          "has_comment": false
-        },
-        {
-          "lang": "ru",
-          "lang_name": "Русский",
-          "is_root": false,
-          "author": "SV theravada.ru",
-          "author_short": "sv",
-          "author_uid": "sv",
-          "publication_date": "2023",
-          "id": "mn144_translation-ru-sv",
-          "segmented": true,
-          "title": "Совет Чханне ",
           "volpage": null,
           "has_comment": false
         },

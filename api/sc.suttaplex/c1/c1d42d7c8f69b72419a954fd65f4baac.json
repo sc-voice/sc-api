@@ -73,7 +73,7 @@
           "segmented": true,
           "title": "Many Elements ",
           "volpage": null,
-          "has_comment": true
+          "has_comment": false
         },
         {
           "author": "Nyanamoli Thera",
@@ -197,20 +197,6 @@
           "lang": "ru",
           "lang_name": "Русский",
           "is_root": false,
-          "author": "SV theravada.ru",
-          "author_short": "sv",
-          "author_uid": "sv",
-          "publication_date": "2023",
-          "id": "mn115_translation-ru-sv",
-          "segmented": true,
-          "title": "Многие виды элементов ",
-          "volpage": null,
-          "has_comment": false
-        },
-        {
-          "lang": "ru",
-          "lang_name": "Русский",
-          "is_root": false,
           "author": "SV",
           "author_short": "SV",
           "author_uid": "sv",
@@ -299,7 +285,7 @@
           "has_comment": false
         }
       ],
-      "parallel_count": 17,
+      "parallel_count": 13,
       "biblio": null,
       "priority_author_uid": "sujato",
       "verseNo": ""

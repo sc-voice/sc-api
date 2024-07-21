@@ -263,20 +263,6 @@
           "lang": "ru",
           "lang_name": "Русский",
           "is_root": false,
-          "author": "A. Y. Syrkin",
-          "author_short": "syrkin",
-          "author_uid": "syrkin",
-          "publication_date": "2024",
-          "id": "dn1_translation-ru-syrkin",
-          "segmented": true,
-          "title": "Брахмаджала Сутта ",
-          "volpage": null,
-          "has_comment": false
-        },
-        {
-          "lang": "ru",
-          "lang_name": "Русский",
-          "is_root": false,
           "author": "А. Я. Сыркина",
           "author_short": "Сыркина",
           "author_uid": "syrkina",
@@ -327,19 +313,6 @@
           "has_comment": false
         },
         {
-          "lang": "tr",
-          "lang_name": "Türkçe",
-          "is_root": false,
-          "author": "Ufuk Çakmakçı",
-          "author_short": "Ufuk Çakmakçı",
-          "author_uid": "ufukcakmakci",
-          "publication_date": "2024",
-          "id": "tr_dn1_ufukcakmakci",
-          "segmented": false,
-          "volpage": null,
-          "has_comment": false
-        },
-        {
           "lang": "vi",
           "lang_name": "Tiếng Việt",
           "is_root": false,
@@ -366,7 +339,7 @@
           "has_comment": false
         }
       ],
-      "parallel_count": 27,
+      "parallel_count": 25,
       "biblio": null,
       "priority_author_uid": "sujato",
       "verseNo": ""

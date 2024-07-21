@@ -46,6 +46,20 @@
           "has_comment": false
         },
         {
+          "lang": "cs",
+          "lang_name": "Čeština",
+          "is_root": false,
+          "author": "Ashin Sarana",
+          "author_short": "ashinsarana",
+          "author_uid": "ashinsarana",
+          "publication_date": "2021",
+          "id": "an4.143_translation-cs-ashinsarana",
+          "segmented": true,
+          "title": "",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "de",
           "lang_name": "Deutsch",
           "is_root": false,
@@ -122,20 +136,6 @@
           "publication_date": "2023",
           "id": "jpn_an4.143_kansai",
           "segmented": false,
-          "volpage": null,
-          "has_comment": false
-        },
-        {
-          "lang": "lt",
-          "lang_name": "Lietuvių Kalba",
-          "is_root": false,
-          "author": "Sayalay Piyadassi",
-          "author_short": "piyadassi",
-          "author_uid": "piyadassi",
-          "publication_date": "2022",
-          "id": "an4.143_translation-lt-piyadassi",
-          "segmented": true,
-          "title": "Šviesa",
           "volpage": null,
           "has_comment": false
         },

@@ -222,15 +222,14 @@
           "lang": "ru",
           "lang_name": "Русский",
           "is_root": false,
-          "author": "SV theravada.ru",
-          "author_short": "sv",
+          "author": "SV",
+          "author_short": "SV",
           "author_uid": "sv",
-          "publication_date": "2024",
-          "id": "sn1.11_translation-ru-sv",
-          "segmented": true,
-          "title": "Нандана ",
+          "publication_date": "2015",
+          "id": "ru_sn1.11_sv",
+          "segmented": false,
           "volpage": null,
-          "has_comment": true
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -299,7 +298,7 @@
           "has_comment": false
         }
       ],
-      "parallel_count": 12,
+      "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
       "verseNo": ""

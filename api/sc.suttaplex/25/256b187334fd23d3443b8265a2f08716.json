@@ -73,7 +73,7 @@
           "segmented": true,
           "title": "Incredible and Amazing ",
           "volpage": null,
-          "has_comment": true
+          "has_comment": false
         },
         {
           "lang": "es",
@@ -85,6 +85,20 @@
           "publication_date": "1995",
           "id": "es_mn123_baron",
           "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Noé Ismet",
+          "author_short": "noeismet",
+          "author_uid": "noeismet",
+          "publication_date": "2022",
+          "id": "mn123_translation-fr-noeismet",
+          "segmented": true,
+          "title": "Incroyable et Stupéfiant ",
           "volpage": null,
           "has_comment": false
         },
@@ -176,20 +190,6 @@
           "publication_date": "2013",
           "id": "pt_mn123_beisert",
           "segmented": false,
-          "volpage": null,
-          "has_comment": false
-        },
-        {
-          "lang": "ru",
-          "lang_name": "Русский",
-          "is_root": false,
-          "author": "SV theravada.ru",
-          "author_short": "sv",
-          "author_uid": "sv",
-          "publication_date": "2023",
-          "id": "mn123_translation-ru-sv",
-          "segmented": true,
-          "title": "Удивительное и поразительное ",
           "volpage": null,
           "has_comment": false
         },
