@@ -100,7 +100,7 @@
           "segmented": true,
           "title": "Corruptions ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Nyanamoli Thera",
@@ -138,6 +138,19 @@
           "author_uid": "maes",
           "publication_date": null,
           "id": "fr_mn128_maes",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Claude Le Ninan, Chandhana Le Ninan",
+          "author_short": "leninan",
+          "author_uid": "leninan",
+          "publication_date": "2023",
+          "id": "fr_mn128_leninan",
           "segmented": false,
           "volpage": null,
           "has_comment": false
@@ -237,6 +250,20 @@
           "lang": "ru",
           "lang_name": "Русский",
           "is_root": false,
+          "author": "SV theravada.ru",
+          "author_short": "sv",
+          "author_uid": "sv",
+          "publication_date": "2023",
+          "id": "mn128_translation-ru-sv",
+          "segmented": true,
+          "title": "Изъяны ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
           "author": "SV",
           "author_short": "SV",
           "author_uid": "sv",
@@ -325,7 +352,7 @@
           "has_comment": false
         }
       ],
-      "parallel_count": 106,
+      "parallel_count": 110,
       "biblio": null,
       "priority_author_uid": "sujato",
       "verseNo": ""

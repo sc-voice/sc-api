@@ -101,6 +101,19 @@
           "title": "The Counterfeit of the True Dhamma"
         },
         {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Claude Le Ninan, Chandhana Le Ninan",
+          "author_short": "leninan",
+          "author_uid": "leninan",
+          "publication_date": "2023",
+          "id": "fr_sn16.13_leninan",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "id",
           "lang_name": "Bahasa Indonesia",
           "is_root": false,

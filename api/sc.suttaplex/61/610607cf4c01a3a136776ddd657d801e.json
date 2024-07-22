@@ -78,6 +78,20 @@
           "lang": "de",
           "lang_name": "Deutsch",
           "is_root": false,
+          "author": "Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "publication_date": "2019",
+          "id": "mn147_translation-de-sabbamitta",
+          "segmented": true,
+          "title": "Die kürzere Unterweisung Rāhulas ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
           "author": "Mettiko Bhikkhu",
           "author_short": "Mettiko",
           "author_uid": "mettiko",
@@ -99,7 +113,7 @@
           "segmented": true,
           "title": "The Shorter Advice to Rāhula ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -229,6 +243,20 @@
           "publication_date": "2014",
           "id": "pt_mn147_beisert",
           "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "SV theravada.ru",
+          "author_short": "sv",
+          "author_uid": "sv",
+          "publication_date": "2023",
+          "id": "mn147_translation-ru-sv",
+          "segmented": true,
+          "title": "Малое наставление Рахуле ",
           "volpage": null,
           "has_comment": false
         },

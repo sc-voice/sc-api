@@ -187,20 +187,6 @@
           "lang": "fr",
           "lang_name": "Français",
           "is_root": false,
-          "author": "Noé Ismet",
-          "author_short": "noeismet",
-          "author_uid": "noeismet",
-          "publication_date": "2022",
-          "id": "mn2_translation-fr-noeismet",
-          "segmented": true,
-          "title": "Toutes les souillures ",
-          "volpage": null,
-          "has_comment": false
-        },
-        {
-          "lang": "fr",
-          "lang_name": "Français",
-          "is_root": false,
           "author": "Christian Maës",
           "author_short": "Maës",
           "author_uid": "maes",
@@ -224,6 +210,20 @@
           "has_comment": false
         },
         {
+          "lang": "gu",
+          "lang_name": "ગુજરાતી",
+          "is_root": false,
+          "author": "Trushant Majmudar",
+          "author_short": "trush",
+          "author_uid": "trush",
+          "publication_date": "2024",
+          "id": "mn2_translation-gu-trush",
+          "segmented": true,
+          "title": "સર્વઆસવસૂત્ર ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "he",
           "lang_name": "עִבְֿרִיתּ",
           "is_root": false,
@@ -233,6 +233,20 @@
           "publication_date": "2004",
           "id": "he_mn2_schwartz",
           "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "hi",
+          "lang_name": "हिन्दी",
+          "is_root": false,
+          "author": "Trushant Majmudar",
+          "author_short": "trush",
+          "author_uid": "trush",
+          "publication_date": "2024",
+          "id": "mn2_translation-hi-trush",
+          "segmented": true,
+          "title": "सर्व आसव सूत्र ",
           "volpage": null,
           "has_comment": false
         },

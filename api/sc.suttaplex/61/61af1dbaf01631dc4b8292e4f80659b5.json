@@ -87,7 +87,7 @@
           "segmented": true,
           "title": "Advice to Puṇṇa ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Nyanamoli Thera",
@@ -204,6 +204,20 @@
           "publication_date": "2013",
           "id": "pt_mn145_beisert",
           "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "SV theravada.ru",
+          "author_short": "sv",
+          "author_uid": "sv",
+          "publication_date": "2023",
+          "id": "mn145_translation-ru-sv",
+          "segmented": true,
+          "title": "Совет Пунне ",
           "volpage": null,
           "has_comment": false
         },

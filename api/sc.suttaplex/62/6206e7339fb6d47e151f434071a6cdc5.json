@@ -73,7 +73,7 @@
           "segmented": true,
           "title": "With Caṅkī ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -113,20 +113,6 @@
           "publication_date": "2011",
           "id": "es_mn95_nandisena",
           "segmented": false,
-          "volpage": null,
-          "has_comment": false
-        },
-        {
-          "lang": "fr",
-          "lang_name": "Français",
-          "is_root": false,
-          "author": "Noé Ismet",
-          "author_short": "noeismet",
-          "author_uid": "noeismet",
-          "publication_date": "2022",
-          "id": "mn95_translation-fr-noeismet",
-          "segmented": true,
-          "title": "Avec Caṅkī ",
           "volpage": null,
           "has_comment": false
         },
@@ -284,6 +270,20 @@
           "publication_date": "2008",
           "id": "pt_mn95_beisert",
           "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "SV theravada.ru",
+          "author_short": "sv",
+          "author_uid": "sv",
+          "publication_date": "2023",
+          "id": "mn95_translation-ru-sv",
+          "segmented": true,
+          "title": "К Чанки ",
           "volpage": null,
           "has_comment": false
         },

@@ -170,13 +170,12 @@
           "lang": "fr",
           "lang_name": "Français",
           "is_root": false,
-          "author": "Noé Ismet",
-          "author_short": "noeismet",
-          "author_uid": "noeismet",
-          "publication_date": "2022",
-          "id": "sn56.11_translation-fr-noeismet",
-          "segmented": true,
-          "title": "La mise en mouvement de la roue du Dhamma ",
+          "author": "Claude Le Ninan, Chandhana Le Ninan",
+          "author_short": "leninan",
+          "author_uid": "leninan",
+          "publication_date": "2023",
+          "id": "fr_sn56.11_leninan",
+          "segmented": false,
           "volpage": null,
           "has_comment": false
         },
@@ -255,7 +254,7 @@
           "publication_date": "2022",
           "id": "sn56.11_translation-lt-piyadassi",
           "segmented": true,
-          "title": "<i lang='pi' translate='no'>Dhammos</i> rato paleidimas",
+          "title": "<i lang='pi' translate='no'>Dhammos</i> rato įsukimas",
           "volpage": null,
           "has_comment": false
         },
@@ -416,6 +415,19 @@
           "has_comment": false
         },
         {
+          "lang": "tr",
+          "lang_name": "Türkçe",
+          "is_root": false,
+          "author": "Cem Şen",
+          "author_short": "Cem Şen",
+          "author_uid": "cemsen",
+          "publication_date": "2024",
+          "id": "tr_sn56.11_cemsen",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "vi",
           "lang_name": "Tiếng Việt",
           "is_root": false,
@@ -468,7 +480,7 @@
           "has_comment": false
         }
       ],
-      "parallel_count": 23,
+      "parallel_count": 24,
       "biblio": null,
       "priority_author_uid": "sujato",
       "verseNo": ""

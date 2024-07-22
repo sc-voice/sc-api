@@ -86,7 +86,7 @@
           "segmented": true,
           "title": "At Devadaha ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Thanissaro Bhikkhu",
@@ -210,6 +210,20 @@
           "lang": "ru",
           "lang_name": "Русский",
           "is_root": false,
+          "author": "SV theravada.ru",
+          "author_short": "sv",
+          "author_uid": "sv",
+          "publication_date": "2023",
+          "id": "mn101_translation-ru-sv",
+          "segmented": true,
+          "title": "В Девадахе ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
           "author": "SV",
           "author_short": "SV",
           "author_uid": "sv",
@@ -298,7 +312,7 @@
           "has_comment": false
         }
       ],
-      "parallel_count": 60,
+      "parallel_count": 64,
       "biblio": null,
       "priority_author_uid": "sujato",
       "verseNo": ""

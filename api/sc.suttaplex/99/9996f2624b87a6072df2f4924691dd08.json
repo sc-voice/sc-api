@@ -19,7 +19,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "The Great Discourse on the Six Sense Fields ",
+      "translated_title": "The Great Discourse on What Relates to the Six Sense Fields ",
       "translations": [
         {
           "lang": "pli",
@@ -97,9 +97,9 @@
           "publication_date": "2018",
           "id": "mn149_translation-en-sujato",
           "segmented": true,
-          "title": "The Great Discourse on the Six Sense Fields ",
+          "title": "The Great Discourse on What Relates to the Six Sense Fields ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -256,6 +256,20 @@
           "publication_date": "2008",
           "id": "pt_mn149_beisert",
           "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "SV theravada.ru",
+          "author_short": "sv",
+          "author_uid": "sv",
+          "publication_date": "2023",
+          "id": "mn149_translation-ru-sv",
+          "segmented": true,
+          "title": "Великая сфера шести ",
           "volpage": null,
           "has_comment": false
         },

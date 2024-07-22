@@ -184,6 +184,20 @@
           "lang": "ru",
           "lang_name": "Русский",
           "is_root": false,
+          "author": "SV theravada.ru",
+          "author_short": "sv",
+          "author_uid": "sv",
+          "publication_date": "2023",
+          "id": "mn94_translation-ru-sv",
+          "segmented": true,
+          "title": "К Гхотамукхе ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
           "author": "SV",
           "author_short": "SV",
           "author_uid": "sv",
@@ -272,7 +286,7 @@
           "has_comment": false
         }
       ],
-      "parallel_count": 58,
+      "parallel_count": 63,
       "biblio": null,
       "priority_author_uid": "sujato",
       "verseNo": ""

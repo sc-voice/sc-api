@@ -73,7 +73,7 @@
           "segmented": true,
           "title": "The Foolish and the Astute ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -183,6 +183,20 @@
           "lang": "ru",
           "lang_name": "Русский",
           "is_root": false,
+          "author": "SV theravada.ru",
+          "author_short": "sv",
+          "author_uid": "sv",
+          "publication_date": "2023",
+          "id": "mn129_translation-ru-sv",
+          "segmented": true,
+          "title": "Глупцы и мудрецы ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
           "author": "SV",
           "author_short": "SV",
           "author_uid": "sv",
@@ -271,7 +285,7 @@
           "has_comment": false
         }
       ],
-      "parallel_count": 14,
+      "parallel_count": 27,
       "biblio": null,
       "priority_author_uid": "sujato",
       "verseNo": ""

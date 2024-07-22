@@ -127,6 +127,19 @@
           "has_comment": false
         },
         {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Claude Le Ninan, Chandhana Le Ninan",
+          "author_short": "leninan",
+          "author_uid": "leninan",
+          "publication_date": "2023",
+          "id": "fr_sn1.51_leninan",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "id",
           "lang_name": "Bahasa Indonesia",
           "is_root": false,
@@ -201,6 +214,20 @@
           "publication_date": "2005",
           "id": "pt_sn1.51_beisert",
           "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "SV theravada.ru",
+          "author_short": "sv",
+          "author_uid": "sv",
+          "publication_date": "2024",
+          "id": "sn1.51_translation-ru-sv",
+          "segmented": true,
+          "title": "Старость ",
           "volpage": null,
           "has_comment": false
         },

@@ -113,6 +113,19 @@
           "has_comment": false
         },
         {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Claude Le Ninan, Chandhana Le Ninan",
+          "author_short": "leninan",
+          "author_uid": "leninan",
+          "publication_date": "2023",
+          "id": "fr_sn3.4_leninan",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "id",
           "lang_name": "Bahasa Indonesia",
           "is_root": false,
@@ -243,7 +256,7 @@
           "has_comment": false
         }
       ],
-      "parallel_count": 19,
+      "parallel_count": 20,
       "biblio": null,
       "priority_author_uid": "sujato",
       "verseNo": ""

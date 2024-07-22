@@ -46,20 +46,6 @@
           "has_comment": false
         },
         {
-          "lang": "cs",
-          "lang_name": "Čeština",
-          "is_root": false,
-          "author": "Ashin Sarana",
-          "author_short": "ashinsarana",
-          "author_uid": "ashinsarana",
-          "publication_date": "2021",
-          "id": "an4.59_translation-cs-ashinsarana",
-          "segmented": true,
-          "title": "",
-          "volpage": null,
-          "has_comment": false
-        },
-        {
           "lang": "de",
           "lang_name": "Deutsch",
           "is_root": false,

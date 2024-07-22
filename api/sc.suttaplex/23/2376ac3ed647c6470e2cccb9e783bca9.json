@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "With Sundarikabhāradvāja ",
+      "translated_title": "With Bhāradvāja of Sundarikā ",
       "translations": [
         {
           "lang": "pli",
@@ -68,7 +68,7 @@
           "publication_date": "2019",
           "id": "sn7.9_translation-de-sabbamitta",
           "segmented": true,
-          "title": "Mit Sundarikabhāradvāja ",
+          "title": "Mit Bhāradvāja von Sundarikā ",
           "volpage": null,
           "has_comment": false
         },
@@ -95,7 +95,7 @@
           "publication_date": "2018",
           "id": "sn7.9_translation-en-sujato",
           "segmented": true,
-          "title": "With Sundarikabhāradvāja ",
+          "title": "With Bhāradvāja of Sundarikā ",
           "volpage": null,
           "has_comment": false
         },
@@ -230,7 +230,7 @@
           "has_comment": false
         }
       ],
-      "parallel_count": 8,
+      "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
       "verseNo": ""

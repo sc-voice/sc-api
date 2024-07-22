@@ -73,7 +73,7 @@
           "segmented": true,
           "title": "Is This What You Think Of Me? ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -190,6 +190,20 @@
           "publication_date": "2006",
           "id": "pt_mn103_beisert",
           "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "SV theravada.ru",
+          "author_short": "sv",
+          "author_uid": "sv",
+          "publication_date": "2023",
+          "id": "mn103_translation-ru-sv",
+          "segmented": true,
+          "title": "Что вы думаете обо мне? ",
           "volpage": null,
           "has_comment": false
         },

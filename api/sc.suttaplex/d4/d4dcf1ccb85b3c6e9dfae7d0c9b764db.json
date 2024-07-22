@@ -10,7 +10,7 @@
       "volpages": " PTS 4.374, PTS 4.375, PTS 4.376, PTS 4.377, PTS 4.378, PTS 4.379, PTS 4.380",
       "alt_volpages": null,
       "uid": "sn44.1",
-      "blurb": "While staying in Toraṇavatthu, King Pasenadi wishes to visit a spiritual teacher, and the nun Khemā is highly recommended to him. He asks her about whether a realized One exists after death, and she says this is not answerable. Later he visits the Buddha, who replies in exactly the same way.",
+      "blurb": "While staying in Toraṇavatthu, King Pasenadi wishes to visit a spiritual teacher, and the nun Khemā is highly recommended to him. He asks her about whether a realized one still exists after death, and she says this is not answerable. Later he visits the Buddha, who replies in exactly the same way.",
       "difficulty": null,
       "original_title": "Khemāsutta",
       "root_lang": "pli",
@@ -99,6 +99,19 @@
           "segmented": false,
           "volpage": null,
           "title": "Khema"
+        },
+        {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Claude Le Ninan, Chandhana Le Ninan",
+          "author_short": "leninan",
+          "author_uid": "leninan",
+          "publication_date": "2023",
+          "id": "fr_sn44.1_leninan",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "id",

@@ -52,6 +52,20 @@
           "lang": "de",
           "lang_name": "Deutsch",
           "is_root": false,
+          "author": "Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "publication_date": "2019",
+          "id": "mn65_translation-de-sabbamitta",
+          "segmented": true,
+          "title": "Mit Bhaddāli ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
           "author": "Mettiko Bhikkhu",
           "author_short": "Mettiko",
           "author_uid": "mettiko",
@@ -313,7 +327,7 @@
           "has_comment": false
         }
       ],
-      "parallel_count": 3,
+      "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
       "verseNo": ""

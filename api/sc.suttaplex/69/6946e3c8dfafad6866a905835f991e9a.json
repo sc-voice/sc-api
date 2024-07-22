@@ -101,6 +101,19 @@
           "title": "Desire"
         },
         {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Claude Le Ninan, Chandhana Le Ninan",
+          "author_short": "leninan",
+          "author_uid": "leninan",
+          "publication_date": "2023",
+          "id": "fr_sn47.37_leninan",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "id",
           "lang_name": "Bahasa Indonesia",
           "is_root": false,

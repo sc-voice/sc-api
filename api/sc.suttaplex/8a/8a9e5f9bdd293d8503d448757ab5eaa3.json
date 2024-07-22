@@ -153,6 +153,20 @@
           "has_comment": false
         },
         {
+          "lang": "pt",
+          "lang_name": "Português",
+          "is_root": false,
+          "author": "Laera et al.",
+          "author_short": "laera",
+          "author_uid": "laera",
+          "publication_date": null,
+          "id": "an7.71_translation-pt-laera-quaresma",
+          "segmented": true,
+          "title": "Desenvolvimento Espiritual ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "ru",
           "lang_name": "Русский",
           "is_root": false,

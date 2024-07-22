@@ -73,7 +73,7 @@
           "segmented": true,
           "title": "The Five and Three ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Nyanamoli Thera",
@@ -203,6 +203,20 @@
           "publication_date": "2008",
           "id": "pt_mn102_beisert",
           "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "SV theravada.ru",
+          "author_short": "sv",
+          "author_uid": "sv",
+          "publication_date": "2023",
+          "id": "mn102_translation-ru-sv",
+          "segmented": true,
+          "title": "Пять и три ",
           "volpage": null,
           "has_comment": false
         },
