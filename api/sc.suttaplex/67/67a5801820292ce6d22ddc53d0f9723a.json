@@ -242,7 +242,7 @@
           "segmented": true,
           "title": "Сома ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "ru",
