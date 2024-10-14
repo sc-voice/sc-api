@@ -245,6 +245,19 @@
           "has_comment": false
         },
         {
+          "lang": "tr",
+          "lang_name": "Türkçe",
+          "is_root": false,
+          "author": "Ufuk Çakmakçı",
+          "author_short": "Ufuk Çakmakçı",
+          "author_uid": "ufukcakmakci",
+          "publication_date": "2024",
+          "id": "tr_an3.101_ufukcakmakci",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "vi",
           "lang_name": "Tiếng Việt",
           "is_root": false,
