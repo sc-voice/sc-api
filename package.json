@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "log-instance": "^1.5.0",
-    "memo-again": "^0.8.0",
+    "memo-again": "^0.10.0",
     "merkle-json": "^1.1.4"
   },
   "devDependencies": {
