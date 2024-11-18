@@ -234,7 +234,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Worldly Conditions (2nd) ",
+        "uid": "an8.6"
+      },
+      "next": {
+        "name": "Uttara on Failure ",
+        "uid": "an8.8"
+      }
     }
   ]
 }

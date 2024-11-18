@@ -274,7 +274,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Not-Self ",
+        "uid": "sn22.14"
+      },
+      "next": {
+        "name": "That Which is Suffering ",
+        "uid": "sn22.16"
+      }
     }
   ]
 }

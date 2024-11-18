@@ -287,7 +287,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Fitting Deeds ",
+        "uid": "an4.61"
+      },
+      "next": {
+        "name": "Living with Divinity ",
+        "uid": "an4.63"
+      }
     }
   ]
 }

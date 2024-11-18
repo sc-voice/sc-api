@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Sound of Singing ",
+        "uid": "an5.209"
+      },
+      "next": {
+        "name": "An Abuser ",
+        "uid": "an5.211"
+      }
     }
   ]
 }

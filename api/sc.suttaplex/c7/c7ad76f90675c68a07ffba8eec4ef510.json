@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With the Divinity Sahampati ",
+        "uid": "sn48.57"
+      },
+      "next": {
+        "name": "Arising (1st) ",
+        "uid": "sn48.59"
+      }
     }
   ]
 }

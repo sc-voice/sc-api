@@ -246,7 +246,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Particular Suffering ",
+        "uid": "sn37.3"
+      },
+      "next": {
+        "name": "Irritable ",
+        "uid": "sn37.5"
+      }
     }
   ]
 }

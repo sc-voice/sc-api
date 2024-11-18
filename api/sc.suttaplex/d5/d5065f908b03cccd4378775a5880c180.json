@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Power of Mindfulness ",
+        "uid": "an4.154"
+      },
+      "next": {
+        "name": "Eons ",
+        "uid": "an4.156"
+      }
     }
   ]
 }

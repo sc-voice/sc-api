@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 12"
+      "verseNo": " Verse 12",
+      "previous": {
+        "name": "Cūḷavaccha ",
+        "uid": "thag1.11"
+      },
+      "next": {
+        "name": "Vanavaccha (1st) ",
+        "uid": "thag1.13"
+      }
     }
   ]
 }

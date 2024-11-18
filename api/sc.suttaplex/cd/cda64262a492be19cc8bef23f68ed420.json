@@ -274,7 +274,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Nandivisāla ",
+        "uid": "sn2.28"
+      },
+      "next": {
+        "name": "The Disciples of Various Monastics of Other Religions ",
+        "uid": "sn2.30"
+      }
     }
   ]
 }

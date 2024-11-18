@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "States of Existence ",
+        "uid": "an6.105"
+      },
+      "next": {
+        "name": "Greed ",
+        "uid": "an6.107"
+      }
     }
   ]
 }

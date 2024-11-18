@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Fires (1st) ",
+        "uid": "an7.46"
+      },
+      "next": {
+        "name": "Perceptions in Brief ",
+        "uid": "an7.48"
+      }
     }
   ]
 }

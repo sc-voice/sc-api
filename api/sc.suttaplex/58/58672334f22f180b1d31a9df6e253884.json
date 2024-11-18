@@ -113,6 +113,20 @@
           "has_comment": false
         },
         {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "Evgenia Evmenenko",
+          "author_short": "narinyanievmenenko",
+          "author_uid": "narinyanievmenenko",
+          "publication_date": "2024",
+          "id": "thag16.9_translation-ru-narinyanievmenenko",
+          "segmented": true,
+          "title": "Ануруддха Тхера ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "si",
           "lang_name": "සිංහල",
           "is_root": false,
@@ -142,7 +156,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  892–919"
+      "verseNo": "Verse  892–919",
+      "previous": {
+        "name": "Aṅgulimāla ",
+        "uid": "thag16.8"
+      },
+      "next": {
+        "name": "Pārāsariya (3rd) ",
+        "uid": "thag16.10"
+      }
     }
   ]
 }

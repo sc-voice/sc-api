@@ -313,7 +313,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Earth ",
+        "uid": "sn15.2"
+      },
+      "next": {
+        "name": "Mother’s Milk ",
+        "uid": "sn15.4"
+      }
     }
   ]
 }

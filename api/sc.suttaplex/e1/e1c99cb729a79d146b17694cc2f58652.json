@@ -342,7 +342,15 @@
       "parallel_count": 41,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Uggāhamāna Samaṇamaṇḍikāputta ",
+        "uid": "mn78"
+      },
+      "next": {
+        "name": "With Vekhanasa ",
+        "uid": "mn80"
+      }
     }
   ]
 }

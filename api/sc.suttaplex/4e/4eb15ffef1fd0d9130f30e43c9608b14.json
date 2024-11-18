@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Ugga ",
+        "uid": "an7.7"
+      },
+      "next": {
+        "name": "Giving Up ",
+        "uid": "an7.9"
+      }
     }
   ]
 }

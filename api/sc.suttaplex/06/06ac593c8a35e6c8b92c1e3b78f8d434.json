@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Assembly ",
+        "uid": "an4.211"
+      },
+      "next": {
+        "name": "Ungrateful ",
+        "uid": "an4.213"
+      }
     }
   ]
 }

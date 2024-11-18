@@ -275,7 +275,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Stingy ",
+        "uid": "sn1.49"
+      },
+      "next": {
+        "name": "Old Age ",
+        "uid": "sn1.51"
+      }
     }
   ]
 }

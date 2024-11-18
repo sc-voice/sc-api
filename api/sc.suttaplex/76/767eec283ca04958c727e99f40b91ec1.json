@@ -260,7 +260,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Queen Mallikā ",
+        "uid": "sn3.8"
+      },
+      "next": {
+        "name": "Shackles ",
+        "uid": "sn3.10"
+      }
     }
   ]
 }

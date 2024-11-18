@@ -329,7 +329,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "About King Maghadeva ",
+        "uid": "mn83"
+      },
+      "next": {
+        "name": "With Prince Bodhi ",
+        "uid": "mn85"
+      }
     }
   ]
 }

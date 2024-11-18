@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Result ",
+        "uid": "an10.188"
+      },
+      "next": {
+        "name": "The Dark Path ",
+        "uid": "an10.190"
+      }
     }
   ]
 }

@@ -381,7 +381,15 @@
       "parallel_count": 110,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Anuruddha ",
+        "uid": "mn127"
+      },
+      "next": {
+        "name": "The Foolish and the Astute ",
+        "uid": "mn129"
+      }
     }
   ]
 }

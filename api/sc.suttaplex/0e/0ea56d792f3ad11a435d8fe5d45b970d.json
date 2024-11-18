@@ -181,7 +181,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Weaknesses in Training and Effort ",
+        "uid": "an9.73"
+      },
+      "next": {
+        "name": "Shackles of the Heart ",
+        "uid": "an9.82"
+      }
     }
   ]
 }

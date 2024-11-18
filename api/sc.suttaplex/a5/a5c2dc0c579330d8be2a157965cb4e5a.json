@@ -302,7 +302,15 @@
       "parallel_count": 12,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Wilderness ",
+        "uid": "sn1.10"
+      },
+      "next": {
+        "name": "Delight ",
+        "uid": "sn1.12"
+      }
     }
   ]
 }

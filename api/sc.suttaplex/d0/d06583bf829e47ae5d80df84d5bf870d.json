@@ -260,7 +260,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Impermanence With Its Cause ",
+        "uid": "sn22.18"
+      },
+      "next": {
+        "name": "Not-Self With Its Cause ",
+        "uid": "sn22.20"
+      }
     }
   ]
 }

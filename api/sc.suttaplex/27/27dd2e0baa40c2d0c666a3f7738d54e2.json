@@ -220,7 +220,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Consciousness ",
+        "uid": "sn18.3"
+      },
+      "next": {
+        "name": "Feeling ",
+        "uid": "sn18.5"
+      }
     }
   ]
 }

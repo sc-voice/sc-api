@@ -156,7 +156,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  393–398"
+      "verseNo": "Verse  393–398",
+      "previous": {
+        "name": "Mahānāga ",
+        "uid": "thag6.3"
+      },
+      "next": {
+        "name": "Māluṅkyaputta (1st) ",
+        "uid": "thag6.5"
+      }
     }
   ]
 }

@@ -207,7 +207,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Four on Subjects and Projection, Etc. ",
+        "uid": "sn34.46-49"
+      },
+      "next": {
+        "name": "Two on Carefulness and Persistence ",
+        "uid": "sn34.53-54"
+      }
     }
   ]
 }

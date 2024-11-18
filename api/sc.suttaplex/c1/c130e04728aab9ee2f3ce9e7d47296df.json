@@ -207,7 +207,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Getting Rid of Resentment (2nd) ",
+        "uid": "an5.162"
+      },
+      "next": {
+        "name": "Sharing a Way of Life ",
+        "uid": "an5.164"
+      }
     }
   ]
 }

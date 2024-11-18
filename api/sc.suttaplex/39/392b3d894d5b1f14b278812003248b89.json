@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Going to the Far Shore ",
+        "uid": "sn46.17"
+      },
+      "next": {
+        "name": "Noble ",
+        "uid": "sn46.19"
+      }
     }
   ]
 }

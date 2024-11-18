@@ -220,7 +220,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Rooted in Craving ",
+        "uid": "an9.23"
+      },
+      "next": {
+        "name": "Consolidated by Wisdom ",
+        "uid": "an9.25"
+      }
     }
   ]
 }

@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  411–416"
+      "verseNo": "Verse  411–416",
+      "previous": {
+        "name": "Sappadāsa ",
+        "uid": "thag6.6"
+      },
+      "next": {
+        "name": "Migajāla ",
+        "uid": "thag6.8"
+      }
     }
   ]
 }

@@ -220,7 +220,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Power of Faith ",
+        "uid": "an4.152"
+      },
+      "next": {
+        "name": "The Power of Mindfulness ",
+        "uid": "an4.154"
+      }
     }
   ]
 }

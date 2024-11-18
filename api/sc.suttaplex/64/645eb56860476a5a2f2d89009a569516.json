@@ -301,7 +301,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Congregation ",
+        "uid": "sn1.37"
+      },
+      "next": {
+        "name": "With Pajjunna’s Daughter (1st) ",
+        "uid": "sn1.39"
+      }
     }
   ]
 }

@@ -286,7 +286,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Simile of the Lamp ",
+        "uid": "sn54.8"
+      },
+      "next": {
+        "name": "With Kimbila ",
+        "uid": "sn54.10"
+      }
     }
   ]
 }

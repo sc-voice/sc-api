@@ -194,7 +194,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Powers ",
+        "uid": "an9.5"
+      },
+      "next": {
+        "name": "With Sutavā the Wanderer ",
+        "uid": "an9.7"
+      }
     }
   ]
 }

@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Tree (3rd) ",
+        "uid": "sn48.69"
+      },
+      "next": {
+        "name": "Abbreviated Texts on the Ganges ",
+        "uid": "sn48.71-82"
+      }
     }
   ]
 }

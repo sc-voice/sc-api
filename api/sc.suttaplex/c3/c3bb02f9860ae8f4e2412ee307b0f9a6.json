@@ -408,7 +408,15 @@
       "parallel_count": 63,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Noble Search ",
+        "uid": "mn26"
+      },
+      "next": {
+        "name": "The Longer Simile of the Elephant’s Footprint ",
+        "uid": "mn28"
+      }
     }
   ]
 }

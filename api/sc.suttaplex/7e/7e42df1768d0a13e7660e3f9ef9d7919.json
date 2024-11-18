@@ -221,7 +221,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Assured ",
+        "uid": "an10.215"
+      },
+      "next": {
+        "name": "Intentional (1st) ",
+        "uid": "an10.217"
+      }
     }
   ]
 }

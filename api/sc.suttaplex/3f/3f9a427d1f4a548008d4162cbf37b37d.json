@@ -273,7 +273,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Grounds for Knowledge (2nd) ",
+        "uid": "sn12.34"
+      },
+      "next": {
+        "name": "Ignorance is a Condition (2nd) ",
+        "uid": "sn12.36"
+      }
     }
   ]
 }

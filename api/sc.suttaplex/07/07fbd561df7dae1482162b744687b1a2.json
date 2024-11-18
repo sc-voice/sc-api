@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 55"
+      "verseNo": " Verse 55",
+      "previous": {
+        "name": "Uttiya (2nd) ",
+        "uid": "thag1.54"
+      },
+      "next": {
+        "name": "Kuṭivihārin (1st) ",
+        "uid": "thag1.56"
+      }
     }
   ]
 }

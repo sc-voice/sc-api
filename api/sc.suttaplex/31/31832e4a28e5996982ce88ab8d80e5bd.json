@@ -234,7 +234,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Brother ",
+        "uid": "sn15.16"
+      },
+      "next": {
+        "name": "Son ",
+        "uid": "sn15.18"
+      }
     }
   ]
 }

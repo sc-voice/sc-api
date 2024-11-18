@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Puṇṇiya ",
+        "uid": "an10.83"
+      },
+      "next": {
+        "name": "A Boaster ",
+        "uid": "an10.85"
+      }
     }
   ]
 }

@@ -328,7 +328,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Shrines to the Teaching ",
+        "uid": "mn89"
+      },
+      "next": {
+        "name": "With Brahmāyu ",
+        "uid": "mn91"
+      }
     }
   ]
 }

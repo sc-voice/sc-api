@@ -448,7 +448,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Longer Advice to Rāhula ",
+        "uid": "mn62"
+      },
+      "next": {
+        "name": "The Longer Discourse With Māluṅkya ",
+        "uid": "mn64"
+      }
     }
   ]
 }

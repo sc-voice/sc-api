@@ -343,7 +343,15 @@
       "parallel_count": 60,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Rebuke of Māra ",
+        "uid": "mn50"
+      },
+      "next": {
+        "name": "The Man From the City of Aṭṭhaka ",
+        "uid": "mn52"
+      }
     }
   ]
 }

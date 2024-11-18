@@ -234,7 +234,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Giving Up ",
+        "uid": "sn35.24"
+      },
+      "next": {
+        "name": "Without Completely Understanding (1st) ",
+        "uid": "sn35.26"
+      }
     }
   ]
 }

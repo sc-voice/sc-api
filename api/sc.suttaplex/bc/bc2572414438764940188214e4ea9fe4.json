@@ -247,7 +247,15 @@
       "parallel_count": 18,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Udaya ",
+        "uid": "sn7.12"
+      },
+      "next": {
+        "name": "A well-to-do brahmin ",
+        "uid": "sn7.14"
+      }
     }
   ]
 }

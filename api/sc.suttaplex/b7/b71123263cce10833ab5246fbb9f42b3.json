@@ -207,7 +207,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Phagguna ",
+        "uid": "an6.56"
+      },
+      "next": {
+        "name": "Defilements ",
+        "uid": "an6.58"
+      }
     }
   ]
 }

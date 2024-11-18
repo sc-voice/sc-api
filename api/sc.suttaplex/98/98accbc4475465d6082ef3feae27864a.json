@@ -287,7 +287,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Gives Birth (2nd) ",
+        "uid": "sn1.56"
+      },
+      "next": {
+        "name": "Deviation ",
+        "uid": "sn1.58"
+      }
     }
   ]
 }

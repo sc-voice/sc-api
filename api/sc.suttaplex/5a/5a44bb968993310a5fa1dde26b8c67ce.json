@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 62"
+      "verseNo": " Verse 62",
+      "previous": {
+        "name": "Vappa ",
+        "uid": "thag1.61"
+      },
+      "next": {
+        "name": "Pakkha ",
+        "uid": "thag1.63"
+      }
     }
   ]
 }

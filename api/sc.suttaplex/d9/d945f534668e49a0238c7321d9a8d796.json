@@ -235,7 +235,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Equanimity ",
+        "uid": "sn46.65"
+      },
+      "next": {
+        "name": "Ugliness ",
+        "uid": "sn46.67"
+      }
     }
   ]
 }

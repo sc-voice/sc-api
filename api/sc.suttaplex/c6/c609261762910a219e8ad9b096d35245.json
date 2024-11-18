@@ -260,7 +260,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The World ",
+        "uid": "an4.23"
+      },
+      "next": {
+        "name": "The Spiritual Life ",
+        "uid": "an4.25"
+      }
     }
   ]
 }

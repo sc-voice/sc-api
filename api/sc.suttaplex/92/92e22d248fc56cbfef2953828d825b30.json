@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Growth of Wisdom ",
+        "uid": "an4.248"
+      },
+      "next": {
+        "name": "Expressions (1st) ",
+        "uid": "an4.250"
+      }
     }
   ]
 }

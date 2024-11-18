@@ -220,7 +220,15 @@
       "parallel_count": 24,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Bad Monk ",
+        "uid": "sn19.17"
+      },
+      "next": {
+        "name": "A Bad Trainee Nun ",
+        "uid": "sn19.19"
+      }
     }
   ]
 }

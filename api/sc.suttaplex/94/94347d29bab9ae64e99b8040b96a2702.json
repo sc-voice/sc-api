@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 66"
+      "verseNo": " Verse 66",
+      "previous": {
+        "name": "Ukkhepakatavaccha ",
+        "uid": "thag1.65"
+      },
+      "next": {
+        "name": "Ekadhammasavanīya ",
+        "uid": "thag1.67"
+      }
     }
   ]
 }

@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Awakening ",
+        "uid": "an9.1"
+      },
+      "next": {
+        "name": "With Meghiya ",
+        "uid": "an9.3"
+      }
     }
   ]
 }

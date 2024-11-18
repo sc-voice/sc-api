@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Perceptions in Detail ",
+        "uid": "an7.49"
+      },
+      "next": {
+        "name": "Yoking and Unyoking ",
+        "uid": "an7.51"
+      }
     }
   ]
 }

@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Aristocrats ",
+        "uid": "an6.52"
+      },
+      "next": {
+        "name": "About Dhammika ",
+        "uid": "an6.54"
+      }
     }
   ]
 }

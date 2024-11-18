@@ -259,7 +259,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Interior and What’s Impermanent in the Past ",
+        "uid": "sn35.204"
+      },
+      "next": {
+        "name": "The Interior and What’s Impermanent in the Present ",
+        "uid": "sn35.206"
+      }
     }
   ]
 }

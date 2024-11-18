@@ -299,7 +299,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Hawk ",
+        "uid": "sn47.6"
+      },
+      "next": {
+        "name": "Cooks ",
+        "uid": "sn47.8"
+      }
     }
   ]
 }

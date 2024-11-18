@@ -234,7 +234,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Origin of Suffering ",
+        "uid": "sn35.106"
+      },
+      "next": {
+        "name": "I’m Better ",
+        "uid": "sn35.108"
+      }
     }
   ]
 }

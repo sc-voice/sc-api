@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Factors That Support Meditation ",
+        "uid": "an5.53"
+      },
+      "next": {
+        "name": "Mother and Son ",
+        "uid": "an5.55"
+      }
     }
   ]
 }

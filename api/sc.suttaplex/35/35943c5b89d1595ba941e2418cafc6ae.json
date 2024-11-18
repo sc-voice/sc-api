@@ -420,7 +420,15 @@
       "parallel_count": 160,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Great Discourse on Causation ",
+        "uid": "dn15"
+      },
+      "next": {
+        "name": "King Mahāsudassana ",
+        "uid": "dn17"
+      }
     }
   ]
 }

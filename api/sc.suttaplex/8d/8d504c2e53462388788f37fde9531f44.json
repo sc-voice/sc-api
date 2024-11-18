@@ -274,7 +274,15 @@
       "parallel_count": 7,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Fools ",
+        "uid": "an2.98-117"
+      },
+      "next": {
+        "name": "Aspiration ",
+        "uid": "an2.130-140"
+      }
     }
   ]
 }

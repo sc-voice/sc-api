@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Ascetics and Brahmins (1st) ",
+        "uid": "sn48.29"
+      },
+      "next": {
+        "name": "Plain Version ",
+        "uid": "sn48.31"
+      }
     }
   ]
 }

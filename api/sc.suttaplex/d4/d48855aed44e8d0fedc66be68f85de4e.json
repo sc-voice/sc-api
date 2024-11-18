@@ -220,7 +220,15 @@
       "parallel_count": 15,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Penetrative ",
+        "uid": "an6.63"
+      },
+      "next": {
+        "name": "The Fruit of Non-Return ",
+        "uid": "an6.65"
+      }
     }
   ]
 }

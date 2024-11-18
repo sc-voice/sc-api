@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  215–216"
+      "verseNo": "Verse  215–216",
+      "previous": {
+        "name": "Anūpama ",
+        "uid": "thag2.47"
+      },
+      "next": {
+        "name": "Sandhita ",
+        "uid": "thag2.49"
+      }
     }
   ]
 }

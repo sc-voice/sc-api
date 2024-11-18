@@ -260,7 +260,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Stuck-Up ",
+        "uid": "sn7.15"
+      },
+      "next": {
+        "name": "The Builder ",
+        "uid": "sn7.17"
+      }
     }
   ]
 }

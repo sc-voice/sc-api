@@ -259,7 +259,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Sights ",
+        "uid": "sn25.2"
+      },
+      "next": {
+        "name": "Contact ",
+        "uid": "sn25.4"
+      }
     }
   ]
 }

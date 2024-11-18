@@ -220,7 +220,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Facts ",
+        "uid": "an4.192"
+      },
+      "next": {
+        "name": "At Sāpūga ",
+        "uid": "an4.194"
+      }
     }
   ]
 }

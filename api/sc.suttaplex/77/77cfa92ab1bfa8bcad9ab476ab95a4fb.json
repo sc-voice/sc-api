@@ -340,7 +340,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Uppalavaṇṇā ",
+        "uid": "sn5.5"
+      },
+      "next": {
+        "name": "With Upacālā ",
+        "uid": "sn5.7"
+      }
     }
   ]
 }

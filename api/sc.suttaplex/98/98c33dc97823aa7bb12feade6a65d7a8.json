@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Complete Understanding of All Grasping ",
+        "uid": "sn35.60"
+      },
+      "next": {
+        "name": "The Depletion of All Fuel (2nd) ",
+        "uid": "sn35.62"
+      }
     }
   ]
 }

@@ -221,7 +221,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Shining ",
+        "uid": "an4.144"
+      },
+      "next": {
+        "name": "Times (1st) ",
+        "uid": "an4.146"
+      }
     }
   ]
 }

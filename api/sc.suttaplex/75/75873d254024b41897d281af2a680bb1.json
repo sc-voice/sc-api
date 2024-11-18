@@ -299,7 +299,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Heap of the Unskillful ",
+        "uid": "sn47.5"
+      },
+      "next": {
+        "name": "A Monkey ",
+        "uid": "sn47.7"
+      }
     }
   ]
 }

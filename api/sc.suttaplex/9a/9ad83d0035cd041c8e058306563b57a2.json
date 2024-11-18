@@ -195,7 +195,15 @@
       "parallel_count": 15,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  494–501"
+      "verseNo": "Verse  494–501",
+      "previous": {
+        "name": "Sarabhaṅga ",
+        "uid": "thag7.5"
+      },
+      "next": {
+        "name": "Sirimitta ",
+        "uid": "thag8.2"
+      }
     }
   ]
 }

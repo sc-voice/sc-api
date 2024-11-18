@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Nun ",
+        "uid": "an5.287-292"
+      },
+      "next": {
+        "name": "A Jain Ascetic, Etc. ",
+        "uid": "an5.294-302"
+      }
     }
   ]
 }

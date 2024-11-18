@@ -234,7 +234,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "In a Good Way ",
+        "uid": "sn15.12"
+      },
+      "next": {
+        "name": "Mother ",
+        "uid": "sn15.14"
+      }
     }
   ]
 }

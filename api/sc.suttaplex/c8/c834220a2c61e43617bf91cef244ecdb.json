@@ -288,7 +288,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Poet ",
+        "uid": "sn1.60"
+      },
+      "next": {
+        "name": "Mind ",
+        "uid": "sn1.62"
+      }
     }
   ]
 }

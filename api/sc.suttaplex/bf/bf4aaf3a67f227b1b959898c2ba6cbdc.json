@@ -261,7 +261,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Five Factors ",
+        "uid": "an10.12"
+      },
+      "next": {
+        "name": "Hard-heartedness ",
+        "uid": "an10.14"
+      }
     }
   ]
 }

@@ -246,7 +246,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Vicious ",
+        "uid": "sn42.1"
+      },
+      "next": {
+        "name": "A Warrior ",
+        "uid": "sn42.3"
+      }
     }
   ]
 }

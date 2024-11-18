@@ -233,7 +233,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Without Placing the Mind ",
+        "uid": "sn28.2"
+      },
+      "next": {
+        "name": "Equanimity ",
+        "uid": "sn28.4"
+      }
     }
   ]
 }

@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Living With Self-Assurance ",
+        "uid": "sn37.33"
+      },
+      "next": {
+        "name": "A Question About Extinguishment ",
+        "uid": "sn38.1"
+      }
     }
   ]
 }

@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Cramped ",
+        "uid": "an9.42"
+      },
+      "next": {
+        "name": "Freed by Wisdom ",
+        "uid": "an9.44"
+      }
     }
   ]
 }

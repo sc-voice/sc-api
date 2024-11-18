@@ -287,7 +287,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Rain ",
+        "uid": "sn1.74"
+      },
+      "next": {
+        "name": "Getting Old ",
+        "uid": "sn1.76"
+      }
     }
   ]
 }

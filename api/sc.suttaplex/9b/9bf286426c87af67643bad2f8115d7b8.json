@@ -260,7 +260,15 @@
       "parallel_count": 10,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Lion ",
+        "uid": "an4.33"
+      },
+      "next": {
+        "name": "With Vassakāra ",
+        "uid": "an4.35"
+      }
     }
   ]
 }

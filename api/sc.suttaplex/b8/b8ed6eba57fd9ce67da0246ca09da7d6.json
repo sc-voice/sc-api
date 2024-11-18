@@ -248,7 +248,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At the Village of Koṭi (1st) ",
+        "uid": "sn56.21"
+      },
+      "next": {
+        "name": "The Fully Awakened Buddha ",
+        "uid": "sn56.23"
+      }
     }
   ]
 }

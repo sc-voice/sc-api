@@ -233,7 +233,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Not Directly Experiencing Consciousness ",
+        "uid": "sn33.55"
+      },
+      "next": {
+        "name": "Remaining in Immersion ",
+        "uid": "sn34.2"
+      }
     }
   ]
 }

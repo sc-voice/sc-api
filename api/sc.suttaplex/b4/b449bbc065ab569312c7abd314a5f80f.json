@@ -315,7 +315,15 @@
       "parallel_count": 16,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Subha ",
+        "uid": "mn99"
+      },
+      "next": {
+        "name": "At Devadaha ",
+        "uid": "mn101"
+      }
     }
   ]
 }

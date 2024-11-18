@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  473–479"
+      "verseNo": "Verse  473–479",
+      "previous": {
+        "name": "Bhaddiya the Dwarf ",
+        "uid": "thag7.2"
+      },
+      "next": {
+        "name": "Sopāka (2nd) ",
+        "uid": "thag7.4"
+      }
     }
   ]
 }

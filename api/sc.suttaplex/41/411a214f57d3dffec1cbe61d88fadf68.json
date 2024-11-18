@@ -248,7 +248,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Hopes ",
+        "uid": "an3.13"
+      },
+      "next": {
+        "name": "About Pacetana ",
+        "uid": "an3.15"
+      }
     }
   ]
 }

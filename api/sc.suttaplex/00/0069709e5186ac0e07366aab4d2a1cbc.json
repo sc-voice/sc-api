@@ -355,7 +355,15 @@
       "parallel_count": 135,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At Madhurā ",
+        "uid": "mn84"
+      },
+      "next": {
+        "name": "With Aṅgulimāla ",
+        "uid": "mn86"
+      }
     }
   ]
 }

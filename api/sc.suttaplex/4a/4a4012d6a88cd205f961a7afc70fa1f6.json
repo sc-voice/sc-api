@@ -235,7 +235,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Perceptions (1st) ",
+        "uid": "an5.61"
+      },
+      "next": {
+        "name": "Growth (1st) ",
+        "uid": "an5.63"
+      }
     }
   ]
 }

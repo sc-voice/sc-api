@@ -287,7 +287,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Lump of Salt ",
+        "uid": "an3.100"
+      },
+      "next": {
+        "name": "Basis ",
+        "uid": "an3.102"
+      }
     }
   ]
 }

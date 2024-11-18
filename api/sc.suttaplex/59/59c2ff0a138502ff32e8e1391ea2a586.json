@@ -261,7 +261,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Mother’s Milk ",
+        "uid": "sn15.4"
+      },
+      "next": {
+        "name": "A Mustard Seed ",
+        "uid": "sn15.6"
+      }
     }
   ]
 }

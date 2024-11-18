@@ -221,7 +221,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Boundary Pillar ",
+        "uid": "sn56.39"
+      },
+      "next": {
+        "name": "Speculation About the World ",
+        "uid": "sn56.41"
+      }
     }
   ]
 }

@@ -380,7 +380,15 @@
       "parallel_count": 18,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Brahmāyu ",
+        "uid": "mn91"
+      },
+      "next": {
+        "name": "With Assalāyana ",
+        "uid": "mn93"
+      }
     }
   ]
 }

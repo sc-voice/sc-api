@@ -274,7 +274,15 @@
       "parallel_count": 10,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Serpent ",
+        "uid": "sn4.6"
+      },
+      "next": {
+        "name": "Delighting ",
+        "uid": "sn4.8"
+      }
     }
   ]
 }

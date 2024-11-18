@@ -273,7 +273,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Infirmary (2nd) ",
+        "uid": "sn36.8"
+      },
+      "next": {
+        "name": "Rooted in Contact ",
+        "uid": "sn36.10"
+      }
     }
   ]
 }

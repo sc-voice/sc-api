@@ -261,7 +261,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Recommended by the Astute ",
+        "uid": "an3.45"
+      },
+      "next": {
+        "name": "Characteristics of the Conditioned ",
+        "uid": "an3.47"
+      }
     }
   ]
 }

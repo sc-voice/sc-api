@@ -233,7 +233,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Plain Version ",
+        "uid": "sn31.1"
+      },
+      "next": {
+        "name": "A Giver of Fragrant Roots ",
+        "uid": "sn31.3"
+      }
     }
   ]
 }

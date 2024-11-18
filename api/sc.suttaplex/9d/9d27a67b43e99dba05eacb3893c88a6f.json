@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Stream-Enterer ",
+        "uid": "sn23.7"
+      },
+      "next": {
+        "name": "Desire and Greed ",
+        "uid": "sn23.9"
+      }
     }
   ]
 }

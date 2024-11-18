@@ -233,7 +233,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Over a Thousand ",
+        "uid": "sn8.8"
+      },
+      "next": {
+        "name": "With Moggallāna ",
+        "uid": "sn8.10"
+      }
     }
   ]
 }

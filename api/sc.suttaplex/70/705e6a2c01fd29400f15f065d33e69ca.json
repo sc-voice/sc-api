@@ -274,7 +274,15 @@
       "parallel_count": 11,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Ruling ",
+        "uid": "sn4.20"
+      },
+      "next": {
+        "name": "With Samiddhi ",
+        "uid": "sn4.22"
+      }
     }
   ]
 }

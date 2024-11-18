@@ -221,7 +221,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Shackles ",
+        "uid": "an5.206"
+      },
+      "next": {
+        "name": "Chew Sticks ",
+        "uid": "an5.208"
+      }
     }
   ]
 }

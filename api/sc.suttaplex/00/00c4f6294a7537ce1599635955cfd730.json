@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Five Discourses on Accomplishment in Ethics, Etc. ",
+        "uid": "sn45.85-89"
+      },
+      "next": {
+        "name": "Slanting East ",
+        "uid": "sn45.91"
+      }
     }
   ]
 }

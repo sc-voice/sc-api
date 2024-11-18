@@ -260,7 +260,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Sīvaka ",
+        "uid": "sn36.21"
+      },
+      "next": {
+        "name": "With a Mendicant ",
+        "uid": "sn36.23"
+      }
     }
   ]
 }

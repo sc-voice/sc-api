@@ -182,7 +182,15 @@
       "parallel_count": 7,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  145–146"
+      "verseNo": "Verse  145–146",
+      "previous": {
+        "name": "Jotidāsa ",
+        "uid": "thag2.12"
+      },
+      "next": {
+        "name": "Somamitta ",
+        "uid": "thag2.14"
+      }
     }
   ]
 }

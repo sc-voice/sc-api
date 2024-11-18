@@ -261,7 +261,15 @@
       "parallel_count": 10,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Upside-down ",
+        "uid": "an3.30"
+      },
+      "next": {
+        "name": "With Ānanda ",
+        "uid": "an3.32"
+      }
     }
   ]
 }

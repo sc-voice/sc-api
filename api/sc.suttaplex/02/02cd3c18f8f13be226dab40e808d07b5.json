@@ -181,7 +181,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Hard Work ",
+        "uid": "sn53.23-34"
+      },
+      "next": {
+        "name": "Floods ",
+        "uid": "sn53.45-54"
+      }
     }
   ]
 }

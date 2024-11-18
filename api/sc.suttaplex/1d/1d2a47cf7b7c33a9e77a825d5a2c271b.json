@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Skin ",
+        "uid": "sn17.28"
+      },
+      "next": {
+        "name": "A Mendicant With Defilements Ended ",
+        "uid": "sn17.30"
+      }
     }
   ]
 }

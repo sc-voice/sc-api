@@ -273,7 +273,15 @@
       "parallel_count": 12,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Seven Cases ",
+        "uid": "sn22.57"
+      },
+      "next": {
+        "name": "The Characteristic of Not-Self ",
+        "uid": "sn22.59"
+      }
     }
   ]
 }

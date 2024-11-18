@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Mahānāma (2nd) ",
+        "uid": "sn55.22"
+      },
+      "next": {
+        "name": "About Sarakāni (1st) ",
+        "uid": "sn55.24"
+      }
     }
   ]
 }

@@ -220,7 +220,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Where the Waters Flow Together (2nd) ",
+        "uid": "sn56.54"
+      },
+      "next": {
+        "name": "The Earth (2nd) ",
+        "uid": "sn56.56"
+      }
     }
   ]
 }

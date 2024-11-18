@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Bhaddaji ",
+        "uid": "an5.170"
+      },
+      "next": {
+        "name": "Assured ",
+        "uid": "an5.172"
+      }
     }
   ]
 }

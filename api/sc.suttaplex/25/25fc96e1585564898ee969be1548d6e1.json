@@ -247,7 +247,15 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At Andhakavinda ",
+        "uid": "sn6.13"
+      },
+      "next": {
+        "name": "Full Extinguishment ",
+        "uid": "sn6.15"
+      }
     }
   ]
 }

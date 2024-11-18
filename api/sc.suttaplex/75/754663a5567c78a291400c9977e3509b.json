@@ -126,6 +126,20 @@
           "has_comment": false
         },
         {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "Evgenia Evmenenko",
+          "author_short": "narinyanievmenenko",
+          "author_uid": "narinyanievmenenko",
+          "publication_date": "2024",
+          "id": "thag16.4_translation-ru-narinyanievmenenko",
+          "segmented": true,
+          "title": "Раттхапала Тхера ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "si",
           "lang_name": "සිංහල",
           "is_root": false,
@@ -155,7 +169,15 @@
       "parallel_count": 29,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  769–793"
+      "verseNo": "Verse  769–793",
+      "previous": {
+        "name": "Telakāni ",
+        "uid": "thag16.3"
+      },
+      "next": {
+        "name": "Māluṅkyaputta (2nd) ",
+        "uid": "thag16.5"
+      }
     }
   ]
 }

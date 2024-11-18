@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "They’ve Heard (3rd) ",
+        "uid": "sn29.9"
+      },
+      "next": {
+        "name": "Ten Discourses On How Giving Helps to Become Egg-Born ",
+        "uid": "sn29.11-20"
+      }
     }
   ]
 }

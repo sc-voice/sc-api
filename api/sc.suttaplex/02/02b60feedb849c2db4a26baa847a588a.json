@@ -234,7 +234,15 @@
       "parallel_count": 10,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Sabbath With Eight Factors, In Detail ",
+        "uid": "an8.42"
+      },
+      "next": {
+        "name": "With Vāseṭṭha on the Sabbath ",
+        "uid": "an8.44"
+      }
     }
   ]
 }

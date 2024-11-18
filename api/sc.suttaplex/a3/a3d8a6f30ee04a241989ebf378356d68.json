@@ -248,7 +248,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Knowledge ",
+        "uid": "sn56.18"
+      },
+      "next": {
+        "name": "Real ",
+        "uid": "sn56.20"
+      }
     }
   ]
 }

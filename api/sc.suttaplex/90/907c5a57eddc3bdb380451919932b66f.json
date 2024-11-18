@@ -208,7 +208,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Ānanda (1st) ",
+        "uid": "an10.39"
+      },
+      "next": {
+        "name": "Arguments ",
+        "uid": "an10.41"
+      }
     }
   ]
 }

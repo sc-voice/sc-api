@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Ethics ",
+        "uid": "an5.213"
+      },
+      "next": {
+        "name": "Intolerance (1st) ",
+        "uid": "an5.215"
+      }
     }
   ]
 }

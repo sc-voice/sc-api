@@ -314,7 +314,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Fastened Shut ",
+        "uid": "sn1.68"
+      },
+      "next": {
+        "name": "The World ",
+        "uid": "sn1.70"
+      }
     }
   ]
 }

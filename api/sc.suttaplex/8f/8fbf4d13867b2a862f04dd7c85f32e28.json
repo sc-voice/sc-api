@@ -300,7 +300,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Going Forth ",
+        "uid": "an10.59"
+      },
+      "next": {
+        "name": "Ignorance ",
+        "uid": "an10.61"
+      }
     }
   ]
 }

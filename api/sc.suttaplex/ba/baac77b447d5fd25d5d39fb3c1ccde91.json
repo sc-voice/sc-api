@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Pleasing (1st) ",
+        "uid": "an7.1"
+      },
+      "next": {
+        "name": "Powers in Brief ",
+        "uid": "an7.3"
+      }
     }
   ]
 }

@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  387–392"
+      "verseNo": "Verse  387–392",
+      "previous": {
+        "name": "Tekicchakāri ",
+        "uid": "thag6.2"
+      },
+      "next": {
+        "name": "Kulla ",
+        "uid": "thag6.4"
+      }
     }
   ]
 }

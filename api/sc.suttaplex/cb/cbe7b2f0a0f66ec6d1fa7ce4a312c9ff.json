@@ -286,7 +286,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Jantu ",
+        "uid": "sn2.25"
+      },
+      "next": {
+        "name": "With Nanda ",
+        "uid": "sn2.27"
+      }
     }
   ]
 }

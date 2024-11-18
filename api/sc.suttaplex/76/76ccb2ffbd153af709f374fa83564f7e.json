@@ -220,7 +220,15 @@
       "parallel_count": 24,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Sword Hairs ",
+        "uid": "sn19.5"
+      },
+      "next": {
+        "name": "Arrow Hairs ",
+        "uid": "sn19.7"
+      }
     }
   ]
 }

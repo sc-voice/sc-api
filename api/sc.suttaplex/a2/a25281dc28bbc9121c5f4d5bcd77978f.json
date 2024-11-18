@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Realized One ",
+        "uid": "sn51.32"
+      },
+      "next": {
+        "name": "Diligence ",
+        "uid": "sn51.45-54"
+      }
     }
   ]
 }

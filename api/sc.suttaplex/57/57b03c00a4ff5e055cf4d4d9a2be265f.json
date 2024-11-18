@@ -247,7 +247,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Bhāradvāja the Bitter ",
+        "uid": "sn7.4"
+      },
+      "next": {
+        "name": "With Bhāradvāja of the Matted Hair ",
+        "uid": "sn7.6"
+      }
     }
   ]
 }

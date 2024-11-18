@@ -273,7 +273,15 @@
       "parallel_count": 44,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Effort ",
+        "uid": "an4.13"
+      },
+      "next": {
+        "name": "Regarded as Foremost ",
+        "uid": "an4.15"
+      }
     }
   ]
 }

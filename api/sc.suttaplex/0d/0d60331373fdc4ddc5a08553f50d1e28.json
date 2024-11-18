@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  159–160"
+      "verseNo": "Verse  159–160",
+      "previous": {
+        "name": "Nanda ",
+        "uid": "thag2.19"
+      },
+      "next": {
+        "name": "Uttara (2nd) ",
+        "uid": "thag2.21"
+      }
     }
   ]
 }

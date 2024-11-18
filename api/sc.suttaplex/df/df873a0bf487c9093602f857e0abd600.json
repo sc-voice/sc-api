@@ -233,7 +233,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "They Send Her Away ",
+        "uid": "sn37.30"
+      },
+      "next": {
+        "name": "Things ",
+        "uid": "sn37.32"
+      }
     }
   ]
 }

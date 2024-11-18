@@ -220,7 +220,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  842–843"
+      "verseNo": "Verse  842–843",
+      "previous": {
+        "name": "With Sudatta ",
+        "uid": "sn10.8"
+      },
+      "next": {
+        "name": "With the Nun Sukkā (2nd) ",
+        "uid": "sn10.10"
+      }
     }
   ]
 }

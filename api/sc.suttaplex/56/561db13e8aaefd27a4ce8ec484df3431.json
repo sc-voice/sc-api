@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  157–158"
+      "verseNo": "Verse  157–158",
+      "previous": {
+        "name": "Kimbila (2nd) ",
+        "uid": "thag2.18"
+      },
+      "next": {
+        "name": "Sirima ",
+        "uid": "thag2.20"
+      }
     }
   ]
 }

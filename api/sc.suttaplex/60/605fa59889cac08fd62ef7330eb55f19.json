@@ -220,7 +220,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Plain Version ",
+        "uid": "sn30.1"
+      },
+      "next": {
+        "name": "Both Kinds of Deeds ",
+        "uid": "sn30.3"
+      }
     }
   ]
 }

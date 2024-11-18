@@ -273,7 +273,15 @@
       "parallel_count": 7,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Judgment ",
+        "uid": "sn3.7"
+      },
+      "next": {
+        "name": "Sacrifice ",
+        "uid": "sn3.9"
+      }
     }
   ]
 }

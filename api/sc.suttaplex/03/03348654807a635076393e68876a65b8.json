@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Rope ",
+        "uid": "sn17.29"
+      },
+      "next": {
+        "name": "Schism ",
+        "uid": "sn17.31"
+      }
     }
   ]
 }

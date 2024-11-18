@@ -233,7 +233,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Born of Seclusion ",
+        "uid": "sn28.1"
+      },
+      "next": {
+        "name": "Rapture ",
+        "uid": "sn28.3"
+      }
     }
   ]
 }

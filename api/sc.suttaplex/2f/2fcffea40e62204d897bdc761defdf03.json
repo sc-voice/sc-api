@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Thoroughbred (2nd) ",
+        "uid": "an4.260"
+      },
+      "next": {
+        "name": "Wilderness ",
+        "uid": "an4.262"
+      }
     }
   ]
 }

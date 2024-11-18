@@ -328,7 +328,15 @@
       "parallel_count": 10,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Bakkula ",
+        "uid": "mn124"
+      },
+      "next": {
+        "name": "With Bhūmija ",
+        "uid": "mn126"
+      }
     }
   ]
 }

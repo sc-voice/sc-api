@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Pots ",
+        "uid": "sn45.27"
+      },
+      "next": {
+        "name": "Feeling ",
+        "uid": "sn45.29"
+      }
     }
   ]
 }

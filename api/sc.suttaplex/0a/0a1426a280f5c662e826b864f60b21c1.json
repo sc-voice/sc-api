@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Self Is Neither Happy Nor Suffering ",
+        "uid": "sn24.70"
+      },
+      "next": {
+        "name": "This Is Mine, Etc. ",
+        "uid": "sn24.72-95"
+      }
     }
   ]
 }

@@ -478,7 +478,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": null,
+        "uid": ""
+      },
+      "next": {
+        "name": "All the Defilements ",
+        "uid": "mn2"
+      }
     }
   ]
 }

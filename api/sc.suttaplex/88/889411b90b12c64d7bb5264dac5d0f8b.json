@@ -302,7 +302,15 @@
       "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Hard to Do ",
+        "uid": "sn1.17"
+      },
+      "next": {
+        "name": "Little Hut ",
+        "uid": "sn1.19"
+      }
     }
   ]
 }

@@ -248,7 +248,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Exterior as Suffering ",
+        "uid": "sn35.5"
+      },
+      "next": {
+        "name": "The Interior as Impermanent in the Three Times ",
+        "uid": "sn35.7"
+      }
     }
   ]
 }

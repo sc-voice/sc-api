@@ -235,7 +235,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Ascetics and Brahmins (1st) ",
+        "uid": "sn56.5"
+      },
+      "next": {
+        "name": "Thoughts ",
+        "uid": "sn56.7"
+      }
     }
   ]
 }

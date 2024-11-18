@@ -168,7 +168,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Abbreviated Texts on the Ganges ",
+        "uid": "sn51.33-44"
+      },
+      "next": {
+        "name": "Hard Work ",
+        "uid": "sn51.55-66"
+      }
     }
   ]
 }

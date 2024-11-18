@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Koṭṭhita on Suffering ",
+        "uid": "sn35.163"
+      },
+      "next": {
+        "name": "Giving Up Wrong View ",
+        "uid": "sn35.165"
+      }
     }
   ]
 }

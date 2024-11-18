@@ -181,7 +181,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Dark Path ",
+        "uid": "an10.146"
+      },
+      "next": {
+        "name": "The Teaching of the True Persons ",
+        "uid": "an10.148"
+      }
     }
   ]
 }

@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Immersion Due to Enthusiasm ",
+        "uid": "sn51.13"
+      },
+      "next": {
+        "name": "The Brahmin Uṇṇābha ",
+        "uid": "sn51.15"
+      }
     }
   ]
 }

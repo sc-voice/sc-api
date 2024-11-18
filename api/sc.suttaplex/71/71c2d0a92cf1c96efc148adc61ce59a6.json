@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Perceptions for Ascetics ",
+        "uid": "an10.101"
+      },
+      "next": {
+        "name": "The Wrong Way ",
+        "uid": "an10.103"
+      }
     }
   ]
 }

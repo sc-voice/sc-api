@@ -221,7 +221,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Hatthisāriputta ",
+        "uid": "an6.60"
+      },
+      "next": {
+        "name": "Knowledge of the Faculties of Persons ",
+        "uid": "an6.62"
+      }
     }
   ]
 }

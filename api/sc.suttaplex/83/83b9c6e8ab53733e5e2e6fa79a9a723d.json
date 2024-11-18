@@ -194,7 +194,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Errands ",
+        "uid": "sn56.93"
+      },
+      "next": {
+        "name": "Bribery ",
+        "uid": "sn56.95"
+      }
     }
   ]
 }

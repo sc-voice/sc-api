@@ -220,7 +220,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Families ",
+        "uid": "sn42.9"
+      },
+      "next": {
+        "name": "With Bhadraka ",
+        "uid": "sn42.11"
+      }
     }
   ]
 }

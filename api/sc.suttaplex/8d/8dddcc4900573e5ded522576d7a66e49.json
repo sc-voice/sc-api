@@ -273,7 +273,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Involvement ",
+        "uid": "sn22.53"
+      },
+      "next": {
+        "name": "An Inspired Saying ",
+        "uid": "sn22.55"
+      }
     }
   ]
 }

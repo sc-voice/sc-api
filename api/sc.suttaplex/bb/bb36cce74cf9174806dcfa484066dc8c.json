@@ -234,7 +234,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Seers in the Wilderness ",
+        "uid": "sn11.9"
+      },
+      "next": {
+        "name": "Vows ",
+        "uid": "sn11.11"
+      }
     }
   ]
 }

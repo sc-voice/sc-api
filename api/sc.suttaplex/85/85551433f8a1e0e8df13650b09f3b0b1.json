@@ -274,7 +274,15 @@
       "parallel_count": 29,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Friend ",
+        "uid": "an3.135"
+      },
+      "next": {
+        "name": "A Hair Blanket ",
+        "uid": "an3.137"
+      }
     }
   ]
 }

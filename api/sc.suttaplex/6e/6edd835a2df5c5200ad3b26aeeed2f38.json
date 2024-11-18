@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  375–380"
+      "verseNo": "Verse  375–380",
+      "previous": {
+        "name": "Kosiya ",
+        "uid": "thag5.12"
+      },
+      "next": {
+        "name": "Tekicchakāri ",
+        "uid": "thag6.2"
+      }
     }
   ]
 }

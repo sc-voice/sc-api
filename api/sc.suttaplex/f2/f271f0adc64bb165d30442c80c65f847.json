@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Self Is Perfectly Happy ",
+        "uid": "sn24.41"
+      },
+      "next": {
+        "name": "The Self Is Happy and Suffering ",
+        "uid": "sn24.43"
+      }
     }
   ]
 }

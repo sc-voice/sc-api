@@ -181,7 +181,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Those Who Sleep Wherever a Mat is Laid ",
+        "uid": "an5.187"
+      },
+      "next": {
+        "name": "Refusers of Late Food ",
+        "uid": "an5.189"
+      }
     }
   ]
 }

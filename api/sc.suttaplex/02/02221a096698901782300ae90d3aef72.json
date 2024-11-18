@@ -233,7 +233,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Plain Version ",
+        "uid": "sn32.1"
+      },
+      "next": {
+        "name": "Ten Discourses On How Giving Helps to Become a Cool Cloud God ",
+        "uid": "sn32.3-12"
+      }
     }
   ]
 }

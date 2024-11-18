@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  311–314"
+      "verseNo": "Verse  311–314",
+      "previous": {
+        "name": "Sappaka ",
+        "uid": "thag4.11"
+      },
+      "next": {
+        "name": "Rājadatta ",
+        "uid": "thag5.1"
+      }
     }
   ]
 }

@@ -169,7 +169,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 27"
+      "verseNo": " Verse 27",
+      "previous": {
+        "name": "Abhaya ",
+        "uid": "thag1.26"
+      },
+      "next": {
+        "name": "Jambugāmikaputta ",
+        "uid": "thag1.28"
+      }
     }
   ]
 }

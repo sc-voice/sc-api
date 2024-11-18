@@ -220,7 +220,15 @@
       "parallel_count": 23,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Piece of Meat ",
+        "uid": "sn19.2"
+      },
+      "next": {
+        "name": "A Flayed Man ",
+        "uid": "sn19.4"
+      }
     }
   ]
 }

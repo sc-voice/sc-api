@@ -169,7 +169,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  537–546"
+      "verseNo": "Verse  537–546",
+      "previous": {
+        "name": "Kāḷudāyī ",
+        "uid": "thag10.1"
+      },
+      "next": {
+        "name": "Mahākappina ",
+        "uid": "thag10.3"
+      }
     }
   ]
 }

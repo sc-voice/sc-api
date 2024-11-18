@@ -247,7 +247,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Moggallāna ",
+        "uid": "sn44.7"
+      },
+      "next": {
+        "name": "The Debating Hall ",
+        "uid": "sn44.9"
+      }
     }
   ]
 }

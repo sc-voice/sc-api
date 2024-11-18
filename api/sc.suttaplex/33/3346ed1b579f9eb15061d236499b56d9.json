@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Eightfold ",
+        "uid": "an4.205"
+      },
+      "next": {
+        "name": "Bad Character (1st) ",
+        "uid": "an4.207"
+      }
     }
   ]
 }

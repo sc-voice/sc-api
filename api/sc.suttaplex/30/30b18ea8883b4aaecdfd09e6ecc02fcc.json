@@ -247,7 +247,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Fully Awakened Buddha ",
+        "uid": "sn56.23"
+      },
+      "next": {
+        "name": "The Ending of Defilements ",
+        "uid": "sn56.25"
+      }
     }
   ]
 }

@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 114"
+      "verseNo": " Verse 114",
+      "previous": {
+        "name": "Vanavaccha (2nd) ",
+        "uid": "thag1.113"
+      },
+      "next": {
+        "name": "Mahānāma ",
+        "uid": "thag1.115"
+      }
     }
   ]
 }

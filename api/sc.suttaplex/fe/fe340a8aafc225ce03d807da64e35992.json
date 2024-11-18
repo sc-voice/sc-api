@@ -156,7 +156,15 @@
       "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  203–204"
+      "verseNo": "Verse  203–204",
+      "previous": {
+        "name": "Kassapa the Prince ",
+        "uid": "thag2.41"
+      },
+      "next": {
+        "name": "Brahmāli ",
+        "uid": "thag2.43"
+      }
     }
   ]
 }

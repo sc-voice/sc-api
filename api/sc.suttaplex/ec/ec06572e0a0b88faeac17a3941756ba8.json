@@ -261,7 +261,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Blameworthy ",
+        "uid": "an3.7"
+      },
+      "next": {
+        "name": "Broken ",
+        "uid": "an3.9"
+      }
     }
   ]
 }

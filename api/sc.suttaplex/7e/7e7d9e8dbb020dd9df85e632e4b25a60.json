@@ -286,7 +286,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Self-examination ",
+        "uid": "sn12.66"
+      },
+      "next": {
+        "name": "At Kosambī ",
+        "uid": "sn12.68"
+      }
     }
   ]
 }

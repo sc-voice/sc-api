@@ -247,7 +247,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Trees ",
+        "uid": "sn46.39"
+      },
+      "next": {
+        "name": "Discriminations ",
+        "uid": "sn46.41"
+      }
     }
   ]
 }

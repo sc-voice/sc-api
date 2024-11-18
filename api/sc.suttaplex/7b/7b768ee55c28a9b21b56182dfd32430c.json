@@ -182,7 +182,15 @@
       "parallel_count": 14,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  182–188"
+      "verseNo": "Verse  182–188",
+      "previous": {
+        "name": "Uttarā (2nd) ",
+        "uid": "thig7.1"
+      },
+      "next": {
+        "name": "Upacālā ",
+        "uid": "thig7.3"
+      }
     }
   ]
 }

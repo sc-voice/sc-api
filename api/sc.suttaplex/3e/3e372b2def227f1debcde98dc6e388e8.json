@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Principled King ",
+        "uid": "an5.133"
+      },
+      "next": {
+        "name": "Aspiration (1st) ",
+        "uid": "an5.135"
+      }
     }
   ]
 }

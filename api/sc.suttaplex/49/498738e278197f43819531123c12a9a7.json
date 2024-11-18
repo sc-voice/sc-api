@@ -246,7 +246,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Growth ",
+        "uid": "sn37.34"
+      },
+      "next": {
+        "name": "A Question About Perfection ",
+        "uid": "sn38.2"
+      }
     }
   ]
 }

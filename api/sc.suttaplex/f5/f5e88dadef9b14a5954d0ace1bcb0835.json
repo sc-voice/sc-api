@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Incredible Things About Ānanda ",
+        "uid": "an4.129"
+      },
+      "next": {
+        "name": "Fetters ",
+        "uid": "an4.131"
+      }
     }
   ]
 }

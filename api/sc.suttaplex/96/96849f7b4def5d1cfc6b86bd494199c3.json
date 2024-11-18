@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 112"
+      "verseNo": " Verse 112",
+      "previous": {
+        "name": "Jenta ",
+        "uid": "thag1.111"
+      },
+      "next": {
+        "name": "Vanavaccha (2nd) ",
+        "uid": "thag1.113"
+      }
     }
   ]
 }

@@ -169,7 +169,15 @@
       "parallel_count": 11,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  502–509"
+      "verseNo": "Verse  502–509",
+      "previous": {
+        "name": "Mahākaccāyana ",
+        "uid": "thag8.1"
+      },
+      "next": {
+        "name": "Mahāpanthaka ",
+        "uid": "thag8.3"
+      }
     }
   ]
 }

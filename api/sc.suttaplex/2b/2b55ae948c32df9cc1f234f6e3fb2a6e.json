@@ -207,7 +207,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Entering and What’s Conducive ",
+        "uid": "sn34.19"
+      },
+      "next": {
+        "name": "Seven on Emergence and Gladdening, Etc. ",
+        "uid": "sn34.28-34"
+      }
     }
   ]
 }

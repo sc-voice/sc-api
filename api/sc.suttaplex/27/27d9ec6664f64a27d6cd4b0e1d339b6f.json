@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Energetic ",
+        "uid": "sn37.22"
+      },
+      "next": {
+        "name": "Five Precepts ",
+        "uid": "sn37.24"
+      }
     }
   ]
 }

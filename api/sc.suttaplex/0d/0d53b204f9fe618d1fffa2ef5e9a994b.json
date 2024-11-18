@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Fear of the Bad Place ",
+        "uid": "sn55.14"
+      },
+      "next": {
+        "name": "Friends and Colleagues (1st) ",
+        "uid": "sn55.16"
+      }
     }
   ]
 }

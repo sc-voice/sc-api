@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Emptiness Immersion ",
+        "uid": "sn43.4"
+      },
+      "next": {
+        "name": "Right Efforts ",
+        "uid": "sn43.6"
+      }
     }
   ]
 }

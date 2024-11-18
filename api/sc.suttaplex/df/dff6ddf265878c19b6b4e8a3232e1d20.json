@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 91"
+      "verseNo": " Verse 91",
+      "previous": {
+        "name": "Sāmidatta ",
+        "uid": "thag1.90"
+      },
+      "next": {
+        "name": "Vijaya ",
+        "uid": "thag1.92"
+      }
     }
   ]
 }

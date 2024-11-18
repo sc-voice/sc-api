@@ -182,7 +182,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  21–22"
+      "verseNo": "Verse  21–22",
+      "previous": {
+        "name": "Abhirūpanandā ",
+        "uid": "thig2.1"
+      },
+      "next": {
+        "name": "Sumaṅgala’s Mother ",
+        "uid": "thig2.3"
+      }
     }
   ]
 }

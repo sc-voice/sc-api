@@ -234,7 +234,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Things Prone to Being Fettered ",
+        "uid": "sn35.109"
+      },
+      "next": {
+        "name": "Complete Understanding of the Interior ",
+        "uid": "sn35.111"
+      }
     }
   ]
 }

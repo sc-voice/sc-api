@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Tendencies ",
+        "uid": "sn48.62"
+      },
+      "next": {
+        "name": "Ending of Defilements ",
+        "uid": "sn48.64"
+      }
     }
   ]
 }

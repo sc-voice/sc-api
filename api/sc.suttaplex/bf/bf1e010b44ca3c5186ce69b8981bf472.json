@@ -233,7 +233,15 @@
       "parallel_count": 7,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Don’t Fear Good Deeds ",
+        "uid": "an7.62"
+      },
+      "next": {
+        "name": "Irritable ",
+        "uid": "an7.64"
+      }
     }
   ]
 }

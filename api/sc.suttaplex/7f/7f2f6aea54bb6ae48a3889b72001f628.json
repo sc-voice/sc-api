@@ -208,7 +208,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Devadatta’s Failure ",
+        "uid": "an8.7"
+      },
+      "next": {
+        "name": "Nanda ",
+        "uid": "an8.9"
+      }
     }
   ]
 }

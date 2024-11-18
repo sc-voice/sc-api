@@ -207,7 +207,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Respect Mother ",
+        "uid": "sn56.66"
+      },
+      "next": {
+        "name": "Respect Ascetics ",
+        "uid": "sn56.68"
+      }
     }
   ]
 }

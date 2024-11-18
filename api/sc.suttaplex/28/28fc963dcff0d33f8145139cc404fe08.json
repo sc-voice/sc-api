@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At the Cāpāla Shrine ",
+        "uid": "sn51.10"
+      },
+      "next": {
+        "name": "Very Fruitful ",
+        "uid": "sn51.12"
+      }
     }
   ]
 }

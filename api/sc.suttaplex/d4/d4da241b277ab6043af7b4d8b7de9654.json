@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At the Peacocks’ Feeding Ground (3rd) ",
+        "uid": "an3.145"
+      },
+      "next": {
+        "name": "Blameworthy ",
+        "uid": "an3.147"
+      }
     }
   ]
 }

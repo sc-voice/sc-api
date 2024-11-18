@@ -220,7 +220,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Lotus Pond ",
+        "uid": "sn13.2"
+      },
+      "next": {
+        "name": "Where the Waters Flow Together (2nd) ",
+        "uid": "sn13.4"
+      }
     }
   ]
 }

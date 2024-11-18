@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 117"
+      "verseNo": " Verse 117",
+      "previous": {
+        "name": "Pārāsariya (1st) ",
+        "uid": "thag1.116"
+      },
+      "next": {
+        "name": "Kimbila (1st) ",
+        "uid": "thag1.118"
+      }
     }
   ]
 }

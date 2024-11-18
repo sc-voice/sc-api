@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Ethics ",
+        "uid": "an5.168"
+      },
+      "next": {
+        "name": "With Bhaddaji ",
+        "uid": "an5.170"
+      }
     }
   ]
 }

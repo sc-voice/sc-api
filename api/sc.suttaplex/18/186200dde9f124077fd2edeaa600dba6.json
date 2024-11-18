@@ -234,7 +234,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Going to the Far Shore ",
+        "uid": "sn45.34"
+      },
+      "next": {
+        "name": "The Ascetic Life (2nd) ",
+        "uid": "sn45.36"
+      }
     }
   ]
 }

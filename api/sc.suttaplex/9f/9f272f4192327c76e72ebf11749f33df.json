@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Partly ",
+        "uid": "sn51.5"
+      },
+      "next": {
+        "name": "A Mendicant ",
+        "uid": "sn51.7"
+      }
     }
   ]
 }

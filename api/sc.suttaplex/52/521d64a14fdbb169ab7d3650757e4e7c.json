@@ -181,7 +181,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Scholar ",
+        "uid": "an7.88"
+      },
+      "next": {
+        "name": "A Knowledge Master ",
+        "uid": "an7.90"
+      }
     }
   ]
 }

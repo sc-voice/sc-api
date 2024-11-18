@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Given Up ",
+        "uid": "an6.90"
+      },
+      "next": {
+        "name": "Things That Can’t Be Done (1st) ",
+        "uid": "an6.92"
+      }
     }
   ]
 }

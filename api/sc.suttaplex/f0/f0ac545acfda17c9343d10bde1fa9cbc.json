@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Places of Rebirth ",
+        "uid": "an9.68"
+      },
+      "next": {
+        "name": "Higher Fetters ",
+        "uid": "an9.70"
+      }
     }
   ]
 }

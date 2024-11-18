@@ -288,7 +288,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Dāmali ",
+        "uid": "sn2.5"
+      },
+      "next": {
+        "name": "With Pañcālacaṇḍa ",
+        "uid": "sn2.7"
+      }
     }
   ]
 }

@@ -207,7 +207,15 @@
       "parallel_count": 15,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Beginning With the Unlearned ",
+        "uid": "sn14.21"
+      },
+      "next": {
+        "name": "Lacking Immersion ",
+        "uid": "sn14.23"
+      }
     }
   ]
 }

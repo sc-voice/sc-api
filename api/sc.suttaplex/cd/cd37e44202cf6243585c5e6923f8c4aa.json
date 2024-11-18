@@ -234,7 +234,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Footprints ",
+        "uid": "sn45.140"
+      },
+      "next": {
+        "name": "The Moon, Etc. ",
+        "uid": "sn45.146-148"
+      }
     }
   ]
 }

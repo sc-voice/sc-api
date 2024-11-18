@@ -234,7 +234,15 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Respect for Diligence ",
+        "uid": "an7.32"
+      },
+      "next": {
+        "name": "Easy to Admonish (1st) ",
+        "uid": "an7.34"
+      }
     }
   ]
 }

@@ -260,7 +260,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "One Thing ",
+        "uid": "sn46.29"
+      },
+      "next": {
+        "name": "Skillful (1st) ",
+        "uid": "sn46.31"
+      }
     }
   ]
 }

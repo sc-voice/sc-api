@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Unthinkable ",
+        "uid": "an4.77"
+      },
+      "next": {
+        "name": "Business ",
+        "uid": "an4.79"
+      }
     }
   ]
 }

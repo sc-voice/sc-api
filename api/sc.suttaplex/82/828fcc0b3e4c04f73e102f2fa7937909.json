@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Burning ",
+        "uid": "sn35.28"
+      },
+      "next": {
+        "name": "The Practice Fit for Uprooting ",
+        "uid": "sn35.30"
+      }
     }
   ]
 }

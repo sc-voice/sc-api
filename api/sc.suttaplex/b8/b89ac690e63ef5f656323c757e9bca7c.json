@@ -233,7 +233,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Getting Up ",
+        "uid": "sn9.2"
+      },
+      "next": {
+        "name": "Several Mendicants Set Out Wandering ",
+        "uid": "sn9.4"
+      }
     }
   ]
 }

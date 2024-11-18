@@ -272,7 +272,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Exterior as Impermanent in the Three Times ",
+        "uid": "sn35.195-197"
+      },
+      "next": {
+        "name": "The Exterior as Not-Self in the Three Times ",
+        "uid": "sn35.201-203"
+      }
     }
   ]
 }

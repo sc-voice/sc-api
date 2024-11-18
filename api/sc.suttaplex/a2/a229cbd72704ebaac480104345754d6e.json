@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Question of Sakka ",
+        "uid": "sn35.118"
+      },
+      "next": {
+        "name": "Sāriputta and the Protégé ",
+        "uid": "sn35.120"
+      }
     }
   ]
 }

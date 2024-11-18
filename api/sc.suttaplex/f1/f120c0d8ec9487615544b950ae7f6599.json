@@ -233,7 +233,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Not Knowing Feeling ",
+        "uid": "sn33.2"
+      },
+      "next": {
+        "name": "Not Knowing Choices ",
+        "uid": "sn33.4"
+      }
     }
   ]
 }

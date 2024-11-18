@@ -382,7 +382,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Shorter Discourse on the Mass of Suffering ",
+        "uid": "mn14"
+      },
+      "next": {
+        "name": "Emotional Barrenness ",
+        "uid": "mn16"
+      }
     }
   ]
 }

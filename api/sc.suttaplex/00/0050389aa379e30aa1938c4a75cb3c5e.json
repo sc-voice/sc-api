@@ -261,7 +261,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Culmination of the Spiritual Life ",
+        "uid": "sn55.2"
+      },
+      "next": {
+        "name": "With Sāriputta (1st) ",
+        "uid": "sn55.4"
+      }
     }
   ]
 }

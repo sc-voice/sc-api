@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At Sāpūga ",
+        "uid": "an4.194"
+      },
+      "next": {
+        "name": "With Sāḷha ",
+        "uid": "an4.196"
+      }
     }
   ]
 }

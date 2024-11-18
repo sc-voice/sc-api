@@ -181,7 +181,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Bathed ",
+        "uid": "an7.89"
+      },
+      "next": {
+        "name": "A Noble One ",
+        "uid": "an7.91"
+      }
     }
   ]
 }

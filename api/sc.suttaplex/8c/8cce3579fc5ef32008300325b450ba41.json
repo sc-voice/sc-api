@@ -221,7 +221,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Mustard Seed ",
+        "uid": "sn15.6"
+      },
+      "next": {
+        "name": "The Ganges ",
+        "uid": "sn15.8"
+      }
     }
   ]
 }

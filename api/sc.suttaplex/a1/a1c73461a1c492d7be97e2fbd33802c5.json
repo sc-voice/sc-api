@@ -221,7 +221,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Ujjaya ",
+        "uid": "an4.39"
+      },
+      "next": {
+        "name": "Ways of Developing Immersion Further ",
+        "uid": "an4.41"
+      }
     }
   ]
 }

@@ -233,7 +233,15 @@
       "parallel_count": 10,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Debtlessness ",
+        "uid": "an4.62"
+      },
+      "next": {
+        "name": "Hell ",
+        "uid": "an4.64"
+      }
     }
   ]
 }

@@ -273,7 +273,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Unlearned ",
+        "uid": "sn12.61"
+      },
+      "next": {
+        "name": "A Child’s Flesh ",
+        "uid": "sn12.63"
+      }
     }
   ]
 }

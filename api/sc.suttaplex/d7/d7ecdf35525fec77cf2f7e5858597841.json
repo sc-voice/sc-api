@@ -273,7 +273,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Khemaka ",
+        "uid": "sn22.89"
+      },
+      "next": {
+        "name": "Rāhula ",
+        "uid": "sn22.91"
+      }
     }
   ]
 }

@@ -274,7 +274,15 @@
       "parallel_count": 17,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Khema ",
+        "uid": "sn2.22"
+      },
+      "next": {
+        "name": "With Ghaṭīkāra ",
+        "uid": "sn2.24"
+      }
     }
   ]
 }

@@ -248,7 +248,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "About Sunetta ",
+        "uid": "an7.73"
+      },
+      "next": {
+        "name": "An Expert in the Monastic Law (1st) ",
+        "uid": "an7.75"
+      }
     }
   ]
 }

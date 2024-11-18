@@ -313,7 +313,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Brief Advice to Gotamī ",
+        "uid": "an8.53"
+      },
+      "next": {
+        "name": "With Ujjaya ",
+        "uid": "an8.55"
+      }
     }
   ]
 }

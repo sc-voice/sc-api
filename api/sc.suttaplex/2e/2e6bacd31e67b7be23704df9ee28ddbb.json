@@ -233,7 +233,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Observing Suffering ",
+        "uid": "sn22.148"
+      },
+      "next": {
+        "name": "In Oneself ",
+        "uid": "sn22.150"
+      }
     }
   ]
 }

@@ -247,7 +247,15 @@
       "parallel_count": 11,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Grounds for Resentment ",
+        "uid": "an10.79"
+      },
+      "next": {
+        "name": "With Bāhuna ",
+        "uid": "an10.81"
+      }
     }
   ]
 }

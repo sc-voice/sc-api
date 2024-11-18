@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Ten Factored Path ",
+        "uid": "sn14.29"
+      },
+      "next": {
+        "name": "Before Awakening ",
+        "uid": "sn14.31"
+      }
     }
   ]
 }

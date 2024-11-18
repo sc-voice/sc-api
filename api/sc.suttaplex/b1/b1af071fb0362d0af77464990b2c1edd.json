@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  213–214"
+      "verseNo": "Verse  213–214",
+      "previous": {
+        "name": "Cūḷaka ",
+        "uid": "thag2.46"
+      },
+      "next": {
+        "name": "Vajjita ",
+        "uid": "thag2.48"
+      }
     }
   ]
 }

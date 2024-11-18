@@ -314,7 +314,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Vijayā ",
+        "uid": "sn5.4"
+      },
+      "next": {
+        "name": "With Cālā ",
+        "uid": "sn5.6"
+      }
     }
   ]
 }

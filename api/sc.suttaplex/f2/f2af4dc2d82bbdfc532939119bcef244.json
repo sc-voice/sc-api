@@ -233,7 +233,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Koṭṭhita (3rd) ",
+        "uid": "sn22.135"
+      },
+      "next": {
+        "name": "Impermanence ",
+        "uid": "sn22.137"
+      }
     }
   ]
 }

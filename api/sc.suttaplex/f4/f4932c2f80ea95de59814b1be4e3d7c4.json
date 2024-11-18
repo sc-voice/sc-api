@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Three Qualities ",
+        "uid": "sn37.4"
+      },
+      "next": {
+        "name": "Acrimony ",
+        "uid": "sn37.6"
+      }
     }
   ]
 }

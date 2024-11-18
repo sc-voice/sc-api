@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Ethics ",
+        "uid": "an5.107"
+      },
+      "next": {
+        "name": "All Four Quarters ",
+        "uid": "an5.109"
+      }
     }
   ]
 }

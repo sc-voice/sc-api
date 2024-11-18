@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At the Chicken Monastery (1st) ",
+        "uid": "sn45.18"
+      },
+      "next": {
+        "name": "At the Chicken Monastery (3rd) ",
+        "uid": "sn45.20"
+      }
     }
   ]
 }

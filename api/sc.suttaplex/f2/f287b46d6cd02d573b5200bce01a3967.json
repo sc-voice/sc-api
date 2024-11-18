@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  340–344"
+      "verseNo": "Verse  340–344",
+      "previous": {
+        "name": "Vaḍḍha ",
+        "uid": "thag5.5"
+      },
+      "next": {
+        "name": "Gayākassapa ",
+        "uid": "thag5.7"
+      }
     }
   ]
 }

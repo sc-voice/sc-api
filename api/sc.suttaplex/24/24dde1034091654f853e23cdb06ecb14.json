@@ -182,7 +182,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 75"
+      "verseNo": " Verse 75",
+      "previous": {
+        "name": "Suyāmana ",
+        "uid": "thag1.74"
+      },
+      "next": {
+        "name": "Piyañjaha ",
+        "uid": "thag1.76"
+      }
     }
   ]
 }

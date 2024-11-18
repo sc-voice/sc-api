@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Ānanda ",
+        "uid": "an4.174"
+      },
+      "next": {
+        "name": "Aspiration ",
+        "uid": "an4.176"
+      }
     }
   ]
 }

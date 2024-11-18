@@ -207,7 +207,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Migasālā ",
+        "uid": "an10.75"
+      },
+      "next": {
+        "name": "A Crow ",
+        "uid": "an10.77"
+      }
     }
   ]
 }

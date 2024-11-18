@@ -288,7 +288,15 @@
       "parallel_count": 15,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Impact ",
+        "uid": "sn1.22"
+      },
+      "next": {
+        "name": "Shielding the Mind ",
+        "uid": "sn1.24"
+      }
     }
   ]
 }

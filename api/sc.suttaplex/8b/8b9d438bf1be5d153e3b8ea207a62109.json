@@ -234,7 +234,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Homage to the Buddha ",
+        "uid": "sn11.17"
+      },
+      "next": {
+        "name": "Who Sakka Worships ",
+        "uid": "sn11.19"
+      }
     }
   ]
 }

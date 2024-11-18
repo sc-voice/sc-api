@@ -181,7 +181,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Robes ",
+        "uid": "an5.182"
+      },
+      "next": {
+        "name": "Charnel Ground Dwellers ",
+        "uid": "an5.184"
+      }
     }
   ]
 }

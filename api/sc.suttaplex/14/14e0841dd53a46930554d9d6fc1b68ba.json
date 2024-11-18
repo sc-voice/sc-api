@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Elements of Escape ",
+        "uid": "an5.200"
+      },
+      "next": {
+        "name": "Listening to the Teaching ",
+        "uid": "an5.202"
+      }
     }
   ]
 }

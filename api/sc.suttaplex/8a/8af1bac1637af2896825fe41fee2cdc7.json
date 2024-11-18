@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Upavāna ",
+        "uid": "sn46.8"
+      },
+      "next": {
+        "name": "Arisen (2nd) ",
+        "uid": "sn46.10"
+      }
     }
   ]
 }

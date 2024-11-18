@@ -155,7 +155,15 @@
       "parallel_count": 28,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  1146–1208"
+      "verseNo": "Verse  1146–1208",
+      "previous": {
+        "name": "Tālapuṭa ",
+        "uid": "thag19.1"
+      },
+      "next": {
+        "name": "Vaṅgīsa ",
+        "uid": "thag21.1"
+      }
     }
   ]
 }

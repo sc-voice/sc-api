@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 103"
+      "verseNo": " Verse 103",
+      "previous": {
+        "name": "Setuccha ",
+        "uid": "thag1.102"
+      },
+      "next": {
+        "name": "Khitaka ",
+        "uid": "thag1.104"
+      }
     }
   ]
 }

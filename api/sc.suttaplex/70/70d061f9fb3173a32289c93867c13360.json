@@ -274,7 +274,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Suffering in the Three Times ",
+        "uid": "sn22.10"
+      },
+      "next": {
+        "name": "Impermanence ",
+        "uid": "sn22.12"
+      }
     }
   ]
 }

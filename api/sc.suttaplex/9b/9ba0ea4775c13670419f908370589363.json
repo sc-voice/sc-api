@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Observing Impermanence in the Eye ",
+        "uid": "an7.95"
+      },
+      "next": {
+        "name": "Untitled Discourse on Greed (1st) ",
+        "uid": "an7.615"
+      }
     }
   ]
 }

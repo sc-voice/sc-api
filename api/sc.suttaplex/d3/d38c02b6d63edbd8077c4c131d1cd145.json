@@ -273,7 +273,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Opportunities for Freedom ",
+        "uid": "an5.26"
+      },
+      "next": {
+        "name": "With Five Factors ",
+        "uid": "an5.28"
+      }
     }
   ]
 }

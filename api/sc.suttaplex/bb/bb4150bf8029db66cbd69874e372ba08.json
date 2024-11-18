@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "In Detail (2nd) ",
+        "uid": "sn48.16"
+      },
+      "next": {
+        "name": "Practicing ",
+        "uid": "sn48.18"
+      }
     }
   ]
 }

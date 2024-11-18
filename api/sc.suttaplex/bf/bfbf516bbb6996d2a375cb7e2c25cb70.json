@@ -220,7 +220,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Extinguishment ",
+        "uid": "an4.179"
+      },
+      "next": {
+        "name": "A Warrior ",
+        "uid": "an4.181"
+      }
     }
   ]
 }

@@ -235,7 +235,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At Venāgapura ",
+        "uid": "an3.63"
+      },
+      "next": {
+        "name": "With the Kālāmas of Kesamutta ",
+        "uid": "an3.65"
+      }
     }
   ]
 }

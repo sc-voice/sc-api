@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Fetters ",
+        "uid": "an4.88"
+      },
+      "next": {
+        "name": "Aggregates ",
+        "uid": "an4.90"
+      }
     }
   ]
 }

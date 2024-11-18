@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Resident Mendicant ",
+        "uid": "an5.231"
+      },
+      "next": {
+        "name": "Beautification ",
+        "uid": "an5.233"
+      }
     }
   ]
 }

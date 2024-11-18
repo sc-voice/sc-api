@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 109"
+      "verseNo": " Verse 109",
+      "previous": {
+        "name": "Dhammasavapitu ",
+        "uid": "thag1.108"
+      },
+      "next": {
+        "name": "Usabha (1st) ",
+        "uid": "thag1.110"
+      }
     }
   ]
 }

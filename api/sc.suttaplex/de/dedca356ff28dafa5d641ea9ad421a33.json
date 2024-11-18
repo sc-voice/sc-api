@@ -527,7 +527,15 @@
       "parallel_count": 19,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Great Forty ",
+        "uid": "mn117"
+      },
+      "next": {
+        "name": "Mindfulness of the Body ",
+        "uid": "mn119"
+      }
     }
   ]
 }

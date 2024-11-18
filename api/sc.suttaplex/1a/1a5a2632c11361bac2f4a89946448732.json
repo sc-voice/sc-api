@@ -169,7 +169,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  350–354"
+      "verseNo": "Verse  350–354",
+      "previous": {
+        "name": "Gayākassapa ",
+        "uid": "thag5.7"
+      },
+      "next": {
+        "name": "Vijitasena ",
+        "uid": "thag5.9"
+      }
     }
   ]
 }

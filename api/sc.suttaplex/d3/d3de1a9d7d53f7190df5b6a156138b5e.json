@@ -287,7 +287,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Name ",
+        "uid": "sn1.61"
+      },
+      "next": {
+        "name": "Craving ",
+        "uid": "sn1.63"
+      }
     }
   ]
 }

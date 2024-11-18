@@ -327,7 +327,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Spike ",
+        "uid": "an1.41-50"
+      },
+      "next": {
+        "name": "Arousing Energy ",
+        "uid": "an1.61-70"
+      }
     }
   ]
 }

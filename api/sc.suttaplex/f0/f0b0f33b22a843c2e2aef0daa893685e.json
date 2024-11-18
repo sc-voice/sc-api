@@ -234,7 +234,15 @@
       "parallel_count": 48,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Patient (1st) ",
+        "uid": "an4.164"
+      },
+      "next": {
+        "name": "Both ",
+        "uid": "an4.166"
+      }
     }
   ]
 }

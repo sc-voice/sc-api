@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Awakening Factors ",
+        "uid": "an4.238"
+      },
+      "next": {
+        "name": "Pleasing ",
+        "uid": "an4.240"
+      }
     }
   ]
 }

@@ -329,7 +329,15 @@
       "parallel_count": 16,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Wheel-Turning Monarch ",
+        "uid": "dn26"
+      },
+      "next": {
+        "name": "Inspiring Confidence ",
+        "uid": "dn28"
+      }
     }
   ]
 }

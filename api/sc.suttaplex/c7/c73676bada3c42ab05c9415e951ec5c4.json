@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "About Bhallika, Etc. ",
+        "uid": "an6.120-139"
+      },
+      "next": {
+        "name": "Untitled Discourse on Greed (2nd) ",
+        "uid": "an6.141"
+      }
     }
   ]
 }

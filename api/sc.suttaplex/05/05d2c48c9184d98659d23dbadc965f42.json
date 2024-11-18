@@ -247,7 +247,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Speculation About the World ",
+        "uid": "sn56.41"
+      },
+      "next": {
+        "name": "The Mighty Fever ",
+        "uid": "sn56.43"
+      }
     }
   ]
 }

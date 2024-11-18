@@ -207,7 +207,15 @@
       "parallel_count": 15,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Seven Ways of Performing Deeds ",
+        "uid": "sn14.26"
+      },
+      "next": {
+        "name": "The Eightfold Path ",
+        "uid": "sn14.28"
+      }
     }
   ]
 }

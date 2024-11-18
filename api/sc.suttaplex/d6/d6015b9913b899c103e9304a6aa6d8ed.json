@@ -233,7 +233,15 @@
       "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Sāriputta ",
+        "uid": "sn8.6"
+      },
+      "next": {
+        "name": "Over a Thousand ",
+        "uid": "sn8.8"
+      }
     }
   ]
 }

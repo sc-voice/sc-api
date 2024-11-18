@@ -248,7 +248,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Three Grounds ",
+        "uid": "an3.42"
+      },
+      "next": {
+        "name": "When Conversation Flows ",
+        "uid": "an3.44"
+      }
     }
   ]
 }

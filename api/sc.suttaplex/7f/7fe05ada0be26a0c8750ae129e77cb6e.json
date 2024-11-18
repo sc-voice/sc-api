@@ -220,7 +220,15 @@
       "parallel_count": 24,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Needle Hairs (2nd) ",
+        "uid": "sn19.9"
+      },
+      "next": {
+        "name": "Over His Head ",
+        "uid": "sn19.11"
+      }
     }
   ]
 }

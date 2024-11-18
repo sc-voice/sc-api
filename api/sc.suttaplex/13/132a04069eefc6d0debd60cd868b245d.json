@@ -247,7 +247,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Skillful (2nd) ",
+        "uid": "sn46.32"
+      },
+      "next": {
+        "name": "Not Corruptions ",
+        "uid": "sn46.34"
+      }
     }
   ]
 }

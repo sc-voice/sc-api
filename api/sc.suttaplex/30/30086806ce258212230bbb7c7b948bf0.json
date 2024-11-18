@@ -435,7 +435,15 @@
       "parallel_count": 7,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Jungle Thickets ",
+        "uid": "mn17"
+      },
+      "next": {
+        "name": "Two Kinds of Thought ",
+        "uid": "mn19"
+      }
     }
   ]
 }

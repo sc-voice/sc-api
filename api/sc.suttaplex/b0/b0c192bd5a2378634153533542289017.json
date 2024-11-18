@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  155–156"
+      "verseNo": "Verse  155–156",
+      "previous": {
+        "name": "Tissa (3rd) ",
+        "uid": "thag2.17"
+      },
+      "next": {
+        "name": "Nanda ",
+        "uid": "thag2.19"
+      }
     }
   ]
 }

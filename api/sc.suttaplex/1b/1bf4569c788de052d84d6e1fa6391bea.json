@@ -286,7 +286,15 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Restraint ",
+        "uid": "sn35.98"
+      },
+      "next": {
+        "name": "Retreat ",
+        "uid": "sn35.100"
+      }
     }
   ]
 }

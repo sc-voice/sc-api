@@ -207,7 +207,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Dancing and Singing ",
+        "uid": "sn56.81"
+      },
+      "next": {
+        "name": "Gold and Currency ",
+        "uid": "sn56.83"
+      }
     }
   ]
 }

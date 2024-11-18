@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At Sārandada ",
+        "uid": "an5.143"
+      },
+      "next": {
+        "name": "Hell ",
+        "uid": "an5.145"
+      }
     }
   ]
 }

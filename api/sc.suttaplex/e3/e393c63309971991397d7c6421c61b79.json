@@ -260,7 +260,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Religious Donation ",
+        "uid": "an4.78"
+      },
+      "next": {
+        "name": "Persia ",
+        "uid": "an4.80"
+      }
     }
   ]
 }

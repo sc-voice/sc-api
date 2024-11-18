@@ -233,7 +233,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Horn Blower ",
+        "uid": "sn42.8"
+      },
+      "next": {
+        "name": "With Maṇicūḷaka ",
+        "uid": "sn42.10"
+      }
     }
   ]
 }

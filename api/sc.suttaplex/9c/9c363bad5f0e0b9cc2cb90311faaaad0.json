@@ -247,7 +247,15 @@
       "parallel_count": 47,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "About Katamorakatissaka ",
+        "uid": "sn6.8"
+      },
+      "next": {
+        "name": "With Kokālika ",
+        "uid": "sn6.10"
+      }
     }
   ]
 }

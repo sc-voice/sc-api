@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Upāli ",
+        "uid": "an10.99"
+      },
+      "next": {
+        "name": "Perceptions for Ascetics ",
+        "uid": "an10.101"
+      }
     }
   ]
 }

@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Thorns ",
+        "uid": "an10.72"
+      },
+      "next": {
+        "name": "Growth ",
+        "uid": "an10.74"
+      }
     }
   ]
 }

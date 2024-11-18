@@ -381,7 +381,15 @@
       "parallel_count": 7,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At Isigili ",
+        "uid": "mn116"
+      },
+      "next": {
+        "name": "Mindfulness of Breathing ",
+        "uid": "mn118"
+      }
     }
   ]
 }

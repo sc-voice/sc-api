@@ -260,7 +260,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Complete Understanding ",
+        "uid": "sn22.23"
+      },
+      "next": {
+        "name": "Desire and Greed ",
+        "uid": "sn22.25"
+      }
     }
   ]
 }

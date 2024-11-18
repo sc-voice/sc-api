@@ -181,7 +181,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Covetousness ",
+        "uid": "an4.271"
+      },
+      "next": {
+        "name": "Wrong View ",
+        "uid": "an4.273"
+      }
     }
   ]
 }

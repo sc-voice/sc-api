@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Old Age ",
+        "uid": "sn48.41"
+      },
+      "next": {
+        "name": "At Sāketa ",
+        "uid": "sn48.43"
+      }
     }
   ]
 }

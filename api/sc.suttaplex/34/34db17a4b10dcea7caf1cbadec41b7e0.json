@@ -208,7 +208,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 3"
+      "verseNo": " Verse 3",
+      "previous": {
+        "name": "Mahākoṭṭhita ",
+        "uid": "thag1.2"
+      },
+      "next": {
+        "name": "Puṇṇa (1st) ",
+        "uid": "thag1.4"
+      }
     }
   ]
 }

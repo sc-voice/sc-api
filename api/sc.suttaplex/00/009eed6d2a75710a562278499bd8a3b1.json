@@ -274,7 +274,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Aggregates ",
+        "uid": "sn56.13"
+      },
+      "next": {
+        "name": "Remembering (1st) ",
+        "uid": "sn56.15"
+      }
     }
   ]
 }

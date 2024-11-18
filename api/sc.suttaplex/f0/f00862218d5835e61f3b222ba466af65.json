@@ -233,7 +233,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Sucimukhī ",
+        "uid": "sn28.10"
+      },
+      "next": {
+        "name": "Better ",
+        "uid": "sn29.2"
+      }
     }
   ]
 }

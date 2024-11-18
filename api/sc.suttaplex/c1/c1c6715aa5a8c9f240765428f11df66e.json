@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Lack of Conscience ",
+        "uid": "an4.219"
+      },
+      "next": {
+        "name": "Verbal Conduct ",
+        "uid": "an4.221"
+      }
     }
   ]
 }

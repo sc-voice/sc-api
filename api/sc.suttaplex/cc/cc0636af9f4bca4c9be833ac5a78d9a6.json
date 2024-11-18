@@ -221,7 +221,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Not Learned From Anyone Else ",
+        "uid": "an5.11"
+      },
+      "next": {
+        "name": "In Brief ",
+        "uid": "an5.13"
+      }
     }
   ]
 }

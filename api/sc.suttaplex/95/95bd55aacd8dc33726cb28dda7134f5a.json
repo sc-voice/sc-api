@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Untitled Discourse on Greed ",
+        "uid": "an11.982"
+      },
+      "next": {
+        "name": "Untitled Discourses on Hate, Etc. ",
+        "uid": "an11.992-1151"
+      }
     }
   ]
 }

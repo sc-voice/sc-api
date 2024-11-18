@@ -207,7 +207,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Diversity of Elements ",
+        "uid": "sn14.1"
+      },
+      "next": {
+        "name": "Not Diversity of Contacts ",
+        "uid": "sn14.3"
+      }
     }
   ]
 }

@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Shines as an Expert in the Monastic Law (3rd) ",
+        "uid": "an7.81"
+      },
+      "next": {
+        "name": "The Teacher’s Instructions ",
+        "uid": "an7.83"
+      }
     }
   ]
 }

@@ -220,7 +220,15 @@
       "parallel_count": 25,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Bad Novice Monk ",
+        "uid": "sn19.20"
+      },
+      "next": {
+        "name": "A Roof Peak ",
+        "uid": "sn20.1"
+      }
     }
   ]
 }

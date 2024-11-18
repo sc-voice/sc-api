@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Love and Hate ",
+        "uid": "an4.200"
+      },
+      "next": {
+        "name": "Faithless ",
+        "uid": "an4.202"
+      }
     }
   ]
 }

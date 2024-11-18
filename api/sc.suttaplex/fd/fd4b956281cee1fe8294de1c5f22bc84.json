@@ -342,7 +342,15 @@
       "parallel_count": 7,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Vekhanasa ",
+        "uid": "mn80"
+      },
+      "next": {
+        "name": "With Raṭṭhapāla ",
+        "uid": "mn82"
+      }
     }
   ]
 }

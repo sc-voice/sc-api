@@ -221,7 +221,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Light Wisdom ",
+        "uid": "sn55.70"
+      },
+      "next": {
+        "name": "Swift Wisdom ",
+        "uid": "sn55.72"
+      }
     }
   ]
 }

@@ -409,7 +409,15 @@
       "parallel_count": 19,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Marks of a Great Man ",
+        "uid": "dn30"
+      },
+      "next": {
+        "name": "The Āṭānāṭiya Protection ",
+        "uid": "dn32"
+      }
     }
   ]
 }

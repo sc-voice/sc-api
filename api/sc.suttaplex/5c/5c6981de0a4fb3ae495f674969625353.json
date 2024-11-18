@@ -194,7 +194,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Dīghajāṇu ",
+        "uid": "an8.54"
+      },
+      "next": {
+        "name": "Danger ",
+        "uid": "an8.56"
+      }
     }
   ]
 }

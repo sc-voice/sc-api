@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Warrior ",
+        "uid": "sn42.3"
+      },
+      "next": {
+        "name": "A Cavalryman ",
+        "uid": "sn42.5"
+      }
     }
   ]
 }

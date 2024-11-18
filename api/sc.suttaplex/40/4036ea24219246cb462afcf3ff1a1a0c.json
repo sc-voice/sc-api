@@ -285,7 +285,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Vaṅgīsa ",
+        "uid": "sn8.12"
+      },
+      "next": {
+        "name": "Getting Up ",
+        "uid": "sn9.2"
+      }
     }
   ]
 }

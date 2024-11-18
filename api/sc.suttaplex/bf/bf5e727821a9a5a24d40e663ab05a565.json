@@ -315,7 +315,15 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Is This What You Think Of Me? ",
+        "uid": "mn103"
+      },
+      "next": {
+        "name": "With Sunakkhatta ",
+        "uid": "mn105"
+      }
     }
   ]
 }

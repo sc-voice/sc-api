@@ -433,7 +433,15 @@
       "parallel_count": 18,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Lomasakaṅgiya and One Fine Night ",
+        "uid": "mn134"
+      },
+      "next": {
+        "name": "The Longer Analysis of Deeds ",
+        "uid": "mn136"
+      }
     }
   ]
 }

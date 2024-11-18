@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Grounded ",
+        "uid": "sn48.56"
+      },
+      "next": {
+        "name": "The Boar’s Cave ",
+        "uid": "sn48.58"
+      }
     }
   ]
 }

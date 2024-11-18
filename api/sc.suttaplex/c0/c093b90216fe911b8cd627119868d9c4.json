@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 105"
+      "verseNo": " Verse 105",
+      "previous": {
+        "name": "Khitaka ",
+        "uid": "thag1.104"
+      },
+      "next": {
+        "name": "Suhemanta ",
+        "uid": "thag1.106"
+      }
     }
   ]
 }

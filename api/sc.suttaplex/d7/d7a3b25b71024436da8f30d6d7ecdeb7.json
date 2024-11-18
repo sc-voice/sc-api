@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Sick (1st) ",
+        "uid": "sn46.14"
+      },
+      "next": {
+        "name": "Sick (3rd) ",
+        "uid": "sn46.16"
+      }
     }
   ]
 }

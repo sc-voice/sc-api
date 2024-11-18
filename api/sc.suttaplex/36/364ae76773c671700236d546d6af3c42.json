@@ -207,7 +207,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Gold and Currency ",
+        "uid": "sn56.83"
+      },
+      "next": {
+        "name": "Raw Meat ",
+        "uid": "sn56.85"
+      }
     }
   ]
 }

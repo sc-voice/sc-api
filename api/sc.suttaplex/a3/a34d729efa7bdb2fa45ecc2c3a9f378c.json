@@ -156,7 +156,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  243–245"
+      "verseNo": "Verse  243–245",
+      "previous": {
+        "name": "Vassika ",
+        "uid": "thag3.8"
+      },
+      "next": {
+        "name": "Sāṭimattiya ",
+        "uid": "thag3.10"
+      }
     }
   ]
 }

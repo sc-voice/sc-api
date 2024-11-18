@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  175–176"
+      "verseNo": "Verse  175–176",
+      "previous": {
+        "name": "Nandaka (1st) ",
+        "uid": "thag2.27"
+      },
+      "next": {
+        "name": "Bhāradvāja ",
+        "uid": "thag2.29"
+      }
     }
   ]
 }

@@ -247,7 +247,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At Kāḷaka’s Monastery ",
+        "uid": "an4.24"
+      },
+      "next": {
+        "name": "Deceivers ",
+        "uid": "an4.26"
+      }
     }
   ]
 }

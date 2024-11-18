@@ -195,7 +195,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 93"
+      "verseNo": " Verse 93",
+      "previous": {
+        "name": "Vijaya ",
+        "uid": "thag1.92"
+      },
+      "next": {
+        "name": "Mettaji ",
+        "uid": "thag1.94"
+      }
     }
   ]
 }

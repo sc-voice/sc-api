@@ -220,7 +220,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 845"
+      "verseNo": " Verse 845",
+      "previous": {
+        "name": "With the Nun Sukkā (2nd) ",
+        "uid": "sn10.10"
+      },
+      "next": {
+        "name": "With Āḷavaka ",
+        "uid": "sn10.12"
+      }
     }
   ]
 }

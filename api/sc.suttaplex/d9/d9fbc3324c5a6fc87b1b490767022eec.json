@@ -435,7 +435,15 @@
       "parallel_count": 68,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Shorter Discourse on the Ending of Craving ",
+        "uid": "mn37"
+      },
+      "next": {
+        "name": "The Longer Discourse at Assapura ",
+        "uid": "mn39"
+      }
     }
   ]
 }

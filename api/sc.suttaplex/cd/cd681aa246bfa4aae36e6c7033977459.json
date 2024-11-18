@@ -247,7 +247,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Channa ",
+        "uid": "sn35.87"
+      },
+      "next": {
+        "name": "With Bāhiya ",
+        "uid": "sn35.89"
+      }
     }
   ]
 }

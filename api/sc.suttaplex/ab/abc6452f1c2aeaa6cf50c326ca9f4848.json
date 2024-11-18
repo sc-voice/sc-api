@@ -220,7 +220,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Uprooting Defilements ",
+        "uid": "sn35.57"
+      },
+      "next": {
+        "name": "Uprooting Tendencies ",
+        "uid": "sn35.59"
+      }
     }
   ]
 }

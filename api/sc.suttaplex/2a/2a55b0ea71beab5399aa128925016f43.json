@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Lodgings Assigner ",
+        "uid": "an5.273-285"
+      },
+      "next": {
+        "name": "A Nun ",
+        "uid": "an5.287-292"
+      }
     }
   ]
 }

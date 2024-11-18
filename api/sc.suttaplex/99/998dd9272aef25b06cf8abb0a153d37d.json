@@ -233,7 +233,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Future Lives ",
+        "uid": "sn48.21"
+      },
+      "next": {
+        "name": "The Faculty of Enlightenment ",
+        "uid": "sn48.23"
+      }
     }
   ]
 }

@@ -234,7 +234,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Spiritual Path (1st) ",
+        "uid": "sn45.39"
+      },
+      "next": {
+        "name": "The Fading Away of Greed ",
+        "uid": "sn45.41"
+      }
     }
   ]
 }

@@ -247,7 +247,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A well-to-do brahmin ",
+        "uid": "sn7.14"
+      },
+      "next": {
+        "name": "The Contraphile ",
+        "uid": "sn7.16"
+      }
     }
   ]
 }

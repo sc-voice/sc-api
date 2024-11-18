@@ -273,7 +273,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Tissa ",
+        "uid": "sn22.84"
+      },
+      "next": {
+        "name": "With Anurādha ",
+        "uid": "sn22.86"
+      }
     }
   ]
 }

@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Plain Version ",
+        "uid": "sn48.31"
+      },
+      "next": {
+        "name": "A Perfected One ",
+        "uid": "sn48.33"
+      }
     }
   ]
 }

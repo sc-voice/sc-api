@@ -261,7 +261,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Broken ",
+        "uid": "an3.9"
+      },
+      "next": {
+        "name": "Well-known ",
+        "uid": "an3.11"
+      }
     }
   ]
 }

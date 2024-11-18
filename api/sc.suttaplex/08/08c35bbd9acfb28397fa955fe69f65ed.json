@@ -304,7 +304,15 @@
       "parallel_count": 10,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Advice to Sigālaka ",
+        "uid": "dn31"
+      },
+      "next": {
+        "name": "Reciting in Concert ",
+        "uid": "dn33"
+      }
     }
   ]
 }

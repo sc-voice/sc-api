@@ -260,7 +260,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Certain Divinity ",
+        "uid": "sn6.5"
+      },
+      "next": {
+        "name": "About Kokālika ",
+        "uid": "sn6.7"
+      }
     }
   ]
 }

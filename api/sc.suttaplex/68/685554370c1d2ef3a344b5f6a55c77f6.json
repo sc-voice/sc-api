@@ -168,7 +168,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Mortifying ",
+        "uid": "an10.185"
+      },
+      "next": {
+        "name": "With Suffering as Outcome ",
+        "uid": "an10.187"
+      }
     }
   ]
 }

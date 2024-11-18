@@ -248,7 +248,15 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Like Diamond ",
+        "uid": "an3.25"
+      },
+      "next": {
+        "name": "Offensive ",
+        "uid": "an3.27"
+      }
     }
   ]
 }

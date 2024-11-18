@@ -272,7 +272,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Sets of Eleven on Training, Etc. ",
+        "uid": "sn12.93-213"
+      },
+      "next": {
+        "name": "A Lotus Pond ",
+        "uid": "sn13.2"
+      }
     }
   ]
 }

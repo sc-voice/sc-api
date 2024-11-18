@@ -181,7 +181,15 @@
       "parallel_count": 42,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  1219–1289"
+      "verseNo": "Verse  1219–1289",
+      "previous": {
+        "name": "Mahāmoggallāna ",
+        "uid": "thag20.1"
+      },
+      "next": {
+        "name": null,
+        "uid": ""
+      }
     }
   ]
 }

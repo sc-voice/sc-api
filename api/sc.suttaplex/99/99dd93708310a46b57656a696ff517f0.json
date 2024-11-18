@@ -233,7 +233,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Potaliya the Wanderer ",
+        "uid": "an4.100"
+      },
+      "next": {
+        "name": "Clouds (2nd) ",
+        "uid": "an4.102"
+      }
     }
   ]
 }

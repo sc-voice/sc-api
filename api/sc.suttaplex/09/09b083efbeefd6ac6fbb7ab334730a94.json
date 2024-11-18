@@ -247,7 +247,15 @@
       "parallel_count": 41,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Warriors (1st) ",
+        "uid": "an5.75"
+      },
+      "next": {
+        "name": "Future Perils (1st) ",
+        "uid": "an5.77"
+      }
     }
   ]
 }

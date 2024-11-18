@@ -247,7 +247,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Jains ",
+        "uid": "an3.74"
+      },
+      "next": {
+        "name": "Continued Existence (1st) ",
+        "uid": "an3.76"
+      }
     }
   ]
 }

@@ -300,7 +300,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Debating Hall ",
+        "uid": "sn44.9"
+      },
+      "next": {
+        "name": "With Sabhiya Kaccāna ",
+        "uid": "sn44.11"
+      }
     }
   ]
 }

@@ -234,7 +234,15 @@
       "parallel_count": 18,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Making a Wish ",
+        "uid": "an11.2"
+      },
+      "next": {
+        "name": "Vital Conditions (2nd) ",
+        "uid": "an11.4"
+      }
     }
   ]
 }

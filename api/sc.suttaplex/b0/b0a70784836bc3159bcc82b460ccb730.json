@@ -273,7 +273,15 @@
       "parallel_count": 17,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Childless (1st) ",
+        "uid": "sn3.19"
+      },
+      "next": {
+        "name": "Persons ",
+        "uid": "sn3.21"
+      }
     }
   ]
 }

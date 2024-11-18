@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  234–236"
+      "verseNo": "Verse  234–236",
+      "previous": {
+        "name": "Mātaṅgaputta ",
+        "uid": "thag3.5"
+      },
+      "next": {
+        "name": "Vāraṇa ",
+        "uid": "thag3.7"
+      }
     }
   ]
 }

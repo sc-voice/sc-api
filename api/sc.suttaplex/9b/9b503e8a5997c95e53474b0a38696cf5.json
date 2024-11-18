@@ -207,7 +207,15 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Mahaka’s Demonstration ",
+        "uid": "sn41.4"
+      },
+      "next": {
+        "name": "With Kāmabhū (2nd) ",
+        "uid": "sn41.6"
+      }
     }
   ]
 }

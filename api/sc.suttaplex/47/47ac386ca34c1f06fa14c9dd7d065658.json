@@ -275,7 +275,15 @@
       "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Arguments ",
+        "uid": "sn56.9"
+      },
+      "next": {
+        "name": "Rolling Forth the Wheel of Dhamma ",
+        "uid": "sn56.11"
+      }
     }
   ]
 }

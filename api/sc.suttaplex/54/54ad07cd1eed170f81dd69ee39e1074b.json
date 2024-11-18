@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Searches ",
+        "uid": "sn48.105-114"
+      },
+      "next": {
+        "name": "Another Chapter of Abbreviated Texts on the Ganges ",
+        "uid": "sn48.125-136"
+      }
     }
   ]
 }

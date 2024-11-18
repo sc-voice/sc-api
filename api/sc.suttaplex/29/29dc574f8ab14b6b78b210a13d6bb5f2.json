@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Observing Suffering ",
+        "uid": "an7.17"
+      },
+      "next": {
+        "name": "Extinguishment ",
+        "uid": "an7.19"
+      }
     }
   ]
 }

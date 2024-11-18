@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Sakka ",
+        "uid": "sn40.10"
+      },
+      "next": {
+        "name": "The Fetter ",
+        "uid": "sn41.1"
+      }
     }
   ]
 }

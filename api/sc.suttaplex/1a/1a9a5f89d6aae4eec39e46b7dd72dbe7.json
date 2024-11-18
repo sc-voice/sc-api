@@ -247,7 +247,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Several Mendicants (1st) ",
+        "uid": "sn54.15"
+      },
+      "next": {
+        "name": "Giving Up the Fetters ",
+        "uid": "sn54.17"
+      }
     }
   ]
 }

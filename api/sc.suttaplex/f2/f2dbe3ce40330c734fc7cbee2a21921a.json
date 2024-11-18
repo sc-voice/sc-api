@@ -408,7 +408,15 @@
       "parallel_count": 44,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Ghaṭīkāra ",
+        "uid": "mn81"
+      },
+      "next": {
+        "name": "About King Maghadeva ",
+        "uid": "mn83"
+      }
     }
   ]
 }

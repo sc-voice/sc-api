@@ -247,7 +247,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Bhāradvāja of the Matted Hair ",
+        "uid": "sn7.6"
+      },
+      "next": {
+        "name": "With Bhāradvāja the Fire-Worshiper ",
+        "uid": "sn7.8"
+      }
     }
   ]
 }

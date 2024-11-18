@@ -207,7 +207,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Honor the Elders ",
+        "uid": "sn56.70"
+      },
+      "next": {
+        "name": "Stealing ",
+        "uid": "sn56.72"
+      }
     }
   ]
 }

@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 46"
+      "verseNo": " Verse 46",
+      "previous": {
+        "name": "Ramaṇīyavihārin ",
+        "uid": "thag1.45"
+      },
+      "next": {
+        "name": "Ujjaya ",
+        "uid": "thag1.47"
+      }
     }
   ]
 }

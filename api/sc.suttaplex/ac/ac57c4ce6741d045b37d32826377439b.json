@@ -315,7 +315,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Five and Three ",
+        "uid": "mn102"
+      },
+      "next": {
+        "name": "At Sāmagāma ",
+        "uid": "mn104"
+      }
     }
   ]
 }

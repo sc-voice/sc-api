@@ -234,7 +234,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Disturbed ",
+        "uid": "sn35.52"
+      },
+      "next": {
+        "name": "Giving Up Fetters ",
+        "uid": "sn35.54"
+      }
     }
   ]
 }

@@ -207,7 +207,15 @@
       "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "In Three Particulars ",
+        "uid": "an9.21"
+      },
+      "next": {
+        "name": "Rooted in Craving ",
+        "uid": "an9.23"
+      }
     }
   ]
 }

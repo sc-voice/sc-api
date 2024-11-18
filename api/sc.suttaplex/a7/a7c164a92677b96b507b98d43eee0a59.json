@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Giving Up View of Self ",
+        "uid": "sn35.167"
+      },
+      "next": {
+        "name": "Greed for the Impermanent Interior ",
+        "uid": "sn35.169"
+      }
     }
   ]
 }

@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Very Helpful ",
+        "uid": "an5.234"
+      },
+      "next": {
+        "name": "Deserving Criticism (1st) ",
+        "uid": "an5.236"
+      }
     }
   ]
 }

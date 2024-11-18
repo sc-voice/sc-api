@@ -208,7 +208,15 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Wild Colt ",
+        "uid": "an8.14"
+      },
+      "next": {
+        "name": "Going on a Mission ",
+        "uid": "an8.16"
+      }
     }
   ]
 }

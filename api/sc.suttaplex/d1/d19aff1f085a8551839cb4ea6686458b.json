@@ -220,7 +220,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Wailing ",
+        "uid": "an3.107"
+      },
+      "next": {
+        "name": "Unprotected ",
+        "uid": "an3.109"
+      }
     }
   ]
 }

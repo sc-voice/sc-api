@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Stinginess ",
+        "uid": "an9.69"
+      },
+      "next": {
+        "name": "Hard-heartedness ",
+        "uid": "an9.71"
+      }
     }
   ]
 }

@@ -208,7 +208,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The First Absorption ",
+        "uid": "an5.256"
+      },
+      "next": {
+        "name": "Another Discourse on the First Absorption ",
+        "uid": "an5.264"
+      }
     }
   ]
 }

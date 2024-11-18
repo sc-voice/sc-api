@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Superhuman States ",
+        "uid": "an6.77"
+      },
+      "next": {
+        "name": "Achievement ",
+        "uid": "an6.79"
+      }
     }
   ]
 }

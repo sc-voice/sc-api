@@ -194,7 +194,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Bribery ",
+        "uid": "sn56.95"
+      },
+      "next": {
+        "name": "Passing Away as Humans and Reborn in Hell ",
+        "uid": "sn56.102"
+      }
     }
   ]
 }

@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Both Kinds of Deeds ",
+        "uid": "sn30.3"
+      },
+      "next": {
+        "name": "Ten Discourses On How Giving Helps to Become Egg-Born ",
+        "uid": "sn30.7-16"
+      }
     }
   ]
 }

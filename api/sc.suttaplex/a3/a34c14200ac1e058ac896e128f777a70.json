@@ -274,7 +274,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Life Span (1st) ",
+        "uid": "sn4.9"
+      },
+      "next": {
+        "name": "Boulders ",
+        "uid": "sn4.11"
+      }
     }
   ]
 }

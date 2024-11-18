@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Free of Jealousy ",
+        "uid": "sn37.17"
+      },
+      "next": {
+        "name": "Not Adulterous ",
+        "uid": "sn37.19"
+      }
     }
   ]
 }

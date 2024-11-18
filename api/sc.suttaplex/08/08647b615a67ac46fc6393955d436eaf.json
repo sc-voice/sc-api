@@ -409,7 +409,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Ascetic Who Behaved Like a Dog ",
+        "uid": "mn57"
+      },
+      "next": {
+        "name": "The Many Kinds of Feeling ",
+        "uid": "mn59"
+      }
     }
   ]
 }

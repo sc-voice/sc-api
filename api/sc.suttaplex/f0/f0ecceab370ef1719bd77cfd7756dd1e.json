@@ -344,7 +344,15 @@
       "parallel_count": 57,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Fruits of the Ascetic Life ",
+        "uid": "dn2"
+      },
+      "next": {
+        "name": "With Soṇadaṇḍa ",
+        "uid": "dn4"
+      }
     }
   ]
 }

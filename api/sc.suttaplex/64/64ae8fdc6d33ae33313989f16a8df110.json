@@ -234,7 +234,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Ocean (1st) ",
+        "uid": "sn56.57"
+      },
+      "next": {
+        "name": "A Mountain (1st) ",
+        "uid": "sn56.59"
+      }
     }
   ]
 }

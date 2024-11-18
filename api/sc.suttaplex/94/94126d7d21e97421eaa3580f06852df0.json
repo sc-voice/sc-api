@@ -247,7 +247,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Aggregates ",
+        "uid": "sn22.48"
+      },
+      "next": {
+        "name": "With Soṇa (2nd) ",
+        "uid": "sn22.50"
+      }
     }
   ]
 }

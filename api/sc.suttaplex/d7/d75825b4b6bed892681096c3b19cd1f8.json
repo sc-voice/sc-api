@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Experiential Confidence ",
+        "uid": "an10.64"
+      },
+      "next": {
+        "name": "Happiness (2nd) ",
+        "uid": "an10.66"
+      }
     }
   ]
 }

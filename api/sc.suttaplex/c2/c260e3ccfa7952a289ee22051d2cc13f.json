@@ -196,7 +196,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 2"
+      "verseNo": " Verse 2",
+      "previous": {
+        "name": "An Unnamed Nun (1st) ",
+        "uid": "thig1.1"
+      },
+      "next": {
+        "name": "Puṇṇā ",
+        "uid": "thig1.3"
+      }
     }
   ]
 }

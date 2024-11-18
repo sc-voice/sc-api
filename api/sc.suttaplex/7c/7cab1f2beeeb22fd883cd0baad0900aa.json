@@ -339,7 +339,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Pajjunna’s Daughter (2nd) ",
+        "uid": "sn1.40"
+      },
+      "next": {
+        "name": "Giving What? ",
+        "uid": "sn1.42"
+      }
     }
   ]
 }

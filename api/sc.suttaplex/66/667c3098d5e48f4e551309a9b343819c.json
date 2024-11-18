@@ -220,7 +220,15 @@
       "parallel_count": 24,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Fishwife ",
+        "uid": "sn19.14"
+      },
+      "next": {
+        "name": "A Headless Trunk ",
+        "uid": "sn19.16"
+      }
     }
   ]
 }

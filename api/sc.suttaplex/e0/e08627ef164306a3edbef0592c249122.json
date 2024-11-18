@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Unmindful ",
+        "uid": "an5.210"
+      },
+      "next": {
+        "name": "Starting Arguments ",
+        "uid": "an5.212"
+      }
     }
   ]
 }

@@ -208,7 +208,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Judge ",
+        "uid": "an10.33"
+      },
+      "next": {
+        "name": "Dependence ",
+        "uid": "an10.35"
+      }
     }
   ]
 }

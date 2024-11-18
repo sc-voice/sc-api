@@ -247,7 +247,15 @@
       "parallel_count": 36,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With the Stream ",
+        "uid": "an4.5"
+      },
+      "next": {
+        "name": "Beautification ",
+        "uid": "an4.7"
+      }
     }
   ]
 }

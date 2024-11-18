@@ -273,7 +273,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Exterior ",
+        "uid": "sn46.50"
+      },
+      "next": {
+        "name": "Is There a Way? ",
+        "uid": "sn46.52"
+      }
     }
   ]
 }

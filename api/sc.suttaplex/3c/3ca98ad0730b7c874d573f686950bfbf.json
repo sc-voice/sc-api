@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "When You Take Pleasure ",
+        "uid": "sn22.65"
+      },
+      "next": {
+        "name": "Suffering ",
+        "uid": "sn22.67"
+      }
     }
   ]
 }

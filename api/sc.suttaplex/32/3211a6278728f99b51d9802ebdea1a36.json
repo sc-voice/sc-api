@@ -208,7 +208,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Harmony in the Saṅgha ",
+        "uid": "an10.38"
+      },
+      "next": {
+        "name": "With Ānanda (2nd) ",
+        "uid": "an10.40"
+      }
     }
   ]
 }

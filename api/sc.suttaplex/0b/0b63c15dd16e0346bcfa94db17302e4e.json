@@ -273,7 +273,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Visiting Families ",
+        "uid": "sn16.4"
+      },
+      "next": {
+        "name": "Advice ",
+        "uid": "sn16.6"
+      }
     }
   ]
 }

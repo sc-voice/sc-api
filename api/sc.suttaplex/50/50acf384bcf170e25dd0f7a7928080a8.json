@@ -286,7 +286,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Unethical ",
+        "uid": "an5.24"
+      },
+      "next": {
+        "name": "Opportunities for Freedom ",
+        "uid": "an5.26"
+      }
     }
   ]
 }

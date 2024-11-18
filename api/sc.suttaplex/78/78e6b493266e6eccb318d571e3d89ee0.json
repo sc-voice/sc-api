@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Schism ",
+        "uid": "sn17.31"
+      },
+      "next": {
+        "name": "Skillful Quality ",
+        "uid": "sn17.33"
+      }
     }
   ]
 }

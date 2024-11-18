@@ -169,7 +169,15 @@
       "parallel_count": 12,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  447–452"
+      "verseNo": "Verse  447–452",
+      "previous": {
+        "name": "Brahmadatta ",
+        "uid": "thag6.12"
+      },
+      "next": {
+        "name": "Sabbakāmi ",
+        "uid": "thag6.14"
+      }
     }
   ]
 }

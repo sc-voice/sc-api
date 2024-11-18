@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Ascetics ",
+        "uid": "an4.241"
+      },
+      "next": {
+        "name": "Schism in the Saṅgha ",
+        "uid": "an4.243"
+      }
     }
   ]
 }

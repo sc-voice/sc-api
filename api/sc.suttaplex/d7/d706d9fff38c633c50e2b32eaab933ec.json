@@ -220,7 +220,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Mountain (3rd) ",
+        "uid": "sn13.11"
+      },
+      "next": {
+        "name": "Diversity of Contacts ",
+        "uid": "sn14.2"
+      }
     }
   ]
 }

@@ -207,7 +207,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Diverse Beliefs ",
+        "uid": "sn52.19"
+      },
+      "next": {
+        "name": "Absorptions, Etc. ",
+        "uid": "sn52.21"
+      }
     }
   ]
 }

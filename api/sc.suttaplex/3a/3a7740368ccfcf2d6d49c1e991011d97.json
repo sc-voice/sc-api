@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At Tikaṇḍakī ",
+        "uid": "an5.144"
+      },
+      "next": {
+        "name": "A Friend ",
+        "uid": "an5.146"
+      }
     }
   ]
 }

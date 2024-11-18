@@ -221,7 +221,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Safe Place ",
+        "uid": "an9.52"
+      },
+      "next": {
+        "name": "Freedom From Death ",
+        "uid": "an9.54"
+      }
     }
   ]
 }

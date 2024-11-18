@@ -195,7 +195,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 113"
+      "verseNo": " Verse 113",
+      "previous": {
+        "name": "Vacchagotta ",
+        "uid": "thag1.112"
+      },
+      "next": {
+        "name": "Adhimutta (1st) ",
+        "uid": "thag1.114"
+      }
     }
   ]
 }

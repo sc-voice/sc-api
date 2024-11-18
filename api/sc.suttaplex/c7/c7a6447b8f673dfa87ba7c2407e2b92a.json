@@ -382,7 +382,15 @@
       "parallel_count": 10,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Analysis of Non-Conflict ",
+        "uid": "mn139"
+      },
+      "next": {
+        "name": "The Analysis of the Truths ",
+        "uid": "mn141"
+      }
     }
   ]
 }

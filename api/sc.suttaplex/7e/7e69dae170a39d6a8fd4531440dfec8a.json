@@ -462,7 +462,15 @@
       "parallel_count": 16,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Longer Discourse on the Lion’s Roar ",
+        "uid": "mn12"
+      },
+      "next": {
+        "name": "The Shorter Discourse on the Mass of Suffering ",
+        "uid": "mn14"
+      }
     }
   ]
 }

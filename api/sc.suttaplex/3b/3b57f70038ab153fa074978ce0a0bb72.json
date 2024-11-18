@@ -234,7 +234,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Fatal Wounds ",
+        "uid": "an5.129"
+      },
+      "next": {
+        "name": "Wielding Power (1st) ",
+        "uid": "an5.131"
+      }
     }
   ]
 }

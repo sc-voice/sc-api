@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Black Snakes (1st) ",
+        "uid": "an5.229"
+      },
+      "next": {
+        "name": "A Resident Mendicant ",
+        "uid": "an5.231"
+      }
     }
   ]
 }

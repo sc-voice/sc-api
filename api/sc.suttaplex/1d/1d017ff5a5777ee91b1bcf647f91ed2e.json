@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Path (1st) ",
+        "uid": "an4.225"
+      },
+      "next": {
+        "name": "Kinds of Expression (1st) ",
+        "uid": "an4.227"
+      }
     }
   ]
 }

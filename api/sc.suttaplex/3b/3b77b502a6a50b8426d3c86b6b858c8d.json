@@ -247,7 +247,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Old Age and Death ",
+        "uid": "sn12.71"
+      },
+      "next": {
+        "name": "The Teacher ",
+        "uid": "sn12.82"
+      }
     }
   ]
 }

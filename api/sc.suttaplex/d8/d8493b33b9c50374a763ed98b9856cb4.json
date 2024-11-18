@@ -182,7 +182,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  448–522"
+      "verseNo": "Verse  448–522",
+      "previous": {
+        "name": "Isidāsī ",
+        "uid": "thig15.1"
+      },
+      "next": {
+        "name": null,
+        "uid": ""
+      }
     }
   ]
 }

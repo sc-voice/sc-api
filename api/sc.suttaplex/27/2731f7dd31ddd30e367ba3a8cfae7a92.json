@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Set of Ten on Rebirth, Etc. ",
+        "uid": "sn12.72-81"
+      },
+      "next": {
+        "name": "The Teacher (2nd) ",
+        "uid": "sn12.83-92"
+      }
     }
   ]
 }

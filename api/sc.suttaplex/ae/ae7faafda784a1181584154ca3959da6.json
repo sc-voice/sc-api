@@ -221,7 +221,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Faith ",
+        "uid": "an5.38"
+      },
+      "next": {
+        "name": "Great Sal Trees ",
+        "uid": "an5.40"
+      }
     }
   ]
 }

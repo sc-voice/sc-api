@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Trees ",
+        "uid": "sn45.152"
+      },
+      "next": {
+        "name": "A Spike ",
+        "uid": "sn45.154"
+      }
     }
   ]
 }

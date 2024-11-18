@@ -353,7 +353,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Flowers ",
+        "uid": "sn22.94"
+      },
+      "next": {
+        "name": "A Lump of Cow Dung ",
+        "uid": "sn22.96"
+      }
     }
   ]
 }

@@ -196,7 +196,15 @@
       "parallel_count": 10,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 5"
+      "verseNo": " Verse 5",
+      "previous": {
+        "name": "Tissā ",
+        "uid": "thig1.4"
+      },
+      "next": {
+        "name": "Dhīrā ",
+        "uid": "thig1.6"
+      }
     }
   ]
 }

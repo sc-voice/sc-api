@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 76"
+      "verseNo": " Verse 76",
+      "previous": {
+        "name": "Susārada ",
+        "uid": "thag1.75"
+      },
+      "next": {
+        "name": "Hatthārohaputta ",
+        "uid": "thag1.77"
+      }
     }
   ]
 }

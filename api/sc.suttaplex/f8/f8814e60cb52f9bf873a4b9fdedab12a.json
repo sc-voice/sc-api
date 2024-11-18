@@ -261,7 +261,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Giving ",
+        "uid": "an2.141-150"
+      },
+      "next": {
+        "name": "Attainment ",
+        "uid": "an2.163-179"
+      }
     }
   ]
 }

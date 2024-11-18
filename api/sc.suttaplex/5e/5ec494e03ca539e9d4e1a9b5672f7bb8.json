@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Wilderness Dwellers ",
+        "uid": "an5.181"
+      },
+      "next": {
+        "name": "Dwelling at the Root of a Tree ",
+        "uid": "an5.183"
+      }
     }
   ]
 }

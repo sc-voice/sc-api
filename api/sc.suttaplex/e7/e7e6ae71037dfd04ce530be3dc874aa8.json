@@ -342,7 +342,15 @@
       "parallel_count": 47,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Subha ",
+        "uid": "dn10"
+      },
+      "next": {
+        "name": "With Lohicca ",
+        "uid": "dn12"
+      }
     }
   ]
 }

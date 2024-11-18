@@ -207,7 +207,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Dung Beetle ",
+        "uid": "sn17.5"
+      },
+      "next": {
+        "name": "A Poisoned Arrow ",
+        "uid": "sn17.7"
+      }
     }
   ]
 }

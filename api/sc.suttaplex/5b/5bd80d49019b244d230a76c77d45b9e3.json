@@ -207,7 +207,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Discussion ",
+        "uid": "an5.65"
+      },
+      "next": {
+        "name": "Bases of Psychic Power (1st) ",
+        "uid": "an5.67"
+      }
     }
   ]
 }

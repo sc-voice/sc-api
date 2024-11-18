@@ -182,7 +182,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  87–91"
+      "verseNo": "Verse  87–91",
+      "previous": {
+        "name": "Sundarīnandā ",
+        "uid": "thig5.4"
+      },
+      "next": {
+        "name": "Mittākāḷī ",
+        "uid": "thig5.6"
+      }
     }
   ]
 }

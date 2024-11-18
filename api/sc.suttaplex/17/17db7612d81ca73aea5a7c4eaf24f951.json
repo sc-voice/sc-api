@@ -208,7 +208,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Another Discourse on the First Absorption ",
+        "uid": "an5.264"
+      },
+      "next": {
+        "name": "A Meal Designator ",
+        "uid": "an5.272"
+      }
     }
   ]
 }

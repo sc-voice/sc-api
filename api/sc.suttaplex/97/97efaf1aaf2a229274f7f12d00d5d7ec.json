@@ -248,7 +248,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Channa ",
+        "uid": "an3.71"
+      },
+      "next": {
+        "name": "With Mahānāma the Sakyan ",
+        "uid": "an3.73"
+      }
     }
   ]
 }

@@ -327,7 +327,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Udāyī ",
+        "uid": "an4.40"
+      },
+      "next": {
+        "name": "Ways of Answering Questions ",
+        "uid": "an4.42"
+      }
     }
   ]
 }

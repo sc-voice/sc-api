@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Monk ",
+        "uid": "an5.286"
+      },
+      "next": {
+        "name": "An Ājīvaka ",
+        "uid": "an5.293"
+      }
     }
   ]
 }

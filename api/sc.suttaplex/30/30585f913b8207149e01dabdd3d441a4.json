@@ -299,7 +299,15 @@
       "parallel_count": 20,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "About Aruṇavatī ",
+        "uid": "sn6.14"
+      },
+      "next": {
+        "name": "With Dhanañjānī ",
+        "uid": "sn7.1"
+      }
     }
   ]
 }

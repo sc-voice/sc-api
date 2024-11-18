@@ -168,7 +168,15 @@
       "parallel_count": 73,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  981–1017"
+      "verseNo": "Verse  981–1017",
+      "previous": {
+        "name": "Phussa ",
+        "uid": "thag17.1"
+      },
+      "next": {
+        "name": "Ānanda ",
+        "uid": "thag17.3"
+      }
     }
   ]
 }

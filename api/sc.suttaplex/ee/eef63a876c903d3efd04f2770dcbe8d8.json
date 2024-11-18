@@ -247,7 +247,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Clothes ",
+        "uid": "sn46.4"
+      },
+      "next": {
+        "name": "Kuṇḍaliya ",
+        "uid": "sn46.6"
+      }
     }
   ]
 }

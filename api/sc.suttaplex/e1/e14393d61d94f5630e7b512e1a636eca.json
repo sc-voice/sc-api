@@ -207,7 +207,15 @@
       "parallel_count": 25,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Assemblies ",
+        "uid": "an8.69"
+      },
+      "next": {
+        "name": "Inspiring All Around (1st) ",
+        "uid": "an8.71"
+      }
     }
   ]
 }

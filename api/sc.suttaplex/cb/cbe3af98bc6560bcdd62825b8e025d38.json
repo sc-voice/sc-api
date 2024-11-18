@@ -207,7 +207,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Shortly After He Left ",
+        "uid": "sn17.35"
+      },
+      "next": {
+        "name": "Mother ",
+        "uid": "sn17.37"
+      }
     }
   ]
 }

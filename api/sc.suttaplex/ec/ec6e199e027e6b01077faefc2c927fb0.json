@@ -260,7 +260,15 @@
       "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Breakable ",
+        "uid": "sn22.32"
+      },
+      "next": {
+        "name": "It’s Not Yours (2nd) ",
+        "uid": "sn22.34"
+      }
     }
   ]
 }

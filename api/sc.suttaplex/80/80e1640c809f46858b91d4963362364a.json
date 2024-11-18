@@ -247,7 +247,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Soṇa ",
+        "uid": "sn22.49"
+      },
+      "next": {
+        "name": "The End of Relishing ",
+        "uid": "sn22.51"
+      }
     }
   ]
 }

@@ -247,7 +247,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Decline ",
+        "uid": "sn47.23"
+      },
+      "next": {
+        "name": "A Certain Brahmin ",
+        "uid": "sn47.25"
+      }
     }
   ]
 }

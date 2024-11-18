@@ -195,7 +195,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 13"
+      "verseNo": " Verse 13",
+      "previous": {
+        "name": "Mahāvaccha ",
+        "uid": "thag1.12"
+      },
+      "next": {
+        "name": "The Novice Sivaka ",
+        "uid": "thag1.14"
+      }
     }
   ]
 }

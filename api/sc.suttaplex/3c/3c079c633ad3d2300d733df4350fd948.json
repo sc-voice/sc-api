@@ -233,7 +233,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Koṭṭhita ",
+        "uid": "sn22.133"
+      },
+      "next": {
+        "name": "With Koṭṭhita (3rd) ",
+        "uid": "sn22.135"
+      }
     }
   ]
 }

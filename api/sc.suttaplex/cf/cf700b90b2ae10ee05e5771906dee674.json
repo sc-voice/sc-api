@@ -194,7 +194,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Dying as Ghosts and Reborn as Gods ",
+        "uid": "sn56.129-130"
+      },
+      "next": {
+        "name": null,
+        "uid": ""
+      }
     }
   ]
 }

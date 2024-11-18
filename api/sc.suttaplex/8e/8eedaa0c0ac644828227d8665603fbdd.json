@@ -381,7 +381,15 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Analysis of the Elements ",
+        "uid": "mn140"
+      },
+      "next": {
+        "name": "The Analysis of Religious Donations ",
+        "uid": "mn142"
+      }
     }
   ]
 }

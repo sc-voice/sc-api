@@ -126,6 +126,20 @@
           "has_comment": false
         },
         {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "Evgenia Evmenenko",
+          "author_short": "narinyanievmenenko",
+          "author_uid": "narinyanievmenenko",
+          "publication_date": "2024",
+          "id": "thag14.1_translation-ru-narinyanievmenenko",
+          "segmented": true,
+          "title": "Кхадираванияревата Тхера ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "si",
           "lang_name": "සිංහල",
           "is_root": false,
@@ -155,7 +169,15 @@
       "parallel_count": 26,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  645–658"
+      "verseNo": "Verse  645–658",
+      "previous": {
+        "name": "Soṇakoḷivisa ",
+        "uid": "thag13.1"
+      },
+      "next": {
+        "name": "Godatta ",
+        "uid": "thag14.2"
+      }
     }
   ]
 }

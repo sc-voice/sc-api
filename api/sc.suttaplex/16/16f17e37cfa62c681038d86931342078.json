@@ -247,7 +247,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Simile of the Citadel ",
+        "uid": "an7.67"
+      },
+      "next": {
+        "name": "The Shady Orchid Tree ",
+        "uid": "an7.69"
+      }
     }
   ]
 }

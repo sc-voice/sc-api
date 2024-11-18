@@ -383,7 +383,15 @@
       "parallel_count": 11,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Advice to Rāhula at Ambalaṭṭhika ",
+        "uid": "mn61"
+      },
+      "next": {
+        "name": "The Shorter Discourse With Māluṅkya ",
+        "uid": "mn63"
+      }
     }
   ]
 }

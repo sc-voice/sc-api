@@ -260,7 +260,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Directly Knowing ",
+        "uid": "sn22.24"
+      },
+      "next": {
+        "name": "Gratification ",
+        "uid": "sn22.26"
+      }
     }
   ]
 }

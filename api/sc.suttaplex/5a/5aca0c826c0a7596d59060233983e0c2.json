@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Giving Up Wrong View ",
+        "uid": "sn35.165"
+      },
+      "next": {
+        "name": "Giving Up View of Self ",
+        "uid": "sn35.167"
+      }
     }
   ]
 }

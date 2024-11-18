@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Cessation ",
+        "uid": "sn46.76"
+      },
+      "next": {
+        "name": "Diligence ",
+        "uid": "sn46.89-98"
+      }
     }
   ]
 }

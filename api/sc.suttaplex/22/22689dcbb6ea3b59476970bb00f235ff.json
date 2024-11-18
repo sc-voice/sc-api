@@ -155,7 +155,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Teacher (2nd) ",
+        "uid": "sn12.83-92"
+      },
+      "next": {
+        "name": "A Fingernail ",
+        "uid": "sn13.1"
+      }
     }
   ]
 }

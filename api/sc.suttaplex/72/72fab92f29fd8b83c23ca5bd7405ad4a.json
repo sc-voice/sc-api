@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "This Is Mine, Etc. ",
+        "uid": "sn24.20-35"
+      },
+      "next": {
+        "name": "The Self is Formed ",
+        "uid": "sn24.37"
+      }
     }
   ]
 }

@@ -156,7 +156,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  123–124"
+      "verseNo": "Verse  123–124",
+      "previous": {
+        "name": "Uttara (1st) ",
+        "uid": "thag2.1"
+      },
+      "next": {
+        "name": "Valliya (2nd) ",
+        "uid": "thag2.3"
+      }
     }
   ]
 }

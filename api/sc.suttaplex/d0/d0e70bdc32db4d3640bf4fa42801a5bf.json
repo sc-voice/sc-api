@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Wilderness ",
+        "uid": "an5.110"
+      },
+      "next": {
+        "name": "An Ascetic to Follow Behind on Almsround ",
+        "uid": "an5.112"
+      }
     }
   ]
 }

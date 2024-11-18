@@ -156,7 +156,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 40"
+      "verseNo": " Verse 40",
+      "previous": {
+        "name": "Tissa (1st) ",
+        "uid": "thag1.39"
+      },
+      "next": {
+        "name": "Sirivaḍḍha ",
+        "uid": "thag1.41"
+      }
     }
   ]
 }

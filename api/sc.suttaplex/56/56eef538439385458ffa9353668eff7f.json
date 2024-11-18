@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  137–138"
+      "verseNo": "Verse  137–138",
+      "previous": {
+        "name": "Surādha ",
+        "uid": "thag2.8"
+      },
+      "next": {
+        "name": "Vasabha ",
+        "uid": "thag2.10"
+      }
     }
   ]
 }

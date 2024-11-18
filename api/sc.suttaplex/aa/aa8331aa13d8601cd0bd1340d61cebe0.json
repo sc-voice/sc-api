@@ -207,7 +207,15 @@
       "parallel_count": 15,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Eightfold Path ",
+        "uid": "sn14.28"
+      },
+      "next": {
+        "name": "Four Elements ",
+        "uid": "sn14.30"
+      }
     }
   ]
 }

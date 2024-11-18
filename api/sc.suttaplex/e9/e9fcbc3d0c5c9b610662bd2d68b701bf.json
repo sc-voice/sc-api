@@ -168,7 +168,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Beneficial ",
+        "uid": "an10.181"
+      },
+      "next": {
+        "name": "Defiled ",
+        "uid": "an10.183"
+      }
     }
   ]
 }

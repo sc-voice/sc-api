@@ -220,7 +220,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Poets ",
+        "uid": "an4.231"
+      },
+      "next": {
+        "name": "Deeds in Detail ",
+        "uid": "an4.233"
+      }
     }
   ]
 }

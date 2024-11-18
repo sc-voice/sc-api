@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Business ",
+        "uid": "an4.79"
+      },
+      "next": {
+        "name": "Killing Living Creatures ",
+        "uid": "an4.81"
+      }
     }
   ]
 }

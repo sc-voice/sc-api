@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Defilements ",
+        "uid": "sn45.163"
+      },
+      "next": {
+        "name": "Forms of Suffering ",
+        "uid": "sn45.165"
+      }
     }
   ]
 }

@@ -260,7 +260,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Good Friends ",
+        "uid": "sn3.18"
+      },
+      "next": {
+        "name": "Childless (2nd) ",
+        "uid": "sn3.20"
+      }
     }
   ]
 }

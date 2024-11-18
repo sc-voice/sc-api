@@ -286,7 +286,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Untitled Discourses on Hate, Etc. ",
+        "uid": "an8.148-627"
+      },
+      "next": {
+        "name": "Supported ",
+        "uid": "an9.2"
+      }
     }
   ]
 }

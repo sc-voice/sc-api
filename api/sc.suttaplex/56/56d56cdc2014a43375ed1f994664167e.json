@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Timidity ",
+        "uid": "an5.171"
+      },
+      "next": {
+        "name": "Hell ",
+        "uid": "an5.173"
+      }
     }
   ]
 }

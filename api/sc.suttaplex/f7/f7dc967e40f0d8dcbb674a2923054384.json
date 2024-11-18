@@ -207,7 +207,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Harsh Speech ",
+        "uid": "sn56.76"
+      },
+      "next": {
+        "name": "Plants ",
+        "uid": "sn56.78"
+      }
     }
   ]
 }

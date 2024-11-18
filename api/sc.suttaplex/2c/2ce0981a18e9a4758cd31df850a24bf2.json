@@ -182,7 +182,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  459–465"
+      "verseNo": "Verse  459–465",
+      "previous": {
+        "name": "Sabbakāmi ",
+        "uid": "thag6.14"
+      },
+      "next": {
+        "name": "Bhaddiya the Dwarf ",
+        "uid": "thag7.2"
+      }
     }
   ]
 }

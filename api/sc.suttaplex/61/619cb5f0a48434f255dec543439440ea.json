@@ -194,7 +194,15 @@
       "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Dimensions of Mastery ",
+        "uid": "an8.65"
+      },
+      "next": {
+        "name": "Ignoble Expressions ",
+        "uid": "an8.67"
+      }
     }
   ]
 }

@@ -235,7 +235,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  236–251"
+      "verseNo": "Verse  236–251",
+      "previous": {
+        "name": "Uppalavaṇṇā ",
+        "uid": "thig11.1"
+      },
+      "next": {
+        "name": "Ambapālī ",
+        "uid": "thig13.1"
+      }
     }
   ]
 }

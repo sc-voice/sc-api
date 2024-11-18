@@ -273,7 +273,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Things That Cannot Be Had ",
+        "uid": "an5.48"
+      },
+      "next": {
+        "name": "With Nārada ",
+        "uid": "an5.50"
+      }
     }
   ]
 }

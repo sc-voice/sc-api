@@ -220,7 +220,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Jain Ascetic of the Ñātika Clan ",
+        "uid": "sn41.8"
+      },
+      "next": {
+        "name": "Seeing the Sick ",
+        "uid": "sn41.10"
+      }
     }
   ]
 }

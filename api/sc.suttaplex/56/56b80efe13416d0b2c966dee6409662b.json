@@ -233,7 +233,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "About Bhāradvāja the Alms-Gatherer ",
+        "uid": "sn48.49"
+      },
+      "next": {
+        "name": "At Sālā ",
+        "uid": "sn48.51"
+      }
     }
   ]
 }

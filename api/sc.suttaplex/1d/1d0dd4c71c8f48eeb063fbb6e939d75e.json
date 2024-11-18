@@ -260,7 +260,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Consciousness ",
+        "uid": "sn12.59"
+      },
+      "next": {
+        "name": "Unlearned ",
+        "uid": "sn12.61"
+      }
     }
   ]
 }

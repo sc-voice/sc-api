@@ -233,7 +233,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  802–804"
+      "verseNo": "Verse  802–804",
+      "previous": {
+        "name": "The Thief of Scent ",
+        "uid": "sn9.14"
+      },
+      "next": {
+        "name": "With a Spirit Named Sakka ",
+        "uid": "sn10.2"
+      }
     }
   ]
 }

@@ -247,7 +247,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Clouds (1st) ",
+        "uid": "an4.101"
+      },
+      "next": {
+        "name": "Pots ",
+        "uid": "an4.103"
+      }
     }
   ]
 }

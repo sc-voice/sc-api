@@ -260,7 +260,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Patients ",
+        "uid": "an3.22"
+      },
+      "next": {
+        "name": "Very Helpful ",
+        "uid": "an3.24"
+      }
     }
   ]
 }

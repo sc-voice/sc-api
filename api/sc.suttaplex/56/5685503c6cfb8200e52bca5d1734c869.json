@@ -195,7 +195,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 23"
+      "verseNo": " Verse 23",
+      "previous": {
+        "name": "Cittaka ",
+        "uid": "thag1.22"
+      },
+      "next": {
+        "name": "Sugandha ",
+        "uid": "thag1.24"
+      }
     }
   ]
 }

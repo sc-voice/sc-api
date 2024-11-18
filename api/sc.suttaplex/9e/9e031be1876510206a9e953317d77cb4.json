@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  129–130"
+      "verseNo": "Verse  129–130",
+      "previous": {
+        "name": "Gaṅgātīriya ",
+        "uid": "thag2.4"
+      },
+      "next": {
+        "name": "Meḷajina ",
+        "uid": "thag2.6"
+      }
     }
   ]
 }

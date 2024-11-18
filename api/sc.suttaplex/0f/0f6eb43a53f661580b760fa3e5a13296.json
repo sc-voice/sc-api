@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Happiness (1st) ",
+        "uid": "an10.65"
+      },
+      "next": {
+        "name": "At Naḷakapāna (1st) ",
+        "uid": "an10.67"
+      }
     }
   ]
 }

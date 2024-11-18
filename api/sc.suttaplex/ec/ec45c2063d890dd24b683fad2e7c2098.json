@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Perfection ",
+        "uid": "an6.76"
+      },
+      "next": {
+        "name": "Joy and Happiness ",
+        "uid": "an6.78"
+      }
     }
   ]
 }

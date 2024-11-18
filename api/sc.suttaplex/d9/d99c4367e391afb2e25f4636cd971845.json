@@ -194,7 +194,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Mastery of the Mind (2nd) ",
+        "uid": "an7.41"
+      },
+      "next": {
+        "name": "Graduation (2nd) ",
+        "uid": "an7.43"
+      }
     }
   ]
 }

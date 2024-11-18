@@ -247,7 +247,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Noble Traditions ",
+        "uid": "an4.28"
+      },
+      "next": {
+        "name": "Wanderers ",
+        "uid": "an4.30"
+      }
     }
   ]
 }

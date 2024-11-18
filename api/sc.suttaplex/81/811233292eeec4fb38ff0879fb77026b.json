@@ -207,7 +207,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Liable To Originate ",
+        "uid": "sn23.21"
+      },
+      "next": {
+        "name": "Eleven Discourses on Māra, Etc. ",
+        "uid": "sn23.23-33"
+      }
     }
   ]
 }

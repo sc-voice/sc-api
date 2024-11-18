@@ -247,7 +247,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Wanderer Susīma ",
+        "uid": "sn12.70"
+      },
+      "next": {
+        "name": "A Set of Ten on Rebirth, Etc. ",
+        "uid": "sn12.72-81"
+      }
     }
   ]
 }

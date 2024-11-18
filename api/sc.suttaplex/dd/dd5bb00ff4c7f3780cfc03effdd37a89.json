@@ -207,7 +207,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "On the Bank of the Sutanu ",
+        "uid": "sn52.3"
+      },
+      "next": {
+        "name": "At Thorny Wood (2nd) ",
+        "uid": "sn52.5"
+      }
     }
   ]
 }

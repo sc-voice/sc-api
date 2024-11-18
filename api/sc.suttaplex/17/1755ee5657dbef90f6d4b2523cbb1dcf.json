@@ -260,7 +260,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Threats ",
+        "uid": "an5.174"
+      },
+      "next": {
+        "name": "Rapture ",
+        "uid": "an5.176"
+      }
     }
   ]
 }

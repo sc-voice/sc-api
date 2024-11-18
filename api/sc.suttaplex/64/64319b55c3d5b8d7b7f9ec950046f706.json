@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Koṭṭhita on Impermanence ",
+        "uid": "sn35.162"
+      },
+      "next": {
+        "name": "With Koṭṭhita on Not-Self ",
+        "uid": "sn35.164"
+      }
     }
   ]
 }

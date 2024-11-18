@@ -220,7 +220,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Mountain (2nd) ",
+        "uid": "sn13.10"
+      },
+      "next": {
+        "name": "Diversity of Elements ",
+        "uid": "sn14.1"
+      }
     }
   ]
 }

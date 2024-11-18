@@ -273,7 +273,15 @@
       "parallel_count": 10,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Ten Powers ",
+        "uid": "sn12.21"
+      },
+      "next": {
+        "name": "Vital Conditions ",
+        "uid": "sn12.23"
+      }
     }
   ]
 }

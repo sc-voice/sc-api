@@ -207,7 +207,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Where All Paths of Practice Lead ",
+        "uid": "sn52.17"
+      },
+      "next": {
+        "name": "Diverse Beliefs ",
+        "uid": "sn52.19"
+      }
     }
   ]
 }

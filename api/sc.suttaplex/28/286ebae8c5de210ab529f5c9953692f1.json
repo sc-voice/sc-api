@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Not Adulterous ",
+        "uid": "sn37.19"
+      },
+      "next": {
+        "name": "Very Learned ",
+        "uid": "sn37.21"
+      }
     }
   ]
 }

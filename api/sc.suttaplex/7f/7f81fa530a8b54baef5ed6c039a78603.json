@@ -247,7 +247,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Ascetics ",
+        "uid": "an3.81"
+      },
+      "next": {
+        "name": "Fields ",
+        "uid": "an3.83"
+      }
     }
   ]
 }

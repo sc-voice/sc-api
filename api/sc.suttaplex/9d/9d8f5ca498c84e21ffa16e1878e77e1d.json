@@ -182,7 +182,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  29–30"
+      "verseNo": "Verse  29–30",
+      "previous": {
+        "name": "Cittā ",
+        "uid": "thig2.5"
+      },
+      "next": {
+        "name": "Mittā (2nd) ",
+        "uid": "thig2.7"
+      }
     }
   ]
 }

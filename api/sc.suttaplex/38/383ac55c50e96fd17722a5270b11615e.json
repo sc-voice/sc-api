@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Debt ",
+        "uid": "an6.45"
+      },
+      "next": {
+        "name": "Apparent in the Present Life (1st) ",
+        "uid": "an6.47"
+      }
     }
   ]
 }

@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 116"
+      "verseNo": " Verse 116",
+      "previous": {
+        "name": "Mahānāma ",
+        "uid": "thag1.115"
+      },
+      "next": {
+        "name": "Yasa ",
+        "uid": "thag1.117"
+      }
     }
   ]
 }

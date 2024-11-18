@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Blameworthy ",
+        "uid": "an4.239"
+      },
+      "next": {
+        "name": "Ascetics ",
+        "uid": "an4.241"
+      }
     }
   ]
 }

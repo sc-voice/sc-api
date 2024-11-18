@@ -207,7 +207,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "High Beds ",
+        "uid": "sn56.82"
+      },
+      "next": {
+        "name": "Raw Grain ",
+        "uid": "sn56.84"
+      }
     }
   ]
 }

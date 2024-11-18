@@ -277,7 +277,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Pāyāsi ",
+        "uid": "dn23"
+      },
+      "next": {
+        "name": "The Lion’s Roar at Udumbarikā’s Monastery ",
+        "uid": "dn25"
+      }
     }
   ]
 }

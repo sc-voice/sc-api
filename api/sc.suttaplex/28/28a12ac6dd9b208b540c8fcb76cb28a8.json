@@ -260,7 +260,15 @@
       "parallel_count": 17,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Contentment ",
+        "uid": "an4.27"
+      },
+      "next": {
+        "name": "Footprints of the Dhamma ",
+        "uid": "an4.29"
+      }
     }
   ]
 }

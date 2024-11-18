@@ -315,7 +315,15 @@
       "parallel_count": 17,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "What Should and Should Not Be Cultivated ",
+        "uid": "mn114"
+      },
+      "next": {
+        "name": "At Isigili ",
+        "uid": "mn116"
+      }
     }
   ]
 }

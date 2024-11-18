@@ -261,7 +261,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Mahāli ",
+        "uid": "an10.47"
+      },
+      "next": {
+        "name": "Existing Because of the Body ",
+        "uid": "an10.49"
+      }
     }
   ]
 }

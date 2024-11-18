@@ -221,7 +221,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Pañcakaṅga ",
+        "uid": "sn36.19"
+      },
+      "next": {
+        "name": "With Sīvaka ",
+        "uid": "sn36.21"
+      }
     }
   ]
 }

@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  325–329"
+      "verseNo": "Verse  325–329",
+      "previous": {
+        "name": "Subhūta ",
+        "uid": "thag5.2"
+      },
+      "next": {
+        "name": "Sumana (1st) ",
+        "uid": "thag5.4"
+      }
     }
   ]
 }

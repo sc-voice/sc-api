@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "In Private (2nd) ",
+        "uid": "sn52.2"
+      },
+      "next": {
+        "name": "At Thorny Wood (1st) ",
+        "uid": "sn52.4"
+      }
     }
   ]
 }

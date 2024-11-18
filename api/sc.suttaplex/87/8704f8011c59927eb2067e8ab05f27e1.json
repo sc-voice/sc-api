@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At Thorny Wood (3rd) ",
+        "uid": "sn52.6"
+      },
+      "next": {
+        "name": "The Frankincense-Tree Hut ",
+        "uid": "sn52.8"
+      }
     }
   ]
 }

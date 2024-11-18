@@ -221,7 +221,15 @@
       "parallel_count": 7,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Kāḷī ",
+        "uid": "an10.26"
+      },
+      "next": {
+        "name": "The Great Questions (2nd) ",
+        "uid": "an10.28"
+      }
     }
   ]
 }

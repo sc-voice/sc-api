@@ -260,7 +260,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Several Mendicants ",
+        "uid": "sn35.81"
+      },
+      "next": {
+        "name": "Phagguna’s Question ",
+        "uid": "sn35.83"
+      }
     }
   ]
 }

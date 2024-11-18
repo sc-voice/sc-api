@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Visiting Families (1st) ",
+        "uid": "an5.225"
+      },
+      "next": {
+        "name": "Riches ",
+        "uid": "an5.227"
+      }
     }
   ]
 }

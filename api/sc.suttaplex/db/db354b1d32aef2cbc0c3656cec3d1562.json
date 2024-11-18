@@ -247,7 +247,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Mendicant ",
+        "uid": "sn36.20"
+      },
+      "next": {
+        "name": "The Explanation of the Hundred and Eight ",
+        "uid": "sn36.22"
+      }
     }
   ]
 }

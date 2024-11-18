@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 33"
+      "verseNo": " Verse 33",
+      "previous": {
+        "name": "Suppiya ",
+        "uid": "thag1.32"
+      },
+      "next": {
+        "name": "Posiya ",
+        "uid": "thag1.34"
+      }
     }
   ]
 }

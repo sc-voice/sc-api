@@ -220,7 +220,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 844"
+      "verseNo": " Verse 844",
+      "previous": {
+        "name": "With the Nun Sukkā (1st) ",
+        "uid": "sn10.9"
+      },
+      "next": {
+        "name": "With the Nun Cīrā ",
+        "uid": "sn10.11"
+      }
     }
   ]
 }

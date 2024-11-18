@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Unethical ",
+        "uid": "sn37.10"
+      },
+      "next": {
+        "name": "Lazy ",
+        "uid": "sn37.12"
+      }
     }
   ]
 }

@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Blameworthy ",
+        "uid": "an4.135"
+      },
+      "next": {
+        "name": "Ethics (2nd) ",
+        "uid": "an4.137"
+      }
     }
   ]
 }

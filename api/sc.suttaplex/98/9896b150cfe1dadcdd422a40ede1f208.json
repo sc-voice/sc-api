@@ -233,7 +233,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Anuruddha ",
+        "uid": "sn9.6"
+      },
+      "next": {
+        "name": "The Mistress of the House ",
+        "uid": "sn9.8"
+      }
     }
   ]
 }

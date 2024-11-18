@@ -260,7 +260,15 @@
       "parallel_count": 7,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Situations ",
+        "uid": "an4.31"
+      },
+      "next": {
+        "name": "The Lion ",
+        "uid": "an4.33"
+      }
     }
   ]
 }

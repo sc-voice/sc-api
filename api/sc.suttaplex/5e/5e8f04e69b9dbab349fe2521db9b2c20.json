@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Lack of Conscience ",
+        "uid": "an4.229"
+      },
+      "next": {
+        "name": "Poets ",
+        "uid": "an4.231"
+      }
     }
   ]
 }

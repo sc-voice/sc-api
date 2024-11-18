@@ -247,7 +247,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Upavāna on What is Apparent in the Present Life ",
+        "uid": "sn35.70"
+      },
+      "next": {
+        "name": "Six Fields of Contact (2nd) ",
+        "uid": "sn35.72"
+      }
     }
   ]
 }

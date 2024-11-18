@@ -260,7 +260,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Fetters ",
+        "uid": "sn12.53"
+      },
+      "next": {
+        "name": "A Great Tree ",
+        "uid": "sn12.55"
+      }
     }
   ]
 }

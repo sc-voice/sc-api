@@ -483,7 +483,15 @@
       "parallel_count": 24,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Low Talk ",
+        "uid": "sn56.10"
+      },
+      "next": {
+        "name": "The Realized Ones ",
+        "uid": "sn56.12"
+      }
     }
   ]
 }

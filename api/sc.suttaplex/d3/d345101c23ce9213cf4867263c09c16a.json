@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Desire, Etc. for the Impermanent Exterior ",
+        "uid": "sn35.177-179"
+      },
+      "next": {
+        "name": "Desire, Etc. for the Not-Self Exterior ",
+        "uid": "sn35.183-185"
+      }
     }
   ]
 }

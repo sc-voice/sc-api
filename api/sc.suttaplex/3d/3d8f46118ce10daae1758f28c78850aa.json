@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Worthy of Offerings Dedicated to the Gods ",
+        "uid": "an10.97"
+      },
+      "next": {
+        "name": "With Upāli ",
+        "uid": "an10.99"
+      }
     }
   ]
 }

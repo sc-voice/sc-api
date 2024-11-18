@@ -221,7 +221,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Cliff ",
+        "uid": "sn56.42"
+      },
+      "next": {
+        "name": "A Bungalow ",
+        "uid": "sn56.44"
+      }
     }
   ]
 }

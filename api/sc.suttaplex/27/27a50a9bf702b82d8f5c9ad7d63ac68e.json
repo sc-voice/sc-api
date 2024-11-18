@@ -260,7 +260,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Insight ",
+        "uid": "an4.254"
+      },
+      "next": {
+        "name": "Ways of Being Inclusive ",
+        "uid": "an4.256"
+      }
     }
   ]
 }

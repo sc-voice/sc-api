@@ -234,7 +234,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Arising of Suffering (Interior) ",
+        "uid": "sn35.21"
+      },
+      "next": {
+        "name": "All ",
+        "uid": "sn35.23"
+      }
     }
   ]
 }

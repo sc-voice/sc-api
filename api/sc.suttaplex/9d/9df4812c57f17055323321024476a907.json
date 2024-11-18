@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  199–200"
+      "verseNo": "Verse  199–200",
+      "previous": {
+        "name": "Usabha (2nd) ",
+        "uid": "thag2.39"
+      },
+      "next": {
+        "name": "Kassapa the Prince ",
+        "uid": "thag2.41"
+      }
     }
   ]
 }

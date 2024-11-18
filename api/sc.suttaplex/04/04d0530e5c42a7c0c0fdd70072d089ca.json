@@ -275,7 +275,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Non-offense ",
+        "uid": "an1.150-169"
+      },
+      "next": {
+        "name": "Chapter One ",
+        "uid": "an1.188-197"
+      }
     }
   ]
 }

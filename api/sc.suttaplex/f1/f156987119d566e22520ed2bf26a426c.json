@@ -273,7 +273,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Decline ",
+        "uid": "an4.158"
+      },
+      "next": {
+        "name": "The Training of a Holy One ",
+        "uid": "an4.160"
+      }
     }
   ]
 }

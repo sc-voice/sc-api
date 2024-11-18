@@ -220,7 +220,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Dangers and Threats (1st) ",
+        "uid": "sn55.28"
+      },
+      "next": {
+        "name": "With Nandaka the Licchavi ",
+        "uid": "sn55.30"
+      }
     }
   ]
 }

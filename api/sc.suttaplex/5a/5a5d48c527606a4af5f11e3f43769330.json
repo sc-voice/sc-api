@@ -260,7 +260,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Arising ",
+        "uid": "sn22.30"
+      },
+      "next": {
+        "name": "The Breakable ",
+        "uid": "sn22.32"
+      }
     }
   ]
 }

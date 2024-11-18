@@ -233,7 +233,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Liable To Originate (2nd) ",
+        "uid": "sn22.127"
+      },
+      "next": {
+        "name": "Gratification ",
+        "uid": "sn22.129"
+      }
     }
   ]
 }

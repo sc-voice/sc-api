@@ -156,7 +156,15 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  205–206"
+      "verseNo": "Verse  205–206",
+      "previous": {
+        "name": "Dhammapāla ",
+        "uid": "thag2.42"
+      },
+      "next": {
+        "name": "Mogharājā ",
+        "uid": "thag2.44"
+      }
     }
   ]
 }

@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 65"
+      "verseNo": " Verse 65",
+      "previous": {
+        "name": "Vimalakoṇḍañña ",
+        "uid": "thag1.64"
+      },
+      "next": {
+        "name": "Meghiya ",
+        "uid": "thag1.66"
+      }
     }
   ]
 }

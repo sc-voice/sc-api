@@ -246,7 +246,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Exterior and Cause Are Suffering ",
+        "uid": "sn35.144"
+      },
+      "next": {
+        "name": "The Cessation of Deeds ",
+        "uid": "sn35.146"
+      }
     }
   ]
 }

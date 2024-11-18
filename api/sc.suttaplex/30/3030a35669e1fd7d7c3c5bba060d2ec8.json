@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Dimension of Infinite Consciousness ",
+        "uid": "sn28.6"
+      },
+      "next": {
+        "name": "The Dimension of Neither Perception Nor Non-Perception ",
+        "uid": "sn28.8"
+      }
     }
   ]
 }

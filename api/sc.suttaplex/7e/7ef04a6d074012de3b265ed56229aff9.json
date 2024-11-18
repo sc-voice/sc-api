@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Things That Can’t Be Done (2nd) ",
+        "uid": "an6.93"
+      },
+      "next": {
+        "name": "Things That Can’t Be Done (4th) ",
+        "uid": "an6.95"
+      }
     }
   ]
 }

@@ -207,7 +207,15 @@
       "parallel_count": 66,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Noble Descent ",
+        "uid": "an10.168"
+      },
+      "next": {
+        "name": "The Near Shore ",
+        "uid": "an10.170"
+      }
     }
   ]
 }

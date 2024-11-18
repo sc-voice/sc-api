@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Frequenting, Etc. ",
+        "uid": "an10.156-166"
+      },
+      "next": {
+        "name": "The Noble Descent ",
+        "uid": "an10.168"
+      }
     }
   ]
 }

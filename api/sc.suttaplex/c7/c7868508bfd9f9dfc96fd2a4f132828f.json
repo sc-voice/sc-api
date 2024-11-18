@@ -182,7 +182,15 @@
       "parallel_count": 14,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  291–311"
+      "verseNo": "Verse  291–311",
+      "previous": {
+        "name": "Rohinī ",
+        "uid": "thig13.2"
+      },
+      "next": {
+        "name": "Sundarī ",
+        "uid": "thig13.4"
+      }
     }
   ]
 }

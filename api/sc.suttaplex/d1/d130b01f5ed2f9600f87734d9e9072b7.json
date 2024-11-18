@@ -221,7 +221,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Times Good for Meditation ",
+        "uid": "an5.54"
+      },
+      "next": {
+        "name": "Mentor ",
+        "uid": "an5.56"
+      }
     }
   ]
 }

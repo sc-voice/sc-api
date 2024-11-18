@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 90"
+      "verseNo": " Verse 90",
+      "previous": {
+        "name": "Devasabha (1st) ",
+        "uid": "thag1.89"
+      },
+      "next": {
+        "name": "Paripuṇṇaka ",
+        "uid": "thag1.91"
+      }
     }
   ]
 }

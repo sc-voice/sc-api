@@ -169,7 +169,15 @@
       "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  261–263"
+      "verseNo": "Verse  261–263",
+      "previous": {
+        "name": "Gotama (2nd) ",
+        "uid": "thag3.14"
+      },
+      "next": {
+        "name": "Vimala (2nd) ",
+        "uid": "thag3.16"
+      }
     }
   ]
 }

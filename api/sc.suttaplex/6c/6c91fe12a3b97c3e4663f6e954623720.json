@@ -288,7 +288,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Desire ",
+        "uid": "sn1.69"
+      },
+      "next": {
+        "name": "Incinerated ",
+        "uid": "sn1.71"
+      }
     }
   ]
 }

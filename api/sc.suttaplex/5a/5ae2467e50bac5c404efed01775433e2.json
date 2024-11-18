@@ -302,7 +302,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Crossing the Flood ",
+        "uid": "sn1.1"
+      },
+      "next": {
+        "name": "Led On ",
+        "uid": "sn1.3"
+      }
     }
   ]
 }

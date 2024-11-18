@@ -220,7 +220,15 @@
       "parallel_count": 10,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Hard-heartedness ",
+        "uid": "an9.71"
+      },
+      "next": {
+        "name": "Weaknesses in Training and Effort ",
+        "uid": "an9.73"
+      }
     }
   ]
 }

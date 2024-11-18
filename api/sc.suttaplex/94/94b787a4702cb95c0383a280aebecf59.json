@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Beautification ",
+        "uid": "an5.233"
+      },
+      "next": {
+        "name": "A Sympathetic Mendicant ",
+        "uid": "an5.235"
+      }
     }
   ]
 }

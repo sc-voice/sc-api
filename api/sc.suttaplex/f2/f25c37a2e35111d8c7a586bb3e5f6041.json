@@ -248,7 +248,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Exterior as Not-Self ",
+        "uid": "sn35.6"
+      },
+      "next": {
+        "name": "The Interior as Suffering in the Three Times ",
+        "uid": "sn35.8"
+      }
     }
   ]
 }

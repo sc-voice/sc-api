@@ -207,7 +207,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Fragrance and Makeup ",
+        "uid": "sn56.80"
+      },
+      "next": {
+        "name": "High Beds ",
+        "uid": "sn56.82"
+      }
     }
   ]
 }

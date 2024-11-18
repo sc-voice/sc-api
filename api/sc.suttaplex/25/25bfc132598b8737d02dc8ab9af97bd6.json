@@ -246,7 +246,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Tālapuṭa ",
+        "uid": "sn42.2"
+      },
+      "next": {
+        "name": "An Elephant Warrior ",
+        "uid": "sn42.4"
+      }
     }
   ]
 }

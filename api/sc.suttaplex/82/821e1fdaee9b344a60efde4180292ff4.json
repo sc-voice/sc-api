@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Factors ",
+        "uid": "sn55.50"
+      },
+      "next": {
+        "name": "One Who Completed the Rains ",
+        "uid": "sn55.52"
+      }
     }
   ]
 }

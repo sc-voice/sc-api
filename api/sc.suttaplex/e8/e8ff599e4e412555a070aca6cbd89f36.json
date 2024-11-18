@@ -195,7 +195,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Untitled Discourse on Greed (1st) ",
+        "uid": "an5.303"
+      },
+      "next": {
+        "name": "Untitled Discourse on Greed (3rd) ",
+        "uid": "an5.305"
+      }
     }
   ]
 }

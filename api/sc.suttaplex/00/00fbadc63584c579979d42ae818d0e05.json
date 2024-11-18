@@ -233,7 +233,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "This Is Mine ",
+        "uid": "sn22.151"
+      },
+      "next": {
+        "name": "It Might Not Be Mine ",
+        "uid": "sn22.153"
+      }
     }
   ]
 }

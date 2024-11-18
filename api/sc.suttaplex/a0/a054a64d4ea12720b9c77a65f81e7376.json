@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 107"
+      "verseNo": " Verse 107",
+      "previous": {
+        "name": "Suhemanta ",
+        "uid": "thag1.106"
+      },
+      "next": {
+        "name": "Dhammasavapitu ",
+        "uid": "thag1.108"
+      }
     }
   ]
 }

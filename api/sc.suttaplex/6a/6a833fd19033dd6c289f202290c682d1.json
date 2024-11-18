@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Loss ",
+        "uid": "an5.130"
+      },
+      "next": {
+        "name": "Wielding Power (2nd) ",
+        "uid": "an5.132"
+      }
     }
   ]
 }

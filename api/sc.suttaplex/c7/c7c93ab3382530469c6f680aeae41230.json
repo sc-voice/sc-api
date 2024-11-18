@@ -233,7 +233,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Koṭṭhita (2nd) ",
+        "uid": "sn22.134"
+      },
+      "next": {
+        "name": "Burning Chaff ",
+        "uid": "sn22.136"
+      }
     }
   ]
 }

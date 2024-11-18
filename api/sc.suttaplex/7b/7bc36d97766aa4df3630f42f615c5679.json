@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Expressions (4th) ",
+        "uid": "an4.253"
+      },
+      "next": {
+        "name": "Searches ",
+        "uid": "an4.255"
+      }
     }
   ]
 }

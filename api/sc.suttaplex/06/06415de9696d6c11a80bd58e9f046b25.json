@@ -248,7 +248,15 @@
       "parallel_count": 7,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Associates ",
+        "uid": "an3.26"
+      },
+      "next": {
+        "name": "Speech like Dung ",
+        "uid": "an3.28"
+      }
     }
   ]
 }

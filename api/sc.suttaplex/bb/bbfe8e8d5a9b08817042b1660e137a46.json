@@ -221,7 +221,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Bases of Psychic Power ",
+        "uid": "an4.276"
+      },
+      "next": {
+        "name": "Insight into Hate, Etc. ",
+        "uid": "an4.304-783"
+      }
     }
   ]
 }

@@ -570,7 +570,15 @@
       "parallel_count": 20,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Root of All Things ",
+        "uid": "mn1"
+      },
+      "next": {
+        "name": "Heirs in the Teaching ",
+        "uid": "mn3"
+      }
     }
   ]
 }

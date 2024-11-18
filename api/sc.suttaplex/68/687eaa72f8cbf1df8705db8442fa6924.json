@@ -246,7 +246,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  812–814"
+      "verseNo": "Verse  812–814",
+      "previous": {
+        "name": "With Spiky ",
+        "uid": "sn10.3"
+      },
+      "next": {
+        "name": "With Sānu ",
+        "uid": "sn10.5"
+      }
     }
   ]
 }

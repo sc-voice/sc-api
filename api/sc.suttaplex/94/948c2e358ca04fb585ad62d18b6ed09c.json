@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  165–166"
+      "verseNo": "Verse  165–166",
+      "previous": {
+        "name": "Bhaddaji ",
+        "uid": "thag2.22"
+      },
+      "next": {
+        "name": "Valliya (3rd) ",
+        "uid": "thag2.24"
+      }
     }
   ]
 }

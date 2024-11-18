@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Bad Conduct ",
+        "uid": "sn47.47"
+      },
+      "next": {
+        "name": "Feelings ",
+        "uid": "sn47.49"
+      }
     }
   ]
 }

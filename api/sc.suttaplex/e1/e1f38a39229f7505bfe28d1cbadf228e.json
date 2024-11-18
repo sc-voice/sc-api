@@ -314,7 +314,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With the People of Nagaravinda ",
+        "uid": "mn150"
+      },
+      "next": {
+        "name": "The Development of the Faculties ",
+        "uid": "mn152"
+      }
     }
   ]
 }

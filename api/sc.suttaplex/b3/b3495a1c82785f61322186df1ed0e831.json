@@ -221,7 +221,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Committed to Development ",
+        "uid": "an7.71"
+      },
+      "next": {
+        "name": "About Sunetta ",
+        "uid": "an7.73"
+      }
     }
   ]
 }

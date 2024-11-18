@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  307–310"
+      "verseNo": "Verse  307–310",
+      "previous": {
+        "name": "Dhammika ",
+        "uid": "thag4.10"
+      },
+      "next": {
+        "name": "Mudita ",
+        "uid": "thag4.12"
+      }
     }
   ]
 }

@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Families ",
+        "uid": "an5.199"
+      },
+      "next": {
+        "name": "With Kimbila ",
+        "uid": "an5.201"
+      }
     }
   ]
 }

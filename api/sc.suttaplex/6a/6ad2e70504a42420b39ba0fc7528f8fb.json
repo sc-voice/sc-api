@@ -156,7 +156,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 96"
+      "verseNo": " Verse 96",
+      "previous": {
+        "name": "Cakkhupāla ",
+        "uid": "thag1.95"
+      },
+      "next": {
+        "name": "Tissa (2nd) ",
+        "uid": "thag1.97"
+      }
     }
   ]
 }

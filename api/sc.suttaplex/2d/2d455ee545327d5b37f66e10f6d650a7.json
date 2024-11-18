@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 64"
+      "verseNo": " Verse 64",
+      "previous": {
+        "name": "Pakkha ",
+        "uid": "thag1.63"
+      },
+      "next": {
+        "name": "Ukkhepakatavaccha ",
+        "uid": "thag1.65"
+      }
     }
   ]
 }

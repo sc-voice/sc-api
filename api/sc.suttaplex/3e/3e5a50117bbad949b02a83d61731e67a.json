@@ -181,7 +181,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Unskillful ",
+        "uid": "an10.136"
+      },
+      "next": {
+        "name": "The Teaching ",
+        "uid": "an10.138"
+      }
     }
   ]
 }

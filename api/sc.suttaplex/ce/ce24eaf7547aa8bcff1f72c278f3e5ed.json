@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Riches ",
+        "uid": "an5.227"
+      },
+      "next": {
+        "name": "Black Snakes (1st) ",
+        "uid": "an5.229"
+      }
     }
   ]
 }

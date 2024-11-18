@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Those Who Eat Only From the Almsbowl ",
+        "uid": "an5.190"
+      },
+      "next": {
+        "name": "With the Brahmin Doṇa ",
+        "uid": "an5.192"
+      }
     }
   ]
 }

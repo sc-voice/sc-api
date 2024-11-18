@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Noble Path ",
+        "uid": "an10.189"
+      },
+      "next": {
+        "name": "The True Teaching ",
+        "uid": "an10.191"
+      }
     }
   ]
 }

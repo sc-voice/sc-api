@@ -247,7 +247,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Sponsoring Sacrifice ",
+        "uid": "sn11.16"
+      },
+      "next": {
+        "name": "Who Sakka Worships ",
+        "uid": "sn11.18"
+      }
     }
   ]
 }

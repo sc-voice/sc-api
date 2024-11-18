@@ -247,7 +247,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Lost Opportunities ",
+        "uid": "an8.29"
+      },
+      "next": {
+        "name": "Giving (1st) ",
+        "uid": "an8.31"
+      }
     }
   ]
 }

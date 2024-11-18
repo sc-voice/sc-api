@@ -273,7 +273,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Wanderer ",
+        "uid": "an3.54"
+      },
+      "next": {
+        "name": "Falling Apart ",
+        "uid": "an3.56"
+      }
     }
   ]
 }

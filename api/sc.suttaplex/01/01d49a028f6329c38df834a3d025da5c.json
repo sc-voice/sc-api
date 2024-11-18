@@ -288,7 +288,15 @@
       "parallel_count": 11,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Chapter Two ",
+        "uid": "an1.198-208"
+      },
+      "next": {
+        "name": "Chapter Four ",
+        "uid": "an1.219-234"
+      }
     }
   ]
 }

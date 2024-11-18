@@ -207,7 +207,15 @@
       "parallel_count": 15,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Beginning With Imprudence ",
+        "uid": "sn14.20"
+      },
+      "next": {
+        "name": "Beginning With the Lazy ",
+        "uid": "sn14.22"
+      }
     }
   ]
 }

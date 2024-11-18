@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Cause ",
+        "uid": "sn37.31"
+      },
+      "next": {
+        "name": "Living With Self-Assurance ",
+        "uid": "sn37.33"
+      }
     }
   ]
 }

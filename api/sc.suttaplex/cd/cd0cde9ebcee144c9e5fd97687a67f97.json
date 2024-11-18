@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "In Search of Gratification ",
+        "uid": "sn14.32"
+      },
+      "next": {
+        "name": "Exclusively Painful ",
+        "uid": "sn14.34"
+      }
     }
   ]
 }

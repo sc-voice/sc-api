@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Equality (2nd) ",
+        "uid": "an4.56"
+      },
+      "next": {
+        "name": "Sudatta ",
+        "uid": "an4.58"
+      }
     }
   ]
 }

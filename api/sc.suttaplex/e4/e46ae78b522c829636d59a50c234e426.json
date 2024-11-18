@@ -221,7 +221,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With the Sakyans ",
+        "uid": "an10.46"
+      },
+      "next": {
+        "name": "Ten Regular Reflections for a Renunciate ",
+        "uid": "an10.48"
+      }
     }
   ]
 }

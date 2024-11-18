@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Full Extinguishment ",
+        "uid": "an9.49"
+      },
+      "next": {
+        "name": "Extinguishment in the Present Life ",
+        "uid": "an9.51"
+      }
     }
   ]
 }

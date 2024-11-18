@@ -261,7 +261,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Abbreviated Texts Beginning with Greed ",
+        "uid": "an2.310-479"
+      },
+      "next": {
+        "name": "Characteristics ",
+        "uid": "an3.2"
+      }
     }
   ]
 }

@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Suspected ",
+        "uid": "an5.102"
+      },
+      "next": {
+        "name": "An Exquisite Ascetic of Ascetics ",
+        "uid": "an5.104"
+      }
     }
   ]
 }

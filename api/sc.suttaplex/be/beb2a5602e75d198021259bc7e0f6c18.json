@@ -247,7 +247,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At Pārileyya ",
+        "uid": "sn22.81"
+      },
+      "next": {
+        "name": "With Ānanda ",
+        "uid": "sn22.83"
+      }
     }
   ]
 }

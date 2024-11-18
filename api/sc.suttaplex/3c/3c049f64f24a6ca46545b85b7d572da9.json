@@ -247,7 +247,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Another Chapter on Floods ",
+        "uid": "sn46.175-184"
+      },
+      "next": {
+        "name": "Satisutta",
+        "uid": "sn47.2"
+      }
     }
   ]
 }

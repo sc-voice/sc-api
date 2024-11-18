@@ -221,7 +221,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Nanda’s Mother ",
+        "uid": "an7.53"
+      },
+      "next": {
+        "name": "Places People Are Reborn ",
+        "uid": "an7.55"
+      }
     }
   ]
 }

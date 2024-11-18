@@ -383,7 +383,15 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Kandaraka ",
+        "uid": "mn51"
+      },
+      "next": {
+        "name": "A Trainee ",
+        "uid": "mn53"
+      }
     }
   ]
 }

@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Tree (4th) ",
+        "uid": "sn48.70"
+      },
+      "next": {
+        "name": "Diligence ",
+        "uid": "sn48.83-92"
+      }
     }
   ]
 }

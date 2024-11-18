@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Aggregates ",
+        "uid": "sn18.10"
+      },
+      "next": {
+        "name": "The Nine Discourses on Sights, Etc. ",
+        "uid": "sn18.12-20"
+      }
     }
   ]
 }

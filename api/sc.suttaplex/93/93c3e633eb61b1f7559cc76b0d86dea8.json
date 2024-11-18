@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 83"
+      "verseNo": " Verse 83",
+      "previous": {
+        "name": "Kassapa ",
+        "uid": "thag1.82"
+      },
+      "next": {
+        "name": "Nīta ",
+        "uid": "thag1.84"
+      }
     }
   ]
 }

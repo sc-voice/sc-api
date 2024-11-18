@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 54"
+      "verseNo": " Verse 54",
+      "previous": {
+        "name": "Valliya (1st) ",
+        "uid": "thag1.53"
+      },
+      "next": {
+        "name": "Añjanavaniya ",
+        "uid": "thag1.55"
+      }
     }
   ]
 }

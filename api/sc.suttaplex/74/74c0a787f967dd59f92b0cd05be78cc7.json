@@ -156,7 +156,15 @@
       "parallel_count": 10,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 19"
+      "verseNo": " Verse 19",
+      "previous": {
+        "name": "Siṅgāla’s Father ",
+        "uid": "thag1.18"
+      },
+      "next": {
+        "name": "Ajita ",
+        "uid": "thag1.20"
+      }
     }
   ]
 }

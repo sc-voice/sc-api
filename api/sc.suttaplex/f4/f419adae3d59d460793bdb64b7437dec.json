@@ -220,7 +220,15 @@
       "parallel_count": 24,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Piece of Flesh ",
+        "uid": "sn19.3"
+      },
+      "next": {
+        "name": "Sword Hairs ",
+        "uid": "sn19.5"
+      }
     }
   ]
 }

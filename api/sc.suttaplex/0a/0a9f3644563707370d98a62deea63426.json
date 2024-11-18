@@ -260,7 +260,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Welcome ",
+        "uid": "an2.151-162"
+      },
+      "next": {
+        "name": "Abbreviated Texts Beginning With Anger",
+        "uid": "an2.180-229"
+      }
     }
   ]
 }

@@ -196,7 +196,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 7"
+      "verseNo": " Verse 7",
+      "previous": {
+        "name": "Dhīrā ",
+        "uid": "thig1.6"
+      },
+      "next": {
+        "name": "Mittā (1st) ",
+        "uid": "thig1.8"
+      }
     }
   ]
 }

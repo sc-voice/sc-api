@@ -247,7 +247,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Disciples ",
+        "uid": "sn15.7"
+      },
+      "next": {
+        "name": "A Stick ",
+        "uid": "sn15.9"
+      }
     }
   ]
 }

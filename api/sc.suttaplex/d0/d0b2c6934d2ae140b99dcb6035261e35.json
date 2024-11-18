@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Interior as Not-Self ",
+        "uid": "sn35.224"
+      },
+      "next": {
+        "name": "The Exterior as Suffering ",
+        "uid": "sn35.226"
+      }
     }
   ]
 }

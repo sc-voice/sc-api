@@ -235,7 +235,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Incinerated ",
+        "uid": "sn11.21"
+      },
+      "next": {
+        "name": "The Sambari Sorcery ",
+        "uid": "sn11.23"
+      }
     }
   ]
 }

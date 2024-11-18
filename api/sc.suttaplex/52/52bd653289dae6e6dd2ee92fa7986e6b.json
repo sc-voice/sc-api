@@ -247,7 +247,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Conceiving ",
+        "uid": "sn22.64"
+      },
+      "next": {
+        "name": "Impermanence ",
+        "uid": "sn22.66"
+      }
     }
   ]
 }

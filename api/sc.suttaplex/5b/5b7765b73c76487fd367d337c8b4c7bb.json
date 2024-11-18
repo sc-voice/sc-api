@@ -303,7 +303,15 @@
       "parallel_count": 10,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Inspiring Confidence ",
+        "uid": "dn28"
+      },
+      "next": {
+        "name": "The Marks of a Great Man ",
+        "uid": "dn30"
+      }
     }
   ]
 }

@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Inappropriate Talk ",
+        "uid": "an5.157"
+      },
+      "next": {
+        "name": "With Udāyī ",
+        "uid": "an5.159"
+      }
     }
   ]
 }

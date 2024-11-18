@@ -327,7 +327,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Level of the Tamed ",
+        "uid": "mn125"
+      },
+      "next": {
+        "name": "With Anuruddha ",
+        "uid": "mn127"
+      }
     }
   ]
 }

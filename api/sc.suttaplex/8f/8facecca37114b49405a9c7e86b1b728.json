@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 102"
+      "verseNo": " Verse 102",
+      "previous": {
+        "name": "Belaṭṭhānika ",
+        "uid": "thag1.101"
+      },
+      "next": {
+        "name": "Bandhura ",
+        "uid": "thag1.103"
+      }
     }
   ]
 }

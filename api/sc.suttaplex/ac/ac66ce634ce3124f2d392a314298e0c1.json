@@ -181,7 +181,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Knowledge Master ",
+        "uid": "an7.90"
+      },
+      "next": {
+        "name": "A Perfected One ",
+        "uid": "an7.92"
+      }
     }
   ]
 }

@@ -247,7 +247,15 @@
       "parallel_count": 10,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Hard-heartedness ",
+        "uid": "an5.205"
+      },
+      "next": {
+        "name": "Porridge ",
+        "uid": "an5.207"
+      }
     }
   ]
 }

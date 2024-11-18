@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Storms (2nd) ",
+        "uid": "sn45.157"
+      },
+      "next": {
+        "name": "A Guest House ",
+        "uid": "sn45.159"
+      }
     }
   ]
 }

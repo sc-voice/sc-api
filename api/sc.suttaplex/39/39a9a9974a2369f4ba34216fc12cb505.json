@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Thoroughbred (3rd) ",
+        "uid": "an6.7"
+      },
+      "next": {
+        "name": "Topics for Recollection ",
+        "uid": "an6.9"
+      }
     }
   ]
 }

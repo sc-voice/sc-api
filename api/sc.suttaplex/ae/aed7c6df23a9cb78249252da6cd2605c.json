@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Giver of Fragrant Roots ",
+        "uid": "sn31.3"
+      },
+      "next": {
+        "name": "Ten Discourses On How Giving Helps Rebirth in Fragrant Roots ",
+        "uid": "sn31.13-22"
+      }
     }
   ]
 }

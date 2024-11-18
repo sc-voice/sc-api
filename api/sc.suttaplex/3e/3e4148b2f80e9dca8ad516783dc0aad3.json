@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  181–182"
+      "verseNo": "Verse  181–182",
+      "previous": {
+        "name": "Kaṇhadinna ",
+        "uid": "thag2.30"
+      },
+      "next": {
+        "name": "Sivaka ",
+        "uid": "thag2.32"
+      }
     }
   ]
 }

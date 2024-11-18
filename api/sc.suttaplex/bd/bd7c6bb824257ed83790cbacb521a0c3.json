@@ -382,7 +382,15 @@
       "parallel_count": 47,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Longer Discourse at Gosiṅga ",
+        "uid": "mn32"
+      },
+      "next": {
+        "name": "The Shorter Discourse on the Cowherd ",
+        "uid": "mn34"
+      }
     }
   ]
 }

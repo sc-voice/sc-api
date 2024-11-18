@@ -207,7 +207,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Raw Meat ",
+        "uid": "sn56.85"
+      },
+      "next": {
+        "name": "Bondservants ",
+        "uid": "sn56.87"
+      }
     }
   ]
 }

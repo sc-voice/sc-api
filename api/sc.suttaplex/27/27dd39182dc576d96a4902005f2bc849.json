@@ -181,7 +181,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Dwelling at the Root of a Tree ",
+        "uid": "an5.183"
+      },
+      "next": {
+        "name": "Open Air Dwellers ",
+        "uid": "an5.185"
+      }
     }
   ]
 }

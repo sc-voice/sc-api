@@ -208,7 +208,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Reasons to Give ",
+        "uid": "an8.33"
+      },
+      "next": {
+        "name": "Rebirth by Giving ",
+        "uid": "an8.35"
+      }
     }
   ]
 }

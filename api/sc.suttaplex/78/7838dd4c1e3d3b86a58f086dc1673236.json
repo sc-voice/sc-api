@@ -182,7 +182,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  204–212"
+      "verseNo": "Verse  204–212",
+      "previous": {
+        "name": "Sīsūpacālā ",
+        "uid": "thig8.1"
+      },
+      "next": {
+        "name": "Kisāgotamī ",
+        "uid": "thig10.1"
+      }
     }
   ]
 }

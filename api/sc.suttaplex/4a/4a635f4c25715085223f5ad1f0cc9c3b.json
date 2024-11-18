@@ -168,7 +168,15 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  1091–1145"
+      "verseNo": "Verse  1091–1145",
+      "previous": {
+        "name": "Mahākassapa ",
+        "uid": "thag18.1"
+      },
+      "next": {
+        "name": "Mahāmoggallāna ",
+        "uid": "thag20.1"
+      }
     }
   ]
 }

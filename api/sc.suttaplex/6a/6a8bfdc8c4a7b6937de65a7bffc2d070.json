@@ -220,7 +220,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Mastered ",
+        "uid": "sn37.27"
+      },
+      "next": {
+        "name": "In That Respect ",
+        "uid": "sn37.29"
+      }
     }
   ]
 }

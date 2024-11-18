@@ -233,7 +233,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Dhamma speaker ",
+        "uid": "sn22.115"
+      },
+      "next": {
+        "name": "Shackles ",
+        "uid": "sn22.117"
+      }
     }
   ]
 }

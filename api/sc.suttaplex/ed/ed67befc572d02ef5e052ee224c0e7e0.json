@@ -247,7 +247,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Burning ",
+        "uid": "sn22.61"
+      },
+      "next": {
+        "name": "When You Grasp ",
+        "uid": "sn22.63"
+      }
     }
   ]
 }

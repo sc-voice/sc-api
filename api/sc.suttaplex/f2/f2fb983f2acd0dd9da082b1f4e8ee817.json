@@ -221,7 +221,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Killing Living Creatures ",
+        "uid": "an4.81"
+      },
+      "next": {
+        "name": "Where Criticism Takes You ",
+        "uid": "an4.83"
+      }
     }
   ]
 }

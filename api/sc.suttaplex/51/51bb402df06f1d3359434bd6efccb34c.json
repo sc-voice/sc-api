@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 45"
+      "verseNo": " Verse 45",
+      "previous": {
+        "name": "Sānu ",
+        "uid": "thag1.44"
+      },
+      "next": {
+        "name": "Samiddhi ",
+        "uid": "thag1.46"
+      }
     }
   ]
 }

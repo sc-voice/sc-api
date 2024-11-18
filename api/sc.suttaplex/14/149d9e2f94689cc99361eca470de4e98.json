@@ -181,7 +181,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Harsh Speech ",
+        "uid": "an4.269"
+      },
+      "next": {
+        "name": "Covetousness ",
+        "uid": "an4.271"
+      }
     }
   ]
 }

@@ -273,7 +273,15 @@
       "parallel_count": 20,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Old Age and Death ",
+        "uid": "sn3.3"
+      },
+      "next": {
+        "name": "Self-Protected ",
+        "uid": "sn3.5"
+      }
     }
   ]
 }

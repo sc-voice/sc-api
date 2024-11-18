@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Proper Behavior in a Case of Aggravated Misconduct ",
+        "uid": "an8.90"
+      },
+      "next": {
+        "name": "Untitled Discourse on Greed (1st) ",
+        "uid": "an8.118"
+      }
     }
   ]
 }

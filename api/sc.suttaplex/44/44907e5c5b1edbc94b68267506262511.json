@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Likable ",
+        "uid": "an10.73"
+      },
+      "next": {
+        "name": "With Migasālā ",
+        "uid": "an10.75"
+      }
     }
   ]
 }

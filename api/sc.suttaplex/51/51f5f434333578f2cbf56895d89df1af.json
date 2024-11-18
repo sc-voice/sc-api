@@ -260,7 +260,15 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Benefits of Love ",
+        "uid": "an11.15"
+      },
+      "next": {
+        "name": "The Cowherd ",
+        "uid": "an11.17"
+      }
     }
   ]
 }

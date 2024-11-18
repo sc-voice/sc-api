@@ -220,7 +220,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Ascetics and Brahmins (1st) ",
+        "uid": "sn48.6"
+      },
+      "next": {
+        "name": "Should Be Seen ",
+        "uid": "sn48.8"
+      }
     }
   ]
 }

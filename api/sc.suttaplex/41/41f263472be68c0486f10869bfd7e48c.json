@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Udāyī ",
+        "uid": "sn46.30"
+      },
+      "next": {
+        "name": "Skillful (2nd) ",
+        "uid": "sn46.32"
+      }
     }
   ]
 }

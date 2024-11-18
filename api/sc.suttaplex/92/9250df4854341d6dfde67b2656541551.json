@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Grasping ",
+        "uid": "sn45.173"
+      },
+      "next": {
+        "name": "Tendencies ",
+        "uid": "sn45.175"
+      }
     }
   ]
 }

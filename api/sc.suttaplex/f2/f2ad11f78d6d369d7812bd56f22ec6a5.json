@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 101"
+      "verseNo": " Verse 101",
+      "previous": {
+        "name": "Devasabha (2nd) ",
+        "uid": "thag1.100"
+      },
+      "next": {
+        "name": "Setuccha ",
+        "uid": "thag1.102"
+      }
     }
   ]
 }

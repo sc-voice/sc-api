@@ -194,7 +194,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Dogs ",
+        "uid": "an5.191"
+      },
+      "next": {
+        "name": "With Saṅgārava ",
+        "uid": "an5.193"
+      }
     }
   ]
 }

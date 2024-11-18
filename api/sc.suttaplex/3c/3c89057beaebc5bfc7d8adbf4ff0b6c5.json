@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 42"
+      "verseNo": " Verse 42",
+      "previous": {
+        "name": "Sirivaḍḍha ",
+        "uid": "thag1.41"
+      },
+      "next": {
+        "name": "Sumaṅgala ",
+        "uid": "thag1.43"
+      }
     }
   ]
 }

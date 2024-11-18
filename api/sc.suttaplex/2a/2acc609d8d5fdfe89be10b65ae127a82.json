@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 79"
+      "verseNo": " Verse 79",
+      "previous": {
+        "name": "Meṇḍasira ",
+        "uid": "thag1.78"
+      },
+      "next": {
+        "name": "Ugga ",
+        "uid": "thag1.80"
+      }
     }
   ]
 }

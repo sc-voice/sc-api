@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Ethics (2nd) ",
+        "uid": "an4.137"
+      },
+      "next": {
+        "name": "Dhamma Speakers ",
+        "uid": "an4.139"
+      }
     }
   ]
 }

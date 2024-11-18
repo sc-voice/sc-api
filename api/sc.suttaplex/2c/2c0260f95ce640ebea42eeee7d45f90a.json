@@ -260,7 +260,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Attainment ",
+        "uid": "an2.163-179"
+      },
+      "next": {
+        "name": "Abbreviated Texts Beginning With the Unskillful",
+        "uid": "an2.230-279"
+      }
     }
   ]
 }

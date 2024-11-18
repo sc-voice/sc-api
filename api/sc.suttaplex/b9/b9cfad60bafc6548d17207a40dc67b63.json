@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  207–208"
+      "verseNo": "Verse  207–208",
+      "previous": {
+        "name": "Brahmāli ",
+        "uid": "thag2.43"
+      },
+      "next": {
+        "name": "Visākhapañcālaputta ",
+        "uid": "thag2.45"
+      }
     }
   ]
 }

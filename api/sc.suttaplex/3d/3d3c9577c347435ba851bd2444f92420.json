@@ -316,7 +316,15 @@
       "parallel_count": 43,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Longer Discourse on the Lion’s Roar ",
+        "uid": "dn8"
+      },
+      "next": {
+        "name": "With Subha ",
+        "uid": "dn10"
+      }
     }
   ]
 }

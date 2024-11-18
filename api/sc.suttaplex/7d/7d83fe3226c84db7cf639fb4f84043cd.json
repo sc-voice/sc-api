@@ -246,7 +246,15 @@
       "parallel_count": 25,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  846–857"
+      "verseNo": "Verse  846–857",
+      "previous": {
+        "name": "With the Nun Cīrā ",
+        "uid": "sn10.11"
+      },
+      "next": {
+        "name": "With Suvīra ",
+        "uid": "sn11.1"
+      }
     }
   ]
 }

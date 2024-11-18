@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Tranquility ",
+        "uid": "an9.58"
+      },
+      "next": {
+        "name": "Cessation ",
+        "uid": "an9.60"
+      }
     }
   ]
 }

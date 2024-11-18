@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Seven Benefits ",
+        "uid": "sn48.66"
+      },
+      "next": {
+        "name": "A Tree (2nd) ",
+        "uid": "sn48.68"
+      }
     }
   ]
 }

@@ -260,7 +260,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Anurādha ",
+        "uid": "sn22.86"
+      },
+      "next": {
+        "name": "With Assaji ",
+        "uid": "sn22.88"
+      }
     }
   ]
 }

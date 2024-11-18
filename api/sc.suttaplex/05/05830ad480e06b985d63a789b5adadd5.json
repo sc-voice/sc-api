@@ -435,7 +435,15 @@
       "parallel_count": 16,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Simile of the Saw ",
+        "uid": "mn21"
+      },
+      "next": {
+        "name": "The Ant-Hill ",
+        "uid": "mn23"
+      }
     }
   ]
 }

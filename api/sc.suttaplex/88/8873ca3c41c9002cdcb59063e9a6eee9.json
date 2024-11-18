@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 108"
+      "verseNo": " Verse 108",
+      "previous": {
+        "name": "Dhammasava ",
+        "uid": "thag1.107"
+      },
+      "next": {
+        "name": "Saṅgharakkhita ",
+        "uid": "thag1.109"
+      }
     }
   ]
 }

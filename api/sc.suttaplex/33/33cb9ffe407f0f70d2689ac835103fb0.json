@@ -315,7 +315,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Aristocrats ",
+        "uid": "sn1.14"
+      },
+      "next": {
+        "name": "Sleepiness and Sloth ",
+        "uid": "sn1.16"
+      }
     }
   ]
 }

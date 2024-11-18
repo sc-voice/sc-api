@@ -274,7 +274,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Realized Ones ",
+        "uid": "sn56.12"
+      },
+      "next": {
+        "name": "Interior Sense Fields ",
+        "uid": "sn56.14"
+      }
     }
   ]
 }

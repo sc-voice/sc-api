@@ -247,7 +247,15 @@
       "parallel_count": 25,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Bhāradvāja the Pure ",
+        "uid": "sn7.7"
+      },
+      "next": {
+        "name": "With Bhāradvāja of Sundarikā ",
+        "uid": "sn7.9"
+      }
     }
   ]
 }

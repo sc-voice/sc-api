@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Good ",
+        "uid": "an10.134"
+      },
+      "next": {
+        "name": "Unskillful ",
+        "uid": "an10.136"
+      }
     }
   ]
 }

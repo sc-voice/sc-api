@@ -328,7 +328,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At Devadaha ",
+        "uid": "mn101"
+      },
+      "next": {
+        "name": "Is This What You Think Of Me? ",
+        "uid": "mn103"
+      }
     }
   ]
 }

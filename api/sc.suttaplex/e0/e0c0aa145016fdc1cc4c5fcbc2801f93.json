@@ -461,7 +461,15 @@
       "parallel_count": 7,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Guaranteed ",
+        "uid": "mn60"
+      },
+      "next": {
+        "name": "The Longer Advice to Rāhula ",
+        "uid": "mn62"
+      }
     }
   ]
 }

@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Yokes ",
+        "uid": "sn45.172"
+      },
+      "next": {
+        "name": "Personal Ties ",
+        "uid": "sn45.174"
+      }
     }
   ]
 }

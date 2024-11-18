@@ -277,7 +277,15 @@
       "parallel_count": 44,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Poṭṭhapāda ",
+        "uid": "dn9"
+      },
+      "next": {
+        "name": "With Kevaddha ",
+        "uid": "dn11"
+      }
     }
   ]
 }

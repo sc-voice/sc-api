@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Turtle ",
+        "uid": "sn17.3"
+      },
+      "next": {
+        "name": "A Dung Beetle ",
+        "uid": "sn17.5"
+      }
     }
   ]
 }

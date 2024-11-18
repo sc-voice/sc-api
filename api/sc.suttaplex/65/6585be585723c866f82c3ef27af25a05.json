@@ -233,7 +233,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At Sālā ",
+        "uid": "sn48.51"
+      },
+      "next": {
+        "name": "A Trainee ",
+        "uid": "sn48.53"
+      }
     }
   ]
 }

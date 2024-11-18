@@ -182,7 +182,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  57–59"
+      "verseNo": "Verse  57–59",
+      "previous": {
+        "name": "Sukkā ",
+        "uid": "thig3.6"
+      },
+      "next": {
+        "name": "Somā ",
+        "uid": "thig3.8"
+      }
     }
   ]
 }

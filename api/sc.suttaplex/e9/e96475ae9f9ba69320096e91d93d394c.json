@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Kāmabhū (1st) ",
+        "uid": "sn41.5"
+      },
+      "next": {
+        "name": "With Godatta ",
+        "uid": "sn41.7"
+      }
     }
   ]
 }

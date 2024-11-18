@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Dimension of Nothingness ",
+        "uid": "sn28.7"
+      },
+      "next": {
+        "name": "The Attainment of Cessation ",
+        "uid": "sn28.9"
+      }
     }
   ]
 }

@@ -273,7 +273,15 @@
       "parallel_count": 7,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Knowledge of the Faculties of Persons ",
+        "uid": "an6.62"
+      },
+      "next": {
+        "name": "The Lion’s Roar ",
+        "uid": "an6.64"
+      }
     }
   ]
 }

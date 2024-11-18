@@ -326,7 +326,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Hard to Get Rid Of ",
+        "uid": "an5.160"
+      },
+      "next": {
+        "name": "Getting Rid of Resentment (2nd) ",
+        "uid": "an5.162"
+      }
     }
   ]
 }

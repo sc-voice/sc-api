@@ -208,7 +208,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 50"
+      "verseNo": " Verse 50",
+      "previous": {
+        "name": "Rāmaṇeyyaka ",
+        "uid": "thag1.49"
+      },
+      "next": {
+        "name": "Godhika ",
+        "uid": "thag1.51"
+      }
     }
   ]
 }

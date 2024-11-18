@@ -260,7 +260,15 @@
       "parallel_count": 12,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Bhāradvāja the Fiend ",
+        "uid": "sn7.3"
+      },
+      "next": {
+        "name": "Harmless ",
+        "uid": "sn7.5"
+      }
     }
   ]
 }

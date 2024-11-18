@@ -246,7 +246,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At Sāketa ",
+        "uid": "sn48.43"
+      },
+      "next": {
+        "name": "At the Eastern Monastery (1st) ",
+        "uid": "sn48.45"
+      }
     }
   ]
 }

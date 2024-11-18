@@ -274,7 +274,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Beautiful ",
+        "uid": "sn4.3"
+      },
+      "next": {
+        "name": "Māra’s Snares (2nd) ",
+        "uid": "sn4.5"
+      }
     }
   ]
 }

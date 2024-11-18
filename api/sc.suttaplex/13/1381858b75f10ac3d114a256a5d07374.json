@@ -274,7 +274,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Extra Effort ",
+        "uid": "an4.169"
+      },
+      "next": {
+        "name": "Intention ",
+        "uid": "an4.171"
+      }
     }
   ]
 }

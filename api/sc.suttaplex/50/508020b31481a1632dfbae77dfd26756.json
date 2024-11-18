@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Interior and Cause Are Not-Self ",
+        "uid": "sn35.142"
+      },
+      "next": {
+        "name": "Exterior and Cause Are Suffering ",
+        "uid": "sn35.144"
+      }
     }
   ]
 }

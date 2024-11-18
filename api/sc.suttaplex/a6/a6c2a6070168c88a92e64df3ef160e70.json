@@ -234,7 +234,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Child ",
+        "uid": "an5.39"
+      },
+      "next": {
+        "name": "Getting Rich ",
+        "uid": "an5.41"
+      }
     }
   ]
 }

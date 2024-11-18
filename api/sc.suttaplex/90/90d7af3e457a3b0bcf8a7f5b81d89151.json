@@ -207,7 +207,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Overflowing Merit (3rd) ",
+        "uid": "sn55.33"
+      },
+      "next": {
+        "name": "Footprints of the Gods (2nd) ",
+        "uid": "sn55.35"
+      }
     }
   ]
 }

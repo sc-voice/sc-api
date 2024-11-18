@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  487–493"
+      "verseNo": "Verse  487–493",
+      "previous": {
+        "name": "Sopāka (2nd) ",
+        "uid": "thag7.4"
+      },
+      "next": {
+        "name": "Mahākaccāyana ",
+        "uid": "thag8.1"
+      }
     }
   ]
 }

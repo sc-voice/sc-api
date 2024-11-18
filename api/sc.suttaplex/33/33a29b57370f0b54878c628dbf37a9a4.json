@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 38"
+      "verseNo": " Verse 38",
+      "previous": {
+        "name": "Kumāputtasahāyaka ",
+        "uid": "thag1.37"
+      },
+      "next": {
+        "name": "Tissa (1st) ",
+        "uid": "thag1.39"
+      }
     }
   ]
 }

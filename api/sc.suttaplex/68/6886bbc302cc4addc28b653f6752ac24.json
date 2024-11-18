@@ -302,7 +302,15 @@
       "parallel_count": 63,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Assalāyana ",
+        "uid": "mn93"
+      },
+      "next": {
+        "name": "With Caṅkī ",
+        "uid": "mn95"
+      }
     }
   ]
 }

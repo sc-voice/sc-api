@@ -368,7 +368,15 @@
       "parallel_count": 46,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Man From the City of Aṭṭhaka ",
+        "uid": "mn52"
+      },
+      "next": {
+        "name": "With Potaliya the Householder ",
+        "uid": "mn54"
+      }
     }
   ]
 }

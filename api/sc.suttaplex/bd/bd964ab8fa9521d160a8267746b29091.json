@@ -286,7 +286,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Vassakāra on What is Heard ",
+        "uid": "an4.183"
+      },
+      "next": {
+        "name": "Truths of the Brahmins ",
+        "uid": "an4.185"
+      }
     }
   ]
 }

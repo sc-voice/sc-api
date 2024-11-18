@@ -220,7 +220,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Devadatta ",
+        "uid": "an4.68"
+      },
+      "next": {
+        "name": "Unprincipled ",
+        "uid": "an4.70"
+      }
     }
   ]
 }

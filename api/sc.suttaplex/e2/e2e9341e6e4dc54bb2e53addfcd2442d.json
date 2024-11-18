@@ -233,7 +233,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Ascetics (1st) ",
+        "uid": "sn22.107"
+      },
+      "next": {
+        "name": "A Stream-Enterer ",
+        "uid": "sn22.109"
+      }
     }
   ]
 }

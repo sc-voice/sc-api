@@ -233,7 +233,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Gratification ",
+        "uid": "sn22.129"
+      },
+      "next": {
+        "name": "Origin ",
+        "uid": "sn22.131"
+      }
     }
   ]
 }

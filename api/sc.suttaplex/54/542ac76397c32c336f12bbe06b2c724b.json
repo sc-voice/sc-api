@@ -169,7 +169,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  211–212"
+      "verseNo": "Verse  211–212",
+      "previous": {
+        "name": "Visākhapañcālaputta ",
+        "uid": "thag2.45"
+      },
+      "next": {
+        "name": "Anūpama ",
+        "uid": "thag2.47"
+      }
     }
   ]
 }

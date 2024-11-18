@@ -234,7 +234,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Fading Away ",
+        "uid": "sn47.32"
+      },
+      "next": {
+        "name": "Developed ",
+        "uid": "sn47.34"
+      }
     }
   ]
 }

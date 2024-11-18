@@ -156,7 +156,15 @@
       "parallel_count": 28,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  275–278"
+      "verseNo": "Verse  275–278",
+      "previous": {
+        "name": "Bhagu ",
+        "uid": "thag4.2"
+      },
+      "next": {
+        "name": "Nandaka (2nd) ",
+        "uid": "thag4.4"
+      }
     }
   ]
 }

@@ -220,7 +220,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  828–836"
+      "verseNo": "Verse  828–836",
+      "previous": {
+        "name": "With Piyaṅkara ",
+        "uid": "sn10.6"
+      },
+      "next": {
+        "name": "With Sudatta ",
+        "uid": "sn10.8"
+      }
     }
   ]
 }

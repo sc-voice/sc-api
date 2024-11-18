@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  143–144"
+      "verseNo": "Verse  143–144",
+      "previous": {
+        "name": "Mahācunda ",
+        "uid": "thag2.11"
+      },
+      "next": {
+        "name": "Heraññakāni ",
+        "uid": "thag2.13"
+      }
     }
   ]
 }

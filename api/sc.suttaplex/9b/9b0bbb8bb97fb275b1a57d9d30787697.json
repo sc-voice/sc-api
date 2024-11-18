@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Sabbath with Nine Factors ",
+        "uid": "an9.18"
+      },
+      "next": {
+        "name": "About Velāma ",
+        "uid": "an9.20"
+      }
     }
   ]
 }

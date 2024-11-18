@@ -260,7 +260,15 @@
       "parallel_count": 27,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Sacrifice ",
+        "uid": "sn3.9"
+      },
+      "next": {
+        "name": "Seven Matted-Hair Ascetics ",
+        "uid": "sn3.11"
+      }
     }
   ]
 }

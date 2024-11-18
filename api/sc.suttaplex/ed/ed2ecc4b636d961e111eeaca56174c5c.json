@@ -209,7 +209,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  107–111"
+      "verseNo": "Verse  107–111",
+      "previous": {
+        "name": "Soṇā ",
+        "uid": "thig5.8"
+      },
+      "next": {
+        "name": "Paṭācārā ",
+        "uid": "thig5.10"
+      }
     }
   ]
 }

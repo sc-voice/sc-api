@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 48"
+      "verseNo": " Verse 48",
+      "previous": {
+        "name": "Ujjaya ",
+        "uid": "thag1.47"
+      },
+      "next": {
+        "name": "Rāmaṇeyyaka ",
+        "uid": "thag1.49"
+      }
     }
   ]
 }

@@ -247,7 +247,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Three Trainings (1st) ",
+        "uid": "an3.89"
+      },
+      "next": {
+        "name": "At Paṅkadhā ",
+        "uid": "an3.91"
+      }
     }
   ]
 }

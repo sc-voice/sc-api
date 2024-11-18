@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Progressive Tranquility ",
+        "uid": "an9.59"
+      },
+      "next": {
+        "name": "Progressive Cessation ",
+        "uid": "an9.61"
+      }
     }
   ]
 }

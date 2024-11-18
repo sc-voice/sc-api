@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  189–190"
+      "verseNo": "Verse  189–190",
+      "previous": {
+        "name": "Isidinna ",
+        "uid": "thag2.34"
+      },
+      "next": {
+        "name": "Nitaka ",
+        "uid": "thag2.36"
+      }
     }
   ]
 }

@@ -248,7 +248,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Shopkeeper (2nd) ",
+        "uid": "an3.20"
+      },
+      "next": {
+        "name": "Patients ",
+        "uid": "an3.22"
+      }
     }
   ]
 }

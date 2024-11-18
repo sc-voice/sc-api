@@ -261,7 +261,15 @@
       "parallel_count": 20,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Girimānanda ",
+        "uid": "an10.60"
+      },
+      "next": {
+        "name": "Craving ",
+        "uid": "an10.62"
+      }
     }
   ]
 }

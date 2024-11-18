@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Perfection ",
+        "uid": "an6.66"
+      },
+      "next": {
+        "name": "Enjoying Company ",
+        "uid": "an6.68"
+      }
     }
   ]
 }

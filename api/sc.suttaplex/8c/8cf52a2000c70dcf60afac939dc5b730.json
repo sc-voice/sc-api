@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Several Mendicants (2nd) ",
+        "uid": "sn54.16"
+      },
+      "next": {
+        "name": "Uprooting the Tendencies ",
+        "uid": "sn54.18"
+      }
     }
   ]
 }

@@ -247,7 +247,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Greedy ",
+        "uid": "an4.66"
+      },
+      "next": {
+        "name": "Devadatta ",
+        "uid": "an4.68"
+      }
     }
   ]
 }

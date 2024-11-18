@@ -208,7 +208,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Disliked (1st) ",
+        "uid": "an8.3"
+      },
+      "next": {
+        "name": "Worldly Conditions (1st) ",
+        "uid": "an8.5"
+      }
     }
   ]
 }

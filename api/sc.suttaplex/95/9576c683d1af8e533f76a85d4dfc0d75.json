@@ -207,7 +207,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Conduit To Rebirth ",
+        "uid": "sn23.3"
+      },
+      "next": {
+        "name": "Ascetics and Brahmins ",
+        "uid": "sn23.5"
+      }
     }
   ]
 }

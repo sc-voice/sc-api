@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 47"
+      "verseNo": " Verse 47",
+      "previous": {
+        "name": "Samiddhi ",
+        "uid": "thag1.46"
+      },
+      "next": {
+        "name": "Sañjaya ",
+        "uid": "thag1.48"
+      }
     }
   ]
 }

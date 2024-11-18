@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Very Fruitful ",
+        "uid": "sn51.12"
+      },
+      "next": {
+        "name": "With Moggallāna ",
+        "uid": "sn51.14"
+      }
     }
   ]
 }

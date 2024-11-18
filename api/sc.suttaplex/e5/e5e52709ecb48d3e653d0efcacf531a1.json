@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 115"
+      "verseNo": " Verse 115",
+      "previous": {
+        "name": "Adhimutta (1st) ",
+        "uid": "thag1.114"
+      },
+      "next": {
+        "name": "Pārāsariya (1st) ",
+        "uid": "thag1.116"
+      }
     }
   ]
 }

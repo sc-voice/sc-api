@@ -208,7 +208,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Upāli ",
+        "uid": "an10.31"
+      },
+      "next": {
+        "name": "A Judge ",
+        "uid": "an10.33"
+      }
     }
   ]
 }

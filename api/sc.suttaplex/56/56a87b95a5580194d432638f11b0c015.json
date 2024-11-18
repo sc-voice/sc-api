@@ -303,7 +303,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Longer Discourse on Mindfulness Meditation ",
+        "uid": "dn22"
+      },
+      "next": {
+        "name": "About Pāṭikaputta ",
+        "uid": "dn24"
+      }
     }
   ]
 }

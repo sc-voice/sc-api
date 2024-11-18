@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Apparent in the Present Life (1st) ",
+        "uid": "an6.47"
+      },
+      "next": {
+        "name": "With Khema ",
+        "uid": "an6.49"
+      }
     }
   ]
 }

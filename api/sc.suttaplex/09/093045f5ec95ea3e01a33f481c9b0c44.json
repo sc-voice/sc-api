@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  335–339"
+      "verseNo": "Verse  335–339",
+      "previous": {
+        "name": "Sumana (1st) ",
+        "uid": "thag5.4"
+      },
+      "next": {
+        "name": "Nadīkassapa ",
+        "uid": "thag5.6"
+      }
     }
   ]
 }

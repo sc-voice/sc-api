@@ -221,7 +221,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Extinguishment in the Present Life ",
+        "uid": "an9.51"
+      },
+      "next": {
+        "name": "Reaching a Safe Place ",
+        "uid": "an9.53"
+      }
     }
   ]
 }

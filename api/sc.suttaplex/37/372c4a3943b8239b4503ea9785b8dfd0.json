@@ -221,7 +221,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Suffering ",
+        "uid": "an5.3"
+      },
+      "next": {
+        "name": "Disrobing ",
+        "uid": "an5.5"
+      }
     }
   ]
 }

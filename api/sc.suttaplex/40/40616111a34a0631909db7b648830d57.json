@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Things to be Realized ",
+        "uid": "an4.189"
+      },
+      "next": {
+        "name": "Followed by Ear ",
+        "uid": "an4.191"
+      }
     }
   ]
 }

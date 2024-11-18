@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Effort ",
+        "uid": "an4.71"
+      },
+      "next": {
+        "name": "A True Person ",
+        "uid": "an4.73"
+      }
     }
   ]
 }

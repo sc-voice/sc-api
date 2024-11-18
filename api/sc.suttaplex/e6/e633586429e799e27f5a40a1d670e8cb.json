@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Eating Late ",
+        "uid": "an5.228"
+      },
+      "next": {
+        "name": "Black Snakes (2nd) ",
+        "uid": "an5.230"
+      }
     }
   ]
 }

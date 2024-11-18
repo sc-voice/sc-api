@@ -261,7 +261,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Dhammadinna ",
+        "uid": "sn55.53"
+      },
+      "next": {
+        "name": "The Fruit of Stream-Entry ",
+        "uid": "sn55.55"
+      }
     }
   ]
 }

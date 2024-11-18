@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Kakudha ",
+        "uid": "an5.100"
+      },
+      "next": {
+        "name": "Suspected ",
+        "uid": "an5.102"
+      }
     }
   ]
 }

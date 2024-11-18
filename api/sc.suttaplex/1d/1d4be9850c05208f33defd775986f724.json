@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Discontent ",
+        "uid": "an6.113"
+      },
+      "next": {
+        "name": "Hard to Admonish ",
+        "uid": "an6.115"
+      }
     }
   ]
 }

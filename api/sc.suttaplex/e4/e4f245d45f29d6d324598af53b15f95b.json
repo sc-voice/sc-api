@@ -246,7 +246,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Elements ",
+        "uid": "sn25.9"
+      },
+      "next": {
+        "name": "The Eye ",
+        "uid": "sn26.1"
+      }
     }
   ]
 }

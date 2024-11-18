@@ -274,7 +274,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Several ",
+        "uid": "sn4.21"
+      },
+      "next": {
+        "name": "With Godhika ",
+        "uid": "sn4.23"
+      }
     }
   ]
 }

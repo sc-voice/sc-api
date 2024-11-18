@@ -261,7 +261,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Kinds of Wives ",
+        "uid": "an7.63"
+      },
+      "next": {
+        "name": "Conscience and Prudence ",
+        "uid": "an7.65"
+      }
     }
   ]
 }

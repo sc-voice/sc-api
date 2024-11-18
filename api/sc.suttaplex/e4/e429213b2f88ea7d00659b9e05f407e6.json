@@ -208,7 +208,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 2"
+      "verseNo": " Verse 2",
+      "previous": {
+        "name": "Subhūti ",
+        "uid": "thag1.1"
+      },
+      "next": {
+        "name": "Revata the Doubter ",
+        "uid": "thag1.3"
+      }
     }
   ]
 }

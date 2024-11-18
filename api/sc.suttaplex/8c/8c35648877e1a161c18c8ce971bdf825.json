@@ -286,7 +286,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Astute and the Foolish ",
+        "uid": "sn12.19"
+      },
+      "next": {
+        "name": "The Ten Powers ",
+        "uid": "sn12.21"
+      }
     }
   ]
 }

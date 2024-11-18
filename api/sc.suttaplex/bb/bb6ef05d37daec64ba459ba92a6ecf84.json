@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "If There Was No ",
+        "uid": "sn14.33"
+      },
+      "next": {
+        "name": "Taking Pleasure ",
+        "uid": "sn14.35"
+      }
     }
   ]
 }

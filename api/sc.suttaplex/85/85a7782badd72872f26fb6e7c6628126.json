@@ -233,7 +233,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Nāgadatta ",
+        "uid": "sn9.7"
+      },
+      "next": {
+        "name": "A Vajji ",
+        "uid": "sn9.9"
+      }
     }
   ]
 }

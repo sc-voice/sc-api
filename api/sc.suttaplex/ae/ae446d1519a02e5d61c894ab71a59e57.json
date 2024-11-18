@@ -195,7 +195,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 43"
+      "verseNo": " Verse 43",
+      "previous": {
+        "name": "Revata of the Acacia Wood ",
+        "uid": "thag1.42"
+      },
+      "next": {
+        "name": "Sānu ",
+        "uid": "thag1.44"
+      }
     }
   ]
 }

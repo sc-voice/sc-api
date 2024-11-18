@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A True Person (2nd) ",
+        "uid": "sn45.26"
+      },
+      "next": {
+        "name": "Immersion ",
+        "uid": "sn45.28"
+      }
     }
   ]
 }

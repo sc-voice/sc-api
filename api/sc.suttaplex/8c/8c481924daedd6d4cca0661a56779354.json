@@ -220,7 +220,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Plain Version ",
+        "uid": "sn48.1"
+      },
+      "next": {
+        "name": "A Stream-Enterer (2nd) ",
+        "uid": "sn48.3"
+      }
     }
   ]
 }

@@ -234,7 +234,15 @@
       "parallel_count": 20,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Fetters ",
+        "uid": "an10.13"
+      },
+      "next": {
+        "name": "Diligence ",
+        "uid": "an10.15"
+      }
     }
   ]
 }

@@ -355,7 +355,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Advice to Puṇṇa ",
+        "uid": "mn145"
+      },
+      "next": {
+        "name": "The Shorter Advice to Rāhula ",
+        "uid": "mn147"
+      }
     }
   ]
 }

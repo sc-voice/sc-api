@@ -156,7 +156,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 74"
+      "verseNo": " Verse 74",
+      "previous": {
+        "name": "Māṇava ",
+        "uid": "thag1.73"
+      },
+      "next": {
+        "name": "Susārada ",
+        "uid": "thag1.75"
+      }
     }
   ]
 }

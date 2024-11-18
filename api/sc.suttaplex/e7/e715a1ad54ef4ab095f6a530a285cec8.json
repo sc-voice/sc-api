@@ -380,7 +380,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Rebirth by Choice ",
+        "uid": "mn120"
+      },
+      "next": {
+        "name": "The Longer Discourse on Emptiness ",
+        "uid": "mn122"
+      }
     }
   ]
 }

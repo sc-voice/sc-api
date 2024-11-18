@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Mindfulness of the Body ",
+        "uid": "sn43.1"
+      },
+      "next": {
+        "name": "Placing the Mind and Keeping it Connected ",
+        "uid": "sn43.3"
+      }
     }
   ]
 }

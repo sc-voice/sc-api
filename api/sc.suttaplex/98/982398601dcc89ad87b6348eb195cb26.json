@@ -246,7 +246,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Teaching on Psychic Power, Etc. ",
+        "uid": "sn51.19"
+      },
+      "next": {
+        "name": "The Path ",
+        "uid": "sn51.21"
+      }
     }
   ]
 }

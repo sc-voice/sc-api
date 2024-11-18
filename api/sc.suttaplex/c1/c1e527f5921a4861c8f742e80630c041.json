@@ -221,7 +221,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Jīvaka ",
+        "uid": "an8.26"
+      },
+      "next": {
+        "name": "Powers (2nd) ",
+        "uid": "an8.28"
+      }
     }
   ]
 }

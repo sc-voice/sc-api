@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Homage ",
+        "uid": "an3.154"
+      },
+      "next": {
+        "name": "Practices",
+        "uid": "an3.156-162"
+      }
     }
   ]
 }

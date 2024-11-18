@@ -260,7 +260,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At Kosambī ",
+        "uid": "sn12.68"
+      },
+      "next": {
+        "name": "The Wanderer Susīma ",
+        "uid": "sn12.70"
+      }
     }
   ]
 }

@@ -181,7 +181,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Witless ",
+        "uid": "an4.230"
+      },
+      "next": {
+        "name": "Deeds In Brief ",
+        "uid": "an4.232"
+      }
     }
   ]
 }

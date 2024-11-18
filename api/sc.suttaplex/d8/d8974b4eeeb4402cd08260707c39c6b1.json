@@ -234,7 +234,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Taking Pleasure (Interior) ",
+        "uid": "sn35.19"
+      },
+      "next": {
+        "name": "The Arising of Suffering (Interior) ",
+        "uid": "sn35.21"
+      }
     }
   ]
 }

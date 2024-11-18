@@ -207,7 +207,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Comprehending the Mind ",
+        "uid": "sn52.14"
+      },
+      "next": {
+        "name": "The Results of Deeds Undertaken ",
+        "uid": "sn52.16"
+      }
     }
   ]
 }

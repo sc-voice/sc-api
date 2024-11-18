@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Awakening Factors ",
+        "uid": "an7.26"
+      },
+      "next": {
+        "name": "Non-decline for a Mendicant Trainee ",
+        "uid": "an7.28"
+      }
     }
   ]
 }

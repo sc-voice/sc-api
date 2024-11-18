@@ -274,7 +274,15 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Susīma ",
+        "uid": "sn11.2"
+      },
+      "next": {
+        "name": "With Vepacitti ",
+        "uid": "sn11.4"
+      }
     }
   ]
 }

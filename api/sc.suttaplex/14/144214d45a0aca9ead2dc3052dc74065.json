@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 53"
+      "verseNo": " Verse 53",
+      "previous": {
+        "name": "Subāhu ",
+        "uid": "thag1.52"
+      },
+      "next": {
+        "name": "Uttiya (2nd) ",
+        "uid": "thag1.54"
+      }
     }
   ]
 }

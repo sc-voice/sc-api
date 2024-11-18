@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Action ",
+        "uid": "an3.119"
+      },
+      "next": {
+        "name": "Purity (2nd) ",
+        "uid": "an3.121"
+      }
     }
   ]
 }

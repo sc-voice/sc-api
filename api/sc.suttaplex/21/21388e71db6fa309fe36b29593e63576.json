@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Noble One ",
+        "uid": "sn51.3"
+      },
+      "next": {
+        "name": "Partly ",
+        "uid": "sn51.5"
+      }
     }
   ]
 }

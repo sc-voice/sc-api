@@ -274,7 +274,15 @@
       "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Candana ",
+        "uid": "sn2.15"
+      },
+      "next": {
+        "name": "With Subrahmā ",
+        "uid": "sn2.17"
+      }
     }
   ]
 }

@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Doctors ",
+        "uid": "an10.108"
+      },
+      "next": {
+        "name": "Blown Away ",
+        "uid": "an10.110"
+      }
     }
   ]
 }

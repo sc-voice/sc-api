@@ -327,7 +327,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At Kusinārā ",
+        "uid": "an4.76"
+      },
+      "next": {
+        "name": "A Religious Donation ",
+        "uid": "an4.78"
+      }
     }
   ]
 }

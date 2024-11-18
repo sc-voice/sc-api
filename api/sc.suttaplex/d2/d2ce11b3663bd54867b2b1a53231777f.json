@@ -288,7 +288,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Good Friends ",
+        "uid": "an1.71-81"
+      },
+      "next": {
+        "name": "Negligence (2nd) ",
+        "uid": "an1.98-139"
+      }
     }
   ]
 }

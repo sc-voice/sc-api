@@ -207,7 +207,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Raw Grain ",
+        "uid": "sn56.84"
+      },
+      "next": {
+        "name": "Women and Girls ",
+        "uid": "sn56.86"
+      }
     }
   ]
 }

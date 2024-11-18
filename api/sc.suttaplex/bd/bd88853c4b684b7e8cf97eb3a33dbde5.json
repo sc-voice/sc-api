@@ -207,7 +207,15 @@
       "parallel_count": 47,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "An Abuser ",
+        "uid": "an10.88"
+      },
+      "next": {
+        "name": "The Powers of One Who has Ended Defilements ",
+        "uid": "an10.90"
+      }
     }
   ]
 }

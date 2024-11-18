@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Disillusionment ",
+        "uid": "sn46.20"
+      },
+      "next": {
+        "name": "A Teaching on the Awakening Factors ",
+        "uid": "sn46.22"
+      }
     }
   ]
 }

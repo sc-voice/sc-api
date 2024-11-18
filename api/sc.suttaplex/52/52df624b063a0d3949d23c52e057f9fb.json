@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 24"
+      "verseNo": " Verse 24",
+      "previous": {
+        "name": "Gosāla ",
+        "uid": "thag1.23"
+      },
+      "next": {
+        "name": "Nandiya ",
+        "uid": "thag1.25"
+      }
     }
   ]
 }

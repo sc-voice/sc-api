@@ -207,7 +207,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Diversity of Contacts ",
+        "uid": "sn14.2"
+      },
+      "next": {
+        "name": "Diversity of Feelings ",
+        "uid": "sn14.4"
+      }
     }
   ]
 }

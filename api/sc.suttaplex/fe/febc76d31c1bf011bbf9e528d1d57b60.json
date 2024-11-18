@@ -195,7 +195,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Untitled Discourses on Thoughts About Sights, Etc. ",
+        "uid": "an11.406-453"
+      },
+      "next": {
+        "name": "Untitled Discourses on the Eye, Etc. ",
+        "uid": "an11.502-981"
+      }
     }
   ]
 }

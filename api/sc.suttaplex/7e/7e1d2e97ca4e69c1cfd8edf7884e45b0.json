@@ -207,7 +207,15 @@
       "parallel_count": 11,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Jains ",
+        "uid": "an10.78"
+      },
+      "next": {
+        "name": "Getting Rid of Resentment ",
+        "uid": "an10.80"
+      }
     }
   ]
 }

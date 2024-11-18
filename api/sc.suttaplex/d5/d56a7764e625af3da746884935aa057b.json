@@ -234,7 +234,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Disrespect (2nd) ",
+        "uid": "an5.22"
+      },
+      "next": {
+        "name": "Unethical ",
+        "uid": "an5.24"
+      }
     }
   ]
 }

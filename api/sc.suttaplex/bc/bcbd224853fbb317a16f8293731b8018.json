@@ -234,7 +234,15 @@
       "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Downfalls for a Lay Follower ",
+        "uid": "an7.31"
+      },
+      "next": {
+        "name": "Respect for Conscience ",
+        "uid": "an7.33"
+      }
     }
   ]
 }

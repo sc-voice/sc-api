@@ -261,7 +261,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The King of Mountains ",
+        "uid": "an3.48"
+      },
+      "next": {
+        "name": "A Master Thief ",
+        "uid": "an3.50"
+      }
     }
   ]
 }

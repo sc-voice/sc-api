@@ -234,7 +234,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Bone-Washing Ceremony ",
+        "uid": "an10.107"
+      },
+      "next": {
+        "name": "Emetic ",
+        "uid": "an10.109"
+      }
     }
   ]
 }

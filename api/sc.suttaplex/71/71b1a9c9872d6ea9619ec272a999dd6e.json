@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Vassakāra ",
+        "uid": "an4.187"
+      },
+      "next": {
+        "name": "Things to be Realized ",
+        "uid": "an4.189"
+      }
     }
   ]
 }

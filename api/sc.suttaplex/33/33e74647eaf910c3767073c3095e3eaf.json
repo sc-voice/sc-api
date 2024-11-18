@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Self is Neither Formed Nor Formless ",
+        "uid": "sn24.40"
+      },
+      "next": {
+        "name": "Exclusively Suffering ",
+        "uid": "sn24.42"
+      }
     }
   ]
 }

@@ -247,7 +247,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At Ukkacelā ",
+        "uid": "sn47.14"
+      },
+      "next": {
+        "name": "With Uttiya ",
+        "uid": "sn47.16"
+      }
     }
   ]
 }

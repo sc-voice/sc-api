@@ -260,7 +260,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Single Person ",
+        "uid": "sn15.10"
+      },
+      "next": {
+        "name": "In a Good Way ",
+        "uid": "sn15.12"
+      }
     }
   ]
 }

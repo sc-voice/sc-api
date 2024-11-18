@@ -233,7 +233,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Rapture ",
+        "uid": "sn28.3"
+      },
+      "next": {
+        "name": "The Dimension of Infinite Space ",
+        "uid": "sn28.5"
+      }
     }
   ]
 }

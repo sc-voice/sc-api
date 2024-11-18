@@ -260,7 +260,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Beggars ",
+        "uid": "sn22.80"
+      },
+      "next": {
+        "name": "A Full Moon Night ",
+        "uid": "sn22.82"
+      }
     }
   ]
 }

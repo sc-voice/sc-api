@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Several Mendicants (2nd) ",
+        "uid": "sn51.30"
+      },
+      "next": {
+        "name": "The Realized One ",
+        "uid": "sn51.32"
+      }
     }
   ]
 }

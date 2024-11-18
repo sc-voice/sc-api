@@ -368,7 +368,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Sela ",
+        "uid": "mn92"
+      },
+      "next": {
+        "name": "With Ghoṭamukha ",
+        "uid": "mn94"
+      }
     }
   ]
 }

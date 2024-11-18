@@ -247,7 +247,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Ariṭṭha ",
+        "uid": "sn54.6"
+      },
+      "next": {
+        "name": "The Simile of the Lamp ",
+        "uid": "sn54.8"
+      }
     }
   ]
 }

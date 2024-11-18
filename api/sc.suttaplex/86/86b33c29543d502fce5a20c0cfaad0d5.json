@@ -273,7 +273,15 @@
       "parallel_count": 45,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Shiva ",
+        "uid": "sn2.21"
+      },
+      "next": {
+        "name": "With Serī ",
+        "uid": "sn2.23"
+      }
     }
   ]
 }

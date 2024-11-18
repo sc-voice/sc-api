@@ -300,7 +300,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Ethical ",
+        "uid": "an3.46"
+      },
+      "next": {
+        "name": "The King of Mountains ",
+        "uid": "an3.48"
+      }
     }
   ]
 }

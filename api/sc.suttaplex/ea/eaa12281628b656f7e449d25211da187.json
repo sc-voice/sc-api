@@ -275,7 +275,15 @@
       "parallel_count": 25,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Inspiring Qualities ",
+        "uid": "an1.378-393"
+      },
+      "next": {
+        "name": "Mindfulness of the Body ",
+        "uid": "an1.575-615"
+      }
     }
   ]
 }

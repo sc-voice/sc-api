@@ -169,7 +169,15 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  303–306"
+      "verseNo": "Verse  303–306",
+      "previous": {
+        "name": "Candana ",
+        "uid": "thag4.9"
+      },
+      "next": {
+        "name": "Sappaka ",
+        "uid": "thag4.11"
+      }
     }
   ]
 }

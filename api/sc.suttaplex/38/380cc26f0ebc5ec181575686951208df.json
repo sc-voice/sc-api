@@ -207,7 +207,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Passing Away as Humans and Reborn as Gods ",
+        "uid": "sn56.105-107"
+      },
+      "next": {
+        "name": "Dying as Gods and Reborn as Humans ",
+        "uid": "sn56.111-113"
+      }
     }
   ]
 }

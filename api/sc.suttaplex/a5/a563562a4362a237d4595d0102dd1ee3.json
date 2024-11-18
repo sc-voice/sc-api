@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Rādha ",
+        "uid": "sn22.71"
+      },
+      "next": {
+        "name": "Gratification ",
+        "uid": "sn22.73"
+      }
     }
   ]
 }

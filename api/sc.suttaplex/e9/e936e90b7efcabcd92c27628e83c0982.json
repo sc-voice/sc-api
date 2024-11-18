@@ -233,7 +233,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Five Threats ",
+        "uid": "sn37.14"
+      },
+      "next": {
+        "name": "Free of Acrimony ",
+        "uid": "sn37.16"
+      }
     }
   ]
 }

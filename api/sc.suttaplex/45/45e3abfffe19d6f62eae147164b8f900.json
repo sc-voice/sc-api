@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Perfected Ones ",
+        "uid": "sn22.76"
+      },
+      "next": {
+        "name": "The Lion ",
+        "uid": "sn22.78"
+      }
     }
   ]
 }

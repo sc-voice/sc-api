@@ -315,7 +315,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Whispering ",
+        "uid": "sn1.15"
+      },
+      "next": {
+        "name": "Hard to Do ",
+        "uid": "sn1.17"
+      }
     }
   ]
 }

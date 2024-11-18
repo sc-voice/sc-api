@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Uprooting the Tendencies ",
+        "uid": "sn54.18"
+      },
+      "next": {
+        "name": "The Ending of Defilements ",
+        "uid": "sn54.20"
+      }
     }
   ]
 }

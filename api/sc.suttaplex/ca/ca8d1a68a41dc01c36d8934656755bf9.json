@@ -286,7 +286,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Gotama ",
+        "uid": "sn12.10"
+      },
+      "next": {
+        "name": "Phagguna of the Top-Knot ",
+        "uid": "sn12.12"
+      }
     }
   ]
 }

@@ -221,7 +221,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Porridge ",
+        "uid": "an5.207"
+      },
+      "next": {
+        "name": "The Sound of Singing ",
+        "uid": "an5.209"
+      }
     }
   ]
 }

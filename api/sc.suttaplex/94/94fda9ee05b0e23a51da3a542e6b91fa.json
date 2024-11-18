@@ -234,7 +234,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Teaching in Brief ",
+        "uid": "an8.63"
+      },
+      "next": {
+        "name": "Dimensions of Mastery ",
+        "uid": "an8.65"
+      }
     }
   ]
 }

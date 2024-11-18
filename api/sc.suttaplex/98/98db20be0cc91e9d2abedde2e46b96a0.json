@@ -286,7 +286,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Shackles ",
+        "uid": "sn3.10"
+      },
+      "next": {
+        "name": "Five Kings ",
+        "uid": "sn3.12"
+      }
     }
   ]
 }

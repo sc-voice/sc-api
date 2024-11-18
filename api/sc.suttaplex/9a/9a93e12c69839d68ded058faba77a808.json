@@ -381,7 +381,15 @@
       "parallel_count": 12,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Analysis of Religious Donations ",
+        "uid": "mn142"
+      },
+      "next": {
+        "name": "Advice to Channa ",
+        "uid": "mn144"
+      }
     }
   ]
 }

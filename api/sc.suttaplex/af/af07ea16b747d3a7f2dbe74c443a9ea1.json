@@ -221,7 +221,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Royal Elephant ",
+        "uid": "an4.114"
+      },
+      "next": {
+        "name": "Diligence ",
+        "uid": "an4.116"
+      }
     }
   ]
 }

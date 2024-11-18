@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Two Brahmins (2nd) ",
+        "uid": "an3.52"
+      },
+      "next": {
+        "name": "A Wanderer ",
+        "uid": "an3.54"
+      }
     }
   ]
 }

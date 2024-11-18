@@ -246,7 +246,15 @@
       "parallel_count": 20,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  808–811"
+      "verseNo": "Verse  808–811",
+      "previous": {
+        "name": "With a Spirit Named Sakka ",
+        "uid": "sn10.2"
+      },
+      "next": {
+        "name": "With Maṇibhadda ",
+        "uid": "sn10.4"
+      }
     }
   ]
 }

@@ -194,7 +194,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Growth ",
+        "uid": "an3.139"
+      },
+      "next": {
+        "name": "Excellent Horses ",
+        "uid": "an3.141"
+      }
     }
   ]
 }

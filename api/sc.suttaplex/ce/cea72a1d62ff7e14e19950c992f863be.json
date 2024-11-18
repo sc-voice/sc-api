@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Hard to Admonish ",
+        "uid": "an6.115"
+      },
+      "next": {
+        "name": "Observing the Body ",
+        "uid": "an6.117"
+      }
     }
   ]
 }

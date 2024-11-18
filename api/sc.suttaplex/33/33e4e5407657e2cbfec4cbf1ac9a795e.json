@@ -181,7 +181,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "An Ascetic ",
+        "uid": "an7.86"
+      },
+      "next": {
+        "name": "Scholar ",
+        "uid": "an7.88"
+      }
     }
   ]
 }

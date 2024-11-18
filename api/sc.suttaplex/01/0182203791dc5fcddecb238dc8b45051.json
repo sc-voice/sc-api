@@ -247,7 +247,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Abyss ",
+        "uid": "sn36.4"
+      },
+      "next": {
+        "name": "An Arrow ",
+        "uid": "sn36.6"
+      }
     }
   ]
 }

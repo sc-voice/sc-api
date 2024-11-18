@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Bases of Psychic Power (1st) ",
+        "uid": "an5.67"
+      },
+      "next": {
+        "name": "Disillusionment ",
+        "uid": "an5.69"
+      }
     }
   ]
 }

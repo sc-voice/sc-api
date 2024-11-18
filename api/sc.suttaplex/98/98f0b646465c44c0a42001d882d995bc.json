@@ -235,7 +235,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  42–44"
+      "verseNo": "Verse  42–44",
+      "previous": {
+        "name": "Another Sāmā ",
+        "uid": "thig3.1"
+      },
+      "next": {
+        "name": "Another Uttamā ",
+        "uid": "thig3.3"
+      }
     }
   ]
 }

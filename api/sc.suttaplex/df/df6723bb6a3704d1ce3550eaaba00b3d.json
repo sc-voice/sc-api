@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Tendencies ",
+        "uid": "sn45.175"
+      },
+      "next": {
+        "name": "Hindrances ",
+        "uid": "sn45.177"
+      }
     }
   ]
 }

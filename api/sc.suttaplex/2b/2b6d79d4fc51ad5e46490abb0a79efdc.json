@@ -277,7 +277,15 @@
       "parallel_count": 42,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Kevaddha ",
+        "uid": "dn11"
+      },
+      "next": {
+        "name": "The Three Knowledges ",
+        "uid": "dn13"
+      }
     }
   ]
 }

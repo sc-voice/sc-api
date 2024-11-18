@@ -247,7 +247,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Ānanda (1st) ",
+        "uid": "sn54.13"
+      },
+      "next": {
+        "name": "Several Mendicants (1st) ",
+        "uid": "sn54.15"
+      }
     }
   ]
 }

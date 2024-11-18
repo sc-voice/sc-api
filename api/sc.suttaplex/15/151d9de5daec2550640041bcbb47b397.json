@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 60"
+      "verseNo": " Verse 60",
+      "previous": {
+        "name": "Kosalavihārin ",
+        "uid": "thag1.59"
+      },
+      "next": {
+        "name": "Vappa ",
+        "uid": "thag1.61"
+      }
     }
   ]
 }

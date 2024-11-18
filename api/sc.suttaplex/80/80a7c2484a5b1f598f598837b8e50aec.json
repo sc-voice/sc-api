@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 36"
+      "verseNo": " Verse 36",
+      "previous": {
+        "name": "Sāmaññakāni ",
+        "uid": "thag1.35"
+      },
+      "next": {
+        "name": "Kumāputtasahāyaka ",
+        "uid": "thag1.37"
+      }
     }
   ]
 }

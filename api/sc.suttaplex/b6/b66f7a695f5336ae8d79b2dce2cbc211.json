@@ -274,7 +274,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Anxiety Because of Grasping (2nd) ",
+        "uid": "sn22.8"
+      },
+      "next": {
+        "name": "Suffering in the Three Times ",
+        "uid": "sn22.10"
+      }
     }
   ]
 }

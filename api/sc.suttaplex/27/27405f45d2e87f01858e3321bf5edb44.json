@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Interior Will Be Impermanent in the Future ",
+        "uid": "sn35.187"
+      },
+      "next": {
+        "name": "The Interior as Suffering in the Three Times ",
+        "uid": "sn35.189-191"
+      }
     }
   ]
 }

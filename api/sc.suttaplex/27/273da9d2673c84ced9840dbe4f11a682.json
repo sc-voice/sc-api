@@ -313,7 +313,15 @@
       "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Don’t Be Angry ",
+        "uid": "sn11.25"
+      },
+      "next": {
+        "name": "Analysis ",
+        "uid": "sn12.2"
+      }
     }
   ]
 }

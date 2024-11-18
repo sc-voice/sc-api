@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Spiritual Path (2nd) ",
+        "uid": "sn45.40"
+      },
+      "next": {
+        "name": "Six Discourses on Giving Up Fetters, Etc. ",
+        "uid": "sn45.42-47"
+      }
     }
   ]
 }

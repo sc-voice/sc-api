@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Weaknesses in Training and the Bases of Psychic Power ",
+        "uid": "an9.83"
+      },
+      "next": {
+        "name": "Shackles of the Heart ",
+        "uid": "an9.92"
+      }
     }
   ]
 }

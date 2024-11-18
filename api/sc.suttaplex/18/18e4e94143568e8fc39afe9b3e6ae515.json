@@ -408,7 +408,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Emotional Barrenness ",
+        "uid": "mn16"
+      },
+      "next": {
+        "name": "The Honey-Cake ",
+        "uid": "mn18"
+      }
     }
   ]
 }

@@ -220,7 +220,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Ujjaya ",
+        "uid": "an8.55"
+      },
+      "next": {
+        "name": "Worthy of Offerings Dedicated to the Gods (1st) ",
+        "uid": "an8.57"
+      }
     }
   ]
 }

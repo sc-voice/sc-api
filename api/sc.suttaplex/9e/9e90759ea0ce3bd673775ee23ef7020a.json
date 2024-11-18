@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  197–198"
+      "verseNo": "Verse  197–198",
+      "previous": {
+        "name": "Nisabha ",
+        "uid": "thag2.38"
+      },
+      "next": {
+        "name": "Kappaṭakura ",
+        "uid": "thag2.40"
+      }
     }
   ]
 }

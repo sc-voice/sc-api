@@ -221,7 +221,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Body ",
+        "uid": "an10.23"
+      },
+      "next": {
+        "name": "Meditation on Universals ",
+        "uid": "an10.25"
+      }
     }
   ]
 }

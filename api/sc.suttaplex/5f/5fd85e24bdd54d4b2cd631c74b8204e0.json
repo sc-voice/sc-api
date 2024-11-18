@@ -207,7 +207,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Intolerance (1st) ",
+        "uid": "an5.215"
+      },
+      "next": {
+        "name": "Unimpressive Conduct (1st) ",
+        "uid": "an5.217"
+      }
     }
   ]
 }

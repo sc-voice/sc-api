@@ -287,7 +287,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Jānussoṇi ",
+        "uid": "sn12.47"
+      },
+      "next": {
+        "name": "A Noble Disciple ",
+        "uid": "sn12.49"
+      }
     }
   ]
 }

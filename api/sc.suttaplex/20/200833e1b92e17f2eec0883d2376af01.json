@@ -207,7 +207,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Wild Colt ",
+        "uid": "an9.22"
+      },
+      "next": {
+        "name": "Abodes of Sentient Beings ",
+        "uid": "an9.24"
+      }
     }
   ]
 }

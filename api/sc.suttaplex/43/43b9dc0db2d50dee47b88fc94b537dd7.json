@@ -220,7 +220,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Under Her Thumb ",
+        "uid": "sn37.26"
+      },
+      "next": {
+        "name": "One ",
+        "uid": "sn37.28"
+      }
     }
   ]
 }

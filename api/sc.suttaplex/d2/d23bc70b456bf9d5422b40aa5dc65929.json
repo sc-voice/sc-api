@@ -129,6 +129,20 @@
           "lang": "ru",
           "lang_name": "Русский",
           "is_root": false,
+          "author": "Evgenia Evmenenko",
+          "author_short": "narinyanievmenenko",
+          "author_uid": "narinyanievmenenko",
+          "publication_date": "2024",
+          "id": "thag16.7_translation-ru-narinyanievmenenko",
+          "segmented": true,
+          "title": "Калигодхапуттабхаддия Тхера ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
           "author": "баян купи-ка",
           "author_short": "купи-ка",
           "author_uid": "kupi-ka",
@@ -181,7 +195,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  842–865"
+      "verseNo": "Verse  842–865",
+      "previous": {
+        "name": "Sela ",
+        "uid": "thag16.6"
+      },
+      "next": {
+        "name": "Aṅgulimāla ",
+        "uid": "thag16.8"
+      }
     }
   ]
 }

@@ -301,7 +301,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Saviṭṭha ",
+        "uid": "an3.21"
+      },
+      "next": {
+        "name": "Choices ",
+        "uid": "an3.23"
+      }
     }
   ]
 }

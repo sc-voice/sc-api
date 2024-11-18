@@ -261,7 +261,15 @@
       "parallel_count": 20,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Ignorance ",
+        "uid": "an10.61"
+      },
+      "next": {
+        "name": "Come to a Conclusion ",
+        "uid": "an10.63"
+      }
     }
   ]
 }

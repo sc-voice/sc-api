@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Fingernail ",
+        "uid": "sn22.97"
+      },
+      "next": {
+        "name": "A Leash ",
+        "uid": "sn22.99"
+      }
     }
   ]
 }

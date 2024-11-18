@@ -207,7 +207,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Food at the Wrong Time ",
+        "uid": "sn56.79"
+      },
+      "next": {
+        "name": "Dancing and Singing ",
+        "uid": "sn56.81"
+      }
     }
   ]
 }

@@ -273,7 +273,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Disciples of Various Monastics of Other Religions ",
+        "uid": "sn2.30"
+      },
+      "next": {
+        "name": "A Person ",
+        "uid": "sn3.2"
+      }
     }
   ]
 }

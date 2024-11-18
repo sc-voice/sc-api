@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 80"
+      "verseNo": " Verse 80",
+      "previous": {
+        "name": "Rakkhita ",
+        "uid": "thag1.79"
+      },
+      "next": {
+        "name": "Samitigutta ",
+        "uid": "thag1.81"
+      }
     }
   ]
 }

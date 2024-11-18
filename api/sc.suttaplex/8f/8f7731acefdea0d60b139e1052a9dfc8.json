@@ -221,7 +221,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Lion’s Roar ",
+        "uid": "an10.21"
+      },
+      "next": {
+        "name": "Body ",
+        "uid": "an10.23"
+      }
     }
   ]
 }

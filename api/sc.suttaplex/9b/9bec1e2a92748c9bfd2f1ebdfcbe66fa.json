@@ -182,7 +182,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  97–101"
+      "verseNo": "Verse  97–101",
+      "previous": {
+        "name": "Mittākāḷī ",
+        "uid": "thig5.6"
+      },
+      "next": {
+        "name": "Soṇā ",
+        "uid": "thig5.8"
+      }
     }
   ]
 }

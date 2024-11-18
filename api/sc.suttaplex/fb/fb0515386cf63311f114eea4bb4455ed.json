@@ -418,7 +418,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Without Completely Understanding (2nd) ",
+        "uid": "sn35.27"
+      },
+      "next": {
+        "name": "Oppressed ",
+        "uid": "sn35.29"
+      }
     }
   ]
 }

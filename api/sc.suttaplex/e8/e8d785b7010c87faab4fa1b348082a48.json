@@ -369,7 +369,15 @@
       "parallel_count": 10,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Moggallāna the Guardian ",
+        "uid": "mn108"
+      },
+      "next": {
+        "name": "The Shorter Discourse on the Full-Moon Night ",
+        "uid": "mn110"
+      }
     }
   ]
 }

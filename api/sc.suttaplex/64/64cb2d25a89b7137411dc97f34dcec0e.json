@@ -462,7 +462,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Discourse on Mindfulness Meditation ",
+        "uid": "mn10"
+      },
+      "next": {
+        "name": "The Longer Discourse on the Lion’s Roar ",
+        "uid": "mn12"
+      }
     }
   ]
 }

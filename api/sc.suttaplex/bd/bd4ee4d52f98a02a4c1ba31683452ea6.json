@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Analysis ",
+        "uid": "sn45.8"
+      },
+      "next": {
+        "name": "With Nandiya ",
+        "uid": "sn45.10"
+      }
     }
   ]
 }

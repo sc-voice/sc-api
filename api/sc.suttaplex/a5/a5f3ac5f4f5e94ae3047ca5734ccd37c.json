@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 72"
+      "verseNo": " Verse 72",
+      "previous": {
+        "name": "Vacchapāla ",
+        "uid": "thag1.71"
+      },
+      "next": {
+        "name": "Māṇava ",
+        "uid": "thag1.73"
+      }
     }
   ]
 }

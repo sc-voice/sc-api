@@ -194,7 +194,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Dying in Hell and Reborn as Humans ",
+        "uid": "sn56.114-116"
+      },
+      "next": {
+        "name": "Dying as Animals and Reborn as Humans ",
+        "uid": "sn56.120-122"
+      }
     }
   ]
 }

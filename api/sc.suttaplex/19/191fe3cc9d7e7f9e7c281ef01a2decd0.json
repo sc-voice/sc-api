@@ -247,7 +247,15 @@
       "parallel_count": 11,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Battle (1st) ",
+        "uid": "sn3.14"
+      },
+      "next": {
+        "name": "A Daughter ",
+        "uid": "sn3.16"
+      }
     }
   ]
 }

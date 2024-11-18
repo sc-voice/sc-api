@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Verses ",
+        "uid": "sn55.51"
+      },
+      "next": {
+        "name": "With Dhammadinna ",
+        "uid": "sn55.53"
+      }
     }
   ]
 }

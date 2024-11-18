@@ -220,7 +220,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Desire and Greed (2nd) ",
+        "uid": "sn23.10"
+      },
+      "next": {
+        "name": "Susceptible to Māra ",
+        "uid": "sn23.12"
+      }
     }
   ]
 }

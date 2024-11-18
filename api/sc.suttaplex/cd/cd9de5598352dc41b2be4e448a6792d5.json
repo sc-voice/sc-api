@@ -234,7 +234,15 @@
       "parallel_count": 11,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Beautification ",
+        "uid": "an4.7"
+      },
+      "next": {
+        "name": "The Arising of Craving ",
+        "uid": "an4.9"
+      }
     }
   ]
 }

@@ -301,7 +301,15 @@
       "parallel_count": 13,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Analysis of the Truths ",
+        "uid": "mn141"
+      },
+      "next": {
+        "name": "Advice to Anāthapiṇḍika ",
+        "uid": "mn143"
+      }
     }
   ]
 }

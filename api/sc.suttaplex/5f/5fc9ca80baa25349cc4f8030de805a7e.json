@@ -299,7 +299,15 @@
       "parallel_count": 20,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "If There Is Desire ",
+        "uid": "sn12.64"
+      },
+      "next": {
+        "name": "Self-examination ",
+        "uid": "sn12.66"
+      }
     }
   ]
 }

@@ -156,7 +156,15 @@
       "parallel_count": 18,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  133–134"
+      "verseNo": "Verse  133–134",
+      "previous": {
+        "name": "Meḷajina ",
+        "uid": "thag2.6"
+      },
+      "next": {
+        "name": "Surādha ",
+        "uid": "thag2.8"
+      }
     }
   ]
 }

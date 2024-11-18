@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "On Retreat at Jīvaka’s Mango Grove ",
+        "uid": "sn35.161"
+      },
+      "next": {
+        "name": "With Koṭṭhita on Suffering ",
+        "uid": "sn35.163"
+      }
     }
   ]
 }

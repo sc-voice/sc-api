@@ -221,7 +221,15 @@
       "parallel_count": 17,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Precepts and Observances ",
+        "uid": "an3.78"
+      },
+      "next": {
+        "name": "Lesser ",
+        "uid": "an3.80"
+      }
     }
   ]
 }

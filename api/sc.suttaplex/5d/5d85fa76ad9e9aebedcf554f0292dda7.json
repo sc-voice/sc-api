@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Principled Speech ",
+        "uid": "sn38.3"
+      },
+      "next": {
+        "name": "Solace ",
+        "uid": "sn38.5"
+      }
     }
   ]
 }

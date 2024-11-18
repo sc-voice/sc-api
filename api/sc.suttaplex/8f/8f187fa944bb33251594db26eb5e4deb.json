@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Cannot Endure ",
+        "uid": "an5.85"
+      },
+      "next": {
+        "name": "Ethical ",
+        "uid": "an5.87"
+      }
     }
   ]
 }

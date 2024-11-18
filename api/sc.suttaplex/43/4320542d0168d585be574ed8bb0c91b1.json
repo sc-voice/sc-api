@@ -234,7 +234,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Uttara on Failure ",
+        "uid": "an8.8"
+      },
+      "next": {
+        "name": "Trash ",
+        "uid": "an8.10"
+      }
     }
   ]
 }

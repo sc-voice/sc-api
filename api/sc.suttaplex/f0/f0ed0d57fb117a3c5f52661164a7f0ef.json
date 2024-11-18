@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Best (1st) ",
+        "uid": "an4.74"
+      },
+      "next": {
+        "name": "At Kusinārā ",
+        "uid": "an4.76"
+      }
     }
   ]
 }

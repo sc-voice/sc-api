@@ -274,7 +274,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Development of Immersion ",
+        "uid": "sn22.5"
+      },
+      "next": {
+        "name": "Anxiety Because of Grasping ",
+        "uid": "sn22.7"
+      }
     }
   ]
 }

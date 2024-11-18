@@ -287,7 +287,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Fervent Mortification of Oneself ",
+        "uid": "an4.198"
+      },
+      "next": {
+        "name": "Love and Hate ",
+        "uid": "an4.200"
+      }
     }
   ]
 }

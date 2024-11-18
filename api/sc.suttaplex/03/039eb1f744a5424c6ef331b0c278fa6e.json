@@ -273,7 +273,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Māghadha ",
+        "uid": "sn2.4"
+      },
+      "next": {
+        "name": "With Kāmada ",
+        "uid": "sn2.6"
+      }
     }
   ]
 }

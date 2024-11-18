@@ -194,7 +194,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Assurance ",
+        "uid": "an5.101"
+      },
+      "next": {
+        "name": "A Master Thief ",
+        "uid": "an5.103"
+      }
     }
   ]
 }

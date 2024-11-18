@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Living Comfortably ",
+        "uid": "an5.105"
+      },
+      "next": {
+        "name": "Ethics ",
+        "uid": "an5.107"
+      }
     }
   ]
 }

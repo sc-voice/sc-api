@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  557–566"
+      "verseNo": "Verse  557–566",
+      "previous": {
+        "name": "Mahākappina ",
+        "uid": "thag10.3"
+      },
+      "next": {
+        "name": "Kappa ",
+        "uid": "thag10.5"
+      }
     }
   ]
 }

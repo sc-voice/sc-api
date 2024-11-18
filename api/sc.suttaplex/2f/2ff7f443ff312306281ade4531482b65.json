@@ -220,7 +220,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Winds ",
+        "uid": "sn24.1"
+      },
+      "next": {
+        "name": "This Is My Self ",
+        "uid": "sn24.3"
+      }
     }
   ]
 }

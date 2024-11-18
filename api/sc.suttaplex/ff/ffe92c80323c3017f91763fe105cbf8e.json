@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Sāriputta’s Lion’s Roar ",
+        "uid": "an9.11"
+      },
+      "next": {
+        "name": "With Koṭṭhita ",
+        "uid": "an9.13"
+      }
     }
   ]
 }

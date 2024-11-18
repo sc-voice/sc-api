@@ -208,7 +208,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Second Absorption, Etc. ",
+        "uid": "an5.257-263"
+      },
+      "next": {
+        "name": "Another Discourse on the Second Absorption, Etc. ",
+        "uid": "an5.265-271"
+      }
     }
   ]
 }

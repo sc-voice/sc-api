@@ -277,7 +277,15 @@
       "parallel_count": 16,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Janavasabha ",
+        "uid": "dn18"
+      },
+      "next": {
+        "name": "The Great Congregation ",
+        "uid": "dn20"
+      }
     }
   ]
 }

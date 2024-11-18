@@ -207,7 +207,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Born in Water ",
+        "uid": "sn56.65"
+      },
+      "next": {
+        "name": "Respect Father ",
+        "uid": "sn56.67"
+      }
     }
   ]
 }

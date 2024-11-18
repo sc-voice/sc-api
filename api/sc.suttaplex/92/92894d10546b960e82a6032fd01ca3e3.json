@@ -248,7 +248,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With a Foundation ",
+        "uid": "an2.77-86"
+      },
+      "next": {
+        "name": "Fools ",
+        "uid": "an2.98-117"
+      }
     }
   ]
 }

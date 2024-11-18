@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Hindrances ",
+        "uid": "sn45.177"
+      },
+      "next": {
+        "name": "Lower Fetters ",
+        "uid": "sn45.179"
+      }
     }
   ]
 }

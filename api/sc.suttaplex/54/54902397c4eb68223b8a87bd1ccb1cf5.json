@@ -233,7 +233,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "General Sīha ",
+        "uid": "an7.57"
+      },
+      "next": {
+        "name": "With Kimbila ",
+        "uid": "an7.59"
+      }
     }
   ]
 }

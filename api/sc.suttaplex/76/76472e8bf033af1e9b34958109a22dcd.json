@@ -274,7 +274,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Ganges ",
+        "uid": "sn15.8"
+      },
+      "next": {
+        "name": "A Single Person ",
+        "uid": "sn15.10"
+      }
     }
   ]
 }

@@ -260,7 +260,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Diligence ",
+        "uid": "sn3.17"
+      },
+      "next": {
+        "name": "Childless (1st) ",
+        "uid": "sn3.19"
+      }
     }
   ]
 }

@@ -220,7 +220,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Faculties ",
+        "uid": "an4.151"
+      },
+      "next": {
+        "name": "The Power of Wisdom ",
+        "uid": "an4.153"
+      }
     }
   ]
 }

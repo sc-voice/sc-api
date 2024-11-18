@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Quick-witted ",
+        "uid": "an4.97"
+      },
+      "next": {
+        "name": "Training Rules ",
+        "uid": "an4.99"
+      }
     }
   ]
 }

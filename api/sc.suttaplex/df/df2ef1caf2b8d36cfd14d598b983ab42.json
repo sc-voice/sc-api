@@ -156,7 +156,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  163–164"
+      "verseNo": "Verse  163–164",
+      "previous": {
+        "name": "Uttara (2nd) ",
+        "uid": "thag2.21"
+      },
+      "next": {
+        "name": "Sobhita ",
+        "uid": "thag2.23"
+      }
     }
   ]
 }

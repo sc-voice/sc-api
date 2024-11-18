@@ -260,7 +260,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Practice ",
+        "uid": "sn12.3"
+      },
+      "next": {
+        "name": "Sikhī ",
+        "uid": "sn12.5"
+      }
     }
   ]
 }

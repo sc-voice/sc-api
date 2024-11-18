@@ -343,7 +343,15 @@
       "parallel_count": 7,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Shorter Discourse With Māluṅkya ",
+        "uid": "mn63"
+      },
+      "next": {
+        "name": "With Bhaddāli ",
+        "uid": "mn65"
+      }
     }
   ]
 }

@@ -207,7 +207,15 @@
       "parallel_count": 68,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Ajita ",
+        "uid": "an10.116"
+      },
+      "next": {
+        "name": "The Near Shore ",
+        "uid": "an10.118"
+      }
     }
   ]
 }

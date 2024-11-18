@@ -169,7 +169,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  360–364"
+      "verseNo": "Verse  360–364",
+      "previous": {
+        "name": "Vijitasena ",
+        "uid": "thag5.9"
+      },
+      "next": {
+        "name": "Soṇa of the Sharp Ears ",
+        "uid": "thag5.11"
+      }
     }
   ]
 }

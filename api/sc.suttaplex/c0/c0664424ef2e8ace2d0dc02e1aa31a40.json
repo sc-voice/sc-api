@@ -207,7 +207,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Killing Living Creatures ",
+        "uid": "sn56.71"
+      },
+      "next": {
+        "name": "Sexual Misconduct ",
+        "uid": "sn56.73"
+      }
     }
   ]
 }

@@ -207,7 +207,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Acting ",
+        "uid": "sn24.6"
+      },
+      "next": {
+        "name": "The Extensive View ",
+        "uid": "sn24.8"
+      }
     }
   ]
 }

@@ -196,7 +196,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 10"
+      "verseNo": " Verse 10",
+      "previous": {
+        "name": "Bhadrā ",
+        "uid": "thig1.9"
+      },
+      "next": {
+        "name": "Muttā (2nd) ",
+        "uid": "thig1.11"
+      }
     }
   ]
 }

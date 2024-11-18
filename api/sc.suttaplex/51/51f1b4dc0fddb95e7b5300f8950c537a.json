@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Desire for the Impermanent Interior ",
+        "uid": "sn35.168"
+      },
+      "next": {
+        "name": "Desire and Greed for the Impermanent Interior ",
+        "uid": "sn35.170"
+      }
     }
   ]
 }

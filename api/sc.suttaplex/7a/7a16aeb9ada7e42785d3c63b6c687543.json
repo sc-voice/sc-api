@@ -233,7 +233,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Midday ",
+        "uid": "sn9.12"
+      },
+      "next": {
+        "name": "The Thief of Scent ",
+        "uid": "sn9.14"
+      }
     }
   ]
 }

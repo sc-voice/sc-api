@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With the Senior Monk Ānanda ",
+        "uid": "sn55.13"
+      },
+      "next": {
+        "name": "Fear of the Bad Place, the Underworld ",
+        "uid": "sn55.15"
+      }
     }
   ]
 }

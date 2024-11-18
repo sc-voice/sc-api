@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Good Friends ",
+        "uid": "sn45.77"
+      },
+      "next": {
+        "name": "Accomplishment in Rational Application of Mind ",
+        "uid": "sn45.83"
+      }
     }
   ]
 }

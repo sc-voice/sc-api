@@ -220,7 +220,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Tendency ",
+        "uid": "sn18.21"
+      },
+      "next": {
+        "name": "A Skeleton ",
+        "uid": "sn19.1"
+      }
     }
   ]
 }

@@ -260,7 +260,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At Vesālī ",
+        "uid": "sn54.9"
+      },
+      "next": {
+        "name": "Icchānaṅgala ",
+        "uid": "sn54.11"
+      }
     }
   ]
 }

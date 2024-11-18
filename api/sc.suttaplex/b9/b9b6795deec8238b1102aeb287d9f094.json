@@ -382,7 +382,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Gulissāni ",
+        "uid": "mn69"
+      },
+      "next": {
+        "name": "To Vacchagotta on the Three Knowledges ",
+        "uid": "mn71"
+      }
     }
   ]
 }

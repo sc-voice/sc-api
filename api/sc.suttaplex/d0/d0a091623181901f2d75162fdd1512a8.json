@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Giving Up ",
+        "uid": "an7.9"
+      },
+      "next": {
+        "name": "Underlying Tendencies (1st) ",
+        "uid": "an7.11"
+      }
     }
   ]
 }

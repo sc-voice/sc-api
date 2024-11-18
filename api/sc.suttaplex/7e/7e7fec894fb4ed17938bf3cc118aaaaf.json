@@ -195,7 +195,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 118"
+      "verseNo": " Verse 118",
+      "previous": {
+        "name": "Yasa ",
+        "uid": "thag1.117"
+      },
+      "next": {
+        "name": "Vajjiputta (2nd) ",
+        "uid": "thag1.119"
+      }
     }
   ]
 }

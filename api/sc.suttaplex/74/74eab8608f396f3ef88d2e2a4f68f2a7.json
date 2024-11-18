@@ -207,7 +207,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Thoroughbred (1st) ",
+        "uid": "an4.259"
+      },
+      "next": {
+        "name": "Powers ",
+        "uid": "an4.261"
+      }
     }
   ]
 }

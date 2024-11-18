@@ -274,7 +274,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Without Conflict ",
+        "uid": "sn1.81"
+      },
+      "next": {
+        "name": "With Kassapa (2nd) ",
+        "uid": "sn2.2"
+      }
     }
   ]
 }

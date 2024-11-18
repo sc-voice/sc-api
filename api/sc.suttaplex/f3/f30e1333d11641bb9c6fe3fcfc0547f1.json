@@ -273,7 +273,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "All ",
+        "uid": "sn35.23"
+      },
+      "next": {
+        "name": "Giving Up By Direct Knowledge and Complete Understanding ",
+        "uid": "sn35.25"
+      }
     }
   ]
 }

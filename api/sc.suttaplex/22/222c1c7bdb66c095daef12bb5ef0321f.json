@@ -288,7 +288,15 @@
       "parallel_count": 25,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Hatthaka ",
+        "uid": "an3.35"
+      },
+      "next": {
+        "name": "The Four Great Kings (1st) ",
+        "uid": "an3.37"
+      }
     }
   ]
 }

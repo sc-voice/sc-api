@@ -220,7 +220,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "In the Borderlands ",
+        "uid": "sn56.62"
+      },
+      "next": {
+        "name": "Beer and Wine ",
+        "uid": "sn56.64"
+      }
     }
   ]
 }

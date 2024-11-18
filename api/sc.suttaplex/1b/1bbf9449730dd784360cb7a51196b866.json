@@ -207,7 +207,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Nandiya the Sakyan ",
+        "uid": "sn55.40"
+      },
+      "next": {
+        "name": "Overflowing Merit (2nd) ",
+        "uid": "sn55.42"
+      }
     }
   ]
 }

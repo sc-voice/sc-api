@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Five Hundred Carts ",
+        "uid": "sn17.36"
+      },
+      "next": {
+        "name": "Father, Etc. ",
+        "uid": "sn17.38-43"
+      }
     }
   ]
 }

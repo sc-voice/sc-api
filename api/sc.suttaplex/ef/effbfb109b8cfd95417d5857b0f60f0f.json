@@ -286,7 +286,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Not Yours ",
+        "uid": "sn12.37"
+      },
+      "next": {
+        "name": "Intention (2nd) ",
+        "uid": "sn12.39"
+      }
     }
   ]
 }

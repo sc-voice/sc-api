@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Training Rules ",
+        "uid": "an4.201"
+      },
+      "next": {
+        "name": "Seven Kinds of Deeds ",
+        "uid": "an4.203"
+      }
     }
   ]
 }

@@ -273,7 +273,15 @@
       "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Grandmother ",
+        "uid": "sn3.22"
+      },
+      "next": {
+        "name": "Archery ",
+        "uid": "sn3.24"
+      }
     }
   ]
 }

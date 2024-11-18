@@ -208,7 +208,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Tree Trunk ",
+        "uid": "an6.41"
+      },
+      "next": {
+        "name": "The Giant ",
+        "uid": "an6.43"
+      }
     }
   ]
 }

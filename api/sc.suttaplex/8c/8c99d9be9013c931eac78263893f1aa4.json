@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Visit to the Gods (1st) ",
+        "uid": "sn55.18"
+      },
+      "next": {
+        "name": "A Visit to the Gods (3rd) ",
+        "uid": "sn55.20"
+      }
     }
   ]
 }

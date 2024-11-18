@@ -194,7 +194,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Nakula’s Father ",
+        "uid": "an6.16"
+      },
+      "next": {
+        "name": "A Fish Dealer ",
+        "uid": "an6.18"
+      }
     }
   ]
 }

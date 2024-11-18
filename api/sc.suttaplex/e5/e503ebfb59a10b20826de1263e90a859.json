@@ -369,7 +369,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Shorter Simile of the Heartwood ",
+        "uid": "mn30"
+      },
+      "next": {
+        "name": "The Longer Discourse at Gosiṅga ",
+        "uid": "mn32"
+      }
     }
   ]
 }

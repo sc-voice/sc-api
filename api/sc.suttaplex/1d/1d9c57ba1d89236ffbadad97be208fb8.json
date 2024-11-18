@@ -208,7 +208,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 39"
+      "verseNo": " Verse 39",
+      "previous": {
+        "name": "Gavampati ",
+        "uid": "thag1.38"
+      },
+      "next": {
+        "name": "Vaḍḍhamāna ",
+        "uid": "thag1.40"
+      }
     }
   ]
 }

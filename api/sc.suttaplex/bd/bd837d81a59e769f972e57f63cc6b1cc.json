@@ -247,7 +247,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Rounds of the Grasping Aggregates ",
+        "uid": "sn22.56"
+      },
+      "next": {
+        "name": "The Fully Awakened Buddha ",
+        "uid": "sn22.58"
+      }
     }
   ]
 }

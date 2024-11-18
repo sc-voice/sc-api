@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At the Eastern Monastery (2nd) ",
+        "uid": "sn48.46"
+      },
+      "next": {
+        "name": "At the Eastern Monastery (4th) ",
+        "uid": "sn48.48"
+      }
     }
   ]
 }

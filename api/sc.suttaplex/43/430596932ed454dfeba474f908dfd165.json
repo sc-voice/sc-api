@@ -273,7 +273,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Intention (2nd) ",
+        "uid": "sn12.39"
+      },
+      "next": {
+        "name": "Dangers and Threats ",
+        "uid": "sn12.41"
+      }
     }
   ]
 }

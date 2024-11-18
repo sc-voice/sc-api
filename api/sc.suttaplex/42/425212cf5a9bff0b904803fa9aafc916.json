@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Plain Version ",
+        "uid": "sn51.24"
+      },
+      "next": {
+        "name": "Fruits (2nd) ",
+        "uid": "sn51.26"
+      }
     }
   ]
 }

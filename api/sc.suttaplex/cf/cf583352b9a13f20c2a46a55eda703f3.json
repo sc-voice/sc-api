@@ -382,7 +382,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Bhaddāli ",
+        "uid": "mn65"
+      },
+      "next": {
+        "name": "At Cātumā ",
+        "uid": "mn67"
+      }
     }
   ]
 }

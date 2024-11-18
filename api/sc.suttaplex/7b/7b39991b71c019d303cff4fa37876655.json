@@ -169,7 +169,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  518–526"
+      "verseNo": "Verse  518–526",
+      "previous": {
+        "name": "Mahāpanthaka ",
+        "uid": "thag8.3"
+      },
+      "next": {
+        "name": "Kāḷudāyī ",
+        "uid": "thag10.1"
+      }
     }
   ]
 }

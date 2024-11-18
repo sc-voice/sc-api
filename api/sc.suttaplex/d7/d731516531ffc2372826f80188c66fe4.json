@@ -196,7 +196,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 18"
+      "verseNo": " Verse 18",
+      "previous": {
+        "name": "Dhammā ",
+        "uid": "thig1.17"
+      },
+      "next": {
+        "name": "Abhirūpanandā ",
+        "uid": "thig2.1"
+      }
     }
   ]
 }

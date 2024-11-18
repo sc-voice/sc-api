@@ -327,7 +327,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "On Fire ",
+        "uid": "sn1.41"
+      },
+      "next": {
+        "name": "Food ",
+        "uid": "sn1.43"
+      }
     }
   ]
 }

@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "In That Respect ",
+        "uid": "sn37.29"
+      },
+      "next": {
+        "name": "Cause ",
+        "uid": "sn37.31"
+      }
     }
   ]
 }

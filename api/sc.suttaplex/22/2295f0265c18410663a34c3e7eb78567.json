@@ -260,7 +260,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "In Brief ",
+        "uid": "an5.1"
+      },
+      "next": {
+        "name": "Suffering ",
+        "uid": "an5.3"
+      }
     }
   ]
 }

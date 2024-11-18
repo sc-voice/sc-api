@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Teacher’s Instructions ",
+        "uid": "an7.83"
+      },
+      "next": {
+        "name": "A Mendicant ",
+        "uid": "an7.85"
+      }
     }
   ]
 }

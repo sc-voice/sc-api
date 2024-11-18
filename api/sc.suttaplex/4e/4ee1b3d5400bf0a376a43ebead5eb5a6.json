@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Overstaying ",
+        "uid": "an5.223"
+      },
+      "next": {
+        "name": "Visiting Families (1st) ",
+        "uid": "an5.225"
+      }
     }
   ]
 }

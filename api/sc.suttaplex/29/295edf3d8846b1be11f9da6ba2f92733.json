@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Jackal ",
+        "uid": "sn20.11"
+      },
+      "next": {
+        "name": "With Kolita ",
+        "uid": "sn21.1"
+      }
     }
   ]
 }

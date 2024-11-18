@@ -273,7 +273,15 @@
       "parallel_count": 71,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Doṇa ",
+        "uid": "an4.36"
+      },
+      "next": {
+        "name": "Withdrawn ",
+        "uid": "an4.38"
+      }
     }
   ]
 }

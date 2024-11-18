@@ -262,7 +262,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 11"
+      "verseNo": " Verse 11",
+      "previous": {
+        "name": "Upasamā ",
+        "uid": "thig1.10"
+      },
+      "next": {
+        "name": "Dhammadinnā ",
+        "uid": "thig1.12"
+      }
     }
   ]
 }

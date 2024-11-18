@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Jealous ",
+        "uid": "an5.117"
+      },
+      "next": {
+        "name": "Wrong Speech ",
+        "uid": "an5.119"
+      }
     }
   ]
 }

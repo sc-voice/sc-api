@@ -235,7 +235,15 @@
       "parallel_count": 17,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  63–66"
+      "verseNo": "Verse  63–66",
+      "previous": {
+        "name": "Somā ",
+        "uid": "thig3.8"
+      },
+      "next": {
+        "name": "An Unnamed Nun (2nd) ",
+        "uid": "thig5.1"
+      }
     }
   ]
 }

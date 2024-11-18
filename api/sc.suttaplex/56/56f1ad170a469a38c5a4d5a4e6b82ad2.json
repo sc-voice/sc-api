@@ -247,7 +247,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Suffering ",
+        "uid": "sn22.67"
+      },
+      "next": {
+        "name": "Not Belonging to Self ",
+        "uid": "sn22.69"
+      }
     }
   ]
 }

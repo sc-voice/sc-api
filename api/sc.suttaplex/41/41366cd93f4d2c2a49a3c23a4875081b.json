@@ -168,7 +168,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Blameworthy ",
+        "uid": "an10.184"
+      },
+      "next": {
+        "name": "Leading to Accumulation ",
+        "uid": "an10.186"
+      }
     }
   ]
 }

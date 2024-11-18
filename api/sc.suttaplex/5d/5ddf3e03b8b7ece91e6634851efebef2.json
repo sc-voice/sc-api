@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Longevity (1st) ",
+        "uid": "an5.125"
+      },
+      "next": {
+        "name": "Living Apart ",
+        "uid": "an5.127"
+      }
     }
   ]
 }

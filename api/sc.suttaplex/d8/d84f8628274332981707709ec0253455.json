@@ -233,7 +233,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Several Mendicants Set Out Wandering ",
+        "uid": "sn9.4"
+      },
+      "next": {
+        "name": "With Anuruddha ",
+        "uid": "sn9.6"
+      }
     }
   ]
 }

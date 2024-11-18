@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Enjoying Company ",
+        "uid": "an6.68"
+      },
+      "next": {
+        "name": "Immersion ",
+        "uid": "an6.70"
+      }
     }
   ]
 }

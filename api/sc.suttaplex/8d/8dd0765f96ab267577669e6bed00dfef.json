@@ -235,7 +235,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Breathing ",
+        "uid": "sn46.66"
+      },
+      "next": {
+        "name": "Death ",
+        "uid": "sn46.68"
+      }
     }
   ]
 }

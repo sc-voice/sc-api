@@ -220,7 +220,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Anāthapiṇḍika (2nd) ",
+        "uid": "sn55.27"
+      },
+      "next": {
+        "name": "Dangers and Threats (2nd) ",
+        "uid": "sn55.29"
+      }
     }
   ]
 }

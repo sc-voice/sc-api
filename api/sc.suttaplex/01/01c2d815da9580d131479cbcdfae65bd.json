@@ -194,7 +194,15 @@
       "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Noble Expressions ",
+        "uid": "an8.68"
+      },
+      "next": {
+        "name": "Earthquakes ",
+        "uid": "an8.70"
+      }
     }
   ]
 }

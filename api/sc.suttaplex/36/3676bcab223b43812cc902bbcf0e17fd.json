@@ -260,7 +260,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Kaḷāra the Aristocrat ",
+        "uid": "sn12.32"
+      },
+      "next": {
+        "name": "Grounds for Knowledge (2nd) ",
+        "uid": "sn12.34"
+      }
     }
   ]
 }

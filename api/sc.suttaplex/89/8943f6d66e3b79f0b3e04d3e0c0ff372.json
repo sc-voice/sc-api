@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Moggallāna’s Practice ",
+        "uid": "an4.167"
+      },
+      "next": {
+        "name": "Extra Effort ",
+        "uid": "an4.169"
+      }
     }
   ]
 }

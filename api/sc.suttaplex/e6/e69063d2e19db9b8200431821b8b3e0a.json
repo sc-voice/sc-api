@@ -182,7 +182,15 @@
       "parallel_count": 15,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  189–195"
+      "verseNo": "Verse  189–195",
+      "previous": {
+        "name": "Cālā ",
+        "uid": "thig7.2"
+      },
+      "next": {
+        "name": "Sīsūpacālā ",
+        "uid": "thig8.1"
+      }
     }
   ]
 }

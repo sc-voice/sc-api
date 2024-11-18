@@ -260,7 +260,15 @@
       "parallel_count": 21,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Harmless ",
+        "uid": "sn7.5"
+      },
+      "next": {
+        "name": "With Bhāradvāja the Pure ",
+        "uid": "sn7.7"
+      }
     }
   ]
 }

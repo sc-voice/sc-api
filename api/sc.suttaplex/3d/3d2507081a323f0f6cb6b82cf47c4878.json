@@ -222,7 +222,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Growth (1st) ",
+        "uid": "an5.63"
+      },
+      "next": {
+        "name": "Discussion ",
+        "uid": "an5.65"
+      }
     }
   ]
 }

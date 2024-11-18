@@ -234,7 +234,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Practice Conducive to Extinguishment ",
+        "uid": "sn35.150"
+      },
+      "next": {
+        "name": "What’s the Purpose of the Spiritual Life? ",
+        "uid": "sn35.152"
+      }
     }
   ]
 }

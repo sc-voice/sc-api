@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Perceptions ",
+        "uid": "an6.110"
+      },
+      "next": {
+        "name": "Gratification ",
+        "uid": "an6.112"
+      }
     }
   ]
 }

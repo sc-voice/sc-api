@@ -233,7 +233,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Eye ",
+        "uid": "sn26.1"
+      },
+      "next": {
+        "name": "Consciousness ",
+        "uid": "sn26.3"
+      }
     }
   ]
 }

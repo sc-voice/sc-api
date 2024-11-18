@@ -233,7 +233,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Questioning (2nd) ",
+        "uid": "sn22.119"
+      },
+      "next": {
+        "name": "Things Prone to Fuel Grasping ",
+        "uid": "sn22.121"
+      }
     }
   ]
 }

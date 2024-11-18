@@ -207,7 +207,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Soul and the Body Are Different Things ",
+        "uid": "sn24.14"
+      },
+      "next": {
+        "name": "A Realized One No Longer Exists ",
+        "uid": "sn24.16"
+      }
     }
   ]
 }

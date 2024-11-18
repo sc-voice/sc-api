@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Discriminations ",
+        "uid": "sn45.162"
+      },
+      "next": {
+        "name": "States of Existence ",
+        "uid": "sn45.164"
+      }
     }
   ]
 }

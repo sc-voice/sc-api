@@ -195,7 +195,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 85"
+      "verseNo": " Verse 85",
+      "previous": {
+        "name": "Nīta ",
+        "uid": "thag1.84"
+      },
+      "next": {
+        "name": "Nāgita ",
+        "uid": "thag1.86"
+      }
     }
   ]
 }

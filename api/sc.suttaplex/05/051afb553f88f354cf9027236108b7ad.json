@@ -194,7 +194,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "In the Middle ",
+        "uid": "an6.61"
+      },
+      "next": {
+        "name": "Penetrative ",
+        "uid": "an6.63"
+      }
     }
   ]
 }

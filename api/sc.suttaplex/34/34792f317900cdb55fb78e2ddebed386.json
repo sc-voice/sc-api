@@ -234,7 +234,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Saṅgārava ",
+        "uid": "sn7.21"
+      },
+      "next": {
+        "name": "Renounced ",
+        "uid": "sn8.1"
+      }
     }
   ]
 }

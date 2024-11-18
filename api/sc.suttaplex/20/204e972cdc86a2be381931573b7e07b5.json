@@ -195,7 +195,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 41"
+      "verseNo": " Verse 41",
+      "previous": {
+        "name": "Vaḍḍhamāna ",
+        "uid": "thag1.40"
+      },
+      "next": {
+        "name": "Revata of the Acacia Wood ",
+        "uid": "thag1.42"
+      }
     }
   ]
 }

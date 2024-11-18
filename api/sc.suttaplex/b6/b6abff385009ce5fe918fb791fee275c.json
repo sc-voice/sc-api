@@ -301,7 +301,15 @@
       "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Garden of Delight ",
+        "uid": "sn1.11"
+      },
+      "next": {
+        "name": "There’s Nothing Like a Child ",
+        "uid": "sn1.13"
+      }
     }
   ]
 }

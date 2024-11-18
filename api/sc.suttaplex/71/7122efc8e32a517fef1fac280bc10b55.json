@@ -273,7 +273,15 @@
       "parallel_count": 55,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Pañcālacaṇḍa ",
+        "uid": "sn2.7"
+      },
+      "next": {
+        "name": "The Moon ",
+        "uid": "sn2.9"
+      }
     }
   ]
 }

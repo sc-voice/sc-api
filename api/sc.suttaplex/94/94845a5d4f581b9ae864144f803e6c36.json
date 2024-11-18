@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Slanting East ",
+        "uid": "sn45.115"
+      },
+      "next": {
+        "name": "Slanting to the Ocean ",
+        "uid": "sn45.121"
+      }
     }
   ]
 }

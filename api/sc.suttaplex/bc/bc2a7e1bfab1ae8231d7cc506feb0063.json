@@ -168,7 +168,15 @@
       "parallel_count": 34,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  1018–1050"
+      "verseNo": "Verse  1018–1050",
+      "previous": {
+        "name": "Sāriputta ",
+        "uid": "thag17.2"
+      },
+      "next": {
+        "name": "Mahākassapa ",
+        "uid": "thag18.1"
+      }
     }
   ]
 }

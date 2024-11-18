@@ -423,7 +423,15 @@
       "parallel_count": 11,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Great Classification ",
+        "uid": "mn43"
+      },
+      "next": {
+        "name": "The Shorter Discourse on Taking Up Practices ",
+        "uid": "mn45"
+      }
     }
   ]
 }

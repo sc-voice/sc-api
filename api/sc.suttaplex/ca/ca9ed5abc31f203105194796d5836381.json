@@ -196,7 +196,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 16"
+      "verseNo": " Verse 16",
+      "previous": {
+        "name": "Uttarā (1st) ",
+        "uid": "thig1.15"
+      },
+      "next": {
+        "name": "Dhammā ",
+        "uid": "thig1.17"
+      }
     }
   ]
 }

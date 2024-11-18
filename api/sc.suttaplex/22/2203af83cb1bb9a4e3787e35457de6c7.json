@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Mother ",
+        "uid": "sn17.37"
+      },
+      "next": {
+        "name": "The Eye, Etc. ",
+        "uid": "sn18.1"
+      }
     }
   ]
 }

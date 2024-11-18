@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Wood Blocks ",
+        "uid": "sn20.8"
+      },
+      "next": {
+        "name": "A Cat ",
+        "uid": "sn20.10"
+      }
     }
   ]
 }

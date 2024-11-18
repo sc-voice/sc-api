@@ -273,7 +273,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Devahita ",
+        "uid": "sn7.13"
+      },
+      "next": {
+        "name": "Stuck-Up ",
+        "uid": "sn7.15"
+      }
     }
   ]
 }

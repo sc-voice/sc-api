@@ -207,7 +207,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Self Is Neither Happy Nor Suffering ",
+        "uid": "sn24.44"
+      },
+      "next": {
+        "name": "Etaṁmamādisutta",
+        "uid": "sn24.46-69"
+      }
     }
   ]
 }

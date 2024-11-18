@@ -303,7 +303,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Lion’s Roar at Udumbarikā’s Monastery ",
+        "uid": "dn25"
+      },
+      "next": {
+        "name": "The Origin of the World ",
+        "uid": "dn27"
+      }
     }
   ]
 }

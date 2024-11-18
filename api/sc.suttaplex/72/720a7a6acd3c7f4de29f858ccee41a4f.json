@@ -113,6 +113,20 @@
           "has_comment": false
         },
         {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "Evgenia Evmenenko",
+          "author_short": "narinyanievmenenko",
+          "author_uid": "narinyanievmenenko",
+          "publication_date": "2024",
+          "id": "thag12.1_translation-ru-narinyanievmenenko",
+          "segmented": true,
+          "title": "Силава Тхера ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "si",
           "lang_name": "සිංහල",
           "is_root": false,
@@ -142,7 +156,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  608–619"
+      "verseNo": "Verse  608–619",
+      "previous": {
+        "name": "Saṅkicca ",
+        "uid": "thag11.1"
+      },
+      "next": {
+        "name": "Sunīta ",
+        "uid": "thag12.2"
+      }
     }
   ]
 }

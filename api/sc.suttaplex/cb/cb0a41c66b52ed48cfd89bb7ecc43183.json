@@ -247,7 +247,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Overflowing Merit (1st) ",
+        "uid": "sn55.31"
+      },
+      "next": {
+        "name": "Overflowing Merit (3rd) ",
+        "uid": "sn55.33"
+      }
     }
   ]
 }

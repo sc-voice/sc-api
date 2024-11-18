@@ -247,7 +247,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Accomplishment in Rational Application of Mind ",
+        "uid": "sn45.83"
+      },
+      "next": {
+        "name": "Five Discourses on Accomplishment in Ethics, Etc. ",
+        "uid": "sn45.85-89"
+      }
     }
   ]
 }

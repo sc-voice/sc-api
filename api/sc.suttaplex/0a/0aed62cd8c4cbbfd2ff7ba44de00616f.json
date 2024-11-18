@@ -207,7 +207,15 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Eons ",
+        "uid": "an4.156"
+      },
+      "next": {
+        "name": "Decline ",
+        "uid": "an4.158"
+      }
     }
   ]
 }

@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Mindful ",
+        "uid": "sn47.35"
+      },
+      "next": {
+        "name": "Desire ",
+        "uid": "sn47.37"
+      }
     }
   ]
 }

@@ -221,7 +221,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Who Sakka Worships ",
+        "uid": "sn11.18"
+      },
+      "next": {
+        "name": "Who Sakka Worships ",
+        "uid": "sn11.20"
+      }
     }
   ]
 }

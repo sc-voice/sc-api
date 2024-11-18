@@ -195,7 +195,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Untitled Discourses on the Ear, Etc. ",
+        "uid": "an11.30-69"
+      },
+      "next": {
+        "name": "Untitled Discourses on Eye Consciousness, Etc. ",
+        "uid": "an11.118-165"
+      }
     }
   ]
 }

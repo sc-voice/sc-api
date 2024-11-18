@@ -207,7 +207,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Purity (1st) ",
+        "uid": "an3.120"
+      },
+      "next": {
+        "name": "Sagacity ",
+        "uid": "an3.122"
+      }
     }
   ]
 }

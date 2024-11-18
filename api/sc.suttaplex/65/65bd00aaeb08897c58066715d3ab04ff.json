@@ -465,7 +465,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Heirs in the Teaching ",
+        "uid": "mn3"
+      },
+      "next": {
+        "name": "Unblemished ",
+        "uid": "mn5"
+      }
     }
   ]
 }

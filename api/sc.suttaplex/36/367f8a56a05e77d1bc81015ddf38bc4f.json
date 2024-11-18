@@ -315,7 +315,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Shorter Discourse With Sakuludāyī ",
+        "uid": "mn79"
+      },
+      "next": {
+        "name": "With Ghaṭīkāra ",
+        "uid": "mn81"
+      }
     }
   ]
 }

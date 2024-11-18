@@ -288,7 +288,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Negligence (2nd) ",
+        "uid": "an1.98-139"
+      },
+      "next": {
+        "name": "Non-offense ",
+        "uid": "an1.150-169"
+      }
     }
   ]
 }

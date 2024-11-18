@@ -260,7 +260,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Name and Form ",
+        "uid": "sn12.58"
+      },
+      "next": {
+        "name": "Sources ",
+        "uid": "sn12.60"
+      }
     }
   ]
 }

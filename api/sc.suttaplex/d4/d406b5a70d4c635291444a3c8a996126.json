@@ -233,7 +233,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Urgent ",
+        "uid": "an3.92"
+      },
+      "next": {
+        "name": "Springtime ",
+        "uid": "an3.94"
+      }
     }
   ]
 }

@@ -273,7 +273,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Characteristics of the Conditioned ",
+        "uid": "an3.47"
+      },
+      "next": {
+        "name": "Keen ",
+        "uid": "an3.49"
+      }
     }
   ]
 }

@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  287–290"
+      "verseNo": "Verse  287–290",
+      "previous": {
+        "name": "Jambuka ",
+        "uid": "thag4.5"
+      },
+      "next": {
+        "name": "Sambhūta ",
+        "uid": "thag4.7"
+      }
     }
   ]
 }

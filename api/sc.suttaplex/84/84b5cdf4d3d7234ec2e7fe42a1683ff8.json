@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Assured ",
+        "uid": "sn37.25"
+      },
+      "next": {
+        "name": "Mastered ",
+        "uid": "sn37.27"
+      }
     }
   ]
 }

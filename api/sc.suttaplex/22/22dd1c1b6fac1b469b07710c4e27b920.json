@@ -275,7 +275,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Chapter Three ",
+        "uid": "an1.316-332"
+      },
+      "next": {
+        "name": "Inspiring Qualities ",
+        "uid": "an1.378-393"
+      }
     }
   ]
 }

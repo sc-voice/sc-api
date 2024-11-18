@@ -300,7 +300,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Finger-Snap ",
+        "uid": "an1.51-60"
+      },
+      "next": {
+        "name": "Good Friends ",
+        "uid": "an1.71-81"
+      }
     }
   ]
 }

@@ -195,7 +195,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 32"
+      "verseNo": " Verse 32",
+      "previous": {
+        "name": "Gahvaratīriya ",
+        "uid": "thag1.31"
+      },
+      "next": {
+        "name": "Sopāka (1st) ",
+        "uid": "thag1.33"
+      }
     }
   ]
 }

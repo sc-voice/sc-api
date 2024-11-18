@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Direct Witness ",
+        "uid": "an9.43"
+      },
+      "next": {
+        "name": "Freed Both Ways ",
+        "uid": "an9.45"
+      }
     }
   ]
 }

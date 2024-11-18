@@ -207,7 +207,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Soṇa ",
+        "uid": "an6.55"
+      },
+      "next": {
+        "name": "The Six Classes of Rebirth ",
+        "uid": "an6.57"
+      }
     }
   ]
 }

@@ -221,7 +221,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Day and Night ",
+        "uid": "an6.84"
+      },
+      "next": {
+        "name": "Obstacles ",
+        "uid": "an6.86"
+      }
     }
   ]
 }

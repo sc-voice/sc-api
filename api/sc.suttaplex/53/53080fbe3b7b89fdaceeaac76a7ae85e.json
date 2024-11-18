@@ -195,7 +195,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 29"
+      "verseNo": " Verse 29",
+      "previous": {
+        "name": "Jambugāmikaputta ",
+        "uid": "thag1.28"
+      },
+      "next": {
+        "name": "Uttiya (1st) ",
+        "uid": "thag1.30"
+      }
     }
   ]
 }

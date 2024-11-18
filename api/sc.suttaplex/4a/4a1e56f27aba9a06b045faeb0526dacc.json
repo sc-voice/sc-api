@@ -209,7 +209,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  127–132"
+      "verseNo": "Verse  127–132",
+      "previous": {
+        "name": "Candā ",
+        "uid": "thig5.12"
+      },
+      "next": {
+        "name": "Vāseṭṭhī ",
+        "uid": "thig6.2"
+      }
     }
   ]
 }

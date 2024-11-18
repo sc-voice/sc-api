@@ -208,7 +208,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 7"
+      "verseNo": " Verse 7",
+      "previous": {
+        "name": "Sītavaniya ",
+        "uid": "thag1.6"
+      },
+      "next": {
+        "name": "Vīra ",
+        "uid": "thag1.8"
+      }
     }
   ]
 }

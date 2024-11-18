@@ -260,7 +260,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "An Arrow ",
+        "uid": "sn36.6"
+      },
+      "next": {
+        "name": "The Infirmary (2nd) ",
+        "uid": "sn36.8"
+      }
     }
   ]
 }

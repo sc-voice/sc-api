@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Complete Understanding ",
+        "uid": "sn48.63"
+      },
+      "next": {
+        "name": "Two Fruits ",
+        "uid": "sn48.65"
+      }
     }
   ]
 }

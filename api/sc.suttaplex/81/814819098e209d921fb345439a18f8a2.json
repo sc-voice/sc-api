@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Sky ",
+        "uid": "sn45.155"
+      },
+      "next": {
+        "name": "Storms (2nd) ",
+        "uid": "sn45.157"
+      }
     }
   ]
 }

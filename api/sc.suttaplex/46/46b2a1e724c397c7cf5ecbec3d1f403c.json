@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Gale-force Winds ",
+        "uid": "sn17.9"
+      },
+      "next": {
+        "name": "A Gold Cup ",
+        "uid": "sn17.11"
+      }
     }
   ]
 }

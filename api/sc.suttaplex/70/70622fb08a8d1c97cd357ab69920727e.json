@@ -234,7 +234,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Good Enough ",
+        "uid": "an8.62"
+      },
+      "next": {
+        "name": "At Gayā Head ",
+        "uid": "an8.64"
+      }
     }
   ]
 }

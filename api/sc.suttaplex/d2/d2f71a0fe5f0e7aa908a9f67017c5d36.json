@@ -314,7 +314,15 @@
       "parallel_count": 17,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Fools ",
+        "uid": "an2.21-31"
+      },
+      "next": {
+        "name": "Assemblies ",
+        "uid": "an2.42-51"
+      }
     }
   ]
 }

@@ -367,7 +367,15 @@
       "parallel_count": 45,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Conducive to the Imperturbable ",
+        "uid": "mn106"
+      },
+      "next": {
+        "name": "With Moggallāna the Guardian ",
+        "uid": "mn108"
+      }
     }
   ]
 }

@@ -235,7 +235,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Disciple of the Ājīvakas ",
+        "uid": "an3.72"
+      },
+      "next": {
+        "name": "Jains ",
+        "uid": "an3.74"
+      }
     }
   ]
 }

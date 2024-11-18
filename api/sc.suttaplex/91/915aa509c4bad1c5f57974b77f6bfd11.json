@@ -221,7 +221,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 1"
+      "verseNo": " Verse 1",
+      "previous": {
+        "name": null,
+        "uid": ""
+      },
+      "next": {
+        "name": "Mahākoṭṭhita ",
+        "uid": "thag1.2"
+      }
     }
   ]
 }

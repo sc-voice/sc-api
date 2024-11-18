@@ -195,7 +195,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 57"
+      "verseNo": " Verse 57",
+      "previous": {
+        "name": "Kuṭivihārin (1st) ",
+        "uid": "thag1.56"
+      },
+      "next": {
+        "name": "Ramaṇīyakuṭika ",
+        "uid": "thag1.58"
+      }
     }
   ]
 }

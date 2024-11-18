@@ -207,7 +207,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Beer and Wine ",
+        "uid": "sn56.64"
+      },
+      "next": {
+        "name": "Respect Mother ",
+        "uid": "sn56.66"
+      }
     }
   ]
 }

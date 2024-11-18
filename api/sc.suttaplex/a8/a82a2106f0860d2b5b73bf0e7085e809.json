@@ -220,7 +220,15 @@
       "parallel_count": 18,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Irritable ",
+        "uid": "an7.64"
+      },
+      "next": {
+        "name": "The Seven Suns ",
+        "uid": "an7.66"
+      }
     }
   ]
 }

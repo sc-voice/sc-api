@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Visiting Families ",
+        "uid": "an5.111"
+      },
+      "next": {
+        "name": "Right Immersion ",
+        "uid": "an5.113"
+      }
     }
   ]
 }

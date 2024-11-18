@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Is There a Method? ",
+        "uid": "sn35.153"
+      },
+      "next": {
+        "name": "A Dhamma Speaker ",
+        "uid": "sn35.155"
+      }
     }
   ]
 }

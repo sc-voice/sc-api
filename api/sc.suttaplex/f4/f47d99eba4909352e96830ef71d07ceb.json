@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Self is Formed and Formless ",
+        "uid": "sn24.39"
+      },
+      "next": {
+        "name": "The Self Is Perfectly Happy ",
+        "uid": "sn24.41"
+      }
     }
   ]
 }

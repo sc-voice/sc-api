@@ -207,7 +207,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Discussions ",
+        "uid": "an5.163"
+      },
+      "next": {
+        "name": "Asking Questions ",
+        "uid": "an5.165"
+      }
     }
   ]
 }

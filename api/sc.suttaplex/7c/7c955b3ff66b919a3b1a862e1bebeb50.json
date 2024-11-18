@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Temporarily Free (2nd) ",
+        "uid": "an5.150"
+      },
+      "next": {
+        "name": "Surety in the Right Way (2nd) ",
+        "uid": "an5.152"
+      }
     }
   ]
 }

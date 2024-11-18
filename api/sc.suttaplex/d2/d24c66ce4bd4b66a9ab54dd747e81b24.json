@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Perils (1st) ",
+        "uid": "an4.119"
+      },
+      "next": {
+        "name": "Guilt ",
+        "uid": "an4.121"
+      }
     }
   ]
 }

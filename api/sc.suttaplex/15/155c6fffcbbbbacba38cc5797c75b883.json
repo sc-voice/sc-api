@@ -182,7 +182,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 6"
+      "verseNo": " Verse 6",
+      "previous": {
+        "name": "Dabba ",
+        "uid": "thag1.5"
+      },
+      "next": {
+        "name": "Bhalliya ",
+        "uid": "thag1.7"
+      }
     }
   ]
 }

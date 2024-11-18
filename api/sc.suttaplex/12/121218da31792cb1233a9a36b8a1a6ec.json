@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  228–230"
+      "verseNo": "Verse  228–230",
+      "previous": {
+        "name": "Bākula ",
+        "uid": "thag3.3"
+      },
+      "next": {
+        "name": "Mātaṅgaputta ",
+        "uid": "thag3.5"
+      }
     }
   ]
 }

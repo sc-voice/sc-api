@@ -300,7 +300,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Arousing Energy ",
+        "uid": "an1.61-70"
+      },
+      "next": {
+        "name": "Negligence ",
+        "uid": "an1.82-97"
+      }
     }
   ]
 }

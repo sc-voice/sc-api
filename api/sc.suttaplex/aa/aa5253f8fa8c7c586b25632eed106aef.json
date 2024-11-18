@@ -368,7 +368,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Longer Discourse at Assapura ",
+        "uid": "mn39"
+      },
+      "next": {
+        "name": "The People of Sālā ",
+        "uid": "mn41"
+      }
     }
   ]
 }

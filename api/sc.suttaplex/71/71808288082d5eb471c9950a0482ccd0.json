@@ -207,7 +207,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "By Mahācunda ",
+        "uid": "an10.24"
+      },
+      "next": {
+        "name": "With Kāḷī ",
+        "uid": "an10.26"
+      }
     }
   ]
 }

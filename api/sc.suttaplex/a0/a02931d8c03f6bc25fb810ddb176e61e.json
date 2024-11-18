@@ -314,7 +314,15 @@
       "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Kakudha ",
+        "uid": "sn2.18"
+      },
+      "next": {
+        "name": "With Anāthapiṇḍika ",
+        "uid": "sn2.20"
+      }
     }
   ]
 }

@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Diligence ",
+        "uid": "sn49.13-22"
+      },
+      "next": {
+        "name": "Searches ",
+        "uid": "sn49.35-44"
+      }
     }
   ]
 }

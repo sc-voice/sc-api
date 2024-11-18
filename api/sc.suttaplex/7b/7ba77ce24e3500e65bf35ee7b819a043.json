@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Attaining the Methods of Textual Analysis ",
+        "uid": "an5.86"
+      },
+      "next": {
+        "name": "Senior Mendicants ",
+        "uid": "an5.88"
+      }
     }
   ]
 }

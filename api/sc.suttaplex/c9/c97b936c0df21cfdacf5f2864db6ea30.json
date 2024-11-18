@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  125–126"
+      "verseNo": "Verse  125–126",
+      "previous": {
+        "name": "Bhāradvāja the Alms-Gatherer ",
+        "uid": "thag2.2"
+      },
+      "next": {
+        "name": "Gaṅgātīriya ",
+        "uid": "thag2.4"
+      }
     }
   ]
 }

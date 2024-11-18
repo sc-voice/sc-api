@@ -457,7 +457,15 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Fully Awakened Buddha ",
+        "uid": "sn22.58"
+      },
+      "next": {
+        "name": "With Mahāli ",
+        "uid": "sn22.60"
+      }
     }
   ]
 }

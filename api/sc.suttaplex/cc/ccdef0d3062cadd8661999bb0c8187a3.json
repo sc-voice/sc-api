@@ -220,7 +220,15 @@
       "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Morning ",
+        "uid": "an3.155"
+      },
+      "next": {
+        "name": "Ways of Performing Deeds ",
+        "uid": "an3.163-182"
+      }
     }
   ]
 }

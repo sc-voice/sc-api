@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Interior Was Impermanent in the Past ",
+        "uid": "sn35.186"
+      },
+      "next": {
+        "name": "The Interior Is Impermanent in the Present ",
+        "uid": "sn35.188"
+      }
     }
   ]
 }

@@ -234,7 +234,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With the Householder Tapussa ",
+        "uid": "an9.41"
+      },
+      "next": {
+        "name": "A Direct Witness ",
+        "uid": "an9.43"
+      }
     }
   ]
 }

@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Sex ",
+        "uid": "an7.50"
+      },
+      "next": {
+        "name": "A Very Fruitful Gift ",
+        "uid": "an7.52"
+      }
     }
   ]
 }

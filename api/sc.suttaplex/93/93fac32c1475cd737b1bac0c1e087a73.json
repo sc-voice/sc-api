@@ -234,7 +234,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Vassakāra ",
+        "uid": "an7.22"
+      },
+      "next": {
+        "name": "Non-Decline for Mendicants (2nd) ",
+        "uid": "an7.24"
+      }
     }
   ]
 }

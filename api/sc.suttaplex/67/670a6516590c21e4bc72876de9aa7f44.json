@@ -156,7 +156,15 @@
       "parallel_count": 11,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  264–266"
+      "verseNo": "Verse  264–266",
+      "previous": {
+        "name": "Hārita (2nd) ",
+        "uid": "thag3.15"
+      },
+      "next": {
+        "name": "Nāgasamāla ",
+        "uid": "thag4.1"
+      }
     }
   ]
 }

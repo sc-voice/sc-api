@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Question About Substantial Reality ",
+        "uid": "sn38.15"
+      },
+      "next": {
+        "name": "With Sāmaṇḍaka on Extinguishment ",
+        "uid": "sn39.1-15"
+      }
     }
   ]
 }

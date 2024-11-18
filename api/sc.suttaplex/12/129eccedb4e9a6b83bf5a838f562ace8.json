@@ -274,7 +274,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "In the Form of an Elephant King ",
+        "uid": "sn4.2"
+      },
+      "next": {
+        "name": "Māra’s Snares (1st) ",
+        "uid": "sn4.4"
+      }
     }
   ]
 }

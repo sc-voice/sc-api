@@ -314,7 +314,15 @@
       "parallel_count": 41,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "One by One ",
+        "uid": "mn111"
+      },
+      "next": {
+        "name": "A True Person ",
+        "uid": "mn113"
+      }
     }
   ]
 }

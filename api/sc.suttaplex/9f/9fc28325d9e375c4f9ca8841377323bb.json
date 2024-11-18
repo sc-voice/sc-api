@@ -247,7 +247,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Completely ",
+        "uid": "sn47.27"
+      },
+      "next": {
+        "name": "With Sirivaḍḍha ",
+        "uid": "sn47.29"
+      }
     }
   ]
 }

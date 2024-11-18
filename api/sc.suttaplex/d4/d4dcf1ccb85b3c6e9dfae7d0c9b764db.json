@@ -234,7 +234,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Haven ",
+        "uid": "sn43.44"
+      },
+      "next": {
+        "name": "With Anurādha ",
+        "uid": "sn44.2"
+      }
     }
   ]
 }

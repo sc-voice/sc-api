@@ -234,7 +234,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Several Mendicants (2nd) ",
+        "uid": "sn36.18"
+      },
+      "next": {
+        "name": "A Mendicant ",
+        "uid": "sn36.20"
+      }
     }
   ]
 }

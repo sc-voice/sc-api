@@ -126,6 +126,20 @@
           "has_comment": false
         },
         {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "Evgenia Evmenenko",
+          "author_short": "narinyanievmenenko",
+          "author_uid": "narinyanievmenenko",
+          "publication_date": "2024",
+          "id": "thag16.8_translation-ru-narinyanievmenenko",
+          "segmented": true,
+          "title": "Ангулимала Тхера ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "si",
           "lang_name": "සිංහල",
           "is_root": false,
@@ -155,7 +169,15 @@
       "parallel_count": 61,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  866–891"
+      "verseNo": "Verse  866–891",
+      "previous": {
+        "name": "Kāḷigodhāputtabhaddiya ",
+        "uid": "thag16.7"
+      },
+      "next": {
+        "name": "Anuruddha ",
+        "uid": "thag16.9"
+      }
     }
   ]
 }

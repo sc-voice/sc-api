@@ -260,7 +260,15 @@
       "parallel_count": 23,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Persons ",
+        "uid": "sn3.21"
+      },
+      "next": {
+        "name": "The World ",
+        "uid": "sn3.23"
+      }
     }
   ]
 }

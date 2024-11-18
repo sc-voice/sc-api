@@ -207,7 +207,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "In Private (1st) ",
+        "uid": "sn52.1"
+      },
+      "next": {
+        "name": "On the Bank of the Sutanu ",
+        "uid": "sn52.3"
+      }
     }
   ]
 }

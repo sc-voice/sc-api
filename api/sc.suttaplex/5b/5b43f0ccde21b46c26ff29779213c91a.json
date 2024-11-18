@@ -260,7 +260,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Upavāna ",
+        "uid": "sn12.26"
+      },
+      "next": {
+        "name": "A Mendicant ",
+        "uid": "sn12.28"
+      }
     }
   ]
 }

@@ -247,7 +247,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At Devadaha ",
+        "uid": "sn35.134"
+      },
+      "next": {
+        "name": "Liking Sights (1st) ",
+        "uid": "sn35.136"
+      }
     }
   ]
 }

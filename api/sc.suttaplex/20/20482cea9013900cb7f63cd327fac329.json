@@ -247,7 +247,15 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Cooks ",
+        "uid": "sn47.8"
+      },
+      "next": {
+        "name": "The Nuns’ Quarters ",
+        "uid": "sn47.10"
+      }
     }
   ]
 }

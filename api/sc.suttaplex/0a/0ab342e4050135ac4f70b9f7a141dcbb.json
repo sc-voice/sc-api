@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "One Who Lives Negligently ",
+        "uid": "sn35.97"
+      },
+      "next": {
+        "name": "Immersion ",
+        "uid": "sn35.99"
+      }
     }
   ]
 }

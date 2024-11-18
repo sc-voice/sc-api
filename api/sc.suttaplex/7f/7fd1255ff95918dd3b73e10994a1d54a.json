@@ -207,7 +207,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Silver Pot ",
+        "uid": "sn17.12"
+      },
+      "next": {
+        "name": "A Female ",
+        "uid": "sn17.21"
+      }
     }
   ]
 }

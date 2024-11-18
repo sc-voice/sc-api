@@ -207,7 +207,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Things That Play a Part in Realization ",
+        "uid": "an6.35"
+      },
+      "next": {
+        "name": "A Gift With Six Factors ",
+        "uid": "an6.37"
+      }
     }
   ]
 }

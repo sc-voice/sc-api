@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Layperson ",
+        "uid": "an5.179"
+      },
+      "next": {
+        "name": "Wilderness Dwellers ",
+        "uid": "an5.181"
+      }
     }
   ]
 }

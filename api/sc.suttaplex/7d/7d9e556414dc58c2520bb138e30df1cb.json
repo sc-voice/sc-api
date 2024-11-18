@@ -274,7 +274,15 @@
       "parallel_count": 15,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Six Fields of Contact ",
+        "uid": "sn4.17"
+      },
+      "next": {
+        "name": "A Farmer ",
+        "uid": "sn4.19"
+      }
     }
   ]
 }

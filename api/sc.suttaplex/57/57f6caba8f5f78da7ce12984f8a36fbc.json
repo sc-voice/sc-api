@@ -260,7 +260,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Ignorance is a Condition (2nd) ",
+        "uid": "sn12.36"
+      },
+      "next": {
+        "name": "Intention ",
+        "uid": "sn12.38"
+      }
     }
   ]
 }

@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Best Thing ",
+        "uid": "an6.83"
+      },
+      "next": {
+        "name": "Coolness ",
+        "uid": "an6.85"
+      }
     }
   ]
 }

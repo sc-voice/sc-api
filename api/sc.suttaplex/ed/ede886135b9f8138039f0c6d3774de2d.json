@@ -209,7 +209,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  82–86"
+      "verseNo": "Verse  82–86",
+      "previous": {
+        "name": "Sīhā ",
+        "uid": "thig5.3"
+      },
+      "next": {
+        "name": "Nanduttarā ",
+        "uid": "thig5.5"
+      }
     }
   ]
 }

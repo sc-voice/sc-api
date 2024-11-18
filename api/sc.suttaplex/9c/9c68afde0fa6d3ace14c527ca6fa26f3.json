@@ -207,7 +207,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Eleven Discourses on Māra, Etc. ",
+        "uid": "sn23.35-45"
+      },
+      "next": {
+        "name": "Winds ",
+        "uid": "sn24.1"
+      }
     }
   ]
 }

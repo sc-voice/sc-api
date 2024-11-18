@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Thousand Eons ",
+        "uid": "sn52.11"
+      },
+      "next": {
+        "name": "Clairaudience ",
+        "uid": "sn52.13"
+      }
     }
   ]
 }

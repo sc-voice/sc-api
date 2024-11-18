@@ -156,7 +156,15 @@
       "parallel_count": 23,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  547–556"
+      "verseNo": "Verse  547–556",
+      "previous": {
+        "name": "Ekavihāriya ",
+        "uid": "thag10.2"
+      },
+      "next": {
+        "name": "Cūḷapanthaka ",
+        "uid": "thag10.4"
+      }
     }
   ]
 }

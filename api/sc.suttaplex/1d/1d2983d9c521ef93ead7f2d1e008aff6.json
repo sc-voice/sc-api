@@ -156,7 +156,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  246–248"
+      "verseNo": "Verse  246–248",
+      "previous": {
+        "name": "Yasoja ",
+        "uid": "thag3.9"
+      },
+      "next": {
+        "name": "Upāli ",
+        "uid": "thag3.11"
+      }
     }
   ]
 }

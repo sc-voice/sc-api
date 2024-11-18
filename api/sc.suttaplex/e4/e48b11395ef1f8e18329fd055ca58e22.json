@@ -260,7 +260,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "About Vipassī ",
+        "uid": "sn12.4"
+      },
+      "next": {
+        "name": "Vessabhū ",
+        "uid": "sn12.6"
+      }
     }
   ]
 }

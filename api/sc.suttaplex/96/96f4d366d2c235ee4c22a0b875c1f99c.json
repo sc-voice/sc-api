@@ -194,7 +194,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Fearless ",
+        "uid": "an4.184"
+      },
+      "next": {
+        "name": "Approach ",
+        "uid": "an4.186"
+      }
     }
   ]
 }

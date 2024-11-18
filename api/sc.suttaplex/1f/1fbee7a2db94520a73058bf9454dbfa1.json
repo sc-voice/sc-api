@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Exterior as Suffering ",
+        "uid": "sn35.226"
+      },
+      "next": {
+        "name": "The Ocean (1st) ",
+        "uid": "sn35.228"
+      }
     }
   ]
 }

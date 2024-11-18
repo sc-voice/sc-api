@@ -233,7 +233,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Question About States of Existence ",
+        "uid": "sn38.13"
+      },
+      "next": {
+        "name": "A Question About Substantial Reality ",
+        "uid": "sn38.15"
+      }
     }
   ]
 }

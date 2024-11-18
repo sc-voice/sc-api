@@ -327,7 +327,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Kisāgotamī ",
+        "uid": "sn5.3"
+      },
+      "next": {
+        "name": "With Uppalavaṇṇā ",
+        "uid": "sn5.5"
+      }
     }
   ]
 }

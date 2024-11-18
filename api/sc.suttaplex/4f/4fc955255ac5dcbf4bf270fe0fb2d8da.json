@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Free of Stinginess ",
+        "uid": "sn37.18"
+      },
+      "next": {
+        "name": "Ethical ",
+        "uid": "sn37.20"
+      }
     }
   ]
 }

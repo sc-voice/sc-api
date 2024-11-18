@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Dhamma Speakers ",
+        "uid": "an4.139"
+      },
+      "next": {
+        "name": "Brightness ",
+        "uid": "an4.141"
+      }
     }
   ]
 }

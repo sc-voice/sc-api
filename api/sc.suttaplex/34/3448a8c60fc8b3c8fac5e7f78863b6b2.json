@@ -221,7 +221,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Inspiring All Around: the Absorptions ",
+        "uid": "an10.8"
+      },
+      "next": {
+        "name": "Inspiring All Around: the Three Knowledges ",
+        "uid": "an10.10"
+      }
     }
   ]
 }

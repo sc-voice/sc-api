@@ -220,7 +220,15 @@
       "parallel_count": 24,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Needle Hairs ",
+        "uid": "sn19.8"
+      },
+      "next": {
+        "name": "Pot Balls ",
+        "uid": "sn19.10"
+      }
     }
   ]
 }

@@ -220,7 +220,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "In Conjunction ",
+        "uid": "an4.170"
+      },
+      "next": {
+        "name": "Sāriputta’s Attainment of Textual Analysis ",
+        "uid": "an4.172"
+      }
     }
   ]
 }

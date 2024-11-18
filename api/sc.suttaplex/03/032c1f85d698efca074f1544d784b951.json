@@ -262,7 +262,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Mindfulness of the Body ",
+        "uid": "an1.575-615"
+      },
+      "next": {
+        "name": "Punishments ",
+        "uid": "an2.1-10"
+      }
     }
   ]
 }

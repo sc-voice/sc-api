@@ -260,7 +260,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Kassapa, the Naked Ascetic ",
+        "uid": "sn12.17"
+      },
+      "next": {
+        "name": "The Astute and the Foolish ",
+        "uid": "sn12.19"
+      }
     }
   ]
 }

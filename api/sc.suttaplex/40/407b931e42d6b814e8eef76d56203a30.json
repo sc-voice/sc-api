@@ -220,7 +220,15 @@
       "parallel_count": 10,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Powers ",
+        "uid": "an5.204"
+      },
+      "next": {
+        "name": "Shackles ",
+        "uid": "an5.206"
+      }
     }
   ]
 }

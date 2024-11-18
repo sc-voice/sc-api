@@ -182,7 +182,15 @@
       "parallel_count": 15,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  31–32"
+      "verseNo": "Verse  31–32",
+      "previous": {
+        "name": "Mettikā ",
+        "uid": "thig2.6"
+      },
+      "next": {
+        "name": "To Abhayā’s Mother From Her Daughter ",
+        "uid": "thig2.8"
+      }
     }
   ]
 }

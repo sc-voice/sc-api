@@ -207,7 +207,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "At Thorny Wood (2nd) ",
+        "uid": "sn52.5"
+      },
+      "next": {
+        "name": "The Ending of Craving ",
+        "uid": "sn52.7"
+      }
     }
   ]
 }

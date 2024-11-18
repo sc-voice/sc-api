@@ -259,7 +259,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Kassapa ",
+        "uid": "sn12.9"
+      },
+      "next": {
+        "name": "Fuel ",
+        "uid": "sn12.11"
+      }
     }
   ]
 }

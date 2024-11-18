@@ -233,7 +233,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "No Diversity of Gains ",
+        "uid": "sn14.10"
+      },
+      "next": {
+        "name": "With a Cause ",
+        "uid": "sn14.12"
+      }
     }
   ]
 }

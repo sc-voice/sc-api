@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 89"
+      "verseNo": " Verse 89",
+      "previous": {
+        "name": "Ajjuna ",
+        "uid": "thag1.88"
+      },
+      "next": {
+        "name": "Sāmidatta ",
+        "uid": "thag1.90"
+      }
     }
   ]
 }

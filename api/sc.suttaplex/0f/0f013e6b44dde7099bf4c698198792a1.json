@@ -288,7 +288,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Four Wheels ",
+        "uid": "sn1.29"
+      },
+      "next": {
+        "name": "Virtuous ",
+        "uid": "sn1.31"
+      }
     }
   ]
 }

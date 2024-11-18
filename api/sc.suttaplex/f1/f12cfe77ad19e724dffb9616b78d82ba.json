@@ -247,7 +247,15 @@
       "parallel_count": 47,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With the Divinity Tudu ",
+        "uid": "sn6.9"
+      },
+      "next": {
+        "name": "With Sanaṅkumāra ",
+        "uid": "sn6.11"
+      }
     }
   ]
 }

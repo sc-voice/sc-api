@@ -247,7 +247,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Teacher ",
+        "uid": "sn12.82"
+      },
+      "next": {
+        "name": "Sets of Eleven on Training, Etc. ",
+        "uid": "sn12.93-213"
+      }
     }
   ]
 }

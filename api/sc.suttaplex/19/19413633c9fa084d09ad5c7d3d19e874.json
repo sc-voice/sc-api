@@ -234,7 +234,15 @@
       "parallel_count": 67,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Missed Out ",
+        "uid": "sn45.33"
+      },
+      "next": {
+        "name": "The Ascetic Life (1st) ",
+        "uid": "sn45.35"
+      }
     }
   ]
 }

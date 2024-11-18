@@ -260,7 +260,15 @@
       "parallel_count": 11,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Be Your Own Island ",
+        "uid": "sn22.43"
+      },
+      "next": {
+        "name": "Impermanence ",
+        "uid": "sn22.45"
+      }
     }
   ]
 }

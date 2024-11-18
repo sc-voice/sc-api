@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 63"
+      "verseNo": " Verse 63",
+      "previous": {
+        "name": "Vajjiputta (1st) ",
+        "uid": "thag1.62"
+      },
+      "next": {
+        "name": "Vimalakoṇḍañña ",
+        "uid": "thag1.64"
+      }
     }
   ]
 }

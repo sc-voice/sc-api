@@ -233,7 +233,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Both Kinds of Deeds (2nd–4th) ",
+        "uid": "sn30.4-6"
+      },
+      "next": {
+        "name": "How Giving Helps to Become Womb-Born, Etc. ",
+        "uid": "sn30.17-46"
+      }
     }
   ]
 }

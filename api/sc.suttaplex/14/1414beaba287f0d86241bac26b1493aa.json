@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Things ",
+        "uid": "sn37.32"
+      },
+      "next": {
+        "name": "Growth ",
+        "uid": "sn37.34"
+      }
     }
   ]
 }

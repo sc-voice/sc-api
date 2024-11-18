@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With the Wanderer Sajjha ",
+        "uid": "an9.8"
+      },
+      "next": {
+        "name": "Worthy of Offerings Dedicated to the Gods ",
+        "uid": "an9.10"
+      }
     }
   ]
 }

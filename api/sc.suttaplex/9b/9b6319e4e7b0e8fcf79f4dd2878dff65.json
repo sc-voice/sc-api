@@ -233,7 +233,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Sikhī ",
+        "uid": "sn12.5"
+      },
+      "next": {
+        "name": "Kakusandha ",
+        "uid": "sn12.7"
+      }
     }
   ]
 }

@@ -248,7 +248,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Without Completely Understanding (1st) ",
+        "uid": "sn35.26"
+      },
+      "next": {
+        "name": "Burning ",
+        "uid": "sn35.28"
+      }
     }
   ]
 }

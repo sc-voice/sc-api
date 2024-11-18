@@ -235,7 +235,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  51–53"
+      "verseNo": "Verse  51–53",
+      "previous": {
+        "name": "Dantikā ",
+        "uid": "thig3.4"
+      },
+      "next": {
+        "name": "Sukkā ",
+        "uid": "thig3.6"
+      }
     }
   ]
 }

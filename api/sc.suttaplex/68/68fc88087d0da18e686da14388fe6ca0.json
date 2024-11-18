@@ -221,7 +221,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The War Between the Gods and the Titans ",
+        "uid": "an9.39"
+      },
+      "next": {
+        "name": "With the Householder Tapussa ",
+        "uid": "an9.41"
+      }
     }
   ]
 }

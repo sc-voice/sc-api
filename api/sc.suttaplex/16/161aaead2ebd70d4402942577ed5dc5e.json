@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Senior Mendicants ",
+        "uid": "an5.88"
+      },
+      "next": {
+        "name": "A Trainee (2nd) ",
+        "uid": "an5.90"
+      }
     }
   ]
 }

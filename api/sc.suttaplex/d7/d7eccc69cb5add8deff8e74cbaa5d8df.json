@@ -233,7 +233,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Renounced ",
+        "uid": "sn8.1"
+      },
+      "next": {
+        "name": "Good-Hearted ",
+        "uid": "sn8.3"
+      }
     }
   ]
 }

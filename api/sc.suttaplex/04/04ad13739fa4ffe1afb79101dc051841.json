@@ -207,7 +207,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Visit to the Gods (2nd) ",
+        "uid": "sn55.19"
+      },
+      "next": {
+        "name": "With Mahānāma (1st) ",
+        "uid": "sn55.21"
+      }
     }
   ]
 }

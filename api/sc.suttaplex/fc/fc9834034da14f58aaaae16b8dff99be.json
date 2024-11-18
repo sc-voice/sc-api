@@ -247,7 +247,15 @@
       "parallel_count": 7,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Growth ",
+        "uid": "sn46.36"
+      },
+      "next": {
+        "name": "Without Obstacles ",
+        "uid": "sn46.38"
+      }
     }
   ]
 }

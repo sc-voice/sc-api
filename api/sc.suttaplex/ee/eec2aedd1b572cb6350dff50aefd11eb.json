@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Kinds of Sensual Stimulation ",
+        "uid": "sn45.176"
+      },
+      "next": {
+        "name": "Grasping Aggregates ",
+        "uid": "sn45.178"
+      }
     }
   ]
 }

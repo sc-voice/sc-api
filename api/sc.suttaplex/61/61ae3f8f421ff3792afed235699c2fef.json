@@ -247,7 +247,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Duality (1st) ",
+        "uid": "sn35.92"
+      },
+      "next": {
+        "name": "Untamed, Unguarded ",
+        "uid": "sn35.94"
+      }
     }
   ]
 }

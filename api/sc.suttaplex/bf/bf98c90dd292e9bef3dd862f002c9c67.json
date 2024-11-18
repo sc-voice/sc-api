@@ -260,7 +260,15 @@
       "parallel_count": 7,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "It’s Not Yours ",
+        "uid": "sn22.33"
+      },
+      "next": {
+        "name": "A Mendicant ",
+        "uid": "sn22.35"
+      }
     }
   ]
 }

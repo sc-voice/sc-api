@@ -327,7 +327,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Longer Discourse on the Full-Moon Night ",
+        "uid": "mn109"
+      },
+      "next": {
+        "name": "One by One ",
+        "uid": "mn111"
+      }
     }
   ]
 }

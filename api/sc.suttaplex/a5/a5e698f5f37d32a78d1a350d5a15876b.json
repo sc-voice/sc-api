@@ -247,7 +247,15 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Heap of the Skillful ",
+        "uid": "sn47.45"
+      },
+      "next": {
+        "name": "Bad Conduct ",
+        "uid": "sn47.47"
+      }
     }
   ]
 }

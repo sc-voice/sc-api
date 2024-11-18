@@ -233,7 +233,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Suffering ",
+        "uid": "sn22.104"
+      },
+      "next": {
+        "name": "Should Be Completely Understood ",
+        "uid": "sn22.106"
+      }
     }
   ]
 }

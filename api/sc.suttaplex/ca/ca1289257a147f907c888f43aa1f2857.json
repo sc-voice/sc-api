@@ -207,7 +207,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Divisive Speech ",
+        "uid": "sn56.75"
+      },
+      "next": {
+        "name": "Nonsense ",
+        "uid": "sn56.77"
+      }
     }
   ]
 }

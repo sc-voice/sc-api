@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Failures for a Lay Follower ",
+        "uid": "an7.30"
+      },
+      "next": {
+        "name": "Respect for Diligence ",
+        "uid": "an7.32"
+      }
     }
   ]
 }

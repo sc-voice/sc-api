@@ -169,7 +169,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  179–180"
+      "verseNo": "Verse  179–180",
+      "previous": {
+        "name": "Bhāradvāja ",
+        "uid": "thag2.29"
+      },
+      "next": {
+        "name": "Migasira ",
+        "uid": "thag2.31"
+      }
     }
   ]
 }

@@ -156,7 +156,15 @@
       "parallel_count": 39,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  399–404"
+      "verseNo": "Verse  399–404",
+      "previous": {
+        "name": "Kulla ",
+        "uid": "thag6.4"
+      },
+      "next": {
+        "name": "Sappadāsa ",
+        "uid": "thag6.6"
+      }
     }
   ]
 }

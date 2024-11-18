@@ -207,7 +207,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Bhaddiya ",
+        "uid": "sn55.48"
+      },
+      "next": {
+        "name": "Factors ",
+        "uid": "sn55.50"
+      }
     }
   ]
 }

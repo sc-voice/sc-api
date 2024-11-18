@@ -233,7 +233,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Not Knowing Choices ",
+        "uid": "sn33.4"
+      },
+      "next": {
+        "name": "Five Discourses on Not Seeing Form, Etc. ",
+        "uid": "sn33.6-10"
+      }
     }
   ]
 }

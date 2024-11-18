@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Sixth Discourse on Slanting East ",
+        "uid": "sn45.96"
+      },
+      "next": {
+        "name": "Five Discourses on Slanting to the Ocean ",
+        "uid": "sn45.98-102"
+      }
     }
   ]
 }

@@ -301,7 +301,15 @@
       "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Time Flies ",
+        "uid": "sn1.4"
+      },
+      "next": {
+        "name": "Awake ",
+        "uid": "sn1.6"
+      }
     }
   ]
 }

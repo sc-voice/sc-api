@@ -169,7 +169,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  151–152"
+      "verseNo": "Verse  151–152",
+      "previous": {
+        "name": "Sabbamitta ",
+        "uid": "thag2.15"
+      },
+      "next": {
+        "name": "Tissa (3rd) ",
+        "uid": "thag2.17"
+      }
     }
   ]
 }

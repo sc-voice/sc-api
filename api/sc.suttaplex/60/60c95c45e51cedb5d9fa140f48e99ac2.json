@@ -233,7 +233,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A One-Seeder ",
+        "uid": "sn48.24"
+      },
+      "next": {
+        "name": "A Stream-Enterer ",
+        "uid": "sn48.26"
+      }
     }
   ]
 }

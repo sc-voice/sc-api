@@ -247,7 +247,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Dangers ",
+        "uid": "an10.92"
+      },
+      "next": {
+        "name": "With Vajjiyamāhita ",
+        "uid": "an10.94"
+      }
     }
   ]
 }

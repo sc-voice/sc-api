@@ -195,7 +195,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 21"
+      "verseNo": " Verse 21",
+      "previous": {
+        "name": "Ajita ",
+        "uid": "thag1.20"
+      },
+      "next": {
+        "name": "Cittaka ",
+        "uid": "thag1.22"
+      }
     }
   ]
 }

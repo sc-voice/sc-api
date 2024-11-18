@@ -233,7 +233,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "This Is My Self ",
+        "uid": "sn22.152"
+      },
+      "next": {
+        "name": "Wrong View ",
+        "uid": "sn22.154"
+      }
     }
   ]
 }

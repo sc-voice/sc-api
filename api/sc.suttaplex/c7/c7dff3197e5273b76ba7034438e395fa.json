@@ -182,7 +182,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  169–174"
+      "verseNo": "Verse  169–174",
+      "previous": {
+        "name": "Guttā ",
+        "uid": "thig6.7"
+      },
+      "next": {
+        "name": "Uttarā (2nd) ",
+        "uid": "thig7.1"
+      }
     }
   ]
 }

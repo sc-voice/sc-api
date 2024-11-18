@@ -168,7 +168,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Should Be Recollected ",
+        "uid": "an10.197"
+      },
+      "next": {
+        "name": "Should Not Associate, Etc. ",
+        "uid": "an10.199-210"
+      }
     }
   ]
 }

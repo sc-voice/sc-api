@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Billabong ",
+        "uid": "an4.178"
+      },
+      "next": {
+        "name": "The Four Great References ",
+        "uid": "an4.180"
+      }
     }
   ]
 }

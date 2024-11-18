@@ -328,7 +328,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Fond of Conceit ",
+        "uid": "sn1.9"
+      },
+      "next": {
+        "name": "The Garden of Delight ",
+        "uid": "sn1.11"
+      }
     }
   ]
 }

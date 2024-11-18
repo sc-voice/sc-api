@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Deceivers ",
+        "uid": "an4.26"
+      },
+      "next": {
+        "name": "The Noble Traditions ",
+        "uid": "an4.28"
+      }
     }
   ]
 }

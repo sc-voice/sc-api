@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  417–422"
+      "verseNo": "Verse  417–422",
+      "previous": {
+        "name": "Kātiyāna ",
+        "uid": "thag6.7"
+      },
+      "next": {
+        "name": "Jenta, the High Priest’s Son ",
+        "uid": "thag6.9"
+      }
     }
   ]
 }

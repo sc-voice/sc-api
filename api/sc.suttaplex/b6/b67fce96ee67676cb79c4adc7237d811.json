@@ -247,7 +247,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A River ",
+        "uid": "sn22.93"
+      },
+      "next": {
+        "name": "A Lump of Foam ",
+        "uid": "sn22.95"
+      }
     }
   ]
 }

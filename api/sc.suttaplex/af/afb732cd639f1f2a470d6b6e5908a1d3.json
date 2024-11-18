@@ -290,7 +290,15 @@
       "parallel_count": 51,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Lohicca ",
+        "uid": "dn12"
+      },
+      "next": {
+        "name": "The Great Discourse on Traces Left Behind ",
+        "uid": "dn14"
+      }
     }
   ]
 }

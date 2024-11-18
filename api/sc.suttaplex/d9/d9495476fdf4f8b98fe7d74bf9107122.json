@@ -220,7 +220,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Training (2nd) ",
+        "uid": "an3.87"
+      },
+      "next": {
+        "name": "Three Trainings (1st) ",
+        "uid": "an3.89"
+      }
     }
   ]
 }

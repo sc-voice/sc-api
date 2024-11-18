@@ -221,7 +221,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Vital Conditions (2nd) ",
+        "uid": "an10.4"
+      },
+      "next": {
+        "name": "Immersion ",
+        "uid": "an10.6"
+      }
     }
   ]
 }

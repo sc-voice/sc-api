@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Five Precepts ",
+        "uid": "sn37.24"
+      },
+      "next": {
+        "name": "Under Her Thumb ",
+        "uid": "sn37.26"
+      }
     }
   ]
 }

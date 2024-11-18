@@ -262,7 +262,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Sectarian Tenets ",
+        "uid": "an3.61"
+      },
+      "next": {
+        "name": "At Venāgapura ",
+        "uid": "an3.63"
+      }
     }
   ]
 }

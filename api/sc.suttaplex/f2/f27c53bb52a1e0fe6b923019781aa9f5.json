@@ -207,7 +207,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Three on Projection and Carefulness ",
+        "uid": "sn34.50-52"
+      },
+      "next": {
+        "name": "Persistence and What’s Conducive ",
+        "uid": "sn34.55"
+      }
     }
   ]
 }

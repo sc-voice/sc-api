@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "You Should Associate ",
+        "uid": "an10.155"
+      },
+      "next": {
+        "name": "The Brahmin Ceremony of Descent ",
+        "uid": "an10.167"
+      }
     }
   ]
 }

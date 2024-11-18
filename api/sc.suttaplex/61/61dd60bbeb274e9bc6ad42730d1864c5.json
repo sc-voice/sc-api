@@ -341,7 +341,15 @@
       "parallel_count": 16,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Ānanda and One Fine Night ",
+        "uid": "mn132"
+      },
+      "next": {
+        "name": "Lomasakaṅgiya and One Fine Night ",
+        "uid": "mn134"
+      }
     }
   ]
 }

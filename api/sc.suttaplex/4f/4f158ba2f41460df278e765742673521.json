@@ -209,7 +209,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  157–162"
+      "verseNo": "Verse  157–162",
+      "previous": {
+        "name": "Anopamā ",
+        "uid": "thig6.5"
+      },
+      "next": {
+        "name": "Guttā ",
+        "uid": "thig6.7"
+      }
     }
   ]
 }

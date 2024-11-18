@@ -221,7 +221,15 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Delightful ",
+        "uid": "sn11.15"
+      },
+      "next": {
+        "name": "Homage to the Buddha ",
+        "uid": "sn11.17"
+      }
     }
   ]
 }

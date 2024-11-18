@@ -234,7 +234,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Explanation on the Festering ",
+        "uid": "sn35.243"
+      },
+      "next": {
+        "name": "The Simile of the Parrot Tree ",
+        "uid": "sn35.245"
+      }
     }
   ]
 }

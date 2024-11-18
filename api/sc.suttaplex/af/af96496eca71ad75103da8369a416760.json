@@ -182,7 +182,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  27–28"
+      "verseNo": "Verse  27–28",
+      "previous": {
+        "name": "Aḍḍhakāsi ",
+        "uid": "thig2.4"
+      },
+      "next": {
+        "name": "Mettikā ",
+        "uid": "thig2.6"
+      }
     }
   ]
 }

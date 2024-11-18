@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Rādha on Impermanence ",
+        "uid": "sn35.76"
+      },
+      "next": {
+        "name": "With Rādha on Not-Self ",
+        "uid": "sn35.78"
+      }
     }
   ]
 }

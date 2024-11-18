@@ -233,7 +233,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Kappa (2nd) ",
+        "uid": "sn22.125"
+      },
+      "next": {
+        "name": "Liable To Originate (2nd) ",
+        "uid": "sn22.127"
+      }
     }
   ]
 }

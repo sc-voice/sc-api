@@ -259,7 +259,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Things Prone To Being Fettered ",
+        "uid": "sn22.120"
+      },
+      "next": {
+        "name": "An Ethical Mendicant ",
+        "uid": "sn22.122"
+      }
     }
   ]
 }

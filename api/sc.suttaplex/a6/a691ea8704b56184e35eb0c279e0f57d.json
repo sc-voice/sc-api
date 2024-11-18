@@ -260,7 +260,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Dangers and Threats (2nd) ",
+        "uid": "sn12.42"
+      },
+      "next": {
+        "name": "The World ",
+        "uid": "sn12.44"
+      }
     }
   ]
 }

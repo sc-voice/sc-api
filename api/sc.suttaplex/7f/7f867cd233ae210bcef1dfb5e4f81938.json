@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Equanimity ",
+        "uid": "sn28.4"
+      },
+      "next": {
+        "name": "The Dimension of Infinite Consciousness ",
+        "uid": "sn28.6"
+      }
     }
   ]
 }

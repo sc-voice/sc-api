@@ -396,7 +396,15 @@
       "parallel_count": 56,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Many Kinds of Feeling ",
+        "uid": "mn59"
+      },
+      "next": {
+        "name": "Advice to Rāhula at Ambalaṭṭhika ",
+        "uid": "mn61"
+      }
     }
   ]
 }

@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 88"
+      "verseNo": " Verse 88",
+      "previous": {
+        "name": "Paviṭṭha ",
+        "uid": "thag1.87"
+      },
+      "next": {
+        "name": "Devasabha (1st) ",
+        "uid": "thag1.89"
+      }
     }
   ]
 }

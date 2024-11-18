@@ -247,7 +247,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Bāhiya ",
+        "uid": "sn35.89"
+      },
+      "next": {
+        "name": "Turbulence (2nd) ",
+        "uid": "sn35.91"
+      }
     }
   ]
 }

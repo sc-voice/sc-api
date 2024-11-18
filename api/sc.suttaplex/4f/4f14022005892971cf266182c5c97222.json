@@ -259,7 +259,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Good-Hearted ",
+        "uid": "sn8.3"
+      },
+      "next": {
+        "name": "Well-Spoken Words ",
+        "uid": "sn8.5"
+      }
     }
   ]
 }

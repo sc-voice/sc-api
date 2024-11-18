@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Declarations ",
+        "uid": "an5.93"
+      },
+      "next": {
+        "name": "Unshakable ",
+        "uid": "an5.95"
+      }
     }
   ]
 }

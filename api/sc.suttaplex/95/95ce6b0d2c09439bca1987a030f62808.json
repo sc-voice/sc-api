@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Future Perils (4th) ",
+        "uid": "an5.80"
+      },
+      "next": {
+        "name": "Free of Greed ",
+        "uid": "an5.82"
+      }
     }
   ]
 }

@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 110"
+      "verseNo": " Verse 110",
+      "previous": {
+        "name": "Saṅgharakkhita ",
+        "uid": "thag1.109"
+      },
+      "next": {
+        "name": "Jenta ",
+        "uid": "thag1.111"
+      }
     }
   ]
 }

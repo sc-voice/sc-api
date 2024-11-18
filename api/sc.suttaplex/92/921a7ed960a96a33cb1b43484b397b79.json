@@ -207,7 +207,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Footprints of the Gods (1st) ",
+        "uid": "sn55.34"
+      },
+      "next": {
+        "name": "In Common With the Gods ",
+        "uid": "sn55.36"
+      }
     }
   ]
 }

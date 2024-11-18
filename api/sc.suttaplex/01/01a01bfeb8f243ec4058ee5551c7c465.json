@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Come to a Conclusion ",
+        "uid": "an10.63"
+      },
+      "next": {
+        "name": "Happiness (1st) ",
+        "uid": "an10.65"
+      }
     }
   ]
 }

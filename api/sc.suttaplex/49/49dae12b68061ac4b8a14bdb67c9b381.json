@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  201–202"
+      "verseNo": "Verse  201–202",
+      "previous": {
+        "name": "Kappaṭakura ",
+        "uid": "thag2.40"
+      },
+      "next": {
+        "name": "Dhammapāla ",
+        "uid": "thag2.42"
+      }
     }
   ]
 }

@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Approach ",
+        "uid": "an4.186"
+      },
+      "next": {
+        "name": "With Upaka ",
+        "uid": "an4.188"
+      }
     }
   ]
 }

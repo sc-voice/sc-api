@@ -274,7 +274,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Two Brahmins (1st) ",
+        "uid": "an3.51"
+      },
+      "next": {
+        "name": "A Certain Brahmin ",
+        "uid": "an3.53"
+      }
     }
   ]
 }

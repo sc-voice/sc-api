@@ -234,7 +234,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Serenity and Discernment ",
+        "uid": "sn43.2"
+      },
+      "next": {
+        "name": "Emptiness Immersion ",
+        "uid": "sn43.4"
+      }
     }
   ]
 }

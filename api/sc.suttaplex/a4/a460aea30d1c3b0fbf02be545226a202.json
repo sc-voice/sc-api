@@ -260,7 +260,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Samiddhi’s Question About the World ",
+        "uid": "sn35.68"
+      },
+      "next": {
+        "name": "Upavāna on What is Apparent in the Present Life ",
+        "uid": "sn35.70"
+      }
     }
   ]
 }

@@ -327,7 +327,15 @@
       "parallel_count": 7,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Selā ",
+        "uid": "sn5.9"
+      },
+      "next": {
+        "name": "The Appeal of the Divinity ",
+        "uid": "sn6.1"
+      }
     }
   ]
 }

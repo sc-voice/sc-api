@@ -313,7 +313,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Perils ",
+        "uid": "an3.1"
+      },
+      "next": {
+        "name": "Thinking ",
+        "uid": "an3.3"
+      }
     }
   ]
 }

@@ -291,7 +291,15 @@
       "parallel_count": 42,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Mahāli ",
+        "uid": "dn6"
+      },
+      "next": {
+        "name": "The Longer Discourse on the Lion’s Roar ",
+        "uid": "dn8"
+      }
     }
   ]
 }

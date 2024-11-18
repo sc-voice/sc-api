@@ -220,7 +220,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Guilt ",
+        "uid": "an4.121"
+      },
+      "next": {
+        "name": "Difference (1st) ",
+        "uid": "an4.123"
+      }
     }
   ]
 }

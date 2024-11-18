@@ -194,7 +194,15 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Pleasing ",
+        "uid": "an4.240"
+      },
+      "next": {
+        "name": "Benefits of Relying on a True Person ",
+        "uid": "an4.242"
+      }
     }
   ]
 }

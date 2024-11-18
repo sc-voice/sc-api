@@ -300,7 +300,15 @@
       "parallel_count": 9,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Sleeping ",
+        "uid": "sn4.7"
+      },
+      "next": {
+        "name": "Life Span (1st) ",
+        "uid": "sn4.9"
+      }
     }
   ]
 }

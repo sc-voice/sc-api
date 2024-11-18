@@ -369,7 +369,15 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Longer Discourse With Saccaka ",
+        "uid": "mn36"
+      },
+      "next": {
+        "name": "The Longer Discourse on the Ending of Craving ",
+        "uid": "mn38"
+      }
     }
   ]
 }

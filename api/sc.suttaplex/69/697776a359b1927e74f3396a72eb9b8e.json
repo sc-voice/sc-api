@@ -207,7 +207,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Missed Out ",
+        "uid": "sn51.2"
+      },
+      "next": {
+        "name": "Disillusionment ",
+        "uid": "sn51.4"
+      }
     }
   ]
 }

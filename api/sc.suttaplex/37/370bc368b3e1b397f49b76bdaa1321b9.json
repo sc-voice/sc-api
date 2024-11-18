@@ -207,7 +207,15 @@
       "parallel_count": 14,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "About Sarakāni the Sakyan (2nd) ",
+        "uid": "sn55.25"
+      },
+      "next": {
+        "name": "With Anāthapiṇḍika (2nd) ",
+        "uid": "sn55.27"
+      }
     }
   ]
 }

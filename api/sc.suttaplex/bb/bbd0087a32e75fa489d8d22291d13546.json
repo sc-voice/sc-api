@@ -247,7 +247,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Saṅgārava ",
+        "uid": "sn46.55"
+      },
+      "next": {
+        "name": "A Skeleton ",
+        "uid": "sn46.57"
+      }
     }
   ]
 }

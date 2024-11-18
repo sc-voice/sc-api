@@ -208,7 +208,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Visākhā on the Agreeable Gods ",
+        "uid": "an8.47"
+      },
+      "next": {
+        "name": "Winning in This Life (1st) ",
+        "uid": "an8.49"
+      }
     }
   ]
 }

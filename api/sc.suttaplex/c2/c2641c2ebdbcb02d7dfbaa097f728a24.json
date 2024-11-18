@@ -274,7 +274,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Godhika ",
+        "uid": "sn4.23"
+      },
+      "next": {
+        "name": "Māra’s Daughters ",
+        "uid": "sn4.25"
+      }
     }
   ]
 }

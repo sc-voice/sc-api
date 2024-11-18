@@ -220,7 +220,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Plain Version ",
+        "uid": "sn29.1"
+      },
+      "next": {
+        "name": "Sabbath ",
+        "uid": "sn29.3"
+      }
     }
   ]
 }

@@ -194,7 +194,15 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Son ",
+        "uid": "an4.87"
+      },
+      "next": {
+        "name": "Right View ",
+        "uid": "an4.89"
+      }
     }
   ]
 }

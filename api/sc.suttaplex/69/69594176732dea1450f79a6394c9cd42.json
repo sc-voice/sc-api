@@ -342,7 +342,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The People of Sālā ",
+        "uid": "mn41"
+      },
+      "next": {
+        "name": "The Great Classification ",
+        "uid": "mn43"
+      }
     }
   ]
 }

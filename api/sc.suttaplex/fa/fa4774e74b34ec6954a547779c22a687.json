@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 87"
+      "verseNo": " Verse 87",
+      "previous": {
+        "name": "Nāgita ",
+        "uid": "thag1.86"
+      },
+      "next": {
+        "name": "Ajjuna ",
+        "uid": "thag1.88"
+      }
     }
   ]
 }

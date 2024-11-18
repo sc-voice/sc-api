@@ -260,7 +260,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "A Resident Pupil ",
+        "uid": "sn35.151"
+      },
+      "next": {
+        "name": "Is There a Method? ",
+        "uid": "sn35.153"
+      }
     }
   ]
 }

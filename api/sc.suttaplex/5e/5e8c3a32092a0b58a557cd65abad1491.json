@@ -169,7 +169,15 @@
       "parallel_count": 14,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 11"
+      "verseNo": " Verse 11",
+      "previous": {
+        "name": "Puṇṇamāsa (1st) ",
+        "uid": "thag1.10"
+      },
+      "next": {
+        "name": "Mahāvaccha ",
+        "uid": "thag1.12"
+      }
     }
   ]
 }

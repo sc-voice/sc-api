@@ -233,7 +233,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Giving Up Desire (2nd) ",
+        "uid": "sn22.112"
+      },
+      "next": {
+        "name": "Knowledge ",
+        "uid": "sn22.114"
+      }
     }
   ]
 }

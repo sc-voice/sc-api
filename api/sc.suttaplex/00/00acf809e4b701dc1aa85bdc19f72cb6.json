@@ -196,7 +196,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 9"
+      "verseNo": " Verse 9",
+      "previous": {
+        "name": "Mittā (1st) ",
+        "uid": "thig1.8"
+      },
+      "next": {
+        "name": "Upasamā ",
+        "uid": "thig1.10"
+      }
     }
   ]
 }

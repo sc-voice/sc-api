@@ -287,7 +287,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Negligence ",
+        "uid": "an1.82-97"
+      },
+      "next": {
+        "name": "Not the Teaching ",
+        "uid": "an1.140-149"
+      }
     }
   ]
 }

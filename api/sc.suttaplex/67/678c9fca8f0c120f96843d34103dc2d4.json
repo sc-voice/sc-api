@@ -247,7 +247,15 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Seven Suns ",
+        "uid": "an7.66"
+      },
+      "next": {
+        "name": "One Who Knows the Teachings ",
+        "uid": "an7.68"
+      }
     }
   ]
 }

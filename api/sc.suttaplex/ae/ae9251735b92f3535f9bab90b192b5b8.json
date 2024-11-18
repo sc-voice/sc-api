@@ -290,7 +290,15 @@
       "parallel_count": 158,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "The Āṭānāṭiya Protection ",
+        "uid": "dn32"
+      },
+      "next": {
+        "name": "Up to Ten ",
+        "uid": "dn34"
+      }
     }
   ]
 }

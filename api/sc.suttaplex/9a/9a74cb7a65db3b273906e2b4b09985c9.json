@@ -194,7 +194,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Suffering ",
+        "uid": "an6.75"
+      },
+      "next": {
+        "name": "Superhuman States ",
+        "uid": "an6.77"
+      }
     }
   ]
 }

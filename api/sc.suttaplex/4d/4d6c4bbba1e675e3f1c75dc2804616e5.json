@@ -437,7 +437,15 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Fear and Dread ",
+        "uid": "mn4"
+      },
+      "next": {
+        "name": "One Might Wish ",
+        "uid": "mn6"
+      }
     }
   ]
 }

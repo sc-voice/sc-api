@@ -260,7 +260,15 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Splitting Hairs ",
+        "uid": "sn56.45"
+      },
+      "next": {
+        "name": "A Yoke With a Hole (1st) ",
+        "uid": "sn56.47"
+      }
     }
   ]
 }

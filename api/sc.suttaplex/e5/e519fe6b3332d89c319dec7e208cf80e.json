@@ -369,7 +369,15 @@
       "parallel_count": 71,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "With Māgaṇḍiya ",
+        "uid": "mn75"
+      },
+      "next": {
+        "name": "The Longer Discourse with Sakuludāyī ",
+        "uid": "mn77"
+      }
     }
   ]
 }

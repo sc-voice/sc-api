@@ -247,7 +247,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": ""
+      "verseNo": "",
+      "previous": {
+        "name": "Lower Fetters ",
+        "uid": "sn45.179"
+      },
+      "next": {
+        "name": "The Himalaya ",
+        "uid": "sn46.1"
+      }
     }
   ]
 }

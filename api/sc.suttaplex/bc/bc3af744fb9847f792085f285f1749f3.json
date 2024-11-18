@@ -156,7 +156,15 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 119"
+      "verseNo": " Verse 119",
+      "previous": {
+        "name": "Kimbila (1st) ",
+        "uid": "thag1.118"
+      },
+      "next": {
+        "name": "Isidatta ",
+        "uid": "thag1.120"
+      }
     }
   ]
 }
