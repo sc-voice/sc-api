@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Life Span (2nd) ",
+      "translated_title": "Lifespan (2nd) ",
       "translations": [
         {
           "lang": "pli",
@@ -95,7 +95,7 @@
           "publication_date": "2018",
           "id": "sn4.10_translation-en-sujato",
           "segmented": true,
-          "title": "Life Span (2nd) ",
+          "title": "Lifespan (2nd) ",
           "volpage": null,
           "has_comment": false
         },
@@ -276,7 +276,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Life Span (1st) ",
+        "name": "Lifespan (1st) ",
         "uid": "sn4.9"
       },
       "next": {

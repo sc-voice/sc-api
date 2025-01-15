@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "A True Person (1st) ",
+      "translated_title": "An Untrue Person (1st) ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "sn45.25_translation-en-sujato",
           "segmented": true,
-          "title": "A True Person (1st) ",
+          "title": "An Untrue Person (1st) ",
           "volpage": null,
           "has_comment": false
         },
@@ -253,7 +253,7 @@
         "uid": "sn45.24"
       },
       "next": {
-        "name": "A True Person (2nd) ",
+        "name": "An Untrue Person (2nd) ",
         "uid": "sn45.26"
       }
     }
