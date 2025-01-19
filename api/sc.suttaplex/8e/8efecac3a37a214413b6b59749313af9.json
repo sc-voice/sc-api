@@ -76,6 +76,19 @@
           "has_comment": false
         },
         {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Thalpawila Kusalagnana, Dr. Mudagamuwe Maithrimurthi, Thomas Trätow",
+          "author_short": "Kusalagnana…",
+          "author_uid": "kusalagnana-maitrimurti-traetow",
+          "publication_date": null,
+          "id": "de_dn2_kusalagnana-maitrimurti-traetow",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "en",
           "lang_name": "English",
           "is_root": false,
