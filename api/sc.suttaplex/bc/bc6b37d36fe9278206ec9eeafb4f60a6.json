@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "The Appeal of Brahmā ",
+      "translated_title": "The Appeal of the Divinity ",
       "translations": [
         {
           "lang": "pli",
@@ -325,7 +325,7 @@
       "parallel_count": 55,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "With Vajirā ",
         "uid": "sn5.10"

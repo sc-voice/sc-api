@@ -164,7 +164,7 @@
           "segmented": true,
           "title": "Сома Тхери ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "si",
@@ -196,7 +196,7 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  60–62",
+      "verseNo": null,
       "previous": {
         "name": "Selā ",
         "uid": "thig3.7"

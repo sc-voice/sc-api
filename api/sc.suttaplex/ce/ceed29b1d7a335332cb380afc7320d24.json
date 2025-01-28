@@ -10,7 +10,7 @@
       "volpages": " PTS 3.180, PTS 3.181, PTS 3.182, PTS 3.183, PTS 3.184, PTS 3.185, PTS 3.186, PTS 3.187, PTS 3.188, PTS 3.189, PTS 3.190, PTS 3.191, PTS 3.192, PTS 3.193",
       "alt_volpages": null,
       "uid": "dn31",
-      "blurb": "The Buddha encounters a young man who honors his dead parents by performing rituals. The Buddha recasts the meaningless rites in terms of virtuous conduct. This is the most detailed discourse on ethics for lay people.",
+      "blurb": "The Buddha encounters a young man who honors his dead father by performing rituals. The Buddha recasts the meaningless rites in terms of virtuous conduct. This is the most detailed discourse on ethics for lay people.",
       "difficulty": {
         "name": "beginner",
         "level": 1
@@ -422,7 +422,7 @@
       "parallel_count": 19,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "The Marks of a Great Man ",
         "uid": "dn30"

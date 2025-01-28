@@ -164,7 +164,7 @@
           "segmented": true,
           "title": "Села Тхери ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "si",
@@ -196,7 +196,7 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  57–59",
+      "verseNo": null,
       "previous": {
         "name": "Sukkā ",
         "uid": "thig3.6"

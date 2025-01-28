@@ -204,7 +204,7 @@
           "segmented": true,
           "title": "Бхадда Капилани Тхери ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "ru",
@@ -249,7 +249,7 @@
       "parallel_count": 17,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  63–66",
+      "verseNo": null,
       "previous": {
         "name": "Somā ",
         "uid": "thig3.8"

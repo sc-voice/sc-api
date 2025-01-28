@@ -164,7 +164,7 @@
           "segmented": true,
           "title": "Сукка Тхери ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "si",
@@ -196,7 +196,7 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  54–56",
+      "verseNo": null,
       "previous": {
         "name": "Ubbirī ",
         "uid": "thig3.5"

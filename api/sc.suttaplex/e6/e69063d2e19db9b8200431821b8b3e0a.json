@@ -151,7 +151,7 @@
           "segmented": true,
           "title": "Упачала Тхери ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "si",
@@ -196,7 +196,7 @@
       "parallel_count": 15,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  189–195",
+      "verseNo": null,
       "previous": {
         "name": "Cālā ",
         "uid": "thig7.2"

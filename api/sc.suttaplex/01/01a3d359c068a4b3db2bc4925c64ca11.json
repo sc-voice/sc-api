@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Tissa the Brahmā ",
+      "translated_title": "Tissa the Divinity ",
       "translations": [
         {
           "lang": "pli",
@@ -233,7 +233,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "Places People Are Reborn ",
         "uid": "an7.55"

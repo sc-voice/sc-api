@@ -140,6 +140,20 @@
           "has_comment": false
         },
         {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "Evgenia Evmenenko",
+          "author_short": "narinyanievmenenko",
+          "author_uid": "narinyanievmenenko",
+          "publication_date": null,
+          "id": "thig13.4_translation-ru-narinyanievmenenko",
+          "segmented": true,
+          "title": "Сундари Тхери ",
+          "volpage": null,
+          "has_comment": true
+        },
+        {
           "lang": "si",
           "lang_name": "සිංහල",
           "is_root": false,
@@ -182,7 +196,7 @@
       "parallel_count": 14,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  312–337",
+      "verseNo": null,
       "previous": {
         "name": "Cāpā ",
         "uid": "thig13.3"

@@ -191,7 +191,7 @@
           "segmented": true,
           "title": "Бхадда Кундалакеса Тхери ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "si",
@@ -223,7 +223,7 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  107–111",
+      "verseNo": null,
       "previous": {
         "name": "Soṇā ",
         "uid": "thig5.8"

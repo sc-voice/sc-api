@@ -183,6 +183,20 @@
           "lang": "ru",
           "lang_name": "Русский",
           "is_root": false,
+          "author": "Evgenia Evmenenko",
+          "author_short": "narinyanievmenenko",
+          "author_uid": "narinyanievmenenko",
+          "publication_date": null,
+          "id": "thig13.5_translation-ru-narinyanievmenenko",
+          "segmented": true,
+          "title": "Cубха Тхери, дочь кузнеца ",
+          "volpage": null,
+          "has_comment": true
+        },
+        {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
           "author": "Б.С.",
           "author_short": "Б.С.",
           "author_uid": "bs",
@@ -235,7 +249,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  338–365",
+      "verseNo": null,
       "previous": {
         "name": "Sundarī ",
         "uid": "thig13.4"

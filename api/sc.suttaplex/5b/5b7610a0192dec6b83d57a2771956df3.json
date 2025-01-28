@@ -180,6 +180,20 @@
           "has_comment": false
         },
         {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "Evgenia Evmenenko",
+          "author_short": "narinyanievmenenko",
+          "author_uid": "narinyanievmenenko",
+          "publication_date": null,
+          "id": "thig12.1_translation-ru-narinyanievmenenko",
+          "segmented": true,
+          "title": "Пунна Тхери ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "si",
           "lang_name": "සිංහල",
           "is_root": false,
@@ -235,7 +249,7 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  236–251",
+      "verseNo": null,
       "previous": {
         "name": "Uppalavaṇṇā ",
         "uid": "thig11.1"

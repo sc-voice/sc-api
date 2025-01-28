@@ -140,6 +140,20 @@
           "has_comment": false
         },
         {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "Evgenia Evmenenko",
+          "author_short": "narinyanievmenenko",
+          "author_uid": "narinyanievmenenko",
+          "publication_date": null,
+          "id": "thig13.3_translation-ru-narinyanievmenenko",
+          "segmented": true,
+          "title": "Чапа Тхери ",
+          "volpage": null,
+          "has_comment": true
+        },
+        {
           "lang": "si",
           "lang_name": "සිංහල",
           "is_root": false,
@@ -182,7 +196,7 @@
       "parallel_count": 14,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  291–311",
+      "verseNo": null,
       "previous": {
         "name": "Rohinī ",
         "uid": "thig13.2"

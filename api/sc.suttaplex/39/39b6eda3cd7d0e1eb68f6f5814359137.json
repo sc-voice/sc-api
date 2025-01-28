@@ -204,7 +204,7 @@
           "segmented": true,
           "title": "Патачара Тхери ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "ru",
@@ -249,7 +249,7 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  112–116",
+      "verseNo": null,
       "previous": {
         "name": "Bhaddā of the Curly Hair ",
         "uid": "thig5.9"

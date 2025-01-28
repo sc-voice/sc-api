@@ -151,7 +151,7 @@
           "segmented": true,
           "title": "Уттара Тхери (вторая) ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "si",
@@ -196,7 +196,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  175–181",
+      "verseNo": null,
       "previous": {
         "name": "Vijayā ",
         "uid": "thig6.8"

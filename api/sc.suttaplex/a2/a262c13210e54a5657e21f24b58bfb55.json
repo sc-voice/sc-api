@@ -204,7 +204,7 @@
           "segmented": true,
           "title": "Сумангаламата Тхери (мать Сумангалы) ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "ru",
@@ -249,7 +249,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  23–24",
+      "verseNo": null,
       "previous": {
         "name": "Jentā ",
         "uid": "thig2.2"

@@ -204,7 +204,7 @@
           "segmented": true,
           "title": "Вимала Тхери, бывшая куртизанка ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "si",
@@ -236,7 +236,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  72–76",
+      "verseNo": null,
       "previous": {
         "name": "An Unnamed Nun (2nd) ",
         "uid": "thig5.1"

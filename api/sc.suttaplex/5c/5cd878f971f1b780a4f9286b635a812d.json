@@ -164,7 +164,7 @@
           "segmented": true,
           "title": "Сиха Тхери ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "si",
@@ -196,7 +196,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  77–81",
+      "verseNo": null,
       "previous": {
         "name": "Vimalā, the Former Courtesan ",
         "uid": "thig5.2"

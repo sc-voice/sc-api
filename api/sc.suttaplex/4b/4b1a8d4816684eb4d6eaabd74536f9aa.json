@@ -180,6 +180,20 @@
           "has_comment": false
         },
         {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "Evgenia Evmenenko",
+          "author_short": "narinyanievmenenko",
+          "author_uid": "narinyanievmenenko",
+          "publication_date": null,
+          "id": "thig13.2_translation-ru-narinyanievmenenko",
+          "segmented": true,
+          "title": "Рохини Тхери ",
+          "volpage": null,
+          "has_comment": true
+        },
+        {
           "lang": "si",
           "lang_name": "සිංහල",
           "is_root": false,
@@ -235,7 +249,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  271–290",
+      "verseNo": null,
       "previous": {
         "name": "Ambapālī ",
         "uid": "thig13.1"

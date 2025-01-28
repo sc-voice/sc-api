@@ -191,7 +191,7 @@
           "segmented": true,
           "title": "Уббири Тхери ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "ru",
@@ -249,7 +249,7 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  51–53",
+      "verseNo": null,
       "previous": {
         "name": "Dantikā ",
         "uid": "thig3.4"

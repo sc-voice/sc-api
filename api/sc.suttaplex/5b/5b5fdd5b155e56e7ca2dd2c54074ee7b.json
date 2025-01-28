@@ -191,7 +191,7 @@
           "segmented": true,
           "title": "Чанда Тхери ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "si",
@@ -223,7 +223,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  122–126",
+      "verseNo": null,
       "previous": {
         "name": "Thirty Nuns ",
         "uid": "thig5.11"
