@@ -209,6 +209,20 @@
           "lang": "ru",
           "lang_name": "Русский",
           "is_root": false,
+          "author": "SV theravada.ru",
+          "author_short": "sv",
+          "author_uid": "sv",
+          "publication_date": "",
+          "id": "an5.162_translation-ru-sv",
+          "segmented": true,
+          "title": "Устранение негодования (II) ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
           "author": "SV",
           "author_short": "SV",
           "author_uid": "sv",
@@ -287,7 +301,7 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "Getting Rid of Resentment (1st) ",
         "uid": "an5.161"
