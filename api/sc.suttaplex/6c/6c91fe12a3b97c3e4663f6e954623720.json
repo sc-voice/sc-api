@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "The World ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -308,7 +308,7 @@
         "uid": "sn1.69"
       },
       "next": {
-        "name": "Incinerated ",
+        "name": "Slain ",
         "uid": "sn1.71"
       }
     }

@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "Fastened Shut ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -304,7 +304,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Trapped ",
+        "name": "Ensnared ",
         "uid": "sn1.67"
       },
       "next": {

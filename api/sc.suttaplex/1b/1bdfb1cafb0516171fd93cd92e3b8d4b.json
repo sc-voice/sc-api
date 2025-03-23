@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "A Chariot ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -290,7 +290,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Incinerated ",
+        "name": "Slain ",
         "uid": "sn1.71"
       },
       "next": {
