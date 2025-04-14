@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "With Māghadha ",
+      "translated_title": "With Maghada ",
       "translations": [
         {
           "lang": "pli",
@@ -95,9 +95,9 @@
           "publication_date": "2018",
           "id": "sn2.4_translation-en-sujato",
           "segmented": true,
-          "title": "With Māghadha ",
+          "title": "With Maghada ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",

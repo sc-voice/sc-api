@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "With Dāmali ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -289,7 +289,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "With Māghadha ",
+        "name": "With Maghada ",
         "uid": "sn2.4"
       },
       "next": {

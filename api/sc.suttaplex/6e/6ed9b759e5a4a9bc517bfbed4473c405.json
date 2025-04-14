@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "With Kassapa (1st) ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -276,7 +276,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Without Conflict ",
+        "name": "Free of Strife ",
         "uid": "sn1.81"
       },
       "next": {

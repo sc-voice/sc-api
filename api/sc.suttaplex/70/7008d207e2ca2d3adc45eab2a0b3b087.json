@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "With Māgha ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -280,7 +280,7 @@
         "uid": "sn2.2"
       },
       "next": {
-        "name": "With Māghadha ",
+        "name": "With Maghada ",
         "uid": "sn2.4"
       }
     }
