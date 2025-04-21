@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "Battle (1st) ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -262,7 +262,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "A Bucket of Rice ",
+        "name": "A Bucketful of Rice ",
         "uid": "sn3.13"
       },
       "next": {

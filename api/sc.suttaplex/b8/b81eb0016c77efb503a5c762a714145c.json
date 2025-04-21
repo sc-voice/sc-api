@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "Five Kings ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -266,7 +266,7 @@
         "uid": "sn3.11"
       },
       "next": {
-        "name": "A Bucket of Rice ",
+        "name": "A Bucketful of Rice ",
         "uid": "sn3.13"
       }
     }

@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "A Bucket of Rice ",
+      "translated_title": "A Bucketful of Rice ",
       "translations": [
         {
           "lang": "pli",
@@ -95,9 +95,9 @@
           "publication_date": "2018",
           "id": "sn3.13_translation-en-sujato",
           "segmented": true,
-          "title": "A Bucket of Rice ",
+          "title": "A Bucketful of Rice ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
