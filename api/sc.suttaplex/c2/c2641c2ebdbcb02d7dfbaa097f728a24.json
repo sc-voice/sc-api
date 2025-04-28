@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Seven Years of Following ",
+      "translated_title": "Seven Years of Pursuit ",
       "translations": [
         {
           "lang": "pli",
@@ -95,9 +95,9 @@
           "publication_date": "2018",
           "id": "sn4.24_translation-en-sujato",
           "segmented": true,
-          "title": "Seven Years of Following ",
+          "title": "Seven Years of Pursuit ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",

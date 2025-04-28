@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "Māra’s Daughters ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -289,7 +289,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Seven Years of Following ",
+        "name": "Seven Years of Pursuit ",
         "uid": "sn4.24"
       },
       "next": {

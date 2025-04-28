@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "With Godhika ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -293,7 +293,7 @@
         "uid": "sn4.22"
       },
       "next": {
-        "name": "Seven Years of Following ",
+        "name": "Seven Years of Pursuit ",
         "uid": "sn4.24"
       }
     }
