@@ -182,6 +182,20 @@
           "has_comment": false
         },
         {
+          "lang": "it",
+          "lang_name": "Italiano",
+          "is_root": false,
+          "author": "Giovanni Zappa",
+          "author_short": "giovannizappa",
+          "author_uid": "giovannizappa",
+          "publication_date": "2025",
+          "id": "mn42_translation-it-giovannizappa",
+          "segmented": true,
+          "title": "Il discorso alla gente di Verañjā ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "jpn",
           "lang_name": "日本語",
           "is_root": false,
