@@ -68,7 +68,7 @@
           "publication_date": "2019",
           "id": "sn1.15_translation-de-sabbamitta",
           "segmented": true,
-          "title": "Wispern ",
+          "title": "Murmeln ",
           "volpage": null,
           "has_comment": false
         },
@@ -149,6 +149,20 @@
           "publication_date": null,
           "id": "id_sn1.15_anggara",
           "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "it",
+          "lang_name": "Italiano",
+          "is_root": false,
+          "author": "Giovanni Zappa",
+          "author_short": "giovannizappa",
+          "author_uid": "giovannizappa",
+          "publication_date": "2025",
+          "id": "sn1.15_translation-it-giovannizappa",
+          "segmented": true,
+          "title": "Il discorso sul sussurrare ",
           "volpage": null,
           "has_comment": false
         },

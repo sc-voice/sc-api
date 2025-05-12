@@ -140,6 +140,20 @@
           "has_comment": false
         },
         {
+          "lang": "it",
+          "lang_name": "Italiano",
+          "is_root": false,
+          "author": "Giovanni Zappa",
+          "author_short": "giovannizappa",
+          "author_uid": "giovannizappa",
+          "publication_date": "2025",
+          "id": "sn1.50_translation-it-giovannizappa",
+          "segmented": true,
+          "title": "Il discorso con Ghaṭīkāra ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "jpn",
           "lang_name": "日本語",
           "is_root": false,

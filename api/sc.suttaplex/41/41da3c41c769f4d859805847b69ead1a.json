@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "Authority ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -136,6 +136,20 @@
           "publication_date": null,
           "id": "id_sn1.77_anggara",
           "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "it",
+          "lang_name": "Italiano",
+          "is_root": false,
+          "author": "Giovanni Zappa",
+          "author_short": "giovannizappa",
+          "author_uid": "giovannizappa",
+          "publication_date": "2025",
+          "id": "sn1.77_translation-it-giovannizappa",
+          "segmented": true,
+          "title": "Il discorso sull’autorità ",
           "volpage": null,
           "has_comment": false
         },
