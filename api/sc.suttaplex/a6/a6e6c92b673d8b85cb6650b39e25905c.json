@@ -140,6 +140,19 @@
           "has_comment": false
         },
         {
+          "lang": "id",
+          "lang_name": "Bahasa Indonesia",
+          "is_root": false,
+          "author": "Indra Anggara",
+          "author_short": "Anggara",
+          "author_uid": "anggara",
+          "publication_date": null,
+          "id": "id_an1.287-295_anggara",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "jpn",
           "lang_name": "日本語",
           "is_root": false,

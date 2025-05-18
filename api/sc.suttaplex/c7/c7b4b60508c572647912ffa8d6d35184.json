@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "With Dhanañjānī ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -266,7 +266,7 @@
         "uid": "sn6.15"
       },
       "next": {
-        "name": "The Abuser ",
+        "name": "With Bhāradvāja the Rude ",
         "uid": "sn7.2"
       }
     }

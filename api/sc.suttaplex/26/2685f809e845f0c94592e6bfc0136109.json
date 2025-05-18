@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "With Saṅgārava ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -249,7 +249,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "A Beggar ",
+        "name": "An Almsman ",
         "uid": "sn7.20"
       },
       "next": {

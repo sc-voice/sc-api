@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "The Brahmin Who Provided for His Mother ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -253,7 +253,7 @@
         "uid": "sn7.18"
       },
       "next": {
-        "name": "A Beggar ",
+        "name": "An Almsman ",
         "uid": "sn7.20"
       }
     }

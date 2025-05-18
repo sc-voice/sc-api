@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "A Beggar ",
+      "translated_title": "An Almsman ",
       "translations": [
         {
           "lang": "pli",
@@ -95,9 +95,9 @@
           "publication_date": "2018",
           "id": "sn7.20_translation-en-sujato",
           "segmented": true,
-          "title": "A Beggar ",
+          "title": "An Almsman ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",

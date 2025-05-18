@@ -223,6 +223,19 @@
           "has_comment": false
         },
         {
+          "lang": "kan",
+          "lang_name": "ಕನ್ನಡ",
+          "is_root": false,
+          "author": "Dr. B. V. Rajaram",
+          "author_short": null,
+          "author_uid": null,
+          "publication_date": "2011",
+          "id": "kan_mn71",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "my",
           "lang_name": "မြန်မာဘာသာ",
           "is_root": false,
