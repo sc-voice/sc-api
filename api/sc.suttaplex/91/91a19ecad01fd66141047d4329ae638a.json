@@ -88,6 +88,20 @@
           "title": "Simple version"
         },
         {
+          "lang": "es",
+          "lang_name": "Español",
+          "is_root": false,
+          "author": "Bernat Font",
+          "author_short": "font",
+          "author_uid": "font",
+          "publication_date": null,
+          "id": "sn36.30_translation-es-font",
+          "segmented": true,
+          "title": "En resumen ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "id",
           "lang_name": "Bahasa Indonesia",
           "is_root": false,

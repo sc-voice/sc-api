@@ -239,10 +239,10 @@
           "lang_name": "ಕನ್ನಡ",
           "is_root": false,
           "author": "Dr. B. V. Rajaram",
-          "author_short": null,
-          "author_uid": null,
+          "author_short": "rajaram",
+          "author_uid": "rajaram",
           "publication_date": "2012",
-          "id": "kan_mn40",
+          "id": "kan_mn40_rajaram",
           "segmented": false,
           "volpage": null,
           "has_comment": false

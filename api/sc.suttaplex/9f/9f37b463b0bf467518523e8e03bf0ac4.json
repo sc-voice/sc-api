@@ -101,6 +101,20 @@
           "title": "Ascetics and Brahmins (3)"
         },
         {
+          "lang": "es",
+          "lang_name": "Español",
+          "is_root": false,
+          "author": "Bernat Font",
+          "author_short": "font",
+          "author_uid": "font",
+          "publication_date": null,
+          "id": "sn36.29_translation-es-font",
+          "segmented": true,
+          "title": "Ascetas y bramanes (3) ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "id",
           "lang_name": "Bahasa Indonesia",
           "is_root": false,

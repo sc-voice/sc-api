@@ -101,6 +101,20 @@
           "title": "The Theme of the Hundred and Eight"
         },
         {
+          "lang": "es",
+          "lang_name": "Español",
+          "is_root": false,
+          "author": "Bernat Font",
+          "author_short": "font",
+          "author_uid": "font",
+          "publication_date": null,
+          "id": "sn36.22_translation-es-font",
+          "segmented": true,
+          "title": "Las ciento ocho ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "hu",
           "lang_name": "Magyar",
           "is_root": false,

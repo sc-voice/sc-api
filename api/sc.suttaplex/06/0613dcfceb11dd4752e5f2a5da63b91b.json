@@ -101,6 +101,20 @@
           "title": "Before"
         },
         {
+          "lang": "es",
+          "lang_name": "Español",
+          "is_root": false,
+          "author": "Bernat Font",
+          "author_short": "font",
+          "author_uid": "font",
+          "publication_date": null,
+          "id": "sn36.24_translation-es-font",
+          "segmented": true,
+          "title": "Antes de despertar ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "id",
           "lang_name": "Bahasa Indonesia",
           "is_root": false,

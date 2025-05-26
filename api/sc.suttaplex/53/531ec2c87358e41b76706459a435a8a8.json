@@ -280,10 +280,10 @@
           "lang_name": "ಕನ್ನಡ",
           "is_root": false,
           "author": "Dr. J. Srinivas Murthy",
-          "author_short": null,
-          "author_uid": null,
+          "author_short": "murthy",
+          "author_uid": "murthy",
           "publication_date": "2012",
-          "id": "kan_mn20",
+          "id": "kan_mn20_murthy",
           "segmented": false,
           "volpage": null,
           "has_comment": false
