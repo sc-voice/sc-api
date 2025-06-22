@@ -52,6 +52,20 @@
           "lang": "de",
           "lang_name": "Deutsch",
           "is_root": false,
+          "author": "Sabbamitta",
+          "author_short": "sabbamitta",
+          "author_uid": "sabbamitta",
+          "publication_date": "2019",
+          "id": "mn95_translation-de-sabbamitta",
+          "segmented": true,
+          "title": "Mit Caṅkī ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
           "author": "Mettiko Bhikkhu",
           "author_short": "Mettiko",
           "author_uid": "mettiko",
@@ -409,7 +423,7 @@
       "parallel_count": 11,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "With Ghoṭamukha ",
         "uid": "mn94"

@@ -180,6 +180,20 @@
           "has_comment": false
         },
         {
+          "lang": "tr",
+          "lang_name": "Türkçe",
+          "is_root": false,
+          "author": "Dōgen Sisapa",
+          "author_short": "dogensisapa",
+          "author_uid": "dogensisapa",
+          "publication_date": "2025",
+          "id": "thig2.4_translation-tr-dogensisapa",
+          "segmented": true,
+          "title": "Aḍḍhakāsi'nin Şarkısı ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "vi",
           "lang_name": "Tiếng Việt",
           "is_root": false,
@@ -196,7 +210,7 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  25–26",
+      "verseNo": null,
       "previous": {
         "name": "Sumaṅgala’s Mother ",
         "uid": "thig2.3"

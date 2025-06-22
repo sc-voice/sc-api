@@ -246,6 +246,20 @@
           "has_comment": false
         },
         {
+          "lang": "tr",
+          "lang_name": "Türkçe",
+          "is_root": false,
+          "author": "Dōgen Sisapa",
+          "author_short": "dogensisapa",
+          "author_uid": "dogensisapa",
+          "publication_date": "2025",
+          "id": "thig1.11_translation-tr-dogensisapa",
+          "segmented": true,
+          "title": "Muttā'nın Şarkısı ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "vi",
           "lang_name": "Tiếng Việt",
           "is_root": false,
@@ -262,7 +276,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 11",
+      "verseNo": null,
       "previous": {
         "name": "Upasamā ",
         "uid": "thig1.10"

@@ -180,6 +180,20 @@
           "has_comment": false
         },
         {
+          "lang": "tr",
+          "lang_name": "Türkçe",
+          "is_root": false,
+          "author": "Dōgen Sisapa",
+          "author_short": "dogensisapa",
+          "author_uid": "dogensisapa",
+          "publication_date": "2025",
+          "id": "thig1.8_translation-tr-dogensisapa",
+          "segmented": true,
+          "title": "Mittā'nın Şarkısı ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "vi",
           "lang_name": "Tiếng Việt",
           "is_root": false,
@@ -196,7 +210,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 8",
+      "verseNo": null,
       "previous": {
         "name": "Vīrā ",
         "uid": "thig1.7"

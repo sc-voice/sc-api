@@ -162,7 +162,7 @@
           "publication_date": "2025",
           "id": "an8.42_translation-ru-sv",
           "segmented": true,
-          "title": "Сутта Об Упосатхе подробно",
+          "title": "Об Упосатхе подробно ",
           "volpage": null,
           "has_comment": false
         },
@@ -235,7 +235,7 @@
       "parallel_count": 11,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "The Sabbath With Eight Factors, In Brief ",
         "uid": "an8.41"

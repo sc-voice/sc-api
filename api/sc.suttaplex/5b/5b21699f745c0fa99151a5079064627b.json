@@ -162,7 +162,7 @@
           "publication_date": "2025",
           "id": "an8.45_translation-ru-sv",
           "segmented": true,
-          "title": "Сутта Бодджха ",
+          "title": "Бодджха ",
           "volpage": null,
           "has_comment": false
         },
@@ -235,7 +235,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "With Vāseṭṭha on the Sabbath ",
         "uid": "an8.44"

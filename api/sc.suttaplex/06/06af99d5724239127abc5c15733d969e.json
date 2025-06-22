@@ -246,6 +246,20 @@
           "has_comment": false
         },
         {
+          "lang": "tr",
+          "lang_name": "Türkçe",
+          "is_root": false,
+          "author": "Dōgen Sisapa",
+          "author_short": "dogensisapa",
+          "author_uid": "dogensisapa",
+          "publication_date": "2025",
+          "id": "thig1.17_translation-tr-dogensisapa",
+          "segmented": true,
+          "title": "Dhammā'nın Şarkısı ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "vi",
           "lang_name": "Tiếng Việt",
           "is_root": false,
@@ -262,7 +276,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": " Verse 17",
+      "verseNo": null,
       "previous": {
         "name": "Sumanā, Who Went Forth Late in Life ",
         "uid": "thig1.16"

@@ -162,7 +162,7 @@
           "publication_date": "2025",
           "id": "an8.41_translation-ru-sv",
           "segmented": true,
-          "title": "Сутта Упосатха Сжато ",
+          "title": "Об Упосатхе кратко ",
           "volpage": null,
           "has_comment": false
         },
@@ -248,7 +248,7 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "The Results of Misconduct ",
         "uid": "an8.40"

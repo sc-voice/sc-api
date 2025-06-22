@@ -233,6 +233,20 @@
           "has_comment": false
         },
         {
+          "lang": "tr",
+          "lang_name": "Türkçe",
+          "is_root": false,
+          "author": "Dōgen Sisapa",
+          "author_short": "dogensisapa",
+          "author_uid": "dogensisapa",
+          "publication_date": "2025",
+          "id": "thig4.1_translation-tr-dogensisapa",
+          "segmented": true,
+          "title": "Kapila'nın Kızı Bhaddā'nın Şarkısı ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "vi",
           "lang_name": "Tiếng Việt",
           "is_root": false,
@@ -249,7 +263,7 @@
       "parallel_count": 17,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  63–66",
+      "verseNo": null,
       "previous": {
         "name": "Somā ",
         "uid": "thig3.8"
