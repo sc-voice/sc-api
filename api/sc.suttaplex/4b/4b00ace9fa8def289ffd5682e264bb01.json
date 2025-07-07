@@ -207,6 +207,20 @@
           "has_comment": false
         },
         {
+          "lang": "tr",
+          "lang_name": "Türkçe",
+          "is_root": false,
+          "author": "Dōgen Sisapa",
+          "author_short": "dogensisapa",
+          "author_uid": "dogensisapa",
+          "publication_date": "2025",
+          "id": "thig5.6_translation-tr-dogensisapa",
+          "segmented": true,
+          "title": "Mittākāḷī'nin Şarkısı ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "vi",
           "lang_name": "Tiếng Việt",
           "is_root": false,
