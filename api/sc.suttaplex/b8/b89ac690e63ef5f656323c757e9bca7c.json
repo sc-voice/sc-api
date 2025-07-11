@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "With Kassapagotta ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -235,7 +235,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Getting Up ",
+        "name": "Application ",
         "uid": "sn9.2"
       },
       "next": {

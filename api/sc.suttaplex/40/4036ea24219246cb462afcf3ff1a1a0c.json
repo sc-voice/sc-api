@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "Seclusion ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -291,7 +291,7 @@
         "uid": "sn8.12"
       },
       "next": {
-        "name": "Getting Up ",
+        "name": "Application ",
         "uid": "sn9.2"
       }
     }
