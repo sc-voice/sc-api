@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "A Mendicant Named Senior ",
+      "translated_title": "Senior In Name Only ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "sn21.10_translation-en-sujato",
           "segmented": true,
-          "title": "A Mendicant Named Senior ",
+          "title": "Senior In Name Only ",
           "volpage": null,
           "has_comment": false
         },
@@ -273,7 +273,7 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "With Tissa ",
         "uid": "sn21.9"

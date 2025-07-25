@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "With Indaka ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -233,13 +233,13 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  802–804",
+      "verseNo": null,
       "previous": {
         "name": "The Thief of Scent ",
         "uid": "sn9.14"
       },
       "next": {
-        "name": "With a Spirit Named Sakka ",
+        "name": "Sakka In Name Only ",
         "uid": "sn10.2"
       }
     }

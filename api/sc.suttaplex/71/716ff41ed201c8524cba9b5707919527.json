@@ -55,7 +55,7 @@
           "publication_date": "2019",
           "id": "an9.46_translation-de-sabbamitta",
           "segmented": true,
-          "title": "Im jetzigen Leben ",
+          "title": "In diesem Leben ",
           "volpage": null,
           "has_comment": false
         },
@@ -220,7 +220,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "Freed Both Ways ",
         "uid": "an9.45"

@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "With Āḷavaka ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -246,7 +246,7 @@
       "parallel_count": 25,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  846–857",
+      "verseNo": null,
       "previous": {
         "name": "With the Nun Cīrā ",
         "uid": "sn10.11"

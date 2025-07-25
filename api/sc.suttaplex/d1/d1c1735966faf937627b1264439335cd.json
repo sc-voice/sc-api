@@ -55,7 +55,7 @@
           "publication_date": "2019",
           "id": "an9.47_translation-de-sabbamitta",
           "segmented": true,
-          "title": "Das Erlöschen ist im jetzigen Leben ersichtlich ",
+          "title": "Das Erlöschen ist in diesem Leben ersichtlich ",
           "volpage": null,
           "has_comment": false
         },
@@ -220,7 +220,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "In the Present Life ",
         "uid": "an9.46"

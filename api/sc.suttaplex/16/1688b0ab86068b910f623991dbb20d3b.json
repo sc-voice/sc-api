@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "With Piyaṅkara ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -220,7 +220,7 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  826–827",
+      "verseNo": null,
       "previous": {
         "name": "With Sānu ",
         "uid": "sn10.5"

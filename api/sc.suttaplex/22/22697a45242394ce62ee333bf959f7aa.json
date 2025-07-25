@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "With a Spirit Named Sakka ",
+      "translated_title": "Sakka In Name Only ",
       "translations": [
         {
           "lang": "pli",
@@ -95,9 +95,9 @@
           "publication_date": "2018",
           "id": "sn10.2_translation-en-sujato",
           "segmented": true,
-          "title": "With a Spirit Named Sakka ",
+          "title": "Sakka In Name Only ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -246,7 +246,7 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  805–807",
+      "verseNo": null,
       "previous": {
         "name": "With Indaka ",
         "uid": "sn10.1"

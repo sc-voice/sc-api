@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "An Exquisite Ascetic of Ascetics ",
+      "translated_title": "A Delicate Ascetic of Ascetics ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "an5.104_translation-en-sujato",
           "segmented": true,
-          "title": "An Exquisite Ascetic of Ascetics ",
+          "title": "A Delicate Ascetic of Ascetics ",
           "volpage": null,
           "has_comment": false
         },
@@ -234,7 +234,7 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "A Master Thief ",
         "uid": "an5.103"

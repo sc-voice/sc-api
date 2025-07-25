@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "With Sānu ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -220,7 +220,7 @@
       "parallel_count": 17,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  815–825",
+      "verseNo": null,
       "previous": {
         "name": "With Maṇibhadda ",
         "uid": "sn10.4"

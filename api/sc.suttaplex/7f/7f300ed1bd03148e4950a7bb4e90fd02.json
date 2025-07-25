@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "With Punabbasu ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -220,7 +220,7 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  828–836",
+      "verseNo": null,
       "previous": {
         "name": "With Piyaṅkara ",
         "uid": "sn10.6"

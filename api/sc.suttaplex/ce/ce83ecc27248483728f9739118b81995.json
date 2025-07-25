@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "With the Nun Sukkā (1st) ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -220,7 +220,7 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  842–843",
+      "verseNo": null,
       "previous": {
         "name": "With Sudatta ",
         "uid": "sn10.8"
