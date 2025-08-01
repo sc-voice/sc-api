@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "Vows ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -234,7 +234,7 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "Seers by the Ocean ",
         "uid": "sn11.10"

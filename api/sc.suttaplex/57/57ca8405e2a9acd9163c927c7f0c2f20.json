@@ -70,7 +70,7 @@
           "segmented": true,
           "title": "Mit Indaka ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "de",
@@ -233,7 +233,7 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "Verse  802–804",
       "previous": {
         "name": "The Thief of Scent ",
         "uid": "sn9.14"

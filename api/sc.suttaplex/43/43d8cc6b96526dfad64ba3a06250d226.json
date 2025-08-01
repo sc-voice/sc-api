@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "Victory by Good Speech ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -261,7 +261,7 @@
       "parallel_count": 49,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "With Vepacitti ",
         "uid": "sn11.4"

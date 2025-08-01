@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "Homage to the Buddha ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -247,7 +247,7 @@
       "parallel_count": 6,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "Sponsoring Sacrifice ",
         "uid": "sn11.16"

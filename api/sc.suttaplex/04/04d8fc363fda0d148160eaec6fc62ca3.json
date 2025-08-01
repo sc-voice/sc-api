@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "Transgression ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -234,7 +234,7 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "The Sambari Sorcery ",
         "uid": "sn11.23"

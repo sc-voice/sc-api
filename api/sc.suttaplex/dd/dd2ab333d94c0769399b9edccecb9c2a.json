@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "With Vepacitti ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -221,7 +221,7 @@
       "parallel_count": 50,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "The Banner’s Crest ",
         "uid": "sn11.3"

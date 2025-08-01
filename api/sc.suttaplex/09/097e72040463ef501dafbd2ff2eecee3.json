@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "Who Sakka Worships ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -221,7 +221,7 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "Who Sakka Worships ",
         "uid": "sn11.19"

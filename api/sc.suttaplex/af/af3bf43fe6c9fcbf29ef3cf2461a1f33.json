@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "Seers in the Wilderness ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -221,7 +221,7 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "Verocana, Lord of Titans ",
         "uid": "sn11.8"

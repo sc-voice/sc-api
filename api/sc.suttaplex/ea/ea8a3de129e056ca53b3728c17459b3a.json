@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "Bird Nests ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -221,7 +221,7 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "Victory by Good Speech ",
         "uid": "sn11.5"
