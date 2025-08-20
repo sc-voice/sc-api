@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "Unlearned ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -329,7 +329,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Sources ",
+        "name": "Causation ",
         "uid": "sn12.60"
       },
       "next": {

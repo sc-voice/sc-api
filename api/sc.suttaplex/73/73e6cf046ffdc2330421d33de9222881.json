@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Self-examination ",
+      "translated_title": "Probing Within ",
       "translations": [
         {
           "lang": "pli",
@@ -95,9 +95,9 @@
           "publication_date": "2018",
           "id": "sn12.66_translation-en-sujato",
           "segmented": true,
-          "title": "Self-examination ",
+          "title": "Probing Within ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",

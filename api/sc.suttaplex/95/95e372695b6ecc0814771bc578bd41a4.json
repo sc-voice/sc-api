@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Dangers and Threats ",
+      "translated_title": "Fears and Enmities ",
       "translations": [
         {
           "lang": "pli",
@@ -95,9 +95,9 @@
           "publication_date": "2018",
           "id": "sn12.41_translation-en-sujato",
           "segmented": true,
-          "title": "Dangers and Threats ",
+          "title": "Fears and Enmities ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -266,7 +266,7 @@
         "uid": "sn12.40"
       },
       "next": {
-        "name": "Dangers and Threats (2nd) ",
+        "name": "Fears and Enmities (2nd) ",
         "uid": "sn12.42"
       }
     }

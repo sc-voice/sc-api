@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "Bundles of Reeds ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -288,7 +288,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Self-examination ",
+        "name": "Probing Within ",
         "uid": "sn12.66"
       },
       "next": {

@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "Suffering ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -276,7 +276,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Dangers and Threats (2nd) ",
+        "name": "Fears and Enmities (2nd) ",
         "uid": "sn12.42"
       },
       "next": {

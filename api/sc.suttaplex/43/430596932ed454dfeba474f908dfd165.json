@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "Intention (3rd) ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -279,7 +279,7 @@
         "uid": "sn12.39"
       },
       "next": {
-        "name": "Dangers and Threats ",
+        "name": "Fears and Enmities ",
         "uid": "sn12.41"
       }
     }

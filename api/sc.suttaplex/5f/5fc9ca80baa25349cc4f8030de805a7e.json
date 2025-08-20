@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "The City ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -305,7 +305,7 @@
         "uid": "sn12.64"
       },
       "next": {
-        "name": "Self-examination ",
+        "name": "Probing Within ",
         "uid": "sn12.66"
       }
     }
