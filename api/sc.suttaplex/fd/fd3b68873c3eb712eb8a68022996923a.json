@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "A Spear ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "fr",
@@ -248,7 +248,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Rice Pots ",
+        "name": "Cauldrons ",
         "uid": "sn20.4"
       },
       "next": {

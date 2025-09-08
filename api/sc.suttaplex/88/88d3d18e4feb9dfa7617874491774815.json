@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Rice Pots ",
+      "translated_title": "Cauldrons ",
       "translations": [
         {
           "lang": "pli",
@@ -82,9 +82,9 @@
           "publication_date": "2018",
           "id": "sn20.4_translation-en-sujato",
           "segmented": true,
-          "title": "Rice Pots ",
+          "title": "Cauldrons ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "id",

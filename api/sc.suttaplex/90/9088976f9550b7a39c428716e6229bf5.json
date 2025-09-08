@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "In Line with the Teachings (2nd) ",
+      "translated_title": "In Line With the Teaching (2nd) ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "sn22.40_translation-en-sujato",
           "segmented": true,
-          "title": "In Line with the Teachings (2nd) ",
+          "title": "In Line With the Teaching (2nd) ",
           "volpage": null,
           "has_comment": false
         },
@@ -288,11 +288,11 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "In Line With the Teachings ",
+        "name": "In Line With the Teaching ",
         "uid": "sn22.39"
       },
       "next": {
-        "name": "In Line with the Teachings (3rd) ",
+        "name": "In Line With the Teaching (3rd) ",
         "uid": "sn22.41"
       }
     }

@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "The Drum Peg ",
+      "translated_title": "The Drum Called Plugger ",
       "translations": [
         {
           "lang": "pli",
@@ -82,9 +82,9 @@
           "publication_date": "2018",
           "id": "sn20.7_translation-en-sujato",
           "segmented": true,
-          "title": "The Drum Peg ",
+          "title": "The Drum Called Plugger ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "C.A.F. Rhys Davids",

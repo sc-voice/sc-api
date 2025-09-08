@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "Wood Blocks ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "id",
@@ -209,7 +209,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "The Drum Peg ",
+        "name": "The Drum Called Plugger ",
         "uid": "sn20.7"
       },
       "next": {
