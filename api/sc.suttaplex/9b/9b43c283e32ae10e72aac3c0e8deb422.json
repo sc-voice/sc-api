@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "The Burden ",
+      "translated_title": "The Burden of Responsibility ",
       "translations": [
         {
           "lang": "pli",
@@ -82,9 +82,9 @@
           "publication_date": "2018",
           "id": "sn22.22_translation-en-sujato",
           "segmented": true,
-          "title": "The Burden ",
+          "title": "The Burden of Responsibility ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",

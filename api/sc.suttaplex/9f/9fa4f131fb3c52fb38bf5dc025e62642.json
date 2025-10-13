@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Sides ",
+      "translated_title": "Ends ",
       "translations": [
         {
           "lang": "pli",
@@ -82,9 +82,9 @@
           "publication_date": "2018",
           "id": "sn22.103_translation-en-sujato",
           "segmented": true,
-          "title": "Sides ",
+          "title": "Ends ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",

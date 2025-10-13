@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "Beggars ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -249,11 +249,11 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Itchy ",
+        "name": "Bitable ",
         "uid": "sn22.79"
       },
       "next": {
-        "name": "At Pārileyya ",
+        "name": "At Pārileyyaka ",
         "uid": "sn22.81"
       }
     }

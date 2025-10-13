@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "Not Knowing Form ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -235,7 +235,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Gods of the Rainy Clouds ",
+        "name": "Gods of the Rainy Thunderclouds ",
         "uid": "sn32.57"
       },
       "next": {

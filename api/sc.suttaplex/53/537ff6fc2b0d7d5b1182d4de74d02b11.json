@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "Complete Understanding ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -275,7 +275,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "The Burden ",
+        "name": "The Burden of Responsibility ",
         "uid": "sn22.22"
       },
       "next": {

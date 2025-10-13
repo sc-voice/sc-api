@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Gods of the Storm Clouds ",
+      "translated_title": "Gods of the Stormy Thunderclouds ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "sn32.55_translation-en-sujato",
           "segmented": true,
-          "title": "Gods of the Storm Clouds ",
+          "title": "Gods of the Stormy Thunderclouds ",
           "volpage": null,
           "has_comment": false
         },
@@ -222,11 +222,11 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Gods of the Warm Clouds ",
+        "name": "Gods of the Warm Thunderclouds ",
         "uid": "sn32.54"
       },
       "next": {
-        "name": "Gods of the Windy Clouds ",
+        "name": "Gods of the Windy Thunderclouds ",
         "uid": "sn32.56"
       }
     }

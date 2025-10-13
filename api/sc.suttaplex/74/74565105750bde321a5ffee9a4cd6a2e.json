@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "Supports For Immersion ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -239,7 +239,7 @@
         "uid": "sn34.4"
       },
       "next": {
-        "name": "Meditation Subjects For Immersion ",
+        "name": "Territory of Immersion ",
         "uid": "sn34.6"
       }
     }

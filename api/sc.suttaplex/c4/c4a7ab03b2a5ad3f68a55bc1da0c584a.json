@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "An Inspired Saying ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -249,7 +249,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Seeds ",
+        "name": "Seeds of Plants ",
         "uid": "sn22.54"
       },
       "next": {

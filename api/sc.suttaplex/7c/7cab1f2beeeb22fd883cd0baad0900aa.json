@@ -298,6 +298,20 @@
           "has_comment": false
         },
         {
+          "lang": "sr",
+          "lang_name": "Srpski",
+          "is_root": false,
+          "author": "Branislav Kovačević",
+          "author_short": "brankokovacevic",
+          "author_uid": "brankokovacevic",
+          "publication_date": "2023",
+          "id": "sn1.41_translation-sr-brankokovacevic",
+          "segmented": true,
+          "title": "Požar ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "sv",
           "lang_name": "Svenska",
           "is_root": false,

@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "The Breakable ",
+      "translated_title": "Brittle ",
       "translations": [
         {
           "lang": "pli",
@@ -82,9 +82,9 @@
           "publication_date": "2018",
           "id": "sn22.32_translation-en-sujato",
           "segmented": true,
-          "title": "The Breakable ",
+          "title": "Brittle ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -262,7 +262,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "The Root of Misery ",
+        "name": "The Root of Gloom ",
         "uid": "sn22.31"
       },
       "next": {

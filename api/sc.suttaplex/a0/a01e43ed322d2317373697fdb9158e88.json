@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Gods of the Cool Clouds ",
+      "translated_title": "Gods of the Cool Thunderclouds ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "sn32.53_translation-en-sujato",
           "segmented": true,
-          "title": "Gods of the Cool Clouds ",
+          "title": "Gods of the Cool Thunderclouds ",
           "volpage": null,
           "has_comment": false
         },
@@ -222,11 +222,11 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "How Giving Helps to Become a Warm Cloud God, Etc. ",
+        "name": "How Giving Helps to Become a Warm Thundercloud God, Etc. ",
         "uid": "sn32.13-52"
       },
       "next": {
-        "name": "Gods of the Warm Clouds ",
+        "name": "Gods of the Warm Thunderclouds ",
         "uid": "sn32.54"
       }
     }

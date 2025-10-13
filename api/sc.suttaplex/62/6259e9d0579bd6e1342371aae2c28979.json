@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "The Perception of Impermanence ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -253,7 +253,7 @@
         "uid": "sn22.101"
       },
       "next": {
-        "name": "Sides ",
+        "name": "Ends ",
         "uid": "sn22.103"
       }
     }

@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "A Full Moon Night ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -249,7 +249,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "At Pārileyya ",
+        "name": "At Pārileyyaka ",
         "uid": "sn22.81"
       },
       "next": {

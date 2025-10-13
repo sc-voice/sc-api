@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Arguments ",
+      "translated_title": "Dispute ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "an10.41_translation-en-sujato",
           "segmented": true,
-          "title": "Arguments ",
+          "title": "Dispute ",
           "volpage": null,
           "has_comment": false
         },
@@ -200,7 +200,7 @@
         "uid": "an10.40"
       },
       "next": {
-        "name": "Roots of Arguments (1st) ",
+        "name": "Roots of Dispute (1st) ",
         "uid": "an10.42"
       }
     }

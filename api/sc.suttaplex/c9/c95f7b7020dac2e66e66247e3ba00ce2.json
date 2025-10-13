@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Ten Discourses On How Giving Helps to Become a Cool Cloud God ",
+      "translated_title": "Ten Discourses On How Giving Helps to Become a Cool Thundercloud God ",
       "translations": [
         {
           "lang": "pli",
@@ -82,9 +82,9 @@
           "publication_date": "2018",
           "id": "sn32.3-12_translation-en-sujato",
           "segmented": true,
-          "title": "Ten Discourses On How Giving Helps to Become a Cool Cloud God ",
+          "title": "Ten Discourses On How Giving Helps to Become a Cool Thundercloud God ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -239,7 +239,7 @@
         "uid": "sn32.2"
       },
       "next": {
-        "name": "How Giving Helps to Become a Warm Cloud God, Etc. ",
+        "name": "How Giving Helps to Become a Warm Thundercloud God, Etc. ",
         "uid": "sn32.13-52"
       }
     }

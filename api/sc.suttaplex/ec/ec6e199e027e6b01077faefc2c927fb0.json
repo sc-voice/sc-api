@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "It’s Not Yours ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -262,7 +262,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "The Breakable ",
+        "name": "Brittle ",
         "uid": "sn22.32"
       },
       "next": {

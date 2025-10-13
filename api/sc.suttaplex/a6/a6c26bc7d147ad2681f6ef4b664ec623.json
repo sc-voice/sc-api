@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "Involvement ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -292,7 +292,7 @@
         "uid": "sn22.52"
       },
       "next": {
-        "name": "Seeds ",
+        "name": "Seeds of Plants ",
         "uid": "sn22.54"
       }
     }

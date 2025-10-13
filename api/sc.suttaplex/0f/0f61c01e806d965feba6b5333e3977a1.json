@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Five on Support and Subjects, Etc. ",
+      "translated_title": "Five on Support and Territory, Etc. ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "sn34.41-45_translation-en-sujato",
           "segmented": true,
-          "title": "Five on Support and Subjects, Etc. ",
+          "title": "Five on Support and Territory, Etc. ",
           "volpage": null,
           "has_comment": false
         },
@@ -213,7 +213,7 @@
         "uid": "sn34.35-40"
       },
       "next": {
-        "name": "Four on Subjects and Projection, Etc. ",
+        "name": "Four on Territory and Projection, Etc. ",
         "uid": "sn34.46-49"
       }
     }

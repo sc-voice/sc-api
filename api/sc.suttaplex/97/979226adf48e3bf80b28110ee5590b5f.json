@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Eight People (1st) ",
+      "translated_title": "Eight Individuals (1st) ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "an8.59_translation-en-sujato",
           "segmented": true,
-          "title": "Eight People (1st) ",
+          "title": "Eight Individuals (1st) ",
           "volpage": null,
           "has_comment": false
         },
@@ -254,7 +254,7 @@
         "uid": "an8.58"
       },
       "next": {
-        "name": "Eight People (2nd) ",
+        "name": "Eight Individuals (2nd) ",
         "uid": "an8.60"
       }
     }
