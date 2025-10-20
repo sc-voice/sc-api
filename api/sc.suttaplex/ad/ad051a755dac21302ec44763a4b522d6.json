@@ -101,6 +101,20 @@
           "title": "Pleasing (2)"
         },
         {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Christelle Ah-Mouck",
+          "author_short": "christelle",
+          "author_uid": "christelle",
+          "publication_date": "2025",
+          "id": "an8.4_translation-fr-christelle",
+          "segmented": true,
+          "title": "Non-apprécié (second) ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "id",
           "lang_name": "Bahasa Indonesia",
           "is_root": false,

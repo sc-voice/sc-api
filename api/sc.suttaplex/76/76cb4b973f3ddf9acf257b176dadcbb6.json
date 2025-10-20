@@ -128,6 +128,20 @@
           "has_comment": false
         },
         {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Christelle Ah-Mouck",
+          "author_short": "christelle",
+          "author_uid": "christelle",
+          "publication_date": "2025",
+          "id": "an8.5_translation-fr-christelle",
+          "segmented": true,
+          "title": "Les conditions du monde (1er) ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "id",
           "lang_name": "Bahasa Indonesia",
           "is_root": false,
