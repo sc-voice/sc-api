@@ -127,6 +127,20 @@
           "has_comment": false
         },
         {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Christelle Ah-Mouck",
+          "author_short": "christelle",
+          "author_uid": "christelle",
+          "publication_date": "2025",
+          "id": "an6.47_translation-fr-christelle",
+          "segmented": true,
+          "title": "Apparent dans cette vie (1er) ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "id",
           "lang_name": "Bahasa Indonesia",
           "is_root": false,
