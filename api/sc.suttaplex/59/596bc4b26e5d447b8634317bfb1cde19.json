@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "The Complete Understanding of All Grasping ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -240,7 +240,7 @@
         "uid": "sn35.59"
       },
       "next": {
-        "name": "The Depletion of All Fuel (1st) ",
+        "name": "The Depletion of All Fuel for Grasping (1st) ",
         "uid": "sn35.61"
       }
     }

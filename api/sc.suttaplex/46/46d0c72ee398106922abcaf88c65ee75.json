@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "With Migajāla (1st) ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -249,7 +249,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "The Depletion of All Fuel (2nd) ",
+        "name": "The Depletion of All Fuel for Grasping (2nd) ",
         "uid": "sn35.62"
       },
       "next": {

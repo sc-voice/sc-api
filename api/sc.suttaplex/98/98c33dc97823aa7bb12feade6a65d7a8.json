@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "The Depletion of All Fuel (1st) ",
+      "translated_title": "The Depletion of All Fuel for Grasping (1st) ",
       "translations": [
         {
           "lang": "pli",
@@ -82,9 +82,9 @@
           "publication_date": "2018",
           "id": "sn35.61_translation-en-sujato",
           "segmented": true,
-          "title": "The Depletion of All Fuel (1st) ",
+          "title": "The Depletion of All Fuel for Grasping (1st) ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -240,7 +240,7 @@
         "uid": "sn35.60"
       },
       "next": {
-        "name": "The Depletion of All Fuel (2nd) ",
+        "name": "The Depletion of All Fuel for Grasping (2nd) ",
         "uid": "sn35.62"
       }
     }

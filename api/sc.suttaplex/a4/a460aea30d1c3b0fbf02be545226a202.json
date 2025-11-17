@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "Upasena and the Viper ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -266,7 +266,7 @@
         "uid": "sn35.68"
       },
       "next": {
-        "name": "Upavāna on What is Apparent in the Present Life ",
+        "name": "Upavāṇa on What is Apparent in the Present Life ",
         "uid": "sn35.70"
       }
     }

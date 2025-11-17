@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Surety in the Right Way (2nd) ",
+      "translated_title": "The Sure Path (2nd) ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "an5.152_translation-en-sujato",
           "segmented": true,
-          "title": "Surety in the Right Way (2nd) ",
+          "title": "The Sure Path (2nd) ",
           "volpage": null,
           "has_comment": false
         },
@@ -236,11 +236,11 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Surety in the Right Way (1st) ",
+        "name": "The Sure Path (1st) ",
         "uid": "an5.151"
       },
       "next": {
-        "name": "Surety in the Right Way (3rd) ",
+        "name": "The Sure Path (3rd) ",
         "uid": "an5.153"
       }
     }

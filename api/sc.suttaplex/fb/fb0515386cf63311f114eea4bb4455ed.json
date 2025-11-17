@@ -97,7 +97,7 @@
           "segmented": true,
           "title": "Burning ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -424,7 +424,7 @@
         "uid": "sn35.27"
       },
       "next": {
-        "name": "Oppressed ",
+        "name": "Overcome ",
         "uid": "sn35.29"
       }
     }

@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "Six Fields of Contact (1st) ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -249,7 +249,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Upavāna on What is Apparent in the Present Life ",
+        "name": "Upavāṇa on What is Apparent in the Present Life ",
         "uid": "sn35.70"
       },
       "next": {
