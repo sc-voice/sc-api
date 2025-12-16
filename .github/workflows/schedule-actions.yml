@@ -2,13 +2,14 @@ name: schedule-actions
 on: 
   schedule:
     - cron: 0 12 * * *
+  workflow_dispatch: # Allows manual trigger from Github UI
 jobs:
   build-job:
     timeout-minutes: 30
     runs-on: ubuntu-latest
     permissions:
       id-token: write
-      contents: read
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
