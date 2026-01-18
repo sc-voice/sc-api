@@ -258,6 +258,20 @@
           "has_comment": false
         },
         {
+          "lang": "sr",
+          "lang_name": "Srpski",
+          "is_root": false,
+          "author": "Branislav Kovačević",
+          "author_short": "brankokovacevic",
+          "author_uid": "brankokovacevic",
+          "publication_date": "2023",
+          "id": "sn20.7_translation-sr-brankokovacevic",
+          "segmented": true,
+          "title": "Drveni klin ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "sv",
           "lang_name": "Svenska",
           "is_root": false,
