@@ -114,6 +114,20 @@
           "has_comment": false
         },
         {
+          "lang": "fr",
+          "lang_name": "Français",
+          "is_root": false,
+          "author": "Christelle Ah-Mouck",
+          "author_short": "christelle",
+          "author_uid": "christelle",
+          "publication_date": "2026",
+          "id": "sn22.87_translation-fr-christelle",
+          "segmented": true,
+          "title": "Avec Vakkali ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "hu",
           "lang_name": "Magyar",
           "is_root": false,
