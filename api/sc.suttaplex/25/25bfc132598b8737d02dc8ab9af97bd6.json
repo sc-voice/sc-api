@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "A Warrior ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "fr",
@@ -266,7 +266,7 @@
         "uid": "sn42.2"
       },
       "next": {
-        "name": "An Elephant Warrior ",
+        "name": "An Elephant Marshal ",
         "uid": "sn42.4"
       }
     }

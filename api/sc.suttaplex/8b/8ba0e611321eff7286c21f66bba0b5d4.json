@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "An Elephant Warrior ",
+      "translated_title": "An Elephant Marshal ",
       "translations": [
         {
           "lang": "pli",
@@ -82,9 +82,9 @@
           "publication_date": "2018",
           "id": "sn42.4_translation-en-sujato",
           "segmented": true,
-          "title": "An Elephant Warrior ",
+          "title": "An Elephant Marshal ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "id",
