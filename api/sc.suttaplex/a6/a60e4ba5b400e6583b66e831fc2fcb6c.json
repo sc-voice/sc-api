@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "Undefiled, Etc. ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -227,7 +227,7 @@
         "uid": "sn43.13"
       },
       "next": {
-        "name": "The Haven ",
+        "name": "The Final Haven ",
         "uid": "sn43.44"
       }
     }

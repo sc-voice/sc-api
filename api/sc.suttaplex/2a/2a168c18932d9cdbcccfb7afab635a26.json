@@ -113,6 +113,20 @@
           "has_comment": false
         },
         {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "o Dhamma.gift",
+          "author_short": "o",
+          "author_uid": "o",
+          "publication_date": null,
+          "id": "an10.191_translation-ru-o",
+          "segmented": true,
+          "title": "Сутта Подлинная Дхамма",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "si",
           "lang_name": "සිංහල",
           "is_root": false,

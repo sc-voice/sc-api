@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "With Khemā ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -236,7 +236,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "The Haven ",
+        "name": "The Final Haven ",
         "uid": "sn43.44"
       },
       "next": {
