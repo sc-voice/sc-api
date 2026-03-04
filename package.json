@@ -7,20 +7,17 @@
     "test": "test"
   },
   "dependencies": {
-    "log-instance": "^1.5.0",
-    "memo-again": "^0.10.0",
-    "merkle-json": "^2.7.0"
+    "log-instance": "^1.9.0",
+    "memo-again": "^0.12.0",
+    "merkle-json": "^2.15.0"
   },
   "devDependencies": {
-    "mocha": "^10.2.0",
-    "should": "^11.2.0"
+    "@sc-voice/vitest": "^4.0.0"
   },
   "scripts": {
     "build": "scripts/build",
-    "test": "npm run test:verbose",
-    "test:test": "mocha -w --watch-ignore node_modules,.git,local -R min --inline-diffs -g TEST",
-    "test:verbose": "mocha --inline-diffs",
-    "test:watch": "mocha -w --inline-diffs"
+    "test": "vitest run",
+    "test:test": "vitest"
   },
   "repository": {
     "tag": "git"
