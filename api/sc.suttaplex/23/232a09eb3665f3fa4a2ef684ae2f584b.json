@@ -198,7 +198,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": "2026",
+          "publication_date": null,
           "id": "sn22.29_translation-ru-o",
           "segmented": true,
           "title": "Сутта Обрадование",
@@ -274,7 +274,7 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "Gratification (3rd) ",
         "uid": "sn22.28"

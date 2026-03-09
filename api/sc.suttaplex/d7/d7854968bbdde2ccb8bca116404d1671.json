@@ -103,20 +103,6 @@
           "has_comment": true
         },
         {
-          "author": "Suddhāso Bhikkhu",
-          "author_short": "Suddhāso",
-          "author_uid": "suddhaso",
-          "has_comment": false,
-          "id": "en_mn3_suddhaso",
-          "is_root": false,
-          "lang": "en",
-          "lang_name": "English",
-          "publication_date": "2018",
-          "segmented": false,
-          "volpage": null,
-          "title": "Heir of the Dhamma"
-        },
-        {
           "author": "Nyanamoli Thera",
           "author_short": "Nyanamoli",
           "author_uid": "nyanamoli-thera",
@@ -129,6 +115,20 @@
           "segmented": false,
           "volpage": null,
           "title": "Heirs in Dhamma"
+        },
+        {
+          "author": "Suddhāso Bhikkhu",
+          "author_short": "Suddhāso",
+          "author_uid": "suddhaso",
+          "has_comment": false,
+          "id": "en_mn3_suddhaso",
+          "is_root": false,
+          "lang": "en",
+          "lang_name": "English",
+          "publication_date": "2018",
+          "segmented": false,
+          "volpage": null,
+          "title": "Heir of the Dhamma"
         },
         {
           "author": "I.B. Horner",
@@ -492,7 +492,7 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "All the Defilements ",
         "uid": "mn2"

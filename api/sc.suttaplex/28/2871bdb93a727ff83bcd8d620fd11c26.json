@@ -145,7 +145,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": "2026",
+          "publication_date": null,
           "id": "an7.615_translation-ru-o",
           "segmented": true,
           "title": "",
@@ -221,7 +221,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "Observing Suffering in the Eye, Etc. ",
         "uid": "an7.96-614"

@@ -145,7 +145,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": "2026",
+          "publication_date": null,
           "id": "sn56.91_translation-ru-o",
           "segmented": true,
           "title": "Сутта Поле-участок",
@@ -221,7 +221,7 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "Elephants and Cows ",
         "uid": "sn56.90"

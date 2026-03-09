@@ -265,7 +265,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": "2026",
+          "publication_date": null,
           "id": "sn56.48_translation-ru-o",
           "segmented": true,
           "title": "Сутта Отверстие Ярма Вторая",
@@ -341,7 +341,7 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "A Yoke With a Hole (1st) ",
         "uid": "sn56.47"

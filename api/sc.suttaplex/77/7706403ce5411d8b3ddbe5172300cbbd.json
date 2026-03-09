@@ -197,7 +197,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": "2026",
+          "publication_date": null,
           "id": "sn35.206_translation-ru-o",
           "segmented": true,
           "title": "Сутта Внутренний Текущий, который Ненадёжный",
@@ -273,7 +273,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "The Interior and What’s Impermanent in the Future ",
         "uid": "sn35.205"

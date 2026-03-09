@@ -145,7 +145,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": "2026",
+          "publication_date": null,
           "id": "sn52.20_translation-ru-o",
           "segmented": true,
           "title": "Сутта Способности другие и дальнейшие",
@@ -221,7 +221,7 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "Diverse Beliefs ",
         "uid": "sn52.19"

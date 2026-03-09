@@ -172,7 +172,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": "2026",
+          "publication_date": null,
           "id": "sn35.123_translation-ru-o",
           "segmented": true,
           "title": "Сутта Удерживаемое Явление",
@@ -248,7 +248,7 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "Things That Tighten Fetters ",
         "uid": "sn35.122"

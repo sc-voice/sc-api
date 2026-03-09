@@ -159,7 +159,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": "2026",
+          "publication_date": null,
           "id": "sn56.43_translation-ru-o",
           "segmented": true,
           "title": "Сутта Великое Жар",
@@ -235,7 +235,7 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "A Cliff ",
         "uid": "sn56.42"

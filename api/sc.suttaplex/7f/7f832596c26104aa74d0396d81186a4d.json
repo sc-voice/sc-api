@@ -145,7 +145,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": "2026",
+          "publication_date": null,
           "id": "sn52.21_translation-ru-o",
           "segmented": true,
           "title": "Сутты Начинающиеся с Джхан",
@@ -221,7 +221,7 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "Comprehending the Faculties of Others ",
         "uid": "sn52.20"

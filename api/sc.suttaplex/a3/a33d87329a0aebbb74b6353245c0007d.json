@@ -145,7 +145,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": "2026",
+          "publication_date": null,
           "id": "an9.60_translation-ru-o",
           "segmented": true,
           "title": "Сутта Устранение",
@@ -221,7 +221,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "Progressive Tranquility ",
         "uid": "an9.59"

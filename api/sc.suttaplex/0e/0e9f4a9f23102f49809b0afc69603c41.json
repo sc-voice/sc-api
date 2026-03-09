@@ -116,20 +116,6 @@
           "lang": "ru",
           "lang_name": "Русский",
           "is_root": false,
-          "author": "o Dhamma.gift",
-          "author_short": "o",
-          "author_uid": "o",
-          "publication_date": null,
-          "id": "thag4.12_translation-ru-o",
-          "segmented": true,
-          "title": "Мудита Тхера ",
-          "volpage": null,
-          "has_comment": false
-        },
-        {
-          "lang": "ru",
-          "lang_name": "Русский",
-          "is_root": false,
           "author": "Evgenia Evmenenko",
           "author_short": "narinyanievmenenko",
           "author_uid": "narinyanievmenenko",
@@ -139,6 +125,20 @@
           "title": "Мудита Тхера ",
           "volpage": null,
           "has_comment": true
+        },
+        {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "o Dhamma.gift",
+          "author_short": "o",
+          "author_uid": "o",
+          "publication_date": null,
+          "id": "thag4.12_translation-ru-o",
+          "segmented": true,
+          "title": "Мудита Тхера ",
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "si",
@@ -170,7 +170,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "Verse  311–314",
+      "verseNo": null,
       "previous": {
         "name": "Sappaka ",
         "uid": "thag4.11"

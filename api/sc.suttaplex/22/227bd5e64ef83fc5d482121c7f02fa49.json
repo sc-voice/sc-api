@@ -145,7 +145,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": "2026",
+          "publication_date": null,
           "id": "sn56.53_translation-ru-o",
           "segmented": true,
           "title": "Сутта Место Слияния Первая",
@@ -221,7 +221,7 @@
       "parallel_count": 7,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "A Lotus Pond ",
         "uid": "sn56.52"

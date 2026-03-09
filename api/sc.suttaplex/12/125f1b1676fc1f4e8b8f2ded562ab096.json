@@ -159,7 +159,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": "2026",
+          "publication_date": null,
           "id": "sn55.71_translation-ru-o",
           "segmented": true,
           "title": "Сутта Смехо-понимание",
@@ -235,7 +235,7 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "Light Wisdom ",
         "uid": "sn55.70"

@@ -159,7 +159,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": "2026",
+          "publication_date": null,
           "id": "an8.118_translation-ru-o",
           "segmented": true,
           "title": "",
@@ -235,7 +235,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "Similarity ",
         "uid": "an8.91-117"

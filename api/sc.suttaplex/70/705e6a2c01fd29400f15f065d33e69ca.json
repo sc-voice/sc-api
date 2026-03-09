@@ -195,29 +195,29 @@
           "lang": "ru",
           "lang_name": "Русский",
           "is_root": false,
-          "author": "o Dhamma.gift",
-          "author_short": "o",
-          "author_uid": "o",
-          "publication_date": "2026",
-          "id": "sn4.21_translation-ru-o",
-          "segmented": true,
-          "title": "Сутта Группа",
-          "volpage": null,
-          "has_comment": false
-        },
-        {
-          "lang": "ru",
-          "lang_name": "Русский",
-          "is_root": false,
           "author": "SV theravada.ru",
           "author_short": "sv",
           "author_uid": "sv",
           "publication_date": "2024",
           "id": "sn4.21_translation-ru-sv",
           "segmented": true,
-          "title": "Сутта Группа",
+          "title": "Группа ",
           "volpage": null,
           "has_comment": true
+        },
+        {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "o Dhamma.gift",
+          "author_short": "o",
+          "author_uid": "o",
+          "publication_date": null,
+          "id": "sn4.21_translation-ru-o",
+          "segmented": true,
+          "title": "Группа ",
+          "volpage": null,
+          "has_comment": false
         },
         {
           "lang": "ru",
@@ -302,7 +302,7 @@
       "parallel_count": 11,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "Ruling ",
         "uid": "sn4.20"

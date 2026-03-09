@@ -158,7 +158,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": "2026",
+          "publication_date": null,
           "id": "sn48.30_translation-ru-o",
           "segmented": true,
           "title": "Сутта Шраман-брахман Вторая",
@@ -234,7 +234,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "Ascetics and Brahmins (1st) ",
         "uid": "sn48.29"

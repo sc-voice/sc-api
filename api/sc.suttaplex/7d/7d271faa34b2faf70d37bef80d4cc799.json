@@ -172,7 +172,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": "2026",
+          "publication_date": null,
           "id": "sn56.39_translation-ru-o",
           "segmented": true,
           "title": "Сутта Колонна Короля",
@@ -248,7 +248,7 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "The Simile of the Sun (2nd) ",
         "uid": "sn56.38"

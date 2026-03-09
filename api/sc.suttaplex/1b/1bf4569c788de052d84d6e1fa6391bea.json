@@ -224,7 +224,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": "2026",
+          "publication_date": null,
           "id": "sn35.99_translation-ru-o",
           "segmented": true,
           "title": "Сутта Самадхи ",
@@ -300,7 +300,7 @@
       "parallel_count": 8,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "Restraint ",
         "uid": "sn35.98"

@@ -171,7 +171,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": "2026",
+          "publication_date": null,
           "id": "sn48.23_translation-ru-o",
           "segmented": true,
           "title": "Сутта Способность Знания",
@@ -247,7 +247,7 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": "",
+      "verseNo": null,
       "previous": {
         "name": "The Life Faculty ",
         "uid": "sn48.22"
