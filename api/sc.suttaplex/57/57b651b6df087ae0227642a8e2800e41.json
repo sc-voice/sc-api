@@ -171,7 +171,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": null,
+          "publication_date": "2026",
           "id": "sn56.102_translation-ru-o",
           "segmented": true,
           "title": "Сутта Смерть Человеком, Ад",
@@ -234,7 +234,7 @@
       "parallel_count": 4,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "Mutilation, Etc. ",
         "uid": "sn56.96-101"

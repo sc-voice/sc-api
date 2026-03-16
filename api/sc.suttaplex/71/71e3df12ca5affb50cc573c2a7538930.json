@@ -186,7 +186,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": null,
+          "publication_date": "2026",
           "id": "sn55.55_translation-ru-o",
           "segmented": true,
           "title": "Плод вступления в поток ",
@@ -262,7 +262,7 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "Sick ",
         "uid": "sn55.54"

@@ -240,7 +240,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": null,
+          "publication_date": "2026",
           "id": "sn1.58_translation-ru-o",
           "segmented": true,
           "title": "Кривой путь ",
@@ -330,7 +330,7 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "Gives Birth (3rd) ",
         "uid": "sn1.57"

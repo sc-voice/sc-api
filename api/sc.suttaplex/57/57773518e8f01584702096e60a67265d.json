@@ -158,7 +158,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": null,
+          "publication_date": "2026",
           "id": "an8.56_translation-ru-o",
           "segmented": true,
           "title": "Сутта Опасность",
@@ -234,7 +234,7 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "With Ujjaya ",
         "uid": "an8.55"

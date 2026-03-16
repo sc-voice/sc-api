@@ -172,7 +172,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": null,
+          "publication_date": "2026",
           "id": "an5.303_translation-ru-o",
           "segmented": true,
           "title": "",
@@ -248,7 +248,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "A Jain Ascetic, Etc. ",
         "uid": "an5.294-302"

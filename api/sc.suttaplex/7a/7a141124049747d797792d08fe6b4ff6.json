@@ -282,7 +282,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": null,
+          "publication_date": "2026",
           "id": "mn139_translation-ru-o",
           "segmented": true,
           "title": "Разъяснение о не-конфликте ",
@@ -384,7 +384,7 @@
       "parallel_count": 5,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "A Summary Recital and its Analysis ",
         "uid": "mn138"

@@ -199,7 +199,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": null,
+          "publication_date": "2026",
           "id": "sn36.5_translation-ru-o",
           "segmented": true,
           "title": "Сутта Должно быть Увидено",
@@ -275,7 +275,7 @@
       "parallel_count": 3,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "The Abyss ",
         "uid": "sn36.4"

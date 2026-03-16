@@ -158,7 +158,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": null,
+          "publication_date": "2026",
           "id": "an10.199-210_translation-ru-o",
           "segmented": true,
           "title": "Сутты начинающиеся с Несвязываться",
@@ -221,7 +221,7 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "Should Be Realized ",
         "uid": "an10.198"

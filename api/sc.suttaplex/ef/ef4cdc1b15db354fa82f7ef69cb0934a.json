@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "What’s the Purpose? ",
+      "translated_title": "What’s the Goal? ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "an11.1_translation-en-sujato",
           "segmented": true,
-          "title": "What’s the Purpose? ",
+          "title": "What’s the Goal? ",
           "volpage": null,
           "has_comment": false
         },
@@ -261,7 +261,7 @@
       "parallel_count": 2,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "Untitled Discourses on Hate, Etc. ",
         "uid": "an10.267-746"

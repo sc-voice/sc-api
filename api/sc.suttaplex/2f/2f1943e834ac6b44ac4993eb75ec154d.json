@@ -171,7 +171,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": null,
+          "publication_date": "2026",
           "id": "sn37.1_translation-ru-o",
           "segmented": true,
           "title": "Сутта Женщина",
@@ -247,7 +247,7 @@
       "parallel_count": 0,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "Not of the Flesh ",
         "uid": "sn36.31"

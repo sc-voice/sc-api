@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "Regarding the Brahmin Jānussoṇi ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -253,7 +253,7 @@
         "uid": "sn45.3"
       },
       "next": {
-        "name": "What’s the Purpose ",
+        "name": "What’s the Goal? ",
         "uid": "sn45.5"
       }
     }

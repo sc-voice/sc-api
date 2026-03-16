@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "Practice (2nd) ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -172,7 +172,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": null,
+          "publication_date": "2026",
           "id": "sn45.24_translation-ru-o",
           "segmented": true,
           "title": "Сутта Практика Вторая",
@@ -248,7 +248,7 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "Practice (1st) ",
         "uid": "sn45.23"

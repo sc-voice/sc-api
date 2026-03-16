@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "Arising (2nd) ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "author": "Bhikkhu Bodhi",
@@ -234,7 +234,7 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "Arising (1st) ",
         "uid": "sn45.14"

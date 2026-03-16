@@ -171,7 +171,7 @@
           "author": "o Dhamma.gift",
           "author_short": "o",
           "author_uid": "o",
-          "publication_date": null,
+          "publication_date": "2026",
           "id": "sn48.13_translation-ru-o",
           "segmented": true,
           "title": "Сутта Сжато Вторая",
@@ -247,7 +247,7 @@
       "parallel_count": 1,
       "biblio": null,
       "priority_author_uid": "sujato",
-      "verseNo": null,
+      "verseNo": "",
       "previous": {
         "name": "In Brief (1st) ",
         "uid": "sn48.12"
