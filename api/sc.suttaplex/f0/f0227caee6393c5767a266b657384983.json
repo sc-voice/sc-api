@@ -84,7 +84,7 @@
           "segmented": true,
           "title": "A Wheel-Turning Monarch ",
           "volpage": null,
-          "has_comment": false
+          "has_comment": true
         },
         {
           "lang": "es",
@@ -280,7 +280,7 @@
         "uid": "sn54.20"
       },
       "next": {
-        "name": "The Culmination of the Spiritual Life ",
+        "name": "The Objective of the Spiritual Life ",
         "uid": "sn55.2"
       }
     }
