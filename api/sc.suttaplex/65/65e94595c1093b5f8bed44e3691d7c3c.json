@@ -116,6 +116,20 @@
           "has_comment": true
         },
         {
+          "lang": "en",
+          "lang_name": "English",
+          "is_root": false,
+          "author": "Bhante Suddhāso",
+          "author_short": "suddhaso",
+          "author_uid": "suddhaso",
+          "publication_date": null,
+          "id": "mn2_translation-en-suddhaso",
+          "segmented": true,
+          "title": "All the Defilements ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
