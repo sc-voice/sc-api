@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "This Is My Self ",
+      "translated_title": "This is My Self ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "sn22.152_translation-en-sujato",
           "segmented": true,
-          "title": "This Is My Self ",
+          "title": "This is My Self ",
           "volpage": null,
           "has_comment": true
         },
@@ -235,7 +235,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "This Is Mine ",
+        "name": "This is Mine ",
         "uid": "sn22.151"
       },
       "next": {

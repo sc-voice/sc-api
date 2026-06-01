@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "This Is Mine, etc. ",
+      "translated_title": "This is Mine, etc. ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "sn24.46-69_translation-en-sujato",
           "segmented": true,
-          "title": "",
+          "title": "This is Mine, etc. ",
           "volpage": null,
           "has_comment": false
         },
@@ -200,7 +200,7 @@
         "uid": "sn24.45"
       },
       "next": {
-        "name": "The Self Is Neither Happy Nor Suffering ",
+        "name": "The Self is Neither Happy Nor Suffering ",
         "uid": "sn24.70"
       }
     }

@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Liable To End ",
+      "translated_title": "Liable to End ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "sn23.19_translation-en-sujato",
           "segmented": true,
-          "title": "Liable To End ",
+          "title": "Liable to End ",
           "volpage": null,
           "has_comment": false
         },
@@ -213,7 +213,7 @@
         "uid": "sn23.18"
       },
       "next": {
-        "name": "liable to fall ",
+        "name": "Liable to Fall ",
         "uid": "sn23.20"
       }
     }

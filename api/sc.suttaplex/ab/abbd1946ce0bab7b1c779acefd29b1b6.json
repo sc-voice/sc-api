@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "liable to fall ",
+      "translated_title": "Liable to Fall ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "sn23.20_translation-en-sujato",
           "segmented": true,
-          "title": "liable to fall ",
+          "title": "Liable to Fall ",
           "volpage": null,
           "has_comment": false
         },
@@ -223,11 +223,11 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Liable To End ",
+        "name": "Liable to End ",
         "uid": "sn23.19"
       },
       "next": {
-        "name": "Liable To Originate ",
+        "name": "Liable to Originate ",
         "uid": "sn23.21"
       }
     }

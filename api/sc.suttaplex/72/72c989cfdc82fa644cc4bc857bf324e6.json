@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "This Is Mine ",
+      "translated_title": "This is Mine ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "sn22.151_translation-en-sujato",
           "segmented": true,
-          "title": "This Is Mine ",
+          "title": "This is Mine ",
           "volpage": null,
           "has_comment": true
         },
@@ -239,7 +239,7 @@
         "uid": "sn22.150"
       },
       "next": {
-        "name": "This Is My Self ",
+        "name": "This is My Self ",
         "uid": "sn22.152"
       }
     }

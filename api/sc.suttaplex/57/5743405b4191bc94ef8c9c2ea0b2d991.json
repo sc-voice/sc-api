@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Who Sakka Worships ",
+      "translated_title": "Homage of the Teacher ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "sn11.19_translation-en-sujato",
           "segmented": true,
-          "title": "Who Sakka Worships ",
+          "title": "Homage of the Teacher ",
           "volpage": null,
           "has_comment": true
         },
@@ -237,11 +237,11 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Who Sakka Worships ",
+        "name": "Homage of Householders ",
         "uid": "sn11.18"
       },
       "next": {
-        "name": "Who Sakka Worships ",
+        "name": "Homage of the Saṅgha ",
         "uid": "sn11.20"
       }
     }
