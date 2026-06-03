@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "sn47.3_translation-en-sujato",
           "segmented": true,
-          "title": "",
+          "title": "A Monk ",
           "volpage": null,
           "has_comment": true
         },
@@ -262,11 +262,11 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Satisutta",
+        "name": "Mindful ",
         "uid": "sn47.2"
       },
       "next": {
-        "name": "Sālasutta",
+        "name": "At Sālā ",
         "uid": "sn47.4"
       }
     }

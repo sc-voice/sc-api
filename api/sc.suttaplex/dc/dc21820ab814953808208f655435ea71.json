@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "sn47.2_translation-en-sujato",
           "segmented": true,
-          "title": "",
+          "title": "Mindful ",
           "volpage": null,
           "has_comment": true
         },
@@ -262,11 +262,11 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Ambapālisutta",
+        "name": "In Ambapālī’s Mango Grove ",
         "uid": "sn47.1"
       },
       "next": {
-        "name": "Bhikkhusutta",
+        "name": "A Monk ",
         "uid": "sn47.3"
       }
     }
