@@ -166,6 +166,20 @@
           "has_comment": false
         },
         {
+          "lang": "pl",
+          "lang_name": "Polski",
+          "is_root": false,
+          "author": "Piotr Jagodziński",
+          "author_short": "hardao",
+          "author_uid": "hardao",
+          "publication_date": "2024",
+          "id": "sn45.56_translation-pl-hardao",
+          "segmented": true,
+          "title": "Druga mowa o doskonałych przyjaciołach ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "ru",
           "lang_name": "Русский",
           "is_root": false,
