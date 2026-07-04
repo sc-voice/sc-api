@@ -60,6 +60,19 @@
           "has_comment": false
         },
         {
+          "lang": "de",
+          "lang_name": "Deutsch",
+          "is_root": false,
+          "author": "Nyānatiloka Thera",
+          "author_short": "Nyanatiloka",
+          "author_uid": "nyanatiloka",
+          "publication_date": "1907",
+          "id": "de_an9.73_nyanatiloka",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "en",
           "lang_name": "English",
           "is_root": false,
