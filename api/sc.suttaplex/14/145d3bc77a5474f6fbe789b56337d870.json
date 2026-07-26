@@ -192,6 +192,20 @@
           "has_comment": false
         },
         {
+          "lang": "pl",
+          "lang_name": "Polski",
+          "is_root": false,
+          "author": "Piotr Jagodziński",
+          "author_short": "hardao",
+          "author_uid": "hardao",
+          "publication_date": "2024",
+          "id": "sn2.17_translation-pl-hardao",
+          "segmented": true,
+          "title": "Mowa do Subrahmy ",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "pt",
           "lang_name": "Português",
           "is_root": false,
