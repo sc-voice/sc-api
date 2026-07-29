@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Ignorance is a Condition (2nd) ",
+      "translated_title": "Ignorance is a Requirement (2nd) ",
       "translations": [
         {
           "lang": "pli",
@@ -95,7 +95,7 @@
           "publication_date": "2018",
           "id": "sn12.36_translation-en-sujato",
           "segmented": true,
-          "title": "Ignorance is a Condition (2nd) ",
+          "title": "Ignorance is a Requirement (2nd) ",
           "volpage": null,
           "has_comment": false
         },
@@ -276,7 +276,7 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Ignorance is a Condition ",
+        "name": "Ignorance is a Requirement ",
         "uid": "sn12.35"
       },
       "next": {

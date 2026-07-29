@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "If There Was No ",
+      "translated_title": "If There Were No ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "sn14.33_translation-en-sujato",
           "segmented": true,
-          "title": "If There Was No ",
+          "title": "If There Were No ",
           "volpage": null,
           "has_comment": true
         },
@@ -240,7 +240,7 @@
         "uid": "sn14.32"
       },
       "next": {
-        "name": "Exclusively Painful ",
+        "name": "Absolutely Painful ",
         "uid": "sn14.34"
       }
     }
