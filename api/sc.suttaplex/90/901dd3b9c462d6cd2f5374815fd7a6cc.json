@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Scholar ",
+      "translated_title": "A Scholar ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "an7.88_translation-en-sujato",
           "segmented": true,
-          "title": "Scholar ",
+          "title": "A Scholar ",
           "volpage": null,
           "has_comment": false
         },
@@ -210,11 +210,11 @@
       "priority_author_uid": "sujato",
       "verseNo": "",
       "previous": {
-        "name": "Brahmin ",
+        "name": "A Brahmin ",
         "uid": "an7.87"
       },
       "next": {
-        "name": "Bathed ",
+        "name": "A Bathed Initiate ",
         "uid": "an7.89"
       }
     }

@@ -16,7 +16,7 @@
       "root_lang": "pli",
       "root_lang_name": "Pāli",
       "type": "leaf",
-      "translated_title": "Brahmin ",
+      "translated_title": "A Brahmin ",
       "translations": [
         {
           "lang": "pli",
@@ -82,7 +82,7 @@
           "publication_date": "2018",
           "id": "an7.87_translation-en-sujato",
           "segmented": true,
-          "title": "Brahmin ",
+          "title": "A Brahmin ",
           "volpage": null,
           "has_comment": false
         },
@@ -214,7 +214,7 @@
         "uid": "an7.86"
       },
       "next": {
-        "name": "Scholar ",
+        "name": "A Scholar ",
         "uid": "an7.88"
       }
     }
