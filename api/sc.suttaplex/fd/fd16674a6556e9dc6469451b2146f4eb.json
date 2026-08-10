@@ -189,6 +189,19 @@
           "segmented": false,
           "volpage": null,
           "has_comment": false
+        },
+        {
+          "lang": "zh",
+          "lang_name": "汉语",
+          "is_root": false,
+          "author": "莊春江",
+          "author_short": "莊春江",
+          "author_uid": "zhuang",
+          "publication_date": null,
+          "id": "zh_sn24.96_zhuang",
+          "segmented": false,
+          "volpage": null,
+          "has_comment": false
         }
       ],
       "parallel_count": 0,
