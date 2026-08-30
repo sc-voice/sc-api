@@ -100,20 +100,6 @@
           "has_comment": true
         },
         {
-          "lang": "en",
-          "lang_name": "English",
-          "is_root": false,
-          "author": null,
-          "author_short": null,
-          "author_uid": null,
-          "publication_date": null,
-          "id": "sn1.1_translation-en-xtest",
-          "segmented": true,
-          "title": "Crossing the Flood ",
-          "volpage": null,
-          "has_comment": false
-        },
-        {
           "author": "Bhikkhu Bodhi",
           "author_short": "Bodhi",
           "author_uid": "bodhi",
