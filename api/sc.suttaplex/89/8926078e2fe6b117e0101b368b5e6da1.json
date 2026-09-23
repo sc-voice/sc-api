@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.101",
-      "volpages": " PTS 1.254, PTS 1.255, PTS 1.256",
+      "alt_acronym": "AN 3.100a",
+      "volpages": "PTS AN 1.253, PTS 1.254, PTS 1.255, PTS 1.256",
       "alt_volpages": null,
       "uid": "an3.101",
       "blurb": "Meditation is like purifying gold. A meditator should progressively eliminate more refined corruptions.",

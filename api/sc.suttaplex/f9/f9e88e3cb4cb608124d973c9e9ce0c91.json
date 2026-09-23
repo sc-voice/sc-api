@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.26",
-      "volpages": " PTS 1.125, PTS 1.126",
+      "alt_acronym": null,
+      "volpages": "PTS AN 1.124, PTS 1.125, PTS 1.126",
       "alt_volpages": null,
       "uid": "an3.26",
       "blurb": "You should associate with people who are equal or better than you.",

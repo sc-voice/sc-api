@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 7.35",
-      "volpages": " PTS 4.30, PTS 4.31",
+      "alt_acronym": "AN 7.34",
+      "volpages": "PTS AN 4.30, PTS 4.31",
       "alt_volpages": null,
       "uid": "an7.35",
       "blurb": "The Buddha tells of hearing the seven principles of non-decline from a god. Sāriputta offers additional explanation.",

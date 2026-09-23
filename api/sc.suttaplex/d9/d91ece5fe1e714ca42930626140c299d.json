@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.90",
-      "volpages": " PTS 1.236",
+      "alt_acronym": "AN 3.89",
+      "volpages": "PTS AN 1.235, PTS 1.236",
       "alt_volpages": null,
       "uid": "an3.90",
       "blurb": "The three trainings explained, to perfection.",

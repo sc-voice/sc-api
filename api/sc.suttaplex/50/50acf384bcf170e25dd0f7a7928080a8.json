@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.25",
-      "volpages": " PTS 3.21",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.20, PTS 3.21",
       "alt_volpages": null,
       "uid": "an5.25",
       "blurb": "Right view leads to freedom when supported by five factors.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 6.25",
-      "volpages": " PTS 3.313, PTS 3.314",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.312, PTS 3.313, PTS 3.314",
       "alt_volpages": null,
       "uid": "an6.25",
       "blurb": "The six recollections are a way to escape from greed.",

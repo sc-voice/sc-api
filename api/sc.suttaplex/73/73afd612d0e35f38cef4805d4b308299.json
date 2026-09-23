@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.132",
-      "volpages": " PTS 2.135",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.135",
       "alt_volpages": null,
       "uid": "an4.132",
       "blurb": "Speaking on topic and fluently.",

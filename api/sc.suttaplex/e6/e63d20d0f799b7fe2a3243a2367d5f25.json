@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 6.95",
-      "volpages": " PTS 3.440",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.440",
       "alt_volpages": null,
       "uid": "an6.95",
       "blurb": "Things impossible for a stream-enterer.",

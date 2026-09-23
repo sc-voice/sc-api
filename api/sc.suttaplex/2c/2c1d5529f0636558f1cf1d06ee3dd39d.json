@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.33",
-      "volpages": " PTS 2.33, PTS 2.34",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.33, PTS 2.34",
       "alt_volpages": null,
       "uid": "an4.33",
       "blurb": "A lion’s roar terrifies beasts. The Buddha’s teaching terrifies the gods.",

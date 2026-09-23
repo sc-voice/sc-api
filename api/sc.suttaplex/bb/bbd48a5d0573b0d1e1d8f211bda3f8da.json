@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.141",
-      "volpages": " PTS 3.165",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.164, PTS 3.165",
       "alt_volpages": null,
       "uid": "an5.141",
       "blurb": "Five people susceptible to various flaws.",

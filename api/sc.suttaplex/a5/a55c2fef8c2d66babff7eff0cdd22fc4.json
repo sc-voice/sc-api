@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.63",
-      "volpages": " PTS 1.181, PTS 1.182, PTS 1.183, PTS 1.184, PTS 1.185",
+      "alt_acronym": null,
+      "volpages": "PTS AN 1.180, PTS 1.181, PTS 1.182, PTS 1.183, PTS 1.184, PTS 1.185",
       "alt_volpages": null,
       "uid": "an3.63",
       "blurb": "The high and luxurious beds that the Buddha uses.",

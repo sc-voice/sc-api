@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "SN 16.1",
-      "volpages": " PTS 2.194, PTS 2.195",
+      "alt_acronym": null,
+      "volpages": "PTS SN 2.194, PTS 2.195",
       "alt_volpages": null,
       "uid": "sn16.1",
       "blurb": "Kassapa is content with robes, alms-food, lodging, and medicines.",

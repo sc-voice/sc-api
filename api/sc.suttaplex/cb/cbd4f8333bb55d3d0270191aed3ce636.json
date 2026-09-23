@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 7.66",
-      "volpages": " PTS 4.100, PTS 4.101, PTS 4.102, PTS 4.103, PTS 4.104, PTS 4.105, PTS 4.106",
+      "alt_acronym": "AN 7.62",
+      "volpages": "PTS AN 4.100, PTS 4.101, PTS 4.102, PTS 4.103, PTS 4.104, PTS 4.105, PTS 4.106",
       "alt_volpages": null,
       "uid": "an7.66",
       "blurb": "A rare discourse on cosmic evolution. The Buddha describes the successive appearance of seven suns and how even the earth will be burned up.",

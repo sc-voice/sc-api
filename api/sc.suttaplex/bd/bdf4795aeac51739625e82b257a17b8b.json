@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 6.28",
-      "volpages": " PTS 3.320, PTS 3.321, PTS 3.322",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.320, PTS 3.321, PTS 3.322",
       "alt_volpages": null,
       "uid": "an6.28",
       "blurb": "Some senior mendicants discuss the right time to see an esteemed mendicant, and Mahākaccāna answers by quoting the Buddha from AN 6.27.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.58",
-      "volpages": " PTS 5.107",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.106, PTS 5.107",
       "alt_volpages": null,
       "uid": "an10.58",
       "blurb": "The root of all things, and similar principles.",

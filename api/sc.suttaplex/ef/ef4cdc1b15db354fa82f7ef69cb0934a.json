@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 11.1",
-      "volpages": " PTS 5.311, PTS 5.312",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.311, PTS 5.312",
       "alt_volpages": null,
       "uid": "an11.1",
       "blurb": "Good conduct leads to non-regret, to joy, and so on all the way to liberation.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.22",
-      "volpages": " PTS 2.22, PTS 2.23",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.22, PTS 2.23",
       "alt_volpages": null,
       "uid": "an4.22",
       "blurb": "What qualifies you as a senior.",

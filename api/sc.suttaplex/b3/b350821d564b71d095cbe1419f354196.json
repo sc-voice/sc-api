@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "SN 43.12",
-      "volpages": " PTS 4.362, PTS 4.363, PTS 4.364, PTS 4.365, PTS 4.366, PTS 4.367, PTS 4.368",
+      "alt_acronym": null,
+      "volpages": "PTS SN 4.362, PTS 4.363, PTS 4.364, PTS 4.365, PTS 4.366, PTS 4.367, PTS 4.368",
       "alt_volpages": null,
       "uid": "sn43.12",
       "blurb": null,

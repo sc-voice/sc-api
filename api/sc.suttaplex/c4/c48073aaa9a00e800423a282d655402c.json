@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.10",
-      "volpages": " PTS 3.9",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.8, PTS 3.9",
       "alt_volpages": null,
       "uid": "an5.10",
       "blurb": "A mendicant with five bad qualities can’t grow in the Dharma.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 7.57",
-      "volpages": " PTS 4.80, PTS 4.81, PTS 4.82",
+      "alt_acronym": "AN 7.54",
+      "volpages": "PTS AN 4.79, PTS 4.80, PTS 4.81, PTS 4.82",
       "alt_volpages": null,
       "uid": "an7.57",
       "blurb": "The Buddha explains the benefits of giving that are visible in the present life, and one that is only apparent in the next.",

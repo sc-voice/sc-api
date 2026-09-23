@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.213",
-      "volpages": " PTS 3.253, PTS 3.254",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.252, PTS 3.253, PTS 3.254",
       "alt_volpages": null,
       "uid": "an5.213",
       "blurb": "Five drawbacks of failure in morality, and the corresponding benefits of the reverse.",

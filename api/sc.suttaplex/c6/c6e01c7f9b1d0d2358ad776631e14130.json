@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.85",
-      "volpages": " PTS 2.86",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.85, PTS 2.86",
       "alt_volpages": null,
       "uid": "an4.85",
       "blurb": "The dark bound for darkness, the dark bound for light, the light bound for darkness, and the light bound for light.",

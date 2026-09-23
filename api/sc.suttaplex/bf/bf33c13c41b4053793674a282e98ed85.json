@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.45",
-      "volpages": " PTS 2.48, PTS 2.49",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.47, PTS 2.48, PTS 2.49",
       "alt_volpages": null,
       "uid": "an4.45",
       "blurb": "The god Rohitassa tells how he tried to go to the end of the world.",

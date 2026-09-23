@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 6.5",
-      "volpages": " PTS 3.283",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.282, PTS 3.283",
       "alt_volpages": null,
       "uid": "an6.5",
       "blurb": "A steed is worthy of the king for six reasons, and a mendicant is worthy for six similar reasons.",

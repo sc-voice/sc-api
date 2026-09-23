@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.79",
-      "volpages": " PTS 1.226",
+      "alt_acronym": null,
+      "volpages": "PTS AN 1.225, PTS 1.226",
       "alt_volpages": null,
       "uid": "an3.79",
       "blurb": "Some fragrances spread even against the wind.",

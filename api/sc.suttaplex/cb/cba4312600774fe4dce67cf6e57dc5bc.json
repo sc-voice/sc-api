@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.97",
-      "volpages": " PTS 2.98",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.97, PTS 2.98",
       "alt_volpages": null,
       "uid": "an4.97",
       "blurb": "Practice to help yourself and others.",

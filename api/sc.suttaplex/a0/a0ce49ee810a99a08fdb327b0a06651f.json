@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.28",
-      "volpages": " PTS 3.25, PTS 3.26, PTS 3.27, PTS 3.28, PTS 3.29",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.25, PTS 3.26, PTS 3.27, PTS 3.28, PTS 3.29",
       "alt_volpages": null,
       "uid": "an5.28",
       "blurb": "Five kinds of noble right convergence, including similes.",

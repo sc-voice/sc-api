@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.30",
-      "volpages": " PTS 2.30, PTS 2.31",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.29, PTS 2.30, PTS 2.31",
       "alt_volpages": null,
       "uid": "an4.30",
       "blurb": "A discussion with some wanderers on the basic principles.",

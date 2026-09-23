@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.71",
-      "volpages": " PTS 3.84, PTS 3.85",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.84, PTS 3.85",
       "alt_volpages": null,
       "uid": "an5.71",
       "blurb": "Five meditations lead to freedom. The Buddha supplies five similes, which subtly illustrate five aspects of awakening.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "SN 22.11",
-      "volpages": " PTS 3.21",
+      "alt_acronym": null,
+      "volpages": "PTS SN 3.20, PTS 3.21",
       "alt_volpages": null,
       "uid": "sn22.11",
       "blurb": "The aggregates are not-self in the past and future as in the present.",

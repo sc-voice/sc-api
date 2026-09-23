@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "SN 32.1",
-      "volpages": " PTS 3.254",
+      "alt_acronym": null,
+      "volpages": "PTS SN 3.254",
       "alt_volpages": null,
       "uid": "sn32.1",
       "blurb": "Cloud gods may live in cool clouds, warm clouds, storm clouds, wind clouds, or rain clouds.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.102",
-      "volpages": " PTS 1.257, PTS 1.258",
+      "alt_acronym": "AN 3.100b",
+      "volpages": "PTS AN 1.256, PTS 1.257, PTS 1.258",
       "alt_volpages": null,
       "uid": "an3.102",
       "blurb": "Meditation is like purifying gold. A meditator should focus on different aspects at different times in order to proceed smoothly.",

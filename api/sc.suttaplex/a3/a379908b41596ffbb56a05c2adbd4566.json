@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.101",
-      "volpages": " PTS 5.211",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.210, PTS 5.211",
       "alt_volpages": null,
       "uid": "an10.101",
       "blurb": "Three ascetic perceptions lead to seven results.",

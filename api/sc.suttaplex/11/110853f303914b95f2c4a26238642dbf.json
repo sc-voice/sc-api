@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.75",
-      "volpages": " PTS 3.90, PTS 3.91, PTS 3.92, PTS 3.93",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.89, PTS 3.90, PTS 3.91, PTS 3.92, PTS 3.93",
       "alt_volpages": null,
       "uid": "an5.75",
       "blurb": "Some warriors, like some monks, falter before the threat of battle, while others emerge victorious. ",

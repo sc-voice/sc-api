@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.16",
-      "volpages": " PTS 2.18",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.17, PTS 2.18",
       "alt_volpages": null,
       "uid": "an4.16",
       "blurb": "Subtlety of form, feeling, perception, and choices.",

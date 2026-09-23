@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.235",
-      "volpages": " PTS 2.234",
+      "alt_acronym": "AN 4.234",
+      "volpages": "PTS AN 2.233, PTS 2.234",
       "alt_volpages": null,
       "uid": "an4.235",
       "blurb": "Karma that’s dark, bright, both, and neither, explained with the precepts.",

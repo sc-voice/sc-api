@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 9.40",
-      "volpages": " PTS 4.435, PTS 4.436, PTS 4.437, PTS 4.438",
+      "alt_acronym": null,
+      "volpages": "PTS AN 4.435, PTS 4.436, PTS 4.437, PTS 4.438",
       "alt_volpages": null,
       "uid": "an9.40",
       "blurb": "A bull elephant, annoyed by living in the herd, goes off by himself. Similarly, a mendicant feeling crowded in a monastery goes off by themselves and happily meditates in seclusion.",

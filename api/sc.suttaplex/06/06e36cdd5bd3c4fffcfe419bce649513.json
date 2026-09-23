@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.37",
-      "volpages": " PTS 1.143, PTS 1.144",
+      "alt_acronym": "AN 3.36",
+      "volpages": "PTS AN 1.142, PTS 1.143, PTS 1.144",
       "alt_volpages": null,
       "uid": "an3.37",
       "blurb": "The gods rejoice when they see people practicing well.",

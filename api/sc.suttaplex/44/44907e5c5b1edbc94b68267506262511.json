@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.74",
-      "volpages": " PTS 5.137",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.137",
       "alt_volpages": null,
       "uid": "an10.74",
       "blurb": "Ten aspects of prosperity.",

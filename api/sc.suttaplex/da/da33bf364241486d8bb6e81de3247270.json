@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.132",
-      "volpages": " PTS 1.284",
+      "alt_acronym": "AN 3.130",
+      "volpages": "PTS AN 1.283, PTS 1.284",
       "alt_volpages": null,
       "uid": "an3.132",
       "blurb": "A line drawn in stone, sand, or water.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "SN 22.62",
-      "volpages": " PTS 3.72, PTS 3.73",
+      "alt_acronym": null,
+      "volpages": "PTS SN 3.71, PTS 3.72, PTS 3.73",
       "alt_volpages": null,
       "uid": "sn22.62",
       "blurb": "All philosophers must accept that the five aggregates are described in language that refers to either the past, future, or present.",

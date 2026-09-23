@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 7.69",
-      "volpages": " PTS 4.118, PTS 4.119, PTS 4.120",
+      "alt_acronym": "AN 7.65",
+      "volpages": "PTS AN 4.117, PTS 4.118, PTS 4.119, PTS 4.120",
       "alt_volpages": null,
       "uid": "an7.69",
       "blurb": "The blossoming of the Shady Orchid Tree delights the gods of the Thirty-Three, and in the same way, the renunciation of a Buddhist ascetic is delightful.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.43",
-      "volpages": " PTS 3.48, PTS 3.49",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.47, PTS 3.48, PTS 3.49",
       "alt_volpages": null,
       "uid": "an5.43",
       "blurb": "You don’t get good things by praying for them, but by how you live.",

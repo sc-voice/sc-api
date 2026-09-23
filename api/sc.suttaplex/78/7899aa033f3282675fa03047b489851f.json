@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "MN 110",
-      "volpages": " PTS 3.21, PTS 3.22, PTS 3.23, PTS 3.24",
+      "alt_acronym": null,
+      "volpages": "PTS MN 3.20, PTS 3.21, PTS 3.22, PTS 3.23, PTS 3.24",
       "alt_volpages": null,
       "uid": "mn110",
       "blurb": "A good person is able to understand a bad person, but not vice versa.",

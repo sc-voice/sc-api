@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 7.50",
-      "volpages": " PTS 4.54, PTS 4.55, PTS 4.56",
+      "alt_acronym": "AN 7.47",
+      "volpages": "PTS AN 4.54, PTS 4.55, PTS 4.56",
       "alt_volpages": null,
       "uid": "an7.50",
       "blurb": "The brahmin Jāṇussoṇī asks the Buddha about behaviors that are a blemish to the celibate life.",

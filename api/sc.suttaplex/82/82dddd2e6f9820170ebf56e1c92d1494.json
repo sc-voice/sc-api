@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.48",
-      "volpages": " PTS 3.55, PTS 3.56",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.54, PTS 3.55, PTS 3.56",
       "alt_volpages": null,
       "uid": "an5.48",
       "blurb": "A wise person reflects on their nature, so they do not suffer when struck by loss.",

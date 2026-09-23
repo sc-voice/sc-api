@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.3",
-      "volpages": " PTS 2.3, PTS 2.4",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.2, PTS 2.3, PTS 2.4",
       "alt_volpages": null,
       "uid": "an4.3",
       "blurb": "After reflection, you should criticize those worthy or criticism, and praise those worthy of praise.",

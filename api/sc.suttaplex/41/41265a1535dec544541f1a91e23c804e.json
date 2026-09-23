@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.70",
-      "volpages": " PTS 5.130, PTS 5.131",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.129, PTS 5.130, PTS 5.131",
       "alt_volpages": null,
       "uid": "an10.70",
       "blurb": "The monks are sitting around chatting about this and that. The Buddha admonishes them and teaches ten grounds of praise.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 7.84",
-      "volpages": " PTS 4.144",
+      "alt_acronym": "AN 7.80",
+      "volpages": "PTS AN 4.144",
       "alt_volpages": null,
       "uid": "an7.84",
       "blurb": "Seven principles for settling issues and disputes that have arisen in the community.",

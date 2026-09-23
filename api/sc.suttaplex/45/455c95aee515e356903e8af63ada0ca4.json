@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.157",
-      "volpages": " PTS 3.181, PTS 3.182, PTS 3.183",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.181, PTS 3.182, PTS 3.183",
       "alt_volpages": null,
       "uid": "an5.157",
       "blurb": "Certain topics are inappropriate to discuss with certain kinds of people.",

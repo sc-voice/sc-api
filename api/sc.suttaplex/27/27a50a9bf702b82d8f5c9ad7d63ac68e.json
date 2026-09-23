@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.255",
-      "volpages": " PTS 2.248",
+      "alt_acronym": "AN 4.252",
+      "volpages": "PTS AN 2.247, PTS 2.248",
       "alt_volpages": null,
       "uid": "an4.255",
       "blurb": "Noble and ignoble searches.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "SN 1.29",
-      "volpages": " PTS (1st ed) 1.16",
+      "alt_acronym": "SN 29",
+      "volpages": "PTS (1st ed) SN 1.16",
       "alt_volpages": "PTS (2nd ed) SN 1.35",
       "uid": "sn1.29",
       "blurb": "A riddle on the topic of escape.",

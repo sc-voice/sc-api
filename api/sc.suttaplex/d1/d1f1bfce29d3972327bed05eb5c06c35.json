@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.141",
-      "volpages": " PTS 1.290",
+      "alt_acronym": "AN 3.138",
+      "volpages": "PTS AN 1.289, PTS 1.290",
       "alt_volpages": null,
       "uid": "an3.141",
       "blurb": "Training people is like training good horses.",

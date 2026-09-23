@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.1",
-      "volpages": " PTS 1.101",
+      "alt_acronym": null,
+      "volpages": "PTS AN 1.101",
       "alt_volpages": null,
       "uid": "an3.1",
       "blurb": "Fools are dangerous, but the wise are safe.",

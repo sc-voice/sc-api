@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.32",
-      "volpages": " PTS 1.133",
+      "alt_acronym": "AN 3.32a",
+      "volpages": "PTS AN 1.132, PTS 1.133",
       "alt_volpages": null,
       "uid": "an3.32",
       "blurb": "Could there be a state of convergence with no sense of self?",

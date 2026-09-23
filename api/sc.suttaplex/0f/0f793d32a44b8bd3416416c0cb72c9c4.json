@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.2",
-      "volpages": " PTS 5.3, PTS 5.4",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.2, PTS 5.3, PTS 5.4",
       "alt_volpages": null,
       "uid": "an10.2",
       "blurb": "There’s no need to make a wish to get enlightened; it happens naturally when the conditions are there.",

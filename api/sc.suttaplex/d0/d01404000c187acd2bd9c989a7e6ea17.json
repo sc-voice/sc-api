@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.257",
-      "volpages": " PTS 2.249",
+      "alt_acronym": "AN 4.254",
+      "volpages": "PTS AN 2.248, PTS 2.249",
       "alt_volpages": null,
       "uid": "an4.257",
       "blurb": "An old monk asks for advice before his retreat.",

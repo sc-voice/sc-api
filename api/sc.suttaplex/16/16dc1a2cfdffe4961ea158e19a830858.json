@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.76",
-      "volpages": " PTS 2.80",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.79, PTS 2.80",
       "alt_volpages": null,
       "uid": "an4.76",
       "blurb": "As he lay dying, the Buddha encouraged his disciples to ask any last questions.",

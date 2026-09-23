@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.26",
-      "volpages": " PTS 3.22, PTS 3.23, PTS 3.24",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.21, PTS 3.22, PTS 3.23, PTS 3.24",
       "alt_volpages": null,
       "uid": "an5.26",
       "blurb": "Occasions when one can experience liberation.",

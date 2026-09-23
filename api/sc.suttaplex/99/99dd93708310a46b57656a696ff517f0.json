@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.101",
-      "volpages": " PTS 2.102",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.102",
       "alt_volpages": null,
       "uid": "an4.101",
       "blurb": "Four people similar to clouds.",

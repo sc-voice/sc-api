@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.19",
-      "volpages": " PTS 3.14",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.13, PTS 3.14",
       "alt_volpages": null,
       "uid": "an5.19",
       "blurb": "By neither teaching nor practicing, one doesn’t practice for anyone’ good.",

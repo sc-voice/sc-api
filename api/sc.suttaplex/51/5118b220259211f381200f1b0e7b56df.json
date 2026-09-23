@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 7.5",
-      "volpages": " PTS 4.5",
+      "alt_acronym": null,
+      "volpages": "PTS AN 4.4, PTS 4.5",
       "alt_volpages": null,
       "uid": "an7.5",
       "blurb": "The wealth of faith, ethics, conscience, prudence, learning, generosity, and wisdom.",

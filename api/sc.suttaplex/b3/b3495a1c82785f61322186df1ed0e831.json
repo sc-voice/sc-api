@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 7.72",
-      "volpages": " PTS 4.128, PTS 4.129, PTS 4.130, PTS 4.131, PTS 4.132, PTS 4.133, PTS 4.134, PTS 4.135",
+      "alt_acronym": "AN 7.68",
+      "volpages": "PTS AN 4.128, PTS 4.129, PTS 4.130, PTS 4.131, PTS 4.132, PTS 4.133, PTS 4.134, PTS 4.135",
       "alt_volpages": null,
       "uid": "an7.72",
       "blurb": "It would be better for a monk to embrace a blazing fire than to lie with a maiden.",

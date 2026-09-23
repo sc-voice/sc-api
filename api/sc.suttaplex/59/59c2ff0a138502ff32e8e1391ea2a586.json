@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "SN 15.5",
-      "volpages": " PTS 2.182",
+      "alt_acronym": null,
+      "volpages": "PTS SN 2.181, PTS 2.182",
       "alt_volpages": null,
       "uid": "sn15.5",
       "blurb": "A great mountain would erode before the end of the eon.",

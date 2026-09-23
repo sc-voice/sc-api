@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 7.62",
-      "volpages": " PTS 4.89, PTS 4.90, PTS 4.91",
+      "alt_acronym": "AN 7.58b",
+      "volpages": "PTS AN 4.88, PTS 4.89, PTS 4.90, PTS 4.91",
       "alt_volpages": null,
       "uid": "an7.62",
       "blurb": "The incalculable benefits of merit that last for many aeons.",

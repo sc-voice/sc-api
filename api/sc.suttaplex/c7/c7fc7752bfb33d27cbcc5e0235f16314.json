@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.83",
-      "volpages": " PTS 1.230",
+      "alt_acronym": "AN 3.82",
+      "volpages": "PTS AN 1.229, PTS 1.230",
       "alt_volpages": null,
       "uid": "an3.83",
       "blurb": "The duties of a farmer are like those of a mendicant.",

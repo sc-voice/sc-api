@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "SN 12.31",
-      "volpages": " PTS 2.48, PTS 2.49, PTS 2.50",
+      "alt_acronym": null,
+      "volpages": "PTS SN 2.47, PTS 2.48, PTS 2.49, PTS 2.50",
       "alt_volpages": null,
       "uid": "sn12.31",
       "blurb": "The Buddha asks Sāriputta to explain a verse from “The Questions of Ajita” in the Parāyana (Snp 5.2). At first, Sāriputta hesitates, but proceeds when the Buddha indicates he is looking for an answer in terms of conditionality.",

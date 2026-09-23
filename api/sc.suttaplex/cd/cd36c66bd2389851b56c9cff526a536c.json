@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.34",
-      "volpages": " PTS 1.135, PTS 1.136",
+      "alt_acronym": "AN 3.33",
+      "volpages": "PTS AN 1.134, PTS 1.135, PTS 1.136",
       "alt_volpages": null,
       "uid": "an3.34",
       "blurb": "Greed, hate, and delusion, and their opposites, are like seeds.",

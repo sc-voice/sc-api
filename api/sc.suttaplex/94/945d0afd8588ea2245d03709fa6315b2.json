@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.110",
-      "volpages": " PTS 5.221",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.220, PTS 5.221",
       "alt_volpages": null,
       "uid": "an10.110",
       "blurb": "The ten path factors each expel their opposite.",

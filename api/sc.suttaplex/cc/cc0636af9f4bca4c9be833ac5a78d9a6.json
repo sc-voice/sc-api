@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.12",
-      "volpages": " PTS 3.10",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.10",
       "alt_volpages": null,
       "uid": "an5.12",
       "blurb": "Of the five powers, wisdom is chief.",

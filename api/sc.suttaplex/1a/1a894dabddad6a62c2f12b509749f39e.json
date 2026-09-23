@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.14",
-      "volpages": " PTS 2.16, PTS 2.17",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.16, PTS 2.17",
       "alt_volpages": null,
       "uid": "an4.14",
       "blurb": "The endeavors to restrain, to give up, to develop, and to preserve.",

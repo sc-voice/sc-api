@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.104",
-      "volpages": " PTS 5.213, PTS 5.214",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.212, PTS 5.213, PTS 5.214",
       "alt_volpages": null,
       "uid": "an10.104",
       "blurb": "When a person has wrong view, all their path development is wrong. But when they have right view, everything good follows.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.192",
-      "volpages": " PTS 2.188, PTS 2.189, PTS 2.190",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.187, PTS 2.188, PTS 2.189, PTS 2.190",
       "alt_volpages": null,
       "uid": "an4.192",
       "blurb": "Ways of assessing a person’s morality, integrity, resilience, and wisdom.",

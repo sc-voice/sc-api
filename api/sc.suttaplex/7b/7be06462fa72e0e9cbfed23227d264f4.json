@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.73",
-      "volpages": " PTS 5.136",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.135, PTS 5.136",
       "alt_volpages": null,
       "uid": "an10.73",
       "blurb": "Ten desirable things that are hard to get.",

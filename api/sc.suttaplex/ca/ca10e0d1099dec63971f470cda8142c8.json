@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.250",
-      "volpages": " PTS 3.270, PTS 3.271",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.270, PTS 3.271",
       "alt_volpages": null,
       "uid": "an5.250",
       "blurb": "Placing faith in an individual is dangerous for five reasons.",

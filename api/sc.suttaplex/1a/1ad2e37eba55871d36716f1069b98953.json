@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.68",
-      "volpages": " PTS 1.200, PTS 1.201",
+      "alt_acronym": null,
+      "volpages": "PTS AN 1.199, PTS 1.200, PTS 1.201",
       "alt_volpages": null,
       "uid": "an3.68",
       "blurb": "The differences between greed, hate, and delusion.",
@@ -189,6 +190,20 @@
           "publication_date": "2007",
           "id": "pt_an3.68_beisert",
           "segmented": false,
+          "volpage": null,
+          "has_comment": false
+        },
+        {
+          "lang": "ru",
+          "lang_name": "Русский",
+          "is_root": false,
+          "author": "SV theravada.ru",
+          "author_short": "sv",
+          "author_uid": "sv",
+          "publication_date": "2025",
+          "id": "an3.68_translation-ru-sv",
+          "segmented": true,
+          "title": "Приверженцы иных учений",
           "volpage": null,
           "has_comment": false
         },

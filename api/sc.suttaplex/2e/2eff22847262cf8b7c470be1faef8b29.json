@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "SN 45.1",
-      "volpages": " PTS 5.1, PTS 5.2",
+      "alt_acronym": null,
+      "volpages": "PTS SN 5.1, PTS 5.2",
       "alt_volpages": null,
       "uid": "sn45.1",
       "blurb": "Following ignorance comes the wrong eightfold path. But the right eightfold path follows true knowledge.",

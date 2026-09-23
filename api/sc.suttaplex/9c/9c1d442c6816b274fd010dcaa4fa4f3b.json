@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.237",
-      "volpages": " PTS 2.236",
+      "alt_acronym": "AN 4.235",
+      "volpages": "PTS AN 2.235, PTS 2.236",
       "alt_volpages": null,
       "uid": "an4.237",
       "blurb": "Karma that’s dark, bright, both, and neither, explained with the noble eightfold path.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.80",
-      "volpages": " PTS 5.151",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.150, PTS 5.151",
       "alt_volpages": null,
       "uid": "an10.80",
       "blurb": "Ten ways of removing resentment.",

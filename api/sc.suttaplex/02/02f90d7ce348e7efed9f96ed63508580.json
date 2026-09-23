@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.160",
-      "volpages": " PTS 2.147, PTS 2.148, PTS 2.149",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.147, PTS 2.148, PTS 2.149",
       "alt_volpages": null,
       "uid": "an4.160",
       "blurb": "Things that lead to the disappearance of the Dharma.",

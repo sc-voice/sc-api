@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.47",
-      "volpages": " PTS 2.51",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.50, PTS 2.51",
       "alt_volpages": null,
       "uid": "an4.47",
       "blurb": "The sky and earth and very far apart. What’s further apart?",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.7",
-      "volpages": " PTS 3.6",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.5, PTS 3.6",
       "alt_volpages": null,
       "uid": "an5.7",
       "blurb": "The Buddha looks after mendicants like a nurse looks after a child until they’ve grown up.",

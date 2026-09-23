@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "MN 130",
-      "volpages": " PTS 3.179, PTS 3.180, PTS 3.181, PTS 3.182, PTS 3.183, PTS 3.184, PTS 3.185, PTS 3.186, PTS 3.187",
+      "alt_acronym": null,
+      "volpages": "PTS MN 3.178, PTS 3.179, PTS 3.180, PTS 3.181, PTS 3.182, PTS 3.183, PTS 3.184, PTS 3.185, PTS 3.186, PTS 3.187",
       "alt_volpages": null,
       "uid": "mn130",
       "blurb": "Expanding on the previous, this discourse contains the most detailed descriptions of the horrors of hell.",

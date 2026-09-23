@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.23",
-      "volpages": " PTS 3.17, PTS 3.18, PTS 3.19",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.16, PTS 3.17, PTS 3.18, PTS 3.19",
       "alt_volpages": null,
       "uid": "an5.23",
       "blurb": "The hindrances are like the corruptions in gold.",

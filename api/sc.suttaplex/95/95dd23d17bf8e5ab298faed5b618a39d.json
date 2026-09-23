@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.23",
-      "volpages": " PTS 5.39, PTS 5.40, PTS 5.41",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.39, PTS 5.40, PTS 5.41",
       "alt_volpages": null,
       "uid": "an10.23",
       "blurb": "Some things are to be given up by body, others by speech, and still others by wisdom.",

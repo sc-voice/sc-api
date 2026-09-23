@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "Thag 21.1",
-      "volpages": " PTS 109, PTS 110, PTS 111, PTS 112, PTS 113, PTS 114, PTS 115",
+      "alt_acronym": null,
+      "volpages": "PTS 109, PTS 110, PTS 111, PTS 112, PTS 113, PTS 114, PTS 115",
       "alt_volpages": null,
       "uid": "thag21.1",
       "blurb": null,

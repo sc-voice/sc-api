@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.184",
-      "volpages": " PTS 2.174, PTS 2.175, PTS 2.176",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.173, PTS 2.174, PTS 2.175, PTS 2.176",
       "alt_volpages": null,
       "uid": "an4.184",
       "blurb": "Not everyone is afraid to die.",

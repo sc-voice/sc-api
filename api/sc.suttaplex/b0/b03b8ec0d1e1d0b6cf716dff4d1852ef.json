@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "SN 12.2",
-      "volpages": " PTS 2.3, PTS 2.4",
+      "alt_acronym": null,
+      "volpages": "PTS SN 2.2, PTS 2.3, PTS 2.4",
       "alt_volpages": null,
       "uid": "sn12.2",
       "blurb": "The Buddha gives definitions for each of the twelve links. These are general definitions that apply wherever the twelve links are mentioned.",

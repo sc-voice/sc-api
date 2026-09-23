@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.24",
-      "volpages": " PTS 3.20",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.19, PTS 3.20",
       "alt_volpages": null,
       "uid": "an5.24",
       "blurb": "Dharmas starting with morality naturally evolve to freedom.",

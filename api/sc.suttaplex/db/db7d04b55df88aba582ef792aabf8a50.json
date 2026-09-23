@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 8.31",
-      "volpages": " PTS 4.236",
+      "alt_acronym": null,
+      "volpages": "PTS AN 4.236",
       "alt_volpages": null,
       "uid": "an8.31",
       "blurb": "Eight ways of giving a gift.",

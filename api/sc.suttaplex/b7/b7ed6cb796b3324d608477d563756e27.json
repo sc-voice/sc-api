@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.60",
-      "volpages": " PTS 3.79",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.78, PTS 3.79",
       "alt_volpages": null,
       "uid": "an5.60",
       "blurb": "Things that are hard to find in someone who has gone forth when old.",

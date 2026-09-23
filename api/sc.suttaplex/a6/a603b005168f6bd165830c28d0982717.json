@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 6.96",
-      "volpages": " PTS 3.441",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.441",
       "alt_volpages": null,
       "uid": "an6.96",
       "blurb": "Things rare to find in the world.",

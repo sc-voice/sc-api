@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.140",
-      "volpages": " PTS 2.139",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.138, PTS 2.139",
       "alt_volpages": null,
       "uid": "an4.140",
       "blurb": "Having things to say, and saying them well.",

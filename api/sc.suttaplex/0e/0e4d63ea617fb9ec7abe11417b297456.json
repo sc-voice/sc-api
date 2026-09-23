@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 7.1",
-      "volpages": " PTS 4.1, PTS 4.2",
+      "alt_acronym": null,
+      "volpages": "PTS AN 4.1, PTS 4.2",
       "alt_volpages": null,
       "uid": "an7.1",
       "blurb": "Seven qualities that make a mendicant either agreeable or disagreeable to their fellow monastics.",

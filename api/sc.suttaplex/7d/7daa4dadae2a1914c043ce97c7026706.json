@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "SN 55.13",
-      "volpages": " PTS 5.363, PTS 5.364",
+      "alt_acronym": null,
+      "volpages": "PTS SN 5.362, PTS 5.363, PTS 5.364",
       "alt_volpages": null,
       "uid": "sn55.13",
       "blurb": "Sāriputta asks Ānanda how many things are given up and how many things possessed by the stream-enterer. ",

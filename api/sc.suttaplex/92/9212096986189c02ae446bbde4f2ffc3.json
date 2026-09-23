@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 8.20",
-      "volpages": " PTS 4.205, PTS 4.206, PTS 4.207, PTS 4.208",
+      "alt_acronym": null,
+      "volpages": "PTS AN 4.204, PTS 4.205, PTS 4.206, PTS 4.207, PTS 4.208",
       "alt_volpages": null,
       "uid": "an8.20",
       "blurb": "On a full-moon night, the Buddha was to recite the code of conduct for the monks. However, he remained silent until dawn, due to the presence of a corrupt monk.",

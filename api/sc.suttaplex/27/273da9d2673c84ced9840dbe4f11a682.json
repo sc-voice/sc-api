@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "SN 12.1",
-      "volpages": " PTS 2.1, PTS 2.2",
+      "alt_acronym": null,
+      "volpages": "PTS SN 2.1, PTS 2.2",
       "alt_volpages": null,
       "uid": "sn12.1",
       "blurb": "The famous twelve links of dependent origination are spelled out, showing the origin and cessation of suffering dependent on ignorance.",

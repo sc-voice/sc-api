@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "SN 31.1",
-      "volpages": " PTS 3.250",
+      "alt_acronym": null,
+      "volpages": "PTS SN 3.249, PTS 3.250",
       "alt_volpages": null,
       "uid": "sn31.1",
       "blurb": "Centaurs may live in fragrant roots and other vegetation.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "MN 64",
-      "volpages": " PTS 1.433, PTS 1.434, PTS 1.435, PTS 1.436, PTS 1.437",
+      "alt_acronym": null,
+      "volpages": "PTS MN 1.432, PTS 1.433, PTS 1.434, PTS 1.435, PTS 1.436, PTS 1.437",
       "alt_volpages": null,
       "uid": "mn64",
       "blurb": "A little baby has no wrong views or intentions, but the underlying tendency for these things is still there. Without practicing, they will inevitably recur.",

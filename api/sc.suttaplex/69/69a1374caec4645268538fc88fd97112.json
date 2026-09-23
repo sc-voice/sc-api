@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.85",
-      "volpages": " PTS 3.113",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.112, PTS 3.113",
       "alt_volpages": null,
       "uid": "an5.85",
       "blurb": "A senior mendicant with no endurance is disliked.",

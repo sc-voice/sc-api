@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "MN 129",
-      "volpages": " PTS 3.163, PTS 3.164, PTS 3.165, PTS 3.166, PTS 3.167, PTS 3.168, PTS 3.169, PTS 3.170, PTS 3.171, PTS 3.172, PTS 3.173, PTS 3.174, PTS 3.175, PTS 3.176, PTS 3.177, PTS 3.178",
+      "alt_acronym": null,
+      "volpages": "PTS MN 3.163, PTS 3.164, PTS 3.165, PTS 3.166, PTS 3.167, PTS 3.168, PTS 3.169, PTS 3.170, PTS 3.171, PTS 3.172, PTS 3.173, PTS 3.174, PTS 3.175, PTS 3.176, PTS 3.177, PTS 3.178",
       "alt_volpages": null,
       "uid": "mn129",
       "blurb": "A fool suffers both in this life and the next, while the astute benefits in both respects.",

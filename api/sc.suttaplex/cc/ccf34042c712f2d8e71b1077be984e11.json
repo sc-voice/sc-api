@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.110",
-      "volpages": " PTS 2.111",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.110, PTS 2.111",
       "alt_volpages": null,
       "uid": "an4.110",
       "blurb": "Four people similar to vipers.",

@@ -7,8 +7,9 @@
   "value": [
     {
       "acronym": "SN 3.2",
+      "alt_acronym": "SN 113",
       "volpages": "PTS (1st ed) SN 1.70",
-      "alt_volpages": "PTS (2nd ed) SN 1.162, PTS (2nd ed) 1.162, PTS (2nd ed) 1.163",
+      "alt_volpages": "PTS (2nd ed) SN 1.162, PTS (2nd ed) 1.163",
       "uid": "sn3.2",
       "blurb": "Pasenadi asks of the things that cause suffering when they arise in oneself.",
       "difficulty": null,

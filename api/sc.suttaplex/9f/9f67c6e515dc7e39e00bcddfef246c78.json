@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.3",
-      "volpages": " PTS 5.5",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.4, PTS 5.5",
       "alt_volpages": null,
       "uid": "an10.3",
       "blurb": "The Buddha teaches how, like a tree that grows due to its leaves, liberation follows when ethics is present.",

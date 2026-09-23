@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.55",
-      "volpages": " PTS 5.103, PTS 5.104, PTS 5.105",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.102, PTS 5.103, PTS 5.104, PTS 5.105",
       "alt_volpages": null,
       "uid": "an10.55",
       "blurb": "Sāriputta explains what the Buddha meant by a mendicant who is in decline.",

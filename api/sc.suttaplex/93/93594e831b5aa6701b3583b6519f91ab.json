@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 6.31",
-      "volpages": " PTS 3.330",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.329, PTS 3.330",
       "alt_volpages": null,
       "uid": "an6.31",
       "blurb": "Things leading to decline or non-decline.",

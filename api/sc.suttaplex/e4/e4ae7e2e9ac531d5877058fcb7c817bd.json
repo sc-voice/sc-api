@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.22",
-      "volpages": " PTS 3.16",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.15, PTS 3.16",
       "alt_volpages": null,
       "uid": "an5.22",
       "blurb": "If your basic practice is not there, you can’t go higher.",

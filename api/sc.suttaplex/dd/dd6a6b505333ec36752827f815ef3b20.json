@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.220",
-      "volpages": " PTS 5.302, PTS 5.303",
+      "alt_acronym": "AN 10.209",
+      "volpages": "PTS AN 5.301, PTS 5.302, PTS 5.303",
       "alt_volpages": null,
       "uid": "an10.220",
       "blurb": "The Buddha teaches a brahmin that bad conduct leads to hell, good conduct to heaven.",

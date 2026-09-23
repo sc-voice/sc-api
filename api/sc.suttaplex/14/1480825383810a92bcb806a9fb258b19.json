@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 8.40",
-      "volpages": " PTS 4.248",
+      "alt_acronym": null,
+      "volpages": "PTS AN 4.247, PTS 4.248",
       "alt_volpages": null,
       "uid": "an8.40",
       "blurb": "Eight kinds of misdeed are conducive to bad outcomes.",

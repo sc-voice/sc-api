@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.62",
-      "volpages": " PTS 1.178, PTS 1.179, PTS 1.180",
+      "alt_acronym": null,
+      "volpages": "PTS AN 1.178, PTS 1.179, PTS 1.180",
       "alt_volpages": null,
       "uid": "an3.62",
       "blurb": "Perils that tear mothers and children apart.",

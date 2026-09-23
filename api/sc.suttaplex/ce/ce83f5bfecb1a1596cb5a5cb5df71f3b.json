@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "MN 83",
-      "volpages": " PTS 2.75, PTS 2.76, PTS 2.77, PTS 2.78, PTS 2.79, PTS 2.80, PTS 2.81, PTS 2.82, PTS 2.83",
+      "alt_acronym": null,
+      "volpages": "PTS MN 2.74, PTS 2.75, PTS 2.76, PTS 2.77, PTS 2.78, PTS 2.79, PTS 2.80, PTS 2.81, PTS 2.82, PTS 2.83",
       "alt_volpages": null,
       "uid": "mn83",
       "blurb": "A rare extended mythic narrative, telling of an ancient kingly lineage and their eventual downfall.",

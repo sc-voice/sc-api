@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 11.2",
-      "volpages": " PTS 5.313",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.312, PTS 5.313",
       "alt_volpages": null,
       "uid": "an11.2",
       "blurb": "A virtuous person need not make a wish; it is natural for the path to flow on.",

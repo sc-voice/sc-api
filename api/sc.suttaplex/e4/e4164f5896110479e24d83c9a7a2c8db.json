@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.123",
-      "volpages": " PTS 3.144",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.143, PTS 3.144",
       "alt_volpages": null,
       "uid": "an5.123",
       "blurb": "Five qualities that make a patient hard to nurse.",

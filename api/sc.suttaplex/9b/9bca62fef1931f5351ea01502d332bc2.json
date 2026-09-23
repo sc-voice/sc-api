@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 6.30",
-      "volpages": " PTS 3.326, PTS 3.327, PTS 3.328, PTS 3.329",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.325, PTS 3.326, PTS 3.327, PTS 3.328, PTS 3.329",
       "alt_volpages": null,
       "uid": "an6.30",
       "blurb": "There are things in the world considered to be unsurpassed, but none of them compare with the Dhamma.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.32",
-      "volpages": " PTS 5.71",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.70, PTS 5.71",
       "alt_volpages": null,
       "uid": "an10.32",
       "blurb": "Ten reasons for suspending the recitation of the code of conduct.",

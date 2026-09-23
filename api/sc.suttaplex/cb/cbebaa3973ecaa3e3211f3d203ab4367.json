@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.189",
-      "volpages": " PTS 2.183",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.182, PTS 2.183",
       "alt_volpages": null,
       "uid": "an4.189",
       "blurb": "Different things are realized in different ways.",

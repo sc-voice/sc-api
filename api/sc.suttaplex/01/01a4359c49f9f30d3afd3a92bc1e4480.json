@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "Thig 1.15",
-      "volpages": " PTS 125",
+      "alt_acronym": null,
+      "volpages": "PTS 125",
       "alt_volpages": null,
       "uid": "thig1.15",
       "blurb": null,

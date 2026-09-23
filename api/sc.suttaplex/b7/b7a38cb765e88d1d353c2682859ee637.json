@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.111",
-      "volpages": " PTS 2.112, PTS 2.113",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.112, PTS 2.113",
       "alt_volpages": null,
       "uid": "an4.111",
       "blurb": "Guiding people like horses: sometimes, strictly, sometimes gently. And sometimes you have to kill them.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.44",
-      "volpages": " PTS 5.80, PTS 5.81",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.79, PTS 5.80, PTS 5.81",
       "alt_volpages": null,
       "uid": "an10.44",
       "blurb": "A mendicant who wishes to admonish another should first reflect on five things in themselves and establish a further five.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 9.1",
-      "volpages": " PTS 4.351, PTS 4.352, PTS 4.353",
+      "alt_acronym": null,
+      "volpages": "PTS AN 4.351, PTS 4.352, PTS 4.353",
       "alt_volpages": null,
       "uid": "an9.1",
       "blurb": "Beginning with good friendship, the Buddha teaches nine things that give rise to the qualities that lead to awakening.",

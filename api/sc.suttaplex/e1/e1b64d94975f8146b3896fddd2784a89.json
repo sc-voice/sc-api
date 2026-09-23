@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 9.33",
-      "volpages": " PTS 4.411, PTS 4.412, PTS 4.413, PTS 4.414",
+      "alt_acronym": null,
+      "volpages": "PTS AN 4.410, PTS 4.411, PTS 4.412, PTS 4.413, PTS 4.414",
       "alt_volpages": null,
       "uid": "an9.33",
       "blurb": "Nine progressive meditation states, explained in detail.",

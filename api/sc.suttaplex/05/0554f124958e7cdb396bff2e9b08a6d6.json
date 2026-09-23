@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 8.80",
-      "volpages": " PTS 4.332, PTS 4.333, PTS 4.334, PTS 4.335, PTS 4.336",
+      "alt_acronym": null,
+      "volpages": "PTS AN 4.332, PTS 4.333, PTS 4.334, PTS 4.335, PTS 4.336",
       "alt_volpages": null,
       "uid": "an8.80",
       "blurb": "Eight grounds for laziness, and the corresponding eight grounds for energy.",

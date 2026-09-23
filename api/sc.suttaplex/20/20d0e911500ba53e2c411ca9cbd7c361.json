@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "SN 12.4",
-      "volpages": " PTS 2.6, PTS 2.7, PTS 2.8, PTS 2.9",
+      "alt_acronym": null,
+      "volpages": "PTS SN 2.5, PTS 2.6, PTS 2.7, PTS 2.8, PTS 2.9",
       "alt_volpages": null,
       "uid": "sn12.4",
       "blurb": "In the far past, the Buddha Vipassī reflected on how the world had fallen into suffering, and became awakened by understanding dependent origination.",

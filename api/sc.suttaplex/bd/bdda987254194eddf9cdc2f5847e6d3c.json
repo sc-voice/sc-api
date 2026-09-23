@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.87",
-      "volpages": " PTS 5.165, PTS 5.166, PTS 5.167, PTS 5.168, PTS 5.169",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.164, PTS 5.165, PTS 5.166, PTS 5.167, PTS 5.168, PTS 5.169",
       "alt_volpages": null,
       "uid": "an10.87",
       "blurb": "The Buddha, speaking in reference to the monk Kalandaka, explains ten qualities that lead to discord or unity.",

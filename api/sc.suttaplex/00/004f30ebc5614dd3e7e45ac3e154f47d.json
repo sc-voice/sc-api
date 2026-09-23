@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.103",
-      "volpages": " PTS 5.212",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.211, PTS 5.212",
       "alt_volpages": null,
       "uid": "an10.103",
       "blurb": "The tenfold wrong path leads to failure, the tenfold right path leads to success.",

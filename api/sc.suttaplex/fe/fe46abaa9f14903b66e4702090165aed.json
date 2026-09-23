@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 8.34",
-      "volpages": " PTS 4.238, PTS 4.239",
+      "alt_acronym": null,
+      "volpages": "PTS AN 4.237, PTS 4.238, PTS 4.239",
       "alt_volpages": null,
       "uid": "an8.34",
       "blurb": "The rewards of giving are compared to fields of different qualities.",

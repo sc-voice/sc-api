@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.57",
-      "volpages": " PTS 3.72, PTS 3.73, PTS 3.74, PTS 3.75",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.71, PTS 3.72, PTS 3.73, PTS 3.74, PTS 3.75",
       "alt_volpages": null,
       "uid": "an5.57",
       "blurb": "Topics that are worthy regularly reflecting on, whether as a lay person or renunciant.",

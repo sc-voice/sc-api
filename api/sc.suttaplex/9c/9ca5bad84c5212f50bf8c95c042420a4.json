@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.53",
-      "volpages": " PTS 5.96, PTS 5.97, PTS 5.98",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.96, PTS 5.97, PTS 5.98",
       "alt_volpages": null,
       "uid": "an10.53",
       "blurb": "The Buddha doesn’t praise stagnation in wholesome qualities, let alone decline.",

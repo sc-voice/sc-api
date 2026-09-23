@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.75",
-      "volpages": " PTS 1.223",
+      "alt_acronym": null,
+      "volpages": "PTS AN 1.222, PTS 1.223",
       "alt_volpages": null,
       "uid": "an3.75",
       "blurb": "How to encourage and support those close to you.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.19",
-      "volpages": " PTS 1.116",
+      "alt_acronym": null,
+      "volpages": "PTS AN 1.115, PTS 1.116",
       "alt_volpages": null,
       "uid": "an3.19",
       "blurb": "Shopkeepers and mendicants both have to work hard.",

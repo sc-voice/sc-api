@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.174",
-      "volpages": " PTS 3.205, PTS 3.206",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.204, PTS 3.205, PTS 3.206",
       "alt_volpages": null,
       "uid": "an5.174",
       "blurb": "Breaking of precepts is a threat and a danger.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.135",
-      "volpages": " PTS 1.286",
+      "alt_acronym": "AN 3.133",
+      "volpages": "PTS AN 1.286",
       "alt_volpages": null,
       "uid": "an3.135",
       "blurb": "A good friend does what’s hard.",

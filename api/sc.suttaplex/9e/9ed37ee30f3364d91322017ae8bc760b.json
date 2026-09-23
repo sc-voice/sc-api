@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.90",
-      "volpages": " PTS 5.175, PTS 5.176",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.174, PTS 5.175, PTS 5.176",
       "alt_volpages": null,
       "uid": "an10.90",
       "blurb": "Ten powers by which a mendicant knows that they have ended the defilements.",

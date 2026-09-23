@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.45",
-      "volpages": " PTS 5.82, PTS 5.83",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.81, PTS 5.82, PTS 5.83",
       "alt_volpages": null,
       "uid": "an10.45",
       "blurb": "Ten dangers for a monk who enters a royal harem. ",

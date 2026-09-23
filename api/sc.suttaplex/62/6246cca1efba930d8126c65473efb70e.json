@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.54",
-      "volpages": " PTS 2.60, PTS 2.61",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.59, PTS 2.60, PTS 2.61",
       "alt_volpages": null,
       "uid": "an4.54",
       "blurb": "Living with gods and zombies.",

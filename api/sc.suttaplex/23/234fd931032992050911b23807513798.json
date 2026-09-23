@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.134",
-      "volpages": " PTS 5.241",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.240, PTS 5.241",
       "alt_volpages": null,
       "uid": "an10.134",
       "blurb": null,

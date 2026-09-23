@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.46",
-      "volpages": " PTS 2.50",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.49, PTS 2.50",
       "alt_volpages": null,
       "uid": "an4.46",
       "blurb": "The Buddha relates the story of Rohitassa.",

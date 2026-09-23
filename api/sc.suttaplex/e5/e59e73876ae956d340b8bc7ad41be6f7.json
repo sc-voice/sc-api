@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.16",
-      "volpages": " PTS 1.114",
+      "alt_acronym": null,
+      "volpages": "PTS AN 1.113, PTS 1.114",
       "alt_volpages": null,
       "uid": "an3.16",
       "blurb": "Practices that can’t fail.",

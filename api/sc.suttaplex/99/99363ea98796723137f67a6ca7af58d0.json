@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.67",
-      "volpages": " PTS 5.123, PTS 5.124, PTS 5.125",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.122, PTS 5.123, PTS 5.124, PTS 5.125",
       "alt_volpages": null,
       "uid": "an10.67",
       "blurb": "At Naḷakapāna the Buddha invites Sāriputta to teach. He speaks of ten qualities that lead to decline or non-decline.",

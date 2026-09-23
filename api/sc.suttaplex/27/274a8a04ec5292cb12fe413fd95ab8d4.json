@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.183",
-      "volpages": " PTS 2.173",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.172, PTS 2.173",
       "alt_volpages": null,
       "uid": "an4.183",
       "blurb": "What we say should never go beyond what we know; but it must also be meaningful.",

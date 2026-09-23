@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.198",
-      "volpages": " PTS 3.244",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.243, PTS 3.244",
       "alt_volpages": null,
       "uid": "an5.198",
       "blurb": "Five factors of good speech.",

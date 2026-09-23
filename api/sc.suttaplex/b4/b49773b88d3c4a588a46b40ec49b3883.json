@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.27",
-      "volpages": " PTS 2.27",
+      "alt_acronym": null,
+      "volpages": "PTS AN 2.26, PTS 2.27",
       "alt_volpages": null,
       "uid": "an4.27",
       "blurb": "A mendicant should be content with trifles that are easy to get hold of.",

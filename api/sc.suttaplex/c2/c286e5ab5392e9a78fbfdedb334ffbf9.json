@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.170",
-      "volpages": " PTS 5.254",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.253, PTS 5.254",
       "alt_volpages": null,
       "uid": "an10.170",
       "blurb": "The wrong path is the near shore where most people dwell; the right path is the far shore, where few have crossed over.",

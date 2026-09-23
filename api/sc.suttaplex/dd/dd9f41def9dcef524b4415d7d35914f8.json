@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.171",
-      "volpages": " PTS 2.158, PTS 2.159, PTS 2.160",
+      "alt_acronym": "AN 4.171-172",
+      "volpages": "PTS AN 2.157, PTS 2.158, PTS 2.159, PTS 2.160",
       "alt_volpages": null,
       "uid": "an4.171",
       "blurb": "Intention and its results.",

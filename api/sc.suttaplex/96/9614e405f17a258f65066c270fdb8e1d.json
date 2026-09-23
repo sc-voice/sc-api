@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.30",
-      "volpages": " PTS 3.31, PTS 3.32",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.30, PTS 3.31, PTS 3.32",
       "alt_volpages": null,
       "uid": "an5.30",
       "blurb": "The Buddha tells Venerable Nāgita how he dislikes noisy crowds, and wishes never to become famous.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.249",
-      "volpages": " PTS 2.246",
+      "alt_acronym": "AN 4.246",
+      "volpages": "PTS AN 2.245, PTS 2.246",
       "alt_volpages": null,
       "uid": "an4.249",
       "blurb": "Four things helpful for human beings.",

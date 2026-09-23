@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.112",
-      "volpages": " PTS 5.222",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.222",
       "alt_volpages": null,
       "uid": "an10.112",
       "blurb": "An adept has fulfilled the ten path factors.",

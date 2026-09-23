@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.220",
-      "volpages": " PTS 3.257",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.256, PTS 3.257",
       "alt_volpages": null,
       "uid": "an5.220",
       "blurb": "Five drawbacks of the city of Madhura.",

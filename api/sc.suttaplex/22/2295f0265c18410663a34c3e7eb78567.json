@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.2",
-      "volpages": " PTS 3.2, PTS 3.3",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.2, PTS 3.3",
       "alt_volpages": null,
       "uid": "an5.2",
       "blurb": "Five powers of a trainee, explained.",

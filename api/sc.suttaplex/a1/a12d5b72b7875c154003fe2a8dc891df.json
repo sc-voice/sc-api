@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.38",
-      "volpages": " PTS 1.145",
+      "alt_acronym": "AN 3.37",
+      "volpages": "PTS AN 1.143, PTS 1.145",
       "alt_volpages": null,
       "uid": "an3.38",
       "blurb": "One should aspire to be like an awakened mendicant, not like Sakka.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.20",
-      "volpages": " PTS 5.30, PTS 5.31, PTS 5.32",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.29, PTS 5.30, PTS 5.31, PTS 5.32",
       "alt_volpages": null,
       "uid": "an10.20",
       "blurb": "Ten noble abodes in which the noble ones of the past, present and future abide, in detail.",

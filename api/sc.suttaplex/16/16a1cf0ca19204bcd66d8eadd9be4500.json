@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.1",
-      "volpages": " PTS 5.1, PTS 5.2",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.1, PTS 5.2",
       "alt_volpages": null,
       "uid": "an10.1",
       "blurb": "The purpose of ethics, leading step by step to liberation.",

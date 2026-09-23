@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 8.33",
-      "volpages": " PTS 4.237",
+      "alt_acronym": null,
+      "volpages": "PTS AN 4.236, PTS 4.237",
       "alt_volpages": null,
       "uid": "an8.33",
       "blurb": "Eight grounds for giving.",

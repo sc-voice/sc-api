@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 9.22",
-      "volpages": " PTS 4.397, PTS 4.398, PTS 4.399, PTS 4.400",
+      "alt_acronym": null,
+      "volpages": "PTS AN 4.397, PTS 4.398, PTS 4.399, PTS 4.400",
       "alt_volpages": null,
       "uid": "an9.22",
       "blurb": "Nine kinds of horses are compared with nine kinds of monks.",

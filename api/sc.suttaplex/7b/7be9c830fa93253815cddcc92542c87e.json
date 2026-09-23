@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 3.120",
-      "volpages": " PTS 1.272",
+      "alt_acronym": "AN 3.118",
+      "volpages": "PTS AN 1.271, PTS 1.272",
       "alt_volpages": null,
       "uid": "an3.120",
       "blurb": "Purity of body, speech, and mind.",

@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.48",
-      "volpages": " PTS 5.88",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.87, PTS 5.88",
       "alt_volpages": null,
       "uid": "an10.48",
       "blurb": "Topics for frequent reflection by one gone forth.",

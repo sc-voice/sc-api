@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 10.14",
-      "volpages": " PTS 5.18, PTS 5.19, PTS 5.20, PTS 5.21",
+      "alt_acronym": null,
+      "volpages": "PTS AN 5.17, PTS 5.18, PTS 5.19, PTS 5.20, PTS 5.21",
       "alt_volpages": null,
       "uid": "an10.14",
       "blurb": "Five kinds of emotional barrenness and five emotional shackles.",

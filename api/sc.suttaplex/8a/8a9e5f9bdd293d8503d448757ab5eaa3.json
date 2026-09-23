@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 7.71",
-      "volpages": " PTS 4.126, PTS 4.127",
+      "alt_acronym": "AN 7.67",
+      "volpages": "PTS AN 4.125, PTS 4.126, PTS 4.127",
       "alt_volpages": null,
       "uid": "an7.71",
       "blurb": "Liberation doesn’t happen because you wish for it, but because you develop the path.",

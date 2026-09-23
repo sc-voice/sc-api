@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 5.9",
-      "volpages": " PTS 3.8",
+      "alt_acronym": null,
+      "volpages": "PTS AN 3.7, PTS 3.8",
       "alt_volpages": null,
       "uid": "an5.9",
       "blurb": "A disrespectful mendicant with five bad qualities fails in the Dharma.",

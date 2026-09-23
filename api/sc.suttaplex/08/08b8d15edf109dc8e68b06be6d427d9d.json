@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "SN 32.56",
-      "volpages": " PTS 3.257",
+      "alt_acronym": null,
+      "volpages": "PTS SN 3.256, PTS 3.257",
       "alt_volpages": null,
       "uid": "sn32.56",
       "blurb": "When the wind cloud gods decide to revel in their own element, the weather becomes windy.",

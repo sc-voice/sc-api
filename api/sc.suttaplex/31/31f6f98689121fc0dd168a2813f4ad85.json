@@ -7,7 +7,8 @@
   "value": [
     {
       "acronym": "AN 4.273",
-      "volpages": " PTS 2.256",
+      "alt_acronym": "AN 4.270",
+      "volpages": "PTS AN 2.255, PTS 2.256",
       "alt_volpages": null,
       "uid": "an4.273",
       "blurb": "Wrong view leads to hell, right view leads to heaven.",
