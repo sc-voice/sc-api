@@ -464,6 +464,20 @@
           "has_comment": false
         },
         {
+          "lang": "ta",
+          "lang_name": "தமிழ்",
+          "is_root": false,
+          "author": "Upasaka Magesh",
+          "author_short": "magesh",
+          "author_uid": "magesh",
+          "publication_date": null,
+          "id": "mn1_translation-ta-magesh",
+          "segmented": true,
+          "title": "எல்லாவற்றின் அடிப்படை மூலம்",
+          "volpage": null,
+          "has_comment": false
+        },
+        {
           "lang": "th",
           "lang_name": "ไทย",
           "is_root": false,
