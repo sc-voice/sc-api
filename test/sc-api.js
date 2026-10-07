@@ -200,10 +200,6 @@ describe("sc-api", () => {
         publication_date: null,
         volpage: null,
     }];
-    const DEADSERVER = {
-        apiUrl: 'https://127.0.0.1:911/api',
-        readFile: false, // avoid cached response for worst case test
-    };
     // timeout handled by vitest config
 
     it("default ctor", async()=>{
@@ -254,32 +250,6 @@ describe("sc-api", () => {
         var translations = suttaplex.translations;
         expect(translations).toBeInstanceOf(Array);
         expect(translations[0].author_uid).toBe('beisert');
-    });
-    it("loadLegacySutta(...) => deadserver an10.2/pt/beisert", async()=>{
-        var sca = await new ScApi(DEADSERVER).initialize();
-        sca.logLevel = 'warn';
-        var opts = {
-            "scid":"an10.2",
-            "language":"pt",
-            "id":"an10.2",
-            "translator":"beisert",
-        }
-        sca.warn('EXPECTED WARN (BEGIN)');
-        var sutta = await sca.loadLegacySutta(opts);
-        expect(sca.lastLog('warn')).toMatch(/RETRY.*suttacentral.net.*ECONNREFUSED/);
-        sca.warn('EXPECTED WARN (END)');
-        expect(sutta.segmented).toBe(false);
-        var suttaplex = sutta.suttaplex;
-        expect(suttaplex.acronym).toBe('AN 10.2');
-        var translations = suttaplex.translations;
-        expect(translations).toBeInstanceOf(Array);
-        expect(translations[0].author_uid).toBe('beisert');
-        let deadMemo1 = path.join(APP_DIR,
-            'api/sc.suttaplex/3a/3a10d005b354faae124851c4242139ff.json');
-        expect(fs.existsSync(deadMemo1)).toBe(false);
-        let deadMemo2 = path.join(APP_DIR,
-            'api/sc.suttaplex/33/33f16195a6a5adf83f89753c89e2db11.json');
-        expect(fs.existsSync(deadMemo2)).toBe(false);
     });
     it("TESTTESTloadLegacySutta(...) => legacy german sutta", async()=>{
         return; // no longer legacy

@@ -182,9 +182,9 @@
                     httpMonitor--;
                     reject(e);
                 }).on('timeout', (e) => {
-                    that.warn(`loadJsonRestMaybe(TIMEOUT)`, e&&e.message);
+                    that.warn(`loadJsonRestMaybe(TIMEOUT)`, e?.message || 'request timeout');
                     req.abort();
-                    reject(e);
+                    reject(e ?? new Error('Request timeout'));
                 });
             } catch(e) {
                 reject(e);
