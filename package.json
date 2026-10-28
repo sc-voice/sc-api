@@ -11,9 +11,6 @@
     "memo-again": "^0.12.0",
     "merkle-json": "^2.15.0"
   },
-  "devDependencies": {
-    "@sc-voice/vitest": "^4.0.0"
-  },
   "scripts": {
     "build": "scripts/build",
     "test": "vitest run",
@@ -57,5 +54,8 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "devDependencies": {
+    "vitest": "^5.0.5"
+  }
 }
